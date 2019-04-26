@@ -66,7 +66,6 @@ project = 'ELECFREAKS WIKI'
 copyright = '2019, ELECFREAKS Team'
 author = 'ELECFREAKS Team'
 
-github_doc_root = 'https://github.com/elecfreaks/learn-en/'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
