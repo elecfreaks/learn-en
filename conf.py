@@ -25,10 +25,14 @@ from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 
 source_parsers = {
-    '.md': CommonMarkParser
+    '.md': 'recommonmark.parser.CommonMarkParser',
 }
 
-source_suffix = ['.rst', '.md']
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
 
 # -- General configuration ------------------------------------------------
 
@@ -38,11 +42,14 @@ source_suffix = ['.rst', '.md']
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+# extensions = ['recommonmark']
+extensions = [
+    'sphinx_markdown_tables',
+]
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.mathjax',
-    'sphinx_markdown_tables',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -100,7 +107,7 @@ default_role = None
 
 # If true, sectionauthor and moduleauthor directives will be shown in the
 # output. They are ignored by default.
-#show_authors = False
+show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -201,7 +208,7 @@ html_static_path = ['_static']
 # Sphinx supports the following languages:
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr'
-#html_search_language = 'en'
+html_search_language = 'zh_CN'
 
 # A dictionary with options for the search language support, empty by default.
 # Now only 'ja' uses this config value
@@ -216,7 +223,7 @@ htmlhelp_basename = 'Recommonmarkdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
-latex_elements = {
+#latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
 
@@ -228,15 +235,15 @@ latex_elements = {
 
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
-}
+#}
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-  (master_doc, 'Recommonmark.tex', u'Recommonmark Documentation',
-   u'Lu Wei, Eric Holscher, and contributors', 'howto'),
-]
+#latex_documents = [
+ # (master_doc, 'Recommonmark.tex', u'Recommonmark Documentation',
+#   u'Lu Wei, Eric Holscher, and contributors', 'manual'),
+#]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
@@ -263,10 +270,10 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [
-    (master_doc, 'recommonmark', u'Recommonmark Documentation',
-     [author], 1)
-]
+#man_pages = [
+ #   (master_doc, 'recommonmark', u'Recommonmark Documentation',
+ #    [author], 1)
+#]
 
 # If true, show URL addresses after external links.
 #man_show_urls = False
@@ -277,11 +284,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-  (master_doc, 'Recommonmark', u'Recommonmark Documentation',
-   author, 'Recommonmark', 'One line description of project.',
-   'Miscellaneous'),
-]
+#texinfo_documents = [
+ # (master_doc, 'Recommonmark', u'Recommonmark Documentation',
+ #  author, 'Recommonmark', 'One line description of project.',
+ #  'Miscellaneous'),
+#]
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
@@ -296,11 +303,11 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 # app setup hook
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-        #'url_resolver': lambda url: github_doc_root + url,
-        'auto_toc_tree_section': 'Contents',
-        'enable_eval_rst': True,
-        'enable_auto_doc_ref': True,
-    }, True)
-    app.add_transform(AutoStructify)
+#def setup(app):
+   # app.add_config_value('recommonmark_config', {
+   #     #'url_resolver': lambda url: github_doc_root + url,
+    #    'auto_toc_tree_section': 'Contents',
+    #    'enable_eval_rst': True,
+    #    'enable_auto_doc_ref': True,
+   # }, True)
+    # app.add_transform(AutoStructify)
