@@ -14,3 +14,4 @@ micro:bit Extension Module
     ring_bit_car_v2.md
     robit.md
     iot_bit.md
+    edge_bit.md
