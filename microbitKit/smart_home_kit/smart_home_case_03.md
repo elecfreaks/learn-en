@@ -1,6 +1,7 @@
 # case 03 Auto Windows
 
-![](./images/1BOixPA.jpg)
+
+![](./images/krV05be.jpg)
 ## Goal
 ---
 
