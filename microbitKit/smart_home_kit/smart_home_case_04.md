@@ -1,6 +1,6 @@
 # case 04 Smart Wardrobe
 
-![](./images/krV05be.jpg)
+![](./images/1BOixPA.jpg)
 ## Goal
 ---
 
