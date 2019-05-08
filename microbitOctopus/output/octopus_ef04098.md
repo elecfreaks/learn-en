@@ -30,7 +30,7 @@
 ## Outlook and Dimensions
 ---
 
- ![](./images/04095_1.jpg)
+ ![](./images/04098_2.png)
 
 
 ## Quick to Start
