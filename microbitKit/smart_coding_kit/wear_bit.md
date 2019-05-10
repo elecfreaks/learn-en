@@ -27,8 +27,7 @@ Upgrade the function by adding a switch for the buzzer.
 ## Parameter
 ---
 - Name: Wear:bit
-- Version: V1.6
-- SKU: EF03409
+- Version: V1.0
 - Working Voltage: 2.7~3.3V
 - Buzzer: Support
 - Size: 49.1x51.6mm
