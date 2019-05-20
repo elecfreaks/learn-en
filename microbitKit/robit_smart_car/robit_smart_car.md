@@ -45,7 +45,7 @@ Robit smart car is a kind of smart car which is based on micro:bit and ElecFreak
 ### Step 2: Attach the hook side of HOOK & LOOP to the aluminum chassis. 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_03.JPG)
 ### Step 3: Fasten the four 4*6 single-pass coppers with four nuts to the Robit board.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_04.JPG)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_04.jpg)
 ### Step 4: Fasten the four M3*30 single-pass coppers on the aluminum chassis.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_05.JPG)
 ### Step 5: Fasten the Robit board with four M3*5 screws to the aluminum chassis.
