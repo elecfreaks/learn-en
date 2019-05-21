@@ -57,7 +57,7 @@ Robit smart car is a kind of smart car which is based on micro:bit and ElecFreak
 ### Step 8: Install the wheels.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_09.JPG)
 ### Step 9: Install 2 M4*6+6 single-pass copper cylinders on the head of the car.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_10.JPG)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_10.jpg)
 ### Step 10: Install sonar module with 2 M4*5 screws.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_11.JPG)
 ### Step 11: Stick the loop side of the Hook&Loop onto the battery.
