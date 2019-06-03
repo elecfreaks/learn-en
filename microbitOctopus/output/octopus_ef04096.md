@@ -9,7 +9,7 @@ It is made of a laser emission chip,  condensing lens and an adjustable sleeve, 
 
 Notice: Please do not shine the eyes. The laser emits a red laser beam that usually can be seen as a red dot,  but you can only see a slight red line under the condition of frog or other medium.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04096_00.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/04096_00.jpg)
 
 ## Characteristics
 ---
