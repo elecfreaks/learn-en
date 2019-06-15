@@ -1,6 +1,4 @@
-# How to use thinkspeak 
-
-### Thingspeak Platform
+# The first part: Upload the data collected by IoT kit to the Thingspeak IoT platform.
 ---
 ThingSpeak can deal with HTTP request, save and process data. This platform has function as open application, real-time data collection, location data, data processing, visualization, device status information and plug-in. It can integrate many hardwares and software platforms like Arduino, Raspberry Pi, ioBridge/RealTime.io、Electic lmp, mobile & internet application, social network and MATLAB data processing. It also porvide hosted service apart from open source edition.
 
@@ -10,81 +8,61 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
  
 - Head to thingspeak website, click on Get Started For Free and in create MathWorks Account package.
 
-![](./images/dWnWKgO.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_01.png)
 
-- Fill in the registration information and click continue to go on, then confirm your email.（As below）
+- Fill in the registration information and click continue to go on.（As below）
 
-![](./images/l9kVrTg.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_02.png)
+
+-Confirm the email address, click it as the sign in account to continue.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_03.png)
 
 - Verify your MathWorks account and the thingspeak will send an email to your email box. You need to click the lin of the email to verify and continue. 
 
-![](./images/BlofmkE.png)
-
-- Head in your email box and click on the link to verification.
-
-![](./images/ArJkweS.png)
-
-Click on the verify your email (as above picture).
-
-![](./images/1hxxtCN.png)
-
-- You have successful verified as above picture.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_04.png)
  
-- Then set your own user ID and password，then click on continue to go on.
-
-![](./images/jN9d8lY.png)
-
-- Please note that the **Password Requirements**.
-
-![](./images/wVyoJ8F.png)
+- Then set your own user ID and password(Note: both Captital and lower case words are required)，then click on continue to go on.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_05.png)
 
 - Then, Sign-up successful!
 
 ![](./images/smC48sY.png)
 
-### New Thingspeak Project
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_06.png)
+
+##Thingspeak guide:
 
 - Here we will upload luminous intensity for testing. 
 
 - Click on “MY Channels” and click on **New Channel** for your new project.
 
-![](./images/rxnZa7s.png)
+!![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_07.png)
 k
-- An project parameter design list be showed. 
-
-![](./images/jQQJG01.png)
-
-- Fill in as below picture. If there are more parameters, you need to choose more fields.
-
-![](./images/x06Xwzm.png)
+- An project parameter design list be showed. If there are more parameters, you need to choose more fields.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_08.png)
 
 - Then, click on save channel. 
 
-![](./images/7lH0NsT.png)
-
-- But here you will find nothing. Click on API KEY, parameters as below be showed.
-
-![](./images/BfSDNCF.png)
+- But here you will find nothing. You can find the data of what we have uploaded here:
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_09.png)
+- Click on API KEY, parameters as below be showed.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_10.png)
 
 ## Coding
 
-### software
 ---
-
-[makecode](https://makecode.microbit.org/#)
-
-### Coding
----
+### Connection diagram:
+-Connect the light sensor to P1 port.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_17.png)
 
 #### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
- ![](./images/j31P9Bx.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_11.jpg)
 
 - We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
-
- ![](./images/AaZxCEb.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_12.jpg)
 
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -94,7 +72,7 @@ Snap the `set 8266` block into the `on start` and choose RX`P8`TX`P12` `baud rat
 
 Snap into the `connect wifi` block，write in your wifi name and the key. 
 
-![](./images/xWucyxO.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_11.png)
 
 ***Note：The 8266 module can't support the 5G, please conenct it to 2.4G***
 
@@ -106,7 +84,8 @@ Write `write api key` into `set data` and snap light intensity to the field1.
 
 Pause `60s` and sending every minute. 
 
-![](./images/GC3Zhwj.png)
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_12.png)
 
 #### Program
 
@@ -125,5 +104,23 @@ Uploading the light intensity to the thingspeak every minute.
 
 You can check all datas on the thingspeak.
 
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_13.png)
 
-![](./images/1YhSzqd.png)
+
+### Thingspeak Add visulization
+
+---Click the visulization button to choose the three choices: [stopwatch],[Numeric Display],[Threshold indicator light].
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_14.png)
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_15.png)
+
+-Choose types of the stopwatch and click NEXT, write the name, filed, the maximum and minimum value of the chart, then click Create to create a new chart.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_16.png)
+
+Both the chart and the value of Field 1 changed.
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_19.png)
+
+-Add the numeric display and Threshold indicator light in the same way for the chart.
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_20.png)

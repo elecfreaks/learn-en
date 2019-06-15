@@ -1,4 +1,4 @@
-# iot:kit case05
+# iot:kit case05: A self defense monitoring station
 
 ## Our goal
 ---
@@ -9,7 +9,7 @@
 ## Required materials
 ---
 
-- 1 x IOT:kit
+- 1 x IOT:kit  [IOT:kit:https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
 
 
 ## Background
@@ -29,7 +29,7 @@ Let the human infrared sensor module be connected to `P10`.
 
 Let the onboard buzzer be connected to `P0`. 
 
-![](./images/AzFJx69.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_05_01.png)
 
 ## Software
 ---
@@ -42,11 +42,11 @@ Let the onboard buzzer be connected to `P0`.
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](./images/2qCyzQ7.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_11.jpg)
 
 - We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
-![](./images/xfsOffX.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_12.jpg)
 
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -57,8 +57,7 @@ Get value from `P1` and assignment it to `IR` block uner `forever`, to judge if 
 If the `IR` parameter is equal to `1`, get the ultrasonic returned value again and assignment to the `ultrasonic` variable. 
 
 If the `ultrasonic` variable is lower than 30, play a `ba ding` to warning. 
-
-![](./images/u5y3z9s.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_05_02.png)
 
 
 
@@ -73,7 +72,7 @@ If you don't want to type these code by yourself, you can directly download the 
 
 ### Result
 ---
-
+It will play a remind sound when detecting creatures approching in a near distance.
 ## Think
 ---
 

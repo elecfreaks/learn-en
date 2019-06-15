@@ -1,4 +1,4 @@
-# iot:kit case02
+# iot:kit case02: Environmental noise detection
 
 ## Our goal
 ---
@@ -9,7 +9,7 @@
 ## Required materials 
 ---
 
-- 1 x IOT:kit
+- 1 x IOT:kit https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
 
 
 ## Background
@@ -29,8 +29,7 @@ As below picture, let the noise sensor be connected to `P1`.
 Let the OLED screen be connected to `IIC`. 
 
 Let the onboard RTC be connected to `IIC` Bus. 
-
-![](./images/GFc4ykB.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_02_01.png)
 
 
 ## Software
@@ -44,11 +43,11 @@ Let the onboard RTC be connected to `IIC` Bus.
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](./images/2qCyzQ7.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_11.jpg)
 
 - We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
-![](./images/xfsOffX.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_12.jpg)
 
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -58,7 +57,7 @@ Snap the `initialize OLED` in to the `on start`, initialize OLED screen pixels t
 
 Then snap the RTC timing block after the `initialize OLED`, set current time to 14:15.
 
-![](./images/pe0ieLF.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_02_02.png)
 
 
 ### Step 2
@@ -68,8 +67,8 @@ Snap the `clear OLED display`, `show string` and `show number` blocks into the `
 Display string: `Time:`for current hours and minutes.
 
 Then, snap into the `insert newline`. 
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_02_03.png)
 
-![](./images/81EXZAx.png)
 
 ### Step 3
 
@@ -79,7 +78,7 @@ Display string `Noise:`and returned noise value.
 
 Pause 1 second.
 
-![](./images/SCNnj3C.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_02_04.png)
 
 ### Program
 
@@ -98,7 +97,7 @@ The noise db be displayed every second.
 ## Think 
 ---
 
-How can you count the average noise db in a minute ?如何统计一分钟内平均分贝数。
+How can you count the average noise db in a minute?
 
 
 ## Questions
