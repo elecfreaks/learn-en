@@ -76,7 +76,7 @@ The spreadsheet comprises of two parts :
 1. First part: some VBA code that is used to communicate with the micro controller
 2. Second part: some basic grid data manipulation functions which are used to break the data points and charts it. 
 
-You can find a copy of the working spreadsheet:[https://techcommunity.microsoft.com](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/ExcelBlog/48.6/1/SensorVisualizer_BlogVersion.zip) or find it here: [也可以点击此处下载](https://github.com/elecfreaks/learn-cn/blob/master/microbitKit/iot_kit/file/SensorVisualizer_BlogVersion.zip?raw=true)
+You can find a copy of the working spreadsheet:[https://techcommunity.microsoft.com](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/ExcelBlog/48.6/1/SensorVisualizer_BlogVersion.zip) or find it here: [check here to download](https://github.com/elecfreaks/learn-cn/blob/master/microbitKit/iot_kit/file/SensorVisualizer_BlogVersion.zip?raw=true)
 
 While you open the copy of the Excel, it reminds" The macro is forbidden", clicking "start macro" is important.
 

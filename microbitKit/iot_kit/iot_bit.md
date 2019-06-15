@@ -98,12 +98,15 @@
 
 - Fisrt, install CR1220 button cell for power supply to the RTC timing. 
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_18.gif)
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_18.gif)
 
 - Plug the micro:bit to the Iot:bit.
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_09.gif)
 
 - Using single USB for power supply to expansion board and switch on.  
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_10.gif)
 
 ### Coding  
@@ -138,6 +141,7 @@ Note：If you get a warning telling you some packages will be removed because of
 
 - When button A be pressed in the "input", play a bit of music. 
 
+
  ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_15.png)
 
 - Program link：[https://makecode.microbit.org/_4j6PCeV087AW](https://makecode.microbit.org/_4j6PCeV087AW)
@@ -148,6 +152,7 @@ Note：If you get a warning telling you some packages will be removed because of
 
 - There is on-board DS1307RTC timing on the IOT:bit as below picture. RTC timing need a CR1220 button cell for lasting power supply. We need the RTC timing keep accuracy in the event of a power outage. 
 
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_16.jpg)
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_17.png)
 
@@ -155,7 +160,7 @@ Note：If you get a warning telling you some packages will be removed because of
 
 - Press button A to set the time to the set time. On start with RTC function and the minutes be displayed on the 5*5 allay.
 
--   Turn off the power after turning off the power for one minute, and the dot matrix display will show the number of minutes after another 1 minute.
+-   Turn off the power after turning off the power for one minute, and the dot matrix display will show the number of minutes after another 1 minute.
 
   ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_18.png)
 
