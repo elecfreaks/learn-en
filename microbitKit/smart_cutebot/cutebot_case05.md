@@ -1,47 +1,47 @@
-# 案例05:自动车大灯
+# Case 05: Automatic Headlights
 
-## 目的
+## Purpose
 ---
-- 让你的Cute:bot智能赛车在黑暗中自动打开车头灯，照亮前方道路。
+- Make your Cutebot turn on its headlights automatically in the darkness. 
 
-## 使用材料
+## Materials 
 ---
-- 1 x [Cutebot套件](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/store/cute-bot.html)
 
-## 软件平台
+## Software Platform 
 ---
-[微软 makecode](https://makecode.microbit.org/#)
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
-## 编程
+## Programming
 ---
-### 步骤 1
-- 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
+### Step 1
+- Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
 
-- 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
+- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
 
-注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
-### 步骤 2
+### Step 2
 
-- 在`On start`(开始)积木块中全速前进；
+- Set go straight at full speed in `On start`. 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_05_01.png)
 
-### 步骤 3
+### Step 3
 
-- 在`forever`(永久循环)积木块中插入判断积木块，判断光线值是否小于`10`，当小于`10`的时候，左右车灯RGB值全设为`255`，(组合光为白光)。
-- 当大于`10`的时候，设置左右车灯RGB值为`0`，关闭车灯。
+- Drag "If...else..." brick into `forever` brick to judge if the light level is below `10`, if yes, set the value of both RGB LEDs as `255`, (The combined light is white). 
+- While the value is over `10`, set the value of both RGB LEDs as `0` to turn off the lights.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_05_02.png)
 
 
-### 程序
+### Programming
 
-请参考程序连接：[https://makecode.microbit.org/_EYaDJkH4WCff](https://makecode.microbit.org/_EYaDJkH4WCff)
+Links: [https://makecode.microbit.org/_EYaDJkH4WCff](https://makecode.microbit.org/_EYaDJkH4WCff)
 
-你也可以通过以下网页直接下载程序。
+You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_EYaDJkH4WCff" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
@@ -49,15 +49,18 @@
 </div>  
 ---
 
-## 结论
+## Result
 ---
-- 当小车经过黑暗的地方，车灯自动点亮，离开黑暗区，车灯自动关闭。
+- The headlights turn on automatically  when going into the darkness and turn off after passing the darkness area.
 
-## 思考
+## Exploration
 ---
-- 如何编程让小车再每次经过黑暗区的时候，车灯都能亮起不同的颜色。(RGB值控制颜色)
+- How to program to make the lights turn on in different colors when going into the darkness in different time? (The value of RGB helps to set the color)
 
-## 常见问题
----
-## 相关阅读  
+## FAQ
+
+------
+
+## Relevant Files
+
 ---

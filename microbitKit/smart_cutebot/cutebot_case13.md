@@ -1,85 +1,93 @@
-# 案例13:joystick:bit手柄远程控制
+# Case 13: Remote Control with Joystick:bit
 
-## 目的
+## Purpose
 ---
-- 使用joystick:bit遥控器的摇杆和按钮完成远程遥控Cutebot。
+- Use the joystick:bit to control the Cutebot.
 
-## 使用材料
+## Materials 
 ---
-- 1 x [Cutebot套件](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/store/cute-bot.html)
 - 1 x [Joystick:bit2](https://www.elecfreaks.com/store/elecfreaks-joystick-bit-2-for-micro-bit.html)
 
 
-## 软件平台
+## Software Platform 
 ---
-[微软 makecode](https://makecode.microbit.org/#)
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
-## 编程
----
-### 步骤 1
-- 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
+## Programming
+
+------
+
+### Step 1
+
+- Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
 
-- 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
+- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
 
-- 为了给Joy:stick手柄编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`joystick`，然后点击下载这个代码库。
+- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `joystic` in the dialogue box and download it.
 - 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_13_01.png)
 
-注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
-### 步骤 2: Joystick:bit编程
+### Step 2: Joystick:bit Programming
 
-- 在`On start`(开始)积木块中设置无线电组别为`1`；
-- `X`轴和`Y`轴的数值范围为`0~1023`，当摇杆位置在中心的时候，它的理论值为`512`，故需要将0~1023`map`映射到`-100~100`这个范围之内。
-- 在`forever`(无线循环)积木块中设置变量`x`它的值为`x轴加速度值`整除`10`。
-- 在`forever`(无线循环)积木块中设置变量`y`它的值为`y轴加速度值`整除`10`。
-- 因为加速度值的范围是`0`~`1024`，整除`10`以后可以近似看为`0`~`100`的速度值。
+- Set "radio set group" to `1` in the `On start` brick.
+- The scope for `X` and `Y` is `0~1023`, the theoretical value is `512`  if the rocker is in the middle place , in this way we need to make 0~1023 `map` map in the scope of `-100~100`. 
+- Set `x` whose value is given by "acceleration (mg) x" exactly divides `10` to the radio value in `forever` brick.
+- Set `y` whose value is given by "acceleration (mg) y" exactly divides `10` to the radio value in `forever` brick.
+- The scope of the acceleration value is `0`~`1024` , which can be regarded roughly as the speed value in `0`~`100` after dividing `10`. 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_13_02.png)
 
-#### 程序
+#### Programming
 
-请参考程序连接：[https://makecode.microbit.org/_ag2g2sc22hUp](https://makecode.microbit.org/_ag2g2sc22hUp)
+Links: [https://makecode.microbit.org/_ag2g2sc22hUp](https://makecode.microbit.org/_ag2g2sc22hUp)
 
-你也可以通过以下网页直接下载程序。
+You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_ag2g2sc22hUp" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 
-### 步骤 3: 小车编程
+### Step 3: Cutebot Programming
 
-- 在`On start`(开始)积木块中设置无线电组别为`1`，一定要和遥控端设置为同一组别，否则无法匹配。
-- 然后在`on radio received`积木块中插入两次判断语句，分别判断无线电接收值`name`是否为`x`或者`y`；
-- 当无线电收到的`name`值为`x`时，为加速度计`X`轴数据，将`value`值保存到`xValue`变量；
-- 当无线电收到的`name`值为`y`时，为加速度计`Y`轴数据，将`value`值保存到`yValue`变量；
-- 在`forever`(无限循环)积木块中，设置左轮速度为`yValue`+`xValue`，右轮速度为`yValue`-`xValue`。
+- Set the "radio set group" to `1` in the `On start` brick. Items must be the same with the remote control for the correct match.
+- Drag two "if" bricks into the `on radio received` brick and judge if the radio revived value `name` is `x` or `y`
+- If the radio received value `name` is `x`, it is the data for `X` and then save the `value` in the variable `xValue`.
+- If the radio received value `name` is `y`, it is the data for `y` and then save the `value` in the variable `yValue`.
+- In `forever` brick, set the left wheel speed to `yValue`+`xValue` and right wheel speed to `yValue`-`xValue`.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_12_02.png)
 
-#### 程序
+#### Programming
 
-请参考程序连接：[https://makecode.microbit.org/_6ExC8oRz3i6U](https://makecode.microbit.org/_6ExC8oRz3i6U)
+Links: [https://makecode.microbit.org/_6ExC8oRz3i6U](https://makecode.microbit.org/_6ExC8oRz3i6U)
 
-你也可以通过以下网页直接下载程序。
+You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_6ExC8oRz3i6U" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 
-## 结论
+## Result
 ---
-- 用手柄摇杆可以控制小车前进后退转弯速度等。
+- The rocker controls the movement of the Cutebot.
 
-## 思考
----
-## 常见问题
----
-## 相关阅读  
+## Exploration
+
+------
+
+## FAQ
+
+------
+
+## Relevant Files
+
 ---

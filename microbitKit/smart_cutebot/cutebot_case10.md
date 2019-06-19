@@ -1,52 +1,57 @@
-# 案例10:定距跟车
+# Case 10: Car Following with A Fixed Distance
 
-## 目的
+## Purpose
 ---
-- 让你的Cute:bot智能赛车动态运行在一个和你的手固定距离位置上。
+- The Cutebot moves with a fixed distance between the car and your hands.
 
-## 使用材料
+## Materials 
 ---
-- 1 x [Cutebot套件](https://www.elecfreaks.com/store/cute-bot.html)
-- 1 x 超声波探头(自备或使用Cutebot套装内探头)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 x Ultrasonic Sensor
 
-## 软件平台
----
-[微软 makecode](https://makecode.microbit.org/#)
+## Software Platform 
 
-## 编程
----
-### 步骤 1
-- 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
+------
+
+[MicroSoft makecode](https://makecode.microbit.org/#)
+
+## Programming
+
+------
+
+### Step 1
+
+- Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
 
-- 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
+- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
 
-注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
-### 步骤 2
+### Step 2
 
-- 在`On start`(开始)积木块中插入设置左右轮速度积木块；
+- Drag the "set left wheel speed and right wheel speed" into the `On start` brick.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_10_01.png)
 
-### 步骤 3
+### Step 3
 
-- 在`Forever`(永久循环)积木块中设置一个`Sonar`变量，用来保存超声波返回的`Cm`值。
-- 当超声波返回值大于`5`并且小于`10`时候，位置刚好小车停止。
-- 再判断超声波返回值小于`5`的时候，小车距离手太近了，后退。
-- 如果都不是，则距离手太远了，前进追上手并且保持位置停止。
+- Set a `Sonar` variable to  save the detected `Cm` value in the `Forever` brick.
+- If the detected value is between`5` and `10` , the car stops moving.
+- If the detected value is below`5` , the car reverses because of the short distance with the hands.
+- If not any, the car moves forward to catch up with the hands because of the far distance with the hands and then stay still .
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_10_02.png)
 
 
-### 程序
+### Programming
 
-请参考程序连接：[https://makecode.microbit.org/_gRtPkmP0q0cM](https://makecode.microbit.org/_gRtPkmP0q0cM)
+Links: [https://makecode.microbit.org/_gRtPkmP0q0cM](https://makecode.microbit.org/_gRtPkmP0q0cM)
 
-你也可以通过以下网页直接下载程序。
+You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_gRtPkmP0q0cM" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
@@ -54,14 +59,15 @@
 </div>  
 ---
 
-## 结论
+## Result
 ---
-- 小车距离手太远会前进靠近，太近会原理，当距离合适的时候就停止。
+- The Cutebot adjusts itself to keep a fixed distance with your hands.
 
-## 思考
----
+## Exploration
+## FAQ
 
-## 常见问题
----
-## 相关阅读  
+------
+
+## Relevant Files
+
 ---

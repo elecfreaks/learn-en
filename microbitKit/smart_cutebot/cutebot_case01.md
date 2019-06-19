@@ -1,53 +1,51 @@
-# 案例01:全速前进或倒退
+# Case 01: Move Forward or Reverse at the Full Speed 
 
-## 目的
+## Purpose
 ---
-- 让你的Cute:bot智能赛车完成最基本的前进后退。
+- Learn the basic functions of Cutebot-move forward or reverse.
 
-## 使用材料
+## Materials 
 ---
-- 1 x [Cutebot套件](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/store/cute-bot.html)
 
-## 软件平台
+## Software Platform 
 ---
-[微软 makecode](https://makecode.microbit.org/#)
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
-## 编程
+## Programming
 ---
-### 步骤 1
-- 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
+### Step 1
+- Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
 
-- 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
+- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
 
-注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
-### 步骤 2
+### Step 2
 
-- 在`On start`(开始)积木块中显示图标，选择一颗心；
+- Choose "show icon" in the `On start`bricks.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_02.png)
 
-### 步骤 3
+### Step 3
 
-- 在`on button A pressed`(当按钮A按下时)积木块中插入`go straight at full speed`(全速前进)积木块。
+- Drag `go straight at full speed` brick into `on button A pressed` brick.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_01.png)
 
 
-### 步骤 4
+### Step 4
 
-- 在`on button B pressed`(当按钮B按下时)积木块中插入`reverse at full speed(`全速倒退)积木块。
+- Drag ``reverse at full speed` brick into `on button B pressed` brick.![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_03.png)
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_03.png)
+### Programming
 
-### 程序
+Links: [https://makecode.microbit.org/_LXJCwmAsf4dV](https://makecode.microbit.org/_LXJCwmAsf4dV)
 
-请参考程序连接：[https://makecode.microbit.org/_LXJCwmAsf4dV](https://makecode.microbit.org/_LXJCwmAsf4dV)
-
-你也可以通过以下网页直接下载程序。
+You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_LXJCwmAsf4dV" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
@@ -55,16 +53,16 @@
 </div>  
 ---
 
-## 结论
+## Result
 ---
-- 当按钮A按下时，小车全速前进。
-- 当按钮B按下时，小车全速后退。
+- After button A being pressed, the car moves forward at its full speed.
+- After button B being presseD, the car reverses at its full speed。
 
-## 思考
+## Exploration
 ---
-当你按下按钮A，让小车停下，如何编写代码？
+How to program the car to stop moving after pressing button A ? 
 
-## 常见问题
+## FAQ
 ---
-## 相关阅读  
+## Relevant Files
 ---

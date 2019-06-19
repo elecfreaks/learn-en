@@ -1,48 +1,49 @@
-# 案例04:随便跑跑
+# Case 04: Run at Random
 
-## 目的
+## Purpose
 ---
-- 让你的Cute:bot智能赛车像是有思维一样，以他的想法前进，后退转向等。
+- Make your Cutebot move(move forward, reverse or change direction) as if in "his" mind. 
 
-## 使用材料
+## Materials 
 ---
-- 1 x [Cutebot套件](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 x [CutebotKit](https://www.elecfreaks.com/store/cute-bot.html)
 
-## 软件平台
+## Software Platform 
 ---
-[微软 makecode](https://makecode.microbit.org/#)
+[MicroSoft makecode](https://makecode.microbit.org/#)
 
-## 编程
+## Programming
 ---
-### 步骤 1
-- 在MakeCode的代码抽屉中点击Advanced，查看更多代码选项。
+- ### Step 1
+
+  - Click the "Advanced" to see more choices in the MakeCode drawer.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
 
-- 为了给Cutebot套件编程，我们需要添加一个代码库。在代码抽屉底部找到“Add Package”，并点击它。这时会弹出一个对话框。搜索`Cutebot`，然后点击下载这个代码库。
+- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
 
-注意：如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
-### 步骤 2
+### Step 2
 
-- 在`On start`(开始)积木块中显示图标，选择一颗心；
+- Choose "show icon" in the `On start`bricks.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_02.png)
 
-### 步骤 3
+### Step 3
 
-- 在`forever`(永久循环)积木块中设置两个变量`left_speed`和`right_speed`，用于控制左右轮的速度，分别生成`-100`到`100`的随机数赋值到这两个变量里。
-- 然后将左右轮速度设置为这两个变量。
+- Drag `left_speed` and `right_speed` bricks into `forever` brick to set a speed at random from `-100` to `100` of the two wheels.
+- Assign the two variables of the speed to the left and right wheels.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_04_01.png)
 
 
-### 程序
+### Programming
 
-请参考程序连接：[https://makecode.microbit.org/_UFETasLycR3g](https://makecode.microbit.org/_UFETasLycR3g)
+Links: [https://makecode.microbit.org/_UFETasLycR3g](https://makecode.microbit.org/_UFETasLycR3g)
 
-你也可以通过以下网页直接下载程序。
+You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_UFETasLycR3g" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
@@ -50,14 +51,17 @@
 </div>  
 ---
 
-## 结论
+## Result
 ---
-- 小车随机前进，后退或者转向。
+- 小车随机前进，后退或者转向。 The Cutebot moves forward, reverses or changes its direction at random.
 
-## 思考
+## Exploration
 ---
 
-## 常见问题
----
-## 相关阅读  
+## FAQ
+
+------
+
+## Relevant Files
+
 ---

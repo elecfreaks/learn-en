@@ -1,115 +1,115 @@
-# Cutebot智能赛车简介
+# Introduction to Cutebot
 
-## 简介  
+## Introduction
 ---
 
-ELECFREAKS Cutebot是一款带有双高速电机马达的后驱智能赛车。
+ELECFREAKS Cutebot is a rear-drive smart car driven by dual high speed motors. 
 
-Cutebot同时搭载了很多车载设备，包括超声波导航距离传感器，两颗RGBLED车大灯，两颗Rainbow LED车底示廓灯，两个车道辅助巡线探头，一颗有源蜂鸣车喇叭，和更多智能配件！驱动你的第一个智能赛车吧！
+There are many on-board equipments on the Cutebot including ultrasonic sensor and distance sensor, two RGB LED headlights and clearance lamps on the bottom, two line-tracking probes, an active buzzer as the horn and so on! Let's drive your first smart car!
 
-### 产品特性
+### Characteristics
 ---
 
-- 高速电机，采用双高速电机后置驱动，动力强劲。
-- 结构小巧，采用圆弧造型，边缘防撞，手感舒适。
-- 组装方便，只需安装电池组和超声波，方便快捷。
- 
-## 产品图片
+- Rear-drive high speed motors featuring strong power.
+- Tiny structure with an arc shape featuring crashproof and confortable feel. 
+- Only batteries and ultrasonic sensor need to be assembled featuring easy installation.
+
+## Pictures
 ---
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_01.jpg)
 
-## 技术参数
+## Parameters
 ---
 
-|技术类别 |参数|
+|Items |Parameter|
 |:-:|:-:|
-|支持电压| 3.5V — 5V |
-| 尺寸 |85.68mm X 85.34mm X 38.10mm|
-|蜂鸣器|有源蜂鸣器连接至P0口|
-|红外遥控|支持接收连接至P16口|
-|RGB车头灯|2 x RGB控制|
-|Rainbow LED|2 x Neopixel控制连接至P15|
-| 接口 |IIC接口(P19,P20)、超声波接口、P1、P2(以GVS端子引出)|
-| 电机类型 |GA12-N20微型直流齿轮减速电机(300转/分钟)|
-| 超声波类型 |HC-SR04(2cm-400cm非接触式距离感测,精度3mm)|
+|Working Voltage| 3.5V — 5V |
+| Dimension |85.68mm X 85.34mm X 38.10mm|
+|Buzzer|Active buzzer connects to P0|
+|Infrared Control|Connect to P16|
+|RGB Headlights|2 x RGB|
+|Rainbow LED|2 x Neopixel connect to P15|
+| Connection |IIC Port(P19,P20)、Ultrasonic Port、P1、P2(GVS lead-out)|
+| Motor Type |GA12-N20 DC micro gear deceleration motor(300 RPM)|
+| Ultrasonic Sensor Type |HC-SR04(2cm-400cm Contactless distance detection, precision ±1.5mm)|
 
-## 功能模块描述
+## Main Modules Introduction
 ---
-小车正前方配备超声波接口和micro:bit的IIC接口
+Ultrasonic connection and micro:bit IIC port are placed in the front part of the Cutebot.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_02.jpg)
 
 - - - - -
 
-前方左右两边各配备两颗RGB全彩色LED车灯，通过扩展板控制，不占用micro:bitIO口数量。
+Two full color RGB lights controlled by the expansion board are placed on both side of the front part. 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_03.jpg)
 
 - - - - -
 
-车辆板载一颗蜂鸣器，连接到micro:bit主板的P0口，可以使用`Music`积木块中的积木来驱动。
+The on-board buzzer connecting to P0 port on the micro:bit can be alarmed by the bricks in `Music`
 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_13.jpg)
 
 - - - - -
 
-正上方装有三颗AA电池电池盒扩展板，用来驱动整个小车。
+An expansion board for 3x AA batteries is placed in the right above part of the Cutebot.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_04.jpg)
 
 - - - - -
 
-电池盒扩展板上同时扩展了micro:bit的IIC接口和P1，P2 IO接口。
+The IIC port and P1,P2 IO connections are equipped in the battery expansion board.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_05.jpg)
 
 - - - - -
 
-小车尾部带有红外线接收头，连接在micro:bit主板的P16接口。
+The infrared probes connecting to P16 port of the micro:bit are placed on the tail part of the Cutebot.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_06.jpg)
 
 - - - - -
 
-尾部红外线接收头旁边为小车总电源开关，同时配有一颗LED灯指示开关状态。
+The master switch are placed besides the infrared probes and with on/off status showing by the LED.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_07.jpg)
 
 - - - - -
 
-左右两边为两个 微型高速直流齿轮减速电机 驱动的车轮，转速高达(300转/分钟)，享受飞驰一般的速度。
+The two wheels on both side are driven by DC micro gear deceleration motors(300 RPM).
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_08.jpg)
 
 - - - - -
 
-小车底部前方有两个巡线头，用于检测黑线及边缘，连接到micro:bit主板的P13和P14接口。
+The two line-tracking probes connecting to P13&P14 on the micro:bit are used to detect the black line and its edges.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_09.jpg)
 
 - - - - -
 
-小车底部前方装配一个金属万向轮，小车用 左右轮速度差的方式 完成360度全方向行驶。
+A universal wheel is placed in the front bottom of the Cutebot, an all-direction drive can be realized by the different speed of the left and right wheels. 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_10.jpg)
 
 - - - - -
 
-底部两侧边安装了两颗Rainbow LED 全彩灯珠，连接到micro:bit主板的P15口，需要使用扩展`Neopixel`来驱动使用，可以作为小车示廓灯或其他功能使用。
+The two full color  Rainbow LEDs programmed by  `Neopixel` connecting to P15 on the micro:bit are placed on both bottom side of the Cutebot and can be used as the clearance lamps or others.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_11.jpg)
-## 零件清单
+## Components list
 ---
 
 - 1 x Cutebot car
-- 1 x 电池盒
-- 1 x HC-SR04超声波模块
-- 1 x 巡线地图
-- 1 x 产品手册
+- 1 x Battery Holder
+- 1 x HC-SR04 Ultrasonic Sensor
+- 1 x Line-tracking Map
+- 1 x Brochure
 
-## 文档
+## Files
 ---
 
-## 常见问题
+## FAQ
 ---
