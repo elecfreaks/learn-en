@@ -15,3 +15,4 @@ micro:bit Extension Module
     robit.md
     iot_bit.md
     edge_bit.md
+    wukong.md
