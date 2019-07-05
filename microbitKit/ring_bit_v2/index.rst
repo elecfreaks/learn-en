@@ -15,7 +15,7 @@ ring:bit Car Kit V2
     ring_bit_car_v2_extensions.md
     ring_bit_car_v2_line_flow_module.md
     ring_bit_car_v2_Rainbow_LED_module.md
-	ring_bit_car_v2_sonarbit_module.md
+    ring_bit_car_v2_sonarbit_module.md
     ring_bit_car_v2_accelerometer_arithmetic.md
     ring_bit_car_v2_case_01.md
     ring_bit_car_v2_case_02.md
