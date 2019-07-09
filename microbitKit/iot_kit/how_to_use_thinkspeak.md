@@ -76,7 +76,7 @@ Snap into the `connect wifi` block，write in your wifi name and the key.
 
 ***Note：The 8266 module can't support the 5G, please conenct it to 2.4G***
 
-#### Step 2
+#### Step 3
 
 Snap `connect thinkspeak`, `set data` and `pause` blocks into the `forever`. 
 
@@ -87,14 +87,22 @@ Pause `60s` and sending every minute.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_12.png)
 
+### Step 4
+
+Initialize OLED `initialize OLED ` in `On start'to display the IoT working state.
+
+In `serial on data received', when the serial port receives the data, insert the display building blocks, and display the serial port to read characters until it encounters a newline.
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ts_21.png)
+
 #### Program
 
-program link：[https://makecode.microbit.org/_Rfe5wJhT1f2D](https://makecode.microbit.org/_Rfe5wJhT1f2D)
+program link：[https://makecode.microbit.org/_Xeq4Xs1HdKPd](https://makecode.microbit.org/_Xeq4Xs1HdKPd)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Rfe5wJhT1f2D" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Xeq4Xs1HdKPd" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
 #### Result
