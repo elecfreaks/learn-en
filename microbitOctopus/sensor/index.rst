@@ -9,6 +9,7 @@ Octopus Sensor
     :numbered: 2
 
     sonar_bit.md
+    octopus_ef03047.md
     octopus_ef04087.md
     octopus_ef04090.md
     octopus_ef04088.md
