@@ -42,6 +42,9 @@ Connect OLED to IIC port.
 
 ### Software Programming
 
+Add extension library:[https://github.com/DoraLC/pxt-tcs3200-color-sensor](https://github.com/DoraLC/pxt-tcs3200-color-sensor)
+
+Show RGB value to OLED.
 
 Links: [https://makecode.microbit.org/_JU5Dau19mE9c](https://makecode.microbit.org/_JU5Dau19mE9c)
 
@@ -53,3 +56,7 @@ You can also download it directly below:
 The value of the current red, blue and green is displaying on the OLED screen.
 
 ## FAQ
+
+Avoid the interference of outside light,testing the better in a confined space
+No special requirements for light, but try to focus on a single
+The first use or restart or change light and so on, please adjust the WB(White Balance)
