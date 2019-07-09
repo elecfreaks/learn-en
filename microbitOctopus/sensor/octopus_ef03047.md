@@ -29,7 +29,7 @@ Based on TCS3200, the Color sensor module is a programmable color light-to-frequ
 ## Outlook and Dimmensions
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/output/images/03047_01.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/sensor/images/03047_01.png)
 
 ## Quick to Start
 ---
@@ -38,7 +38,7 @@ Based on TCS3200, the Color sensor module is a programmable color light-to-frequ
 Connect S0 to pin15,  S1 to P1,  S2 to P8,  S3 to P12,  OUT to P2,  VCC to the Power Supply and GND to the GND.  Then insert the micro:bit to Octopus:bit.
 Connect OLED to IIC port.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/output/images/03047_02.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/sensor/images/03047_02.png)
 
 ### Software Programming
 
