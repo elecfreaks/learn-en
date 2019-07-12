@@ -37,7 +37,7 @@ Stability|Stable and durable
 ---
 ### Required Parts and Connection Diagram
 
-- Connect to P1 port of the breakout board.
+- Connect to P1 port of the breakout board, and connect Neon Light EL wire to the breakout board.
 
 ***Take sensor:bit for an example***
 
@@ -56,11 +56,9 @@ Links: [https://makecode.microbit.org/_fRzWh9M1jDKP](https://makecode.microbit.o
 You can also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fRzWh9M1jDKP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ### Result
-- 
+
 Press button A to light on and button B to light off the EL.
 
 ## Relevant Files
-
