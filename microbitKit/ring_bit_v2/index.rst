@@ -26,3 +26,4 @@ ring:bit Car Kit V2
     ring_bit_car_v2_case_07.md
     ring_bit_car_v2_case_08.md
     ring_bit_car_v2_case_09.md
+    ring_bit_car_v2_case_10.md

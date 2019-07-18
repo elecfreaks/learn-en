@@ -70,5 +70,7 @@ You can download it directly below:
 
 - The value measured by Sonar:bit is showing on the micro:bit.
 
-## FAQ
+## About
 ---
+
+[case 10](http://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/ring_bit_car_v2_case_10.html)
