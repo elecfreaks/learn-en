@@ -32,16 +32,12 @@
 
 ![](./images/K242fJs.png)
 
-  
-
-
 ## Hardware Connect
 ---
 Connect the soil moisture sensor to P1 of the expansion board.
 Slot the OLED screen into IIC port of the expansion board.
 
 ![](./images/vb2Z4a0.jpg)
-
 
 ## Software
 ---
@@ -61,7 +57,6 @@ Slot the OLED screen into IIC port of the expansion board.
 ![](./images/OY706rv.png)
 
 Note：If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in the item menu bar.
-
 
 ### Step 2
 
@@ -95,11 +90,11 @@ Note：If there is a hint says some codebase will be deleted because of incompat
 
 ### Program
 
-Program link：https://makecode.microbit.org/_FEV9JH1x9KJV](https://makecode.microbit.org/_FEV9JH1x9KJV)
+Program link：[https://makecode.microbit.org/_gvHXo5WVM8cP](https://makecode.microbit.org/_gvHXo5WVM8cP)
 
 You also could directly download program by visiting website as below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_FEV9JH1x9KJV" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_gvHXo5WVM8cP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ---
 
 ## Result

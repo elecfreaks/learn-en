@@ -100,11 +100,11 @@ We add start melody repeating under if ,set melody to ba ding and repeat once，
 ### Programming
 
 
-Make code：[https://makecode.microbit.org/_AqMEtEbUtPTE](https://makecode.microbit.org/_AqMEtEbUtPTE)
+Make code：[https://makecode.microbit.org/_PKXir0c1V6TX](https://makecode.microbit.org/_PKXir0c1V6TX)
 
 You also could directly download program visit website as below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AqMEtEbUtPTE" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_PKXir0c1V6TX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
 ---

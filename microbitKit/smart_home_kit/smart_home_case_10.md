@@ -91,11 +91,11 @@ Since there are only two conditions, we need only one ‘else-if’ statement. W
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-Program link：[https://makecode.microbit.org/_5UjPKXTgvJEb](https://makecode.microbit.org/_5UjPKXTgvJEb)
+Program link：[https://makecode.microbit.org/_HsM6PrRhAA9c](https://makecode.microbit.org/_HsM6PrRhAA9c)
 
 You also could directly download program by visiting website as below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_5UjPKXTgvJEb" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_HsM6PrRhAA9c" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ---
 
 ## Succeed!

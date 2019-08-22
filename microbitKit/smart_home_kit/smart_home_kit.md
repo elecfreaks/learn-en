@@ -17,6 +17,7 @@ For more practical case, please refer to the materials.
 
 ## Components
 ---
+
 Module | Quantity | Remark
 :-: | :-: | :-: 
 micro:bit|1|Option
