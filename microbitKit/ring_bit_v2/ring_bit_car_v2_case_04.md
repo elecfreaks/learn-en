@@ -56,11 +56,11 @@ Note：If you get a warning telling you some packages will be removed because of
 
 ### Program
 
-Program Link：[https://makecode.microbit.org/_exPKtyhX46of](https://makecode.microbit.org/_exPKtyhX46of)
+Program Link：[https://makecode.microbit.org/_AvMC6j86A5ym](https://makecode.microbit.org/_AvMC6j86A5ym)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_exPKtyhX46of" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AvMC6j86A5ym" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ---
 
 

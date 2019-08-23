@@ -5,7 +5,7 @@
 - Ring:bit car V2 light-bar module is the dedicated module designed for Ring:Bit Car V2. It brings you mutiple color with simple assemblling methods.
 - It comes with 8 Rainbow full color LEDs. You can update it to a car with auto-headlights and rainbow lights.
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_01.jpg) ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_02.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_01.jpg)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_02.jpg)
 
 ## Features
 ---
@@ -48,10 +48,11 @@
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_04.gif)
 
 - Then, screw up the screws.
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_05.gif) ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_06.gif)
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_05.gif)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_06.gif)
 
 - Completed.
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_07.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_07.jpg)
 
 ### Software Programming
 ---
@@ -65,11 +66,11 @@
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_08.png)
 
- Links: [https://makecode.microbit.org/_fRoTgh969fp3](https://makecode.microbit.org/_fRoTgh969fp3)
+ Links: [https://makecode.microbit.org/_3Wc1k8Ckg9vF](https://makecode.microbit.org/_3Wc1k8Ckg9vF)
 
 You can download it directly below:
 
- <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cg0JCtE5HHET" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+ <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3Wc1k8Ckg9vF" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
 ---

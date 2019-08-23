@@ -36,7 +36,7 @@
 ### Step-5 ###
 
 - Use the screw to fix the ring:bit to the micro:bit board.
-
+ 
 ![](./images/RAxSlWq.jpg)
 
 

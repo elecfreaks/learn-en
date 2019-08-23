@@ -59,11 +59,11 @@
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_06.png)
 
-Links: [https://makecode.microbit.org/_dKHX3EReM78X](https://makecode.microbit.org/_dKHX3EReM78X)
+Links: [https://makecode.microbit.org/_6bVA34PU42WP](https://makecode.microbit.org/_6bVA34PU42WP)
 
 You can download it directly below: 
 
- <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_dKHX3EReM78X" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+ <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6bVA34PU42WP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
 ---

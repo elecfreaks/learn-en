@@ -19,4 +19,4 @@
 ![](./images/MVoGDx1.jpg)
 
 *Please note that the Ring:bit car version 2 has been upgraded. It is diffrent from the Ring:bit car version 1. All related documents refers to the Ring:bit car version 2.*
-*Information of the Ring:bit car version 1 
+*[Information of the Ring:bit car version 1](http://www.elecfreaks.com/learn-cn/microbitKit/Ring_bit_Car_Kit/index.html)*

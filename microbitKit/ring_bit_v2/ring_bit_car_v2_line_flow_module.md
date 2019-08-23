@@ -5,7 +5,7 @@
 - Ring:bit car V2 line following module is a dedicated module designed for the Ring:bit car V2, it is easy to be installed to achieve the line following function for the Ring:bit car V2. 
 - Equipped with double infrared probes, it can detect the distance between 2~12mm accurately that can achieve the function of line following around the circles, the detection of the black lines and the detection of the edge.
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_01.jpg) ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_02.jpg)
+ ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_01.jpg)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_02.jpg)
 
 ## Features
 ---
@@ -62,17 +62,19 @@
 - The right detection probe would work as the same as the way of the left detection probe works.
 
 - When both of the detection probes detect the black line, the car would go forward at the speed of 100.
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_08.png)
 
- Links:[https://makecode.microbit.org/_bFF7pXWwWaYL](https://makecode.microbit.org/_bFF7pXWwWaYL)
+ Links:[https://makecode.microbit.org/_Tsp78xP5yPu2](https://makecode.microbit.org/_Tsp78xP5yPu2)
 
 You can also download the code directly below:
 
- <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Jh2RVDMRwDz1" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+ <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Tsp78xP5yPu2" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
 ---
 - The Ring:bit car runs around the circle slowly.
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_09.gif)
 
 ## FAQ
