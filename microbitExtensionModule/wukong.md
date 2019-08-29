@@ -128,5 +128,81 @@ The base board designs with standard 7x5 square bricks that can adapt perfectly 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_14.jpg)
 
-## Relevant Files
+## User Guide
+
+------
+
+### Ways to power on&charge 
+
+- Original power switch, click to power on and the indicator LED lights on. 
+- Double click to power off and the indicator LED lights off. 
+- Connect the USB cable to the on-board connection. The normal lighting-on LEDs indicate the state of charge, if the left LEDs lights on in turn, it indicates the charge of the battery. 
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_07.jpg)
+
+### Breathing LEDs
+
+- There are 8 blue breathing  LEDs whose power on/off status and brightness can be controlled on the baseboard. 
+
+Links: [https://makecode.microbit.org/_4ub57g5FuJ1v](https://makecode.microbit.org/_4ub57g5FuJ1v)；You can also download it below:
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4ub57g5FuJ1v" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
+### Motor
+
+- There are two kinds of motor driving connections named M1 and M2 that can connect most motors in the market. 
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_03.jpg)
+
+Links:[https://makecode.microbit.org/_78keCLdmU1Ez](https://makecode.microbit.org/_78keCLdmU1Ez)，You can also download it below:
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_78keCLdmU1Ez" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
+### Buzzer
+
+- There is an on-board buzzer that is connected to the P0 port of the micro:bit, it can be programmed by the `Music` brick and can be powered on/off with the on-board buzzer switch. 
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_09.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_10.jpg)
+
+Links:[https://makecode.microbit.org/_JmM5btU4dHUb](https://makecode.microbit.org/_JmM5btU4dHUb)
+
+You can also download it below:
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_JmM5btU4dHUb" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
+### Rainbow LEDs
+
+- There are 4 Rainbow LEDs named LED0、LED1、LED2、LED3 that are connected to P16 port of the micro:bit and they can be programmed by the  `Neopixel` brick. 
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_08.jpg)
+
+Links: [https://makecode.microbit.org/_61T2w6cqTib0](https://makecode.microbit.org/_61T2w6cqTib0)
+
+You can also download it below:
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_61T2w6cqTib0" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
+### Servo
+
+- Connect the servos to their driving connections S0~S7, they can be programmed by the servo bricks in Wukong expansions.  
+- 180° servos can be set from 0°~180°. 
+- Set 0° as the maximum speed of positive rotation, 180° as the maximum speed of negative rotation and 90° as stop for 360° servos , 0°~90° and 90°~180° are the scape for adjusting the speed. 
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_04.jpg)
+
+Links: [https://makecode.microbit.org/_6Pw63w49u5qq](https://makecode.microbit.org/_6Pw63w49u5qq)
+
+You can also download it below:
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6Pw63w49u5qq" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
+### 5V Power Supply Pins
+
+- There are 3 pairs on-board 5V power supply connections that can drive sensors or servos in 5V , it only requires to connect the connections for 5V modules to 5V power supply, and to connect the signal cables to the signal connections for servos or sensors. 
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_16.png)
+
+
+
 - - - - -
