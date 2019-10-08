@@ -69,7 +69,7 @@ Joystick:bit is a game joystick based on Micro:bit. On the board, it has integra
 
 Code Example:
 
-![](https://i.imgur.com/C5JefKZ.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_09.png)
 
 Press button "1", OLED displays "1".
 
@@ -91,7 +91,13 @@ Push joystick to the left along "X" axle, OLED displays "+X".
 
 Push joystick to the right along "X" axle, OLED displays"-X".
 
+- - - - 
 
+Please refer to the link here: [https://makecode.microbit.org/_atsVFWHcuXCU](https://makecode.microbit.org/_atsVFWHcuXCU) .
+
+Or, you can download directly from the page below. 
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_atsVFWHcuXCU" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## More Information  
 ---
