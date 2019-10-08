@@ -16,3 +16,4 @@ micro:bit Extension Module
     iot_bit.md
     edge_bit.md
     wukong.md
+    joystick_bit_v1.md
