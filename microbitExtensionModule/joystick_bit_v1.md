@@ -36,33 +36,33 @@ Joystick:bit is a game joystick based on Micro:bit. On the board, it has integra
 ## Definition of Pins
 ---
 
-![](https://i.imgur.com/UHbfzjJ.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_02.png)
 
-![](https://i.imgur.com/MlHtxuK.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_03.png)
 
 ### More Details about Some Pin Connectors
 
 1.G / V(3.3V) / P3 / P4 / P6 are connectors for GVS electric bricks. Among it, P3 / P4 are connectors for analog / PWM / digital connectors, which can help you connect servos and various sensors conveniently.
 
-![](https://i.imgur.com/oXPxFlT.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_04.png)
 
 2.UART Connector: V (3.3V) / G / TX / RX / S are serial port connectors. It is compatible with the common wireless communication modules like HC08 / HC11.
 
-![](https://i.imgur.com/GGjvrDz.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_05.png)
 
 3.I2C Communication Connector: GND / VCC(3.3V) / SCL / SDA are standard I2C connector. It is compatible with 3.3V I2C sensors and devices.
 
-![](https://i.imgur.com/Vvol507.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_06.png)
 
 4.SPI Communication Connector：V / G / CS / RS / AO / DA / CK correspond to the connector of TFT 1.8 inch LCD module. It can directly compatible with TFT 1.8 inch LCD module, including SPI communication connector on micro:bit board.
 
-![](https://i.imgur.com/Qdf8kKu.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_07.png)
 
 
 ## Dimensions
 ---
-![](https://i.imgur.com/bF3QPXH.png)
 
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_08.png)
 
 ## Program
 ---
@@ -70,8 +70,6 @@ Joystick:bit is a game joystick based on Micro:bit. On the board, it has integra
 Code Example:
 
 ![](https://i.imgur.com/C5JefKZ.png)
-
-![](https://i.imgur.com/IYonQ6p.png)
 
 Press button "1", OLED displays "1".
 
@@ -93,17 +91,6 @@ Push joystick to the left along "X" axle, OLED displays "+X".
 
 Push joystick to the right along "X" axle, OLED displays"-X".
 
-
-## Relative Accessories
----
-
-[IIC OLED Module](http://www.elecfreaks.com/estore/iic-oled.html)
-
-![](https://i.imgur.com/FDuZExp.png)
-
-[1.8 TFT LCD: TFT01-1.8SP](http://www.elecfreaks.com/estore/1-8-tft-lcd-tft01-1-8sp.html)
-
-![](https://i.imgur.com/lXNZlsJ.png)
 
 
 ## More Information  
