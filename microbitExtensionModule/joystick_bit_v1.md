@@ -1,3 +1,5 @@
+# Joystick:bit V1
+
 ## Introduction
 ---
 Joystick:bit is a game joystick based on Micro:bit. On the board, it has integrated a joystick and 6 undefined keys. It is very convenient for users to extend different communication modules because it has extended connectors like GVS, IIC, SPI, UART. Besides, it has built-in power switch and outer power connector. It is very good to use.

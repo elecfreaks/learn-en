@@ -1,3 +1,5 @@
+# Joystick:bit V2
+
 ## Introduction
 ---
 Joystick:bit V2 is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as as classic JoyStick. At the same time, with the board buzzer and vibration motor, it also enhance game experience. Joystick:bit V2 can be remote control handle for micro:bit which on compact appearance and comfortable touch.
