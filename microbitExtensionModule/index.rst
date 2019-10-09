@@ -17,3 +17,4 @@ micro:bit Extension Module
     edge_bit.md
     wukong.md
     joystick_bit_v1.md
+    joystick_bit_v2.md
