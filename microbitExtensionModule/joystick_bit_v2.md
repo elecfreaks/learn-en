@@ -1,110 +1,97 @@
 ## Introduction
 ---
-Joystick:bit is a game joystick based on Micro:bit. On the board, it has integrated a joystick and 6 undefined keys. It is very convenient for users to extend different communication modules because it has extended connectors like GVS, IIC, SPI, UART. Besides, it has built-in power switch and outer power connector. It is very good to use.
+Joystick:bit V2 is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as as classic JoyStick. At the same time, with the board buzzer and vibration motor, it also enhance game experience. Joystick:bit V2 can be remote control handle for micro:bit which on compact appearance and comfortable touch.
 
-![](https://i.imgur.com/yrCEW8W.jpg)
-
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_01.jpg)
 
 ## Packing List
 ---
 
-1 x [Joystick:bit](http://www.elecfreaks.com/estore/elecfreaks-joystick-bit-for-micro-bit.html)
+1 x [Joystick:bit v2](http://www.elecfreaks.com/estore/elecfreaks-joystick-bit-for-micro-bit.html)
 
 
 ## Features
 ---
 - Develop Environment:Javascript / Makecode / Microsoft Touch Develop / Python.
-- Support UART serial port.
-- Support GVS-Octopus electric brick.
-- Integrated a joystick and 6 undefined keys.
-- Support the extension of IIC module.
-- Support the extension of SPI module.
-- Internal Power Input Voltage: DC 3.9V-4.5V
-- External Power Input Voltage: DC 3.9V-18V
-- Size: 103.00mm X 64.00mm
-- Weight: 54 g
+- With buzzer.
+- Vibration feedback for better game experience.
+- Add makecode package, simple for software.
+- Automatically power outage while micro:bit is pulled out.
+- Lead out 7 IO ports of micro:bit board.
 
 
-## Application
----
-- Support Bluetooth 4.0 device（based on micro:bit）
-- Support GVS connector, compatible with modules of ElecFreaks Octopus electric brick series.
-- Remote control smart cars, balance cars.
-- Users can use it to develop remote control robotics, robotic arms, etc..
-
-
-## Definition of Pins
+## Appearance & location dimension
 ---
 
-![](https://i.imgur.com/UHbfzjJ.png)
-
-![](https://i.imgur.com/MlHtxuK.png)
-
-### More Details about Some Pin Connectors
-
-1.G / V(3.3V) / P3 / P4 / P6 are connectors for GVS electric bricks. Among it, P3 / P4 are connectors for analog / PWM / digital connectors, which can help you connect servos and various sensors conveniently.
-
-![](https://i.imgur.com/oXPxFlT.png)
-
-2.UART Connector: V (3.3V) / G / TX / RX / S are serial port connectors. It is compatible with the common wireless communication modules like HC08 / HC11.
-
-![](https://i.imgur.com/GGjvrDz.png)
-
-3.I2C Communication Connector: GND / VCC(3.3V) / SCL / SDA are standard I2C connector. It is compatible with 3.3V I2C sensors and devices.
-
-![](https://i.imgur.com/Vvol507.png)
-
-4.SPI Communication Connector：V / G / CS / RS / AO / DA / CK correspond to the connector of TFT 1.8 inch LCD module. It can directly compatible with TFT 1.8 inch LCD module, including SPI communication connector on micro:bit board.
-
-![](https://i.imgur.com/Qdf8kKu.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_02.png)
 
 
-## Dimensions
+## Function module introduction
 ---
-![](https://i.imgur.com/bF3QPXH.png)
 
+### Joystick
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_03.png)
+
+Connect X & Y of joystick to P1 & P2 of micro:bit.
+
+### Buzzer
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_04.png)
+
+The buzzer is a passive buzzer which is connect to P0 of micro:bit.
+
+### Vibration motor
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_05.png)
+
+The vibration motor is connect to P16 of micro:bit.
+
+### Buttons
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_06.png)
+
+The four buttons C&D&E&F are respectively connect to P12&P13&P14&P15 of micro:bit.
+
+### 7 GVS ports
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_07.png)
+
+It contains 7 GVS extension ports which could be soldered pin head and master more extension possibilities.
+
+## Let's do it
+---
+### Install
+
+Install two 3A batteries to game:bit and insert the micro:bit.
+
+Add joystick:bit package
+
+Go ahead makecode and add new project, click on Extensions.
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_08.png)
+
+Search joystickbit and add joystick:bit package.
+
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_09.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_10.png)
 
 ## Program
 ---
 
-Code Example:
+Make your code. Ever once you press buttons of your joystick:bit, it comes about vibration feedback with buttons sign showing.
 
-![](https://i.imgur.com/C5JefKZ.png)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_11.png)
 
-![](https://i.imgur.com/IYonQ6p.png)
+Click the link here to see the whole program: [https://makecode.microbit.org/_AD3P71UrTCA1](https://makecode.microbit.org/_AD3P71UrTCA1)
 
-Press button "1", OLED displays "1".
-
-Press button "2", OLED displays "2".
-
-Press button "3", OLED displays "3".
-
-Press button "4", OLED displays "4".
-
-Press button "5", OLED displays "5".
-
-Press button "6", OLED displays "6".
-
-Push joystick upward along "Y" axle, OLED displays "+Y".
-
-Push joystick downward along "Y" axle, OLED displays "-Y".
-
-Push joystick to the left along "X" axle, OLED displays "+X".
-
-Push joystick to the right along "X" axle, OLED displays"-X".
+You can also download it from the page below:
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AD3P71UrTCA1" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
-## Relative Accessories
----
+When download is finished, turn on the power switch and you will hear system sound.
 
-[IIC OLED Module](http://www.elecfreaks.com/estore/iic-oled.html)
-
-![](https://i.imgur.com/FDuZExp.png)
-
-[1.8 TFT LCD: TFT01-1.8SP](http://www.elecfreaks.com/estore/1-8-tft-lcd-tft01-1-8sp.html)
-
-![](https://i.imgur.com/lXNZlsJ.png)
-
+Push button C, the game:bit will vibrate once. Push button D, the game:bit will vibrate once. Push button E, the game:bit will vibrate once. Push button F, the game:bit will vibrate once.
 
 ## More Information  
 ---
