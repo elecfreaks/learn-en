@@ -10,11 +10,11 @@
 
 [Main channel Download:Github ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/Mecanum_wheel_car_kit/files/wukong_assembly_step_chinese_v1.1.pdf)
 
-[分流下载:腾讯微云 ](https://share.weiyun.com/52uvghq)
+[Streaming Download:Gitee ](https://gitee.com/lionkkk/elecfreaks_files/raw/master/wukong_assembly_step_english_v1.1.pdf)
 
-[分流下载:码云Gitee ](https://gitee.com/lionkkk/elecfreaks_files/raw/master/wukong_assembly_step_chinese_v1.1.pdf)
-
-## 在线图片教程
+[Streaming Download:Onenote ](https://onedrive.live.com/view.aspx?resid=549F5F25FB946922%211132&id=documents&wd=target%28microbit%20Wonder%20Rugged%20Car%20kit.one%7C6BD0FCAC-749F-44DD-9DCB-D486908DEE1A%2FWonder%20Rugged%20Kit%20Assembly%20Steps%7C1E078FBC-12C3-41CD-A5FC-6477B69B8031%2F%29
+onenote:https://d.docs.live.net/549f5f25fb946922/文档/ELECFREAKS%20Co/microbit%20Wonder%20Rugged%20Car%20kit.one#Wonder%20Rugged%20Kit%20Assembly%20Steps&section-id={6BD0FCAC-749F-44DD-9DCB-D486908DEE1A}&page-id={1E078FBC-12C3-41CD-A5FC-6477B69B8031}&end)
+## Online picture
 
 ![](./images/step_2.jpg)
 ![](./images/step_3.jpg)
