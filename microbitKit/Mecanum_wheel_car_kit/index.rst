@@ -10,6 +10,7 @@ microbit Wonder Rugged Car kit
 
 
     Mecanum_wheel_car_kit.md
+    Mecanum_wheel_car_kit_assembly_step.md
     Mecanum_wheel_car_kit_case_01.md
     Mecanum_wheel_car_kit_case_02.md
     Mecanum_wheel_car_kit_case_03.md
