@@ -24,11 +24,11 @@
 
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -39,7 +39,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 - Set `y` whose value is given by "acceleration (mg) y" exactly divides `10` to the radio value in `forever` brick.
 - The scope of the acceleration value is `0`~`1024` , which can be regarded roughly as the speed value in `0`~`100` after dividing `10`. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_12_01.png)
+![](./images/case_12_01.png)
 
 #### Programming
 
@@ -60,7 +60,7 @@ You can also download it directly below:
 - If the radio received value `name` is `y`, it is the data for `y` and then save the `value` in the variable `yValue`.
 - In `forever` brick, set the left wheel speed to `yValue`+`xValue` and right wheel speed to `yValue`-`xValue`.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_12_02.png)
+![](./images/case_12_02.png)
 
 #### Programming
 

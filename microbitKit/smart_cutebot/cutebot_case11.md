@@ -24,11 +24,11 @@
 
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -39,7 +39,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 - Send radio number in `2` when pressing button B.
 - Send radio number in `3` when pressing button A+B.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_11_01.png)
+![](./images/case_11_01.png)
 
 #### Programming
 
@@ -60,7 +60,7 @@ You can also download it directly below:
 - When the received number is `2`, turn right.
 - When the received number is `3`, go straight.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_11_02.png)
+![](./images/case_11_02.png)
 
 #### Programming
 

@@ -17,29 +17,29 @@
 ### Step 1
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ### Step 2
 
 - Choose "show icon" in the `On start`bricks.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_02.png)
+![](./images/case_01_02.png)
 
 ### Step 3
 
 - Drag `go straight at full speed` brick into `on button A pressed` brick.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_01.png)
+![](./images/case_01_01.png)
 
 
 ### Step 4
 
-- Drag ``reverse at full speed` brick into `on button B pressed` brick.![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_03.png)
+- Drag ``reverse at full speed` brick into `on button B pressed` brick.![](./images/case_01_03.png)
 
 ### Programming
 

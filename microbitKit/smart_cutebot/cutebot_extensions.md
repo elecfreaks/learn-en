@@ -9,61 +9,61 @@
 
 - Click "Extensions" in the "Advanced" drawer to see the adding bricks menu.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 ### Step 2 
 
 - Search "cutebot" in the box and click it to add the package.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 ### Step 3
 
 - Completed
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-2.png)
+![](./images/cutebot-pk-2.png)
 
 ## Bricks Introduction
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-3.png)
+![](./images/cutebot-pk-3.png)
 
 - This brick helps to adjust the speed of both wheels.
 
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-4.png)
+![](./images/cutebot-pk-4.png)
 
 - This brick helps the car to move at its full speed.
 
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-5.png)
+![](./images/cutebot-pk-5.png)
 
 - This brick helps the car to reverse at its full speed.
 
 ---
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-6.png)
+![](./images/cutebot-pk-6.png)
 
 - This brick helps the car to turn left at its full speed.
 
 ---
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-7.png)
+![](./images/cutebot-pk-7.png)
 
 - This brick helps the car to turn right at its full speed.
 
 ---
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-10.png)
+![](./images/cutebot-pk-10.png)
 
 - This brick helps to detect the line-tracking status for the line-tracking modules.
 
 ---
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-9.png)
+![](./images/cutebot-pk-9.png)
 
 - This brick helps to detect the distance for the ultrasonic sensor.
 
 ---
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-8.png)
+![](./images/cutebot-pk-8.png)
 
 - This brick helps to control the color of the RGB lights on both sides.
 

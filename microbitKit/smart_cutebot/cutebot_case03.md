@@ -18,18 +18,18 @@
 
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ### Step 2
 
 - Choose "show icon" in the `On start`bricks.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_01_02.png)
+![](./images/case_01_02.png)
 
 ### Step 3
 
@@ -37,7 +37,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 - Divide the "figure-of eight" track into six parts: move forward for 200ms at the beginning,  set the speed of the left wheel is faster than the right and set to move for 1000ms after, then go straight for 200ms.  Right now you have completed the half part of "figure-of-eight".
 - Complete the second half part of "figure-of-eight" in a similar way.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_03_01.png)
+![](./images/case_03_01.png)
 
 ### Programming
 

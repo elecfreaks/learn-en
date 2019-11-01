@@ -16,7 +16,7 @@ There are many on-board equipments on the Cutebot including ultrasonic sensor an
 
 ## Pictures
 ---
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_01.jpg)
+![](./images/cutebot_01_01.jpg)
 
 ## Parameters
 ---
@@ -37,68 +37,68 @@ There are many on-board equipments on the Cutebot including ultrasonic sensor an
 ---
 Ultrasonic connection and micro:bit IIC port are placed in the front part of the Cutebot.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_02.jpg)
+![](./images/cutebot_01_02.jpg)
 
 - - - - -
 
 Two full color RGB lights controlled by the expansion board are placed on both side of the front part. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_03.jpg)
+![](./images/cutebot_01_03.jpg)
 
 - - - - -
 
 The on-board buzzer connecting to P0 port on the micro:bit can be alarmed by the bricks in `Music`
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_13.jpg)
+![](./images/cutebot_01_13.jpg)
 
 - - - - -
 
 An expansion board for 3x AA batteries is placed in the right above part of the Cutebot.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_04.jpg)
+![](./images/cutebot_01_04.jpg)
 
 - - - - -
 
 The IIC port and P1,P2 IO connections are equipped in the battery expansion board.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_05.jpg)
+![](./images/cutebot_01_05.jpg)
 
 - - - - -
 
 The infrared probes connecting to P16 port of the micro:bit are placed on the tail part of the Cutebot.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_06.jpg)
+![](./images/cutebot_01_06.jpg)
 
 - - - - -
 
 The master switch are placed besides the infrared probes and with on/off status showing by the LED.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_07.jpg)
+![](./images/cutebot_01_07.jpg)
 
 - - - - -
 
 The two wheels on both side are driven by DC micro gear deceleration motors(300 RPM).
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_08.jpg)
+![](./images/cutebot_01_08.jpg)
 
 - - - - -
 
 The two line-tracking probes connecting to P13&P14 on the micro:bit are used to detect the black line and its edges.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_09.jpg)
+![](./images/cutebot_01_09.jpg)
 
 - - - - -
 
 A universal wheel is placed in the front bottom of the Cutebot, an all-direction drive can be realized by the different speed of the left and right wheels. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_10.jpg)
+![](./images/cutebot_01_10.jpg)
 
 - - - - -
 
 The two full color  Rainbow LEDs programmed by  `Neopixel` connecting to P15 on the micro:bit are placed on both bottom side of the Cutebot and can be used as the clearance lamps or others.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot_01_11.jpg)
+![](./images/cutebot_01_11.jpg)
 ## Components list
 ---
 

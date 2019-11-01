@@ -19,11 +19,11 @@
 
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -31,7 +31,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 - Drag "go straight at full speed" brick into the `On start` brick.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_09_01.png)
+![](./images/case_09_01.png)
 
 ### Step 3
 
@@ -39,7 +39,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 - If the detected value is between `2` and `20` which means there is obstacle being detected in the front 20cm far, set the left wheel speed to `0` and right to `-50`, make a right turn at a random time to complete an obstacle avoidance.
 - If not, move forward at its full speed.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_09_02.png)
+![](./images/case_09_02.png)
 
 
 ### Programming

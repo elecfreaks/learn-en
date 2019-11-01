@@ -18,11 +18,11 @@
 ### Step 1
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -30,14 +30,14 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 - Choose "show icon" in the `On start`brick.
 - Set the `speed` variable to 0 which means the on start speed is 0.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_02_01.png)
+![](./images/case_02_01.png)
 
 ### Step 3
 
 - Drag setting speed bricks for left and right wheel and set the value as `speed` in "forever" brick, then add one to `speed`.
 - If `speed` is `100` which is the maximum speed, set `speed` to 0 and restart it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_02_02.png)
+![](./images/case_02_02.png)
 
 ### Programming
 

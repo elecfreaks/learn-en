@@ -23,11 +23,11 @@
 
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -35,7 +35,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 - Drag the "set left wheel speed and right wheel speed" into the `On start` brick.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_10_01.png)
+![](./images/case_10_01.png)
 
 ### Step 3
 
@@ -44,7 +44,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 - If the detected value is below`5` , the car reverses because of the short distance with the hands.
 - If not any, the car moves forward to catch up with the hands because of the far distance with the hands and then stay still .
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_10_02.png)
+![](./images/case_10_02.png)
 
 
 ### Programming

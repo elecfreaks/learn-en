@@ -17,11 +17,11 @@
 ### Step 1
 - Click the "Advanced" to see more choices in the MakeCode drawer.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-1.png)
+![](./images/cutebot-pk-1.png)
 
 - A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/cutebot-pk-11.png)
+![](./images/cutebot-pk-11.png)
 
 Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
@@ -31,20 +31,20 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 - Set the `right` LED ranging from `0` with `1` LED.
 - Set the `left` LED ranging from `0` with `1` LED.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_06_01.png)
+![](./images/case_06_01.png)
 
 ### Step 3
 
 - Drag the `repeat` brick to `on button A pressed` brick, set the color of the right clearance lamp in yellow and the left LED in yellow(Controlled by RGB), then pause 500ms and turn off the clearance lamp and LED on the left side to complete the first flashing.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_06_02.png)
+![](./images/case_06_02.png)
 
 
 ### Step 4
 
 - Program in the  `on button B pressed` brick in the same way,  please note the right side should be changed to the left side.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/smart_cutebot/images/case_06_03.png)
+![](./images/case_06_03.png)
 
 ### Programming
 
