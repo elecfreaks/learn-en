@@ -7,7 +7,7 @@
 
 ## Offline pdf
 
-[Main channel Download:Github ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/Mecanum_wheel_car_kit/files/wukong_assembly_step_chinese_v1.1.pdf)
+[Main channel Download:Github ](https://github.com/elecfreaks/learn-en/blob/master/microbitKit/Mecanum_wheel_car_kit/files/Mecanum_wheel_car_kit_assembly_step.pdf)
 
 [Streaming Download:Gitee ](https://gitee.com/lionkkk/elecfreaks_files/raw/master/wukong_assembly_step_english_v1.1.pdf)
 
