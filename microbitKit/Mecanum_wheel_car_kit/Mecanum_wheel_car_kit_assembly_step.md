@@ -1,6 +1,5 @@
 # Wonder Rugged Kit Assembly Steps
-![](./images/step_1.jpg)
-
+![](./images/1.jpg)
 ## Assembly video (Chinese voice)
 ---
 
