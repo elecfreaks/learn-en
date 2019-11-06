@@ -47,7 +47,6 @@ Set and stick components as below:
 ---
 Connect the crash sensor to P1 port of the expansion board;
 Connect the rainbow LED to P2 port of the expansion board;
-Connect the soil moisture sensor to P1 of the expansion board.
 
 ![](./images/7ifVFg1.jpg)
 
