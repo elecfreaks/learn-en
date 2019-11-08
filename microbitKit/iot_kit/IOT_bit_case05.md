@@ -29,7 +29,7 @@ Let the human infrared sensor module be connected to `P10`.
 
 Let the onboard buzzer be connected to `P0`. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_05_01.png)
+![](./images/case_05_01.png)
 
 ## Software
 ---
@@ -42,11 +42,11 @@ Let the onboard buzzer be connected to `P0`.
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_11.jpg)
+![](./images/iot_bit_11.jpg)
 
 - We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_12.jpg)
+![](./images/iot_bit_12.jpg)
 
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -57,7 +57,7 @@ Get value from `P1` and assignment it to `IR` block uner `forever`, to judge if 
 If the `IR` parameter is equal to `1`, get the ultrasonic returned value again and assignment to the `ultrasonic` variable. 
 
 If the `ultrasonic` variable is lower than 30, play a `ba ding` to warning. 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_05_02.png)
+![](./images/case_05_02.png)
 
 
 

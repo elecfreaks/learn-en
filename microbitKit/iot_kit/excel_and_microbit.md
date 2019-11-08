@@ -9,7 +9,7 @@ For this purpose, we will do with the below three steps:
 2. We will connect the micro:bit to the PC’s serial port.
 3. We will write a small program in Excel that reads the data from the serial port into the grid.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_01.jpg)
+![](./images/case_excel_01.jpg)
 
 ### The Experiment-from micro:bit to Excel ##
 
@@ -22,7 +22,7 @@ All you have to do is, go to [www.makecode.com](http://www.makecode.com/), selec
 
 The program we’ll write for this experiment will simply collect data from two sensors that we can easily play with – acceleration and light level, and send a sampling of the sensors over the serial communication port every 100ms.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_02.png)
+![](./images/case_excel_02.png)
 ---
 
 ### The second step:download the program to the micro:bit
@@ -31,11 +31,11 @@ The program we’ll write for this experiment will simply collect data from two 
 All you have to do now is load the program into your Micro:Bit. 
 To do that, connect your micro:bit to the PC using a USB cable, which will make it appear like a removeable disk drive. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_03.png)
+![](./images/case_excel_03.png)
 
 Then download the HEX file from within the MakeCode environment and save it onto the device. A few seconds later, the program will start running.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_04.png)
+![](./images/case_excel_04.png)
 
 You can also download it here:
 (https://makecode.microbit.org/_cjvC4RU1CVUD)
@@ -48,7 +48,7 @@ To do that, you’ll need to follow the instructions on [https://www.microbit.co
 1. Install a driver, which will make the micro:bit “appear” as a serial port on your PC.Youcan download it here:
 [Download drive program](https://github.com/elecfreaks/learn-cn/blob/master/microbitKit/iot_kit/file/teraterm-4.102.rar?raw=true)
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_ifttt_21.gif)
+![](./images/case_ifttt_21.gif)
 
 
 2. The serial communication terminal simulator has to be used for the test.
@@ -56,16 +56,16 @@ You will need to configure the right COM port. On my environment, it was configu
 
 Once you do that, you should see a stream of data that looks something like this inside your emulator:
 
- ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_05.jpg)
+ ![](./images/case_excel_05.jpg)
 
 3.If it passes from the terminal simulator, go to "device manager"-choose "port", find "USB serial device".
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_10.jpg)
+![](./images/case_excel_10.jpg)
 
 Right click the mouse to find propertities to choose the port setting, change the first data to "115200".
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_11.jpg)
+![](./images/case_excel_11.jpg)
 
 Click "Advanced", set the "COM port" to "1" or "2", click to confirm the setting in turns.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_12.jpg)
+![](./images/case_excel_12.jpg)
 
 **The incoming data flow - light level and acceleration**
 
@@ -87,7 +87,7 @@ One more point: When reading from the serial communication port in VBA, the most
 
 With no further ado, here’s a snippet from the main loop in the VBA code:
  
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_06.jpg)
+![](./images/case_excel_06.jpg)
 
 Few things to note in this code snippet:
 
@@ -123,24 +123,24 @@ The final piece of the puzzle – create two charts from the values. In both of 
 This is what it looks like:
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_07.jpg)
+![](./images/case_excel_07.jpg)
 
 The fifth step: Revise VBA code
 
 Click"view"to choose "macro".
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_13.jpg)
+![](./images/case_excel_13.jpg)
 
 Choose"StartBtn-click" to"edit".
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_14.jpg)
+![](./images/case_excel_14.jpg)
 
 Revise the value of "COM" to the former port value, here the example is "2" in this code.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_15.jpg)
+![](./images/case_excel_15.jpg)
 
 Clict to save the Excel in the right upper corner and reopen it.
 
 **The end result - incoming data is visualized live!**
 
 All you have to do now is click “Start” and see the data coming in and being charted live! 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_excel_07.jpg)
+![](./images/case_excel_07.jpg)
 
 

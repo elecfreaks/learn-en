@@ -19,7 +19,7 @@
 
 - [IoT](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%81%B2%E6%B3%A2)The Internet of things (IoT) is the network of devices such as vehicles, and home appliances that contain electronics, software, sensors, actuators, and connectivity which allows these things to connect, interact and exchange data.The IoT involves extending Internet connectivity beyond standard devices, such as desktops, laptops, smartphones and tablets, to any range of traditionally dumb or non-internet-enabled physical devices and everyday objects. Embedded with technology, these devices can communicate and interact over the Internet, and they can be remotely monitored and controlled.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_01_01.png)
+![](./images/case_01_01.png)
 
 ## Hardware connection
 ---
@@ -28,7 +28,7 @@ As below picture, connect `LED IN` of the dust sensor to `P9` and `OUT` to `P10`
 
 Connect the OLED screen to the `IIC` interface. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_01_02.png)
+![](./images/case_01_02.png)
 
 
 ## Software
@@ -43,12 +43,12 @@ Connect the OLED screen to the `IIC` interface.
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_11.jpg)
+![](./images/iot_bit_11.jpg)
 
 - We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_12.jpg)
+![](./images/iot_bit_12.jpg)
 
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
@@ -58,7 +58,7 @@ Snap the `initialize OLED` block into the `on start` and write parameters `64*12
 
 Initialize the OLED screen to `64`* `128` pixel. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_01_03.png)
+![](./images/case_01_03.png)
 
 ### Step 2
 
@@ -68,7 +68,7 @@ Showing string `Dust(ug/m3):`to display returned value of the dust sensor.
 
 Pause `60s`, once a minute.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_01_04.png)
+![](./images/case_01_04.png)
 
 ### Program
 

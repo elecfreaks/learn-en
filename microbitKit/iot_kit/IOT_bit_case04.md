@@ -29,7 +29,7 @@ Let the water level sensor be connected to `P2`.
 
 Let the 180° servo be connected to `P10`.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_04_01.png)
+![](./images/case_04_01.png)
 
 ## Software
 ---
@@ -42,32 +42,32 @@ Let the 180° servo be connected to `P10`.
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_11.jpg)
+![](./images/iot_bit_11.jpg)
 
 - We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_bit_12.jpg)
+![](./images/iot_bit_12.jpg)
 
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2
 
 Snap the `servo write` block into the `on start`, write in `0` to turn the servo to 0 deg for shuting the valve.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_04_02.png)
+![](./images/case_04_02.png)
 
 ### Step 3
 
 Snap the `set to` block into the `forever`.
 Get the value of water level and assignment it to the `water level` variable and the value of soil moisture value to the `soil humidity` variable. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_04_03.png)
+![](./images/case_04_03.png)
 
 ### Step 4
 
 To judge if the water level is lower than 10, if it is, play a bading for adding water. 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_04_04.png)
+![](./images/case_04_04.png)
 
 ### Step 5
 
@@ -75,7 +75,7 @@ To judge if the soil humidity is lower than 30, that is if it is need to waterin
 
 If it lowers than 30, valve opened and watering; if it not lowers than 30, valve shuted. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/case_04_05.png)
+![](./images/case_04_05.png)
 
 ### Program
 

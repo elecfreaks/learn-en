@@ -1,13 +1,13 @@
 # iot:kit Introduction
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_kit_03.jpg)
+![](./images/iot_kit_03.jpg)
 ## micro:bit Smart Science IoT kit
 ---
 
 ELECFREAKS Smart Science IoT Kit is developed based on loT:Bit,a new breakout board compatible with science sensors such as theultrasonic sensor, dust sensor, light sensor and water level sensor,.including RTC Timing and WIFI module. 
 You can gather data via thesensors and send data to the cloud with more stable and accuratedata analysis.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/iot_kit/images/iot_kit_04.jpg)
+![](./images/iot_kit_04.jpg)
 ## pack list ##
 ---
 
