@@ -41,7 +41,8 @@ Octopus Sensor
     octopus_ef04100.md
     octopus_ef10044.md
     octopus_ef11083.md
-
+    octopus_ef04003.md
+    octopus_ef04056.md
 
 
 
