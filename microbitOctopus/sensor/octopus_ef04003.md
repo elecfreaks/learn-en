@@ -5,7 +5,7 @@
 - It can be used to detect the source of fire.
 
 
-![](./image/04003_1.jpg)
+![](./images/04003_1.jpg)
 
 ## Characteristics
 
@@ -50,7 +50,7 @@ Pins Definition|1-Signal 2-VCC 3-GND
 
 
 
-![](./image/04003_2.png)
+![](./images/04003_2.png)
 
 
 

@@ -5,7 +5,7 @@
 
 
 
-![](./image/03055_1.jpg)
+![](./images/03055_1.jpg)
 
 
 ## Characteristics
@@ -54,7 +54,7 @@ Click "Extensions" to search "IoT" in the dialogue box and then download it.
 
 
 
-![](./image/AaZxCEb.jpg)
+![](./images/AaZxCEb.jpg)
 
 
 ### Programme as the picture shows
@@ -63,7 +63,7 @@ Click "Extensions" to search "IoT" in the dialogue box and then download it.
  
 
 
-![](./image/03055_3.png)
+![](./images/03055_3.png)
 
 
 

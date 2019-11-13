@@ -6,7 +6,7 @@
 
 
 
-![](./image/04056_1.jpg)
+![](./images/04056_1.jpg)
 
 
 
@@ -48,14 +48,14 @@ Stability|Stable and durable
 Click "Advanced" to see more choices in the MakeCode drawer. 
 
 
-![](./image/smtcNoB.png)
+![](./images/smtcNoB.png)
 
 
 Click "Extensions" to search "TM1637" in the dialogue box and then download it.
 
 
 
-![](./image/04056_3.png)
+![](./images/04056_3.png)
 
 
 
@@ -66,7 +66,7 @@ Click "Extensions" to search "TM1637" in the dialogue box and then download it.
 
 
 
-![](./image/04056_5.png)
+![](./images/04056_5.png)
 
 
 
