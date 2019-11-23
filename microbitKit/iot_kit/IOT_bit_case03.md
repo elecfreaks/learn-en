@@ -68,11 +68,11 @@ Then, snap into the `insert newline`.
 
 ### Program
 
-Program link：[https://makecode.microbit.org/_gXa1mXargW1V](https://makecode.microbit.org/_gXa1mXargW1V)
+Program link：[https://makecode.microbit.org/_ePDLFuUwqUhK](https://makecode.microbit.org/_ePDLFuUwqUhK)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_gXa1mXargW1V" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ePDLFuUwqUhK" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
 ### Result
