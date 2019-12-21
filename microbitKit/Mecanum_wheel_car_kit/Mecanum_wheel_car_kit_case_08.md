@@ -29,11 +29,11 @@
 
 Click "Advanced" in the drawer of MakeCode to see more choices. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_01.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_01.png)
 
 For programming the Wonder Rugged Kit, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "Wukong" in the dialogue box to download it. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_02.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_02.png)
 
 Note：If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
@@ -41,7 +41,7 @@ Note：If you get a warning indicating some packages will be removed because of 
 
 Click `Wukong` to choose `mecanum ` block.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_03.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_03.png)
 
 ### Step 3
 
@@ -49,7 +49,7 @@ Drag `mecanum` into `on start`  block and set the connection for servos accordin
 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_08_05.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_08_05.png)
 
 
 ### Step 4
@@ -58,7 +58,7 @@ Set variable `i` as the brightness level and judge the value of it. If the value
 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_08_06.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_08_06.png)
 
 
 ### Program 

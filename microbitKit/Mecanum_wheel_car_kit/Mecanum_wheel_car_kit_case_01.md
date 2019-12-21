@@ -24,11 +24,11 @@
 ### Step 1
 Click "Advanced" in the drawer of MakeCode to see more choices. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_01.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_01.png)
 
 For programming, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "Wukong" in the dialogue box to download it. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_02.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_02.png)
 
 Note：If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
@@ -38,7 +38,7 @@ Click `Wukong` to choose `mecanum ` block.
 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_03.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_03.png)
 
 
 ### Step 3
@@ -47,7 +47,7 @@ Drag `mecanum` into `on start`  block and set the connection for servos accordin
 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_04.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_04.png)
 
 
 ### Step 4
@@ -56,7 +56,7 @@ Set the car moving left while pressing button`A` , right while pressing button `
 
 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/Mecanum_wheel_car_kit/images/Mecanum%20wheel%20car%20kit_case_01_05.png)
+![](./images/Mecanum%20wheel%20car%20kit_case_01_05.png)
 
 
 ### Program
