@@ -21,6 +21,8 @@ micro:bit Classroom sensor pack is an entry-level kit, which can be easily conne
 - 1 x Rainbow LED
 - n x GVS line
 
+![](./images/sensor_pack_02.jpg)
+
 ## Files
 ---
 
