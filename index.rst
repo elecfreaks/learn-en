@@ -15,6 +15,7 @@ Welcome to micro:bit WIKI
    microbitKit/smart_home_kit/index
    microbitKit/experiment_box/index
    microbitKit/watch_kit/index
+   microbitKit/sensor_pack/index
    microbitKit/smart_coding_kit/index
    microbitKit/basic_kit/index
    microbitKit/Ring_bit_Car_Kit/index
