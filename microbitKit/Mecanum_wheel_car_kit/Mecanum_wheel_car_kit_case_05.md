@@ -29,11 +29,11 @@
 
 Click "Advanced" in the drawer of MakeCode to see more choices. 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_01_01.png)
+![](./images/Mecanum_wheel_car_kit_case_01_01.png)
 
 For programming, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "Wukong" in the dialogue box to download it. 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_01_02.png)
+![](./images/Mecanum_wheel_car_kit_case_01_02.png)
 
 Note：If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
@@ -41,14 +41,14 @@ Note：If you get a warning indicating some packages will be removed because of 
 
 Click `Wukong` to choose `mecanum ` block.
 
-![](./images/Mecanum%20wheel%20car%20kit_case_01_03.png)
+![](./images/Mecanum_wheel_car_kit_case_01_03.png)
 
 
 ### Step 3
 
 Drag `mecanum` and  `set light mode`  into `on start`  block and set the connection for servos accordingly, set the light mode as breath and initialize the LEDs. 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_05_05.png)
+![](./images/Mecanum_wheel_car_kit_case_05_05.png)
 
 
 ### Step 4
@@ -57,7 +57,7 @@ Set the car to move forward with the variable `i` ascending by 5; set the LEDs t
 
 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_05_06.png)
+![](./images/Mecanum_wheel_car_kit_case_05_06.png)
 
 
 ### Program

@@ -30,15 +30,15 @@
 
 Click "Advanced" in the drawer of MakeCode to see more choices. 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_01_01.png)
+![](./images/Mecanum_wheel_car_kit_case_01_01.png)
 
 For programming the Wonder Rugged Kit, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "Wukong" in the dialogue box to download it. 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_01_02.png)
+![](./images/Mecanum_wheel_car_kit_case_01_02.png)
 
 For programming the ultrasonic sound sensor, we need to add a package. Click "Extensions" at the bottom of the drawer and then search "github.com/elecfreaks/pxt-sonarbit" in the dialogue box to download it. 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_03_04.png)
+![](./images/Mecanum_wheel_car_kit_case_03_04.png)
 
 
 
@@ -50,7 +50,7 @@ Click `Wukong` to choose `mecanum ` block.
 
 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_01_03.png)
+![](./images/Mecanum_wheel_car_kit_case_01_03.png)
 
 
 ### Step 3
@@ -59,14 +59,14 @@ Drag `mecanum` into `on start`  block and set the connection for servos accordin
 
 
 
-![](./images/Mecanum%20wheel%20car%20kit_case_06_05.png)
+![](./images/Mecanum_wheel_car_kit_case_06_05.png)
 
 
 ### Step 4
 
 Set the car to move forward and judge the distance between the obstacle and the car, if the distance is below 25cm, the car goes back with 500ms and turns left with 500ms.  
 
-![](./images/Mecanum%20wheel%20car%20kit_case_06_06.png)
+![](./images/Mecanum_wheel_car_kit_case_06_06.png)
 
 
 ### Program
