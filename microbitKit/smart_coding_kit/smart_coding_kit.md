@@ -16,16 +16,16 @@ Upgrade the function by adding a switch for the buzzer.
 ---
  Install two 3V 2025 cells to the battery holder.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitKit/smart_coding_kit/images/smart_coding_kit_01.png)
+![](./images/smart_coding_kit_01.png)
 
 Fix the micro:bit to the button cell extension board Pro with screws.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitKit/smart_coding_kit/images/smart_coding_kit_02.png)
+![](./images/smart_coding_kit_02.png)
 
  Pass the longer watch strap through the hole in the button panel Pro to install the watch strap.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitKit/smart_coding_kit/images/smart_coding_kit_03.png)
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitKit/smart_coding_kit/images/smart_coding_kit_04.png)
+![](./images/smart_coding_kit_03.png)
+![](./images/smart_coding_kit_04.png)
 
 
 

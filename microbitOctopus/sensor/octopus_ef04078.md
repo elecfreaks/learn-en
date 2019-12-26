@@ -1,4 +1,4 @@
-# Octopus Temperature Sensor Brick TMP36 
+# OCTOPUS Gesture Sensor PAJ7620U2
 
 ## Introduction
 ---
