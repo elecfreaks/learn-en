@@ -20,6 +20,7 @@ Welcome to micro:bit WIKI
    microbitKit/basic_kit/index
    microbitKit/Ring_bit_Car_Kit/index
    microbitKit/ring_bit_v2/index
+   microbitKit/ring_bit_bricks_pack/index
    microbitKit/motor_bit_smart_car/index
    microbitKit/robit_smart_car/index
    microbitKit/smart_cutebot/index
