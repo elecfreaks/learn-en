@@ -48,13 +48,14 @@ Size：
 
 - Connect to P1 port as the picture shows. 
 
-***Take sensor:bit for example***
+***Take iot:bit for example***
 
 
 
 ![](./images/04060_03.png)
 
 
+*Note：*Due to the high power comsumption, powering with the USB wires from the breakout board(you can use our IoT:bit or Wukong breakout board) is required. 
 
 
 ### Program as the picture shows 
@@ -73,7 +74,7 @@ You can also download it directly below:
 ---
 
 ### Result
-- Preheat it for 10 minutes after connections, detect the alcohol gas by approaching the probes to the gas while the returned value is almost stable.
+- Preheat it for 3 minutes after connections, detect the alcohol gas by approaching the probes to the gas while the returned value is almost stable.
 - With the change of the alcohol gas's concentration, the returned value gets bigger with the growing of it.
 ## 
 
