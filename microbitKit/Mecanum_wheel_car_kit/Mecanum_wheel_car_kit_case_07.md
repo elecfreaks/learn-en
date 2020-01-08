@@ -51,7 +51,7 @@ Below is the code for Wonder Rugged Kit:
 ![](./images/Mecanum_wheel_car_kit_case_07_05.png)
 
 
-先设置无线设置组，然后初始化麦克纳姆轮小车舵机。将无线接收到的数据存入`I`。然后通过判断变量`I`的值来控制麦克纳姆轮小车的动作。Begin with radio set group and initialize the servos. Save the radio received value in `I` to control the movement of the car. 
+Begin with radio set group and initialize the servos. Save the radio received value in `I` to control the movement of the car. 
 
 
 ### Step 3
@@ -62,16 +62,16 @@ Below is the code for Joystick:bit:
 ![](./images/Mecanum_wheel_car_kit_case_07_06.png)
 
 
-设置无线设置组，然后通过判断手柄摇杆和按键的状态来发送数字。Begin with the radio set group and send number through the status of the joystick handle and the buttons. 
+Begin with the radio set group and send number through the status of the joystick handle and the buttons. 
 
 
 ### Program
 
-Links for Wonder Rugged Kit: [https://makecode.microbit.org/_T2iiDyJyEJyp](https://makecode.microbit.org/_T2iiDyJyEJyp)
+Links for Wonder Rugged Kit: [https://makecode.microbit.org/_MC9gcKYXpJxW](https://makecode.microbit.org/_MC9gcKYXpJxW)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_T2iiDyJyEJyp]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MC9gcKYXpJxW]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
 Links for Joystick:bit: [https://makecode.microbit.org/_e5dHb6c9xbt8](https://makecode.microbit.org/_e5dHb6c9xbt8)
