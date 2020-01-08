@@ -55,7 +55,7 @@ Size：
 ![](./images/04060_03.png)
 
 
-*Note：*Due to the high power comsumption, powering with the USB wires from the breakout board(you can use our IoT:bit or Wukong breakout board) is required. 
+*Note：*Due to the high power consumption, powering with the USB wires from the breakout board(you can use our IoT:bit or Wukong breakout board) is required. 
 
 
 ### Program as the picture shows 
