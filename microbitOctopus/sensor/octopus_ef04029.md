@@ -75,7 +75,7 @@ You can also download it directly below:
 ---
 
 ### Result
-- Preheat it for 10 minutes after connections, detect the gas by approaching the probes to the gas while the returned value is almost stable. 
+- Preheat it for 3 minutes after connections, detect the gas by approaching the probes to the gas while the returned value is almost stable. 
 - With the change of the Carbon Monoxide's concentration, the returned value gets bigger with the growing of it.
 ## Revelent Case
 ---
