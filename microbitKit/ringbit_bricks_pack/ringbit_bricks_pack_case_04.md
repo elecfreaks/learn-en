@@ -5,7 +5,8 @@
 - To build a desk lamp.
 
 
-![](./images/Ringbit_Bricks_Pack_case_04_01.png)
+![](./images/Ringbit_Bricks_Pack_case_en_04_01.png)
+
 
 
 
@@ -13,7 +14,9 @@
 ---
 
 
-![](./images/Ringbit_Bricks_Pack_case_04_02.png)
+![](./images/Ringbit_Bricks_Pack_case_en_04_02.png)
+
+
 
 
 
@@ -75,7 +78,9 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_04_03.png)
+![](./images/Ringbit_Bricks_Pack_case_en_04_03.png)
+
+
 
 
 
@@ -85,8 +90,9 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
+![](./images/Ringbit_Bricks_Pack_case_en_04_04.png)
 
-![](./images/Ringbit_Bricks_Pack_case_04_04.png)
+
 
 
 
@@ -99,7 +105,9 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_04_05.png)
+
+
+![](./images/Ringbit_Bricks_Pack_case_en_04_05.png)
 
 
 
@@ -108,15 +116,17 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 
 Judge the returned value from "light level" in "forever" block, if the value is less than 10, set the strip color in white; if the value is over 15, set the strip color in black.
 
-![](./images/Ringbit_Bricks_Pack_case_04_06.png)
+
+![](./images/Ringbit_Bricks_Pack_case_en_04_06.png)
+
 
 ### Code
 
-Link: [https://makecode.microbit.org/_ie6MF0Rhj1P7](https://makecode.microbit.org/_ie6MF0Rhj1P7)
+Link: [https://makecode.microbit.org/_3972aULrT1Dz](https://makecode.microbit.org/_3972aULrT1Dz)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ie6MF0Rhj1P7]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3972aULrT1Dz]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ### Result
 ---
 It lights on automatically while the surrounding light is low and lights off when the returned value is higher than your set point.

@@ -7,8 +7,7 @@ To build a fan that is controlled by the temperature.
 
 
 
-
-![](./images/Ringbit_Bricks_Pack_case_03_01.png)
+![](./images/Ringbit_Bricks_Pack_case_en_03_01.png)
 
 
 
@@ -17,7 +16,9 @@ To build a fan that is controlled by the temperature.
 ---
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_02.png)
+![](./images/Ringbit_Bricks_Pack_case_en_03_02.png)
+
+
 
 
 ## Background Knowledge 
@@ -90,7 +91,7 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_03.png)
+![](./images/Ringbit_Bricks_Pack_case_en_03_03.png)
 
 
 
@@ -100,7 +101,9 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_04.png)
+![](./images/Ringbit_Bricks_Pack_case_en_03_04.png)
+
+
 
 
 
@@ -115,17 +118,19 @@ Note: If you met a tip indicating codebase will be deleted due to incompatibilit
 Judge the returned value from the temperature sensor in "Forever" block, if the value is over 28 degrees, set the servos connected to P0 port turning;  while less than 26 degrees, set the servos connected to P1 stopping turning. 
 
 
-![](./images/Ringbit_Bricks_Pack_case_03_05.png)
+![](./images/Ringbit_Bricks_Pack_case_en_03_05.png)
+
+
 
 Note: As the servo we used is in 360 degrees, the "servo" extension in MakeCode is suitable for servos in 180 degrees, therefore, setting the turning angle to 0 degree or 180 degrees will lead to the servo turning clockwisely or anti-clockwisely, and 90 degrees means to stop turning.
 
 ### Code
 
-Link: [https://makecode.microbit.org/_d04JoJDzj6aX](https://makecode.microbit.org/_d04JoJDzj6aX)
+Link: [https://makecode.microbit.org/_UXj23eXHjXaC](https://makecode.microbit.org/_UXj23eXHjXaC)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_d04JoJDzj6aX]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_UXj23eXHjXaC]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ### Result
 ---
 When the value is over 28 degrees, the fan turns;  while less than 26 degrees, the fan stops turning. 

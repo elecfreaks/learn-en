@@ -6,7 +6,9 @@
 - To build a traffic light.
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_01.png)
+
+
+![](./images/Ringbit_Bricks_Pack_case_en_01_01.png)
 
 
 
@@ -15,7 +17,8 @@
 ---
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_02.png)
+
+![](./images/Ringbit_Bricks_Pack_case_en_01_02.png)
 
 
 
@@ -73,14 +76,18 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_03.png)
+
+
+![](./images/Ringbit_Bricks_Pack_case_en_01_03.png)
 
 
 
 In order to programme for the Ring:bit Bricks Pack, we need to add an extension. Click  "Extensions" at the bottom of the drawer. Search "Ringbit" in the dialogue box to download it. 
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_04.png)
+![](./images/Ringbit_Bricks_Pack_case_en_01_04.png)
+
+
 
 Note: If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
 
@@ -90,7 +97,7 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_05.png)
+![](./images/Ringbit_Bricks_Pack_case_en_01_05.png)
 
 
 ### Step 3
@@ -98,21 +105,25 @@ Drag the `set strip to NeoPixel at pin with led as` to `on start`, set the pin a
 Click "Advanced" to choose "Functions" and click "Make a Function" as the picture shows below. 
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_06.png)
+![](./images/Ringbit_Bricks_Pack_case_en_01_06.png)
+
+
 
 ### Step 4
 
 Enter "Red LED lights on" and click "Done" to create a function, and create another two functions "Yellow LED lights on", "Green LED lights on" in the same way. 
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_07.png)
+![](./images/Ringbit_Bricks_Pack_case_en_01_07.png)
 
 ### Step 5
 
 In the function of "Red LED lights on", set the third LED in red and the other two in black;  in "Yellow LED lights on", set the second LED in yellow and the other two in black; in "Green LED lights on", set the first LED in green and the other two in black.
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_08.png)
+![](./images/Ringbit_Bricks_Pack_case_en_01_08.png)
+
+
 
 ### Step 6
 
@@ -120,17 +131,18 @@ In the function of "Red LED lights on", set the third LED in red and the other t
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_01_09.png)
+![](./images/Ringbit_Bricks_Pack_case_en_01_09.png)
+
 
 
 
 ### Code
 
-Link: [https://makecode.microbit.org/_JvyADy1vH4y5](https://makecode.microbit.org/_JvyADy1vH4y5)
+Link: [https://makecode.microbit.org/_DdAU5d4kMJDh](https://makecode.microbit.org/_DdAU5d4kMJDh)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_JvyADy1vH4y5]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DdAU5d4kMJDh]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ### Result
 
 When power on, the red LED lights on for 3 seconds, then the yellow led in 1 second and the green one in 3 seconds at last. 

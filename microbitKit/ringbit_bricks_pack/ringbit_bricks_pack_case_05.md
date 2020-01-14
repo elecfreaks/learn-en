@@ -6,14 +6,16 @@
 - To build a wiper.
 
 
-![](./images/Ringbit_Bricks_Pack_case_05_01.png)
+![](./images/Ringbit_Bricks_Pack_case_en_05_01.png)
+
 
 
 ## Materials 
 ---
 
 
-![](./images/Ringbit_Bricks_Pack_case_05_02.png)
+![](./images/Ringbit_Bricks_Pack_case_en_05_02.png)
+
 
 
 ## Background Knowledge
@@ -83,7 +85,8 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_05_03.png)
+
+![](./images/Ringbit_Bricks_Pack_case_en_05_03.png)
 
 
 
@@ -93,8 +96,8 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_05_04.png)
 
+![](./images/Ringbit_Bricks_Pack_case_en_05_04.png)
 
 
 
@@ -106,7 +109,8 @@ Note: If you met a tip indicating codebase will be deleted due to incompatibilit
 
 While button A being pressed, set the servo connected to P0 port turning 180 degrees; while buttom B being pressed, set the servo connected to P0 port turning 90 degrees.
 
-![](./images/Ringbit_Bricks_Pack_case_05_05.png)
+
+![](./images/Ringbit_Bricks_Pack_case_en_05_05.png)
 
 
 
@@ -114,11 +118,11 @@ Note: As the servo we used is in 360 degrees, the "servo" extension in MakeCode 
 
 ### Code
 
-Link: [https://makecode.microbit.org/_EKiCqYhvAKbb](https://makecode.microbit.org/_EKiCqYhvAKbb)
+Link: [https://makecode.microbit.org/_6Pvbj1fPt33f](https://makecode.microbit.org/_6Pvbj1fPt33f)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_EKiCqYhvAKbb]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6Pvbj1fPt33f]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ### Result 
 ---
 When button A being pressed, the wiper begins working; while buton B being pressed, the wiper stops working.

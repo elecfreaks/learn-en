@@ -6,7 +6,9 @@
 To build a trebuchet.
 
 
-![](./images/Ringbit_Bricks_Pack_case_06_01.png)
+
+
+![](./images/Ringbit_Bricks_Pack_case_en_06_01.png)
 
 
 
@@ -15,8 +17,9 @@ To build a trebuchet.
 ---
 
 
-![](./images/Ringbit_Bricks_Pack_case_06_02.png)
 
+
+![](./images/Ringbit_Bricks_Pack_case_en_06_02.png)
 
 
 
@@ -142,8 +145,10 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_06_03.png)
 
+
+
+![](./images/Ringbit_Bricks_Pack_case_en_06_03.png)
 
 
 
@@ -152,8 +157,7 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_06_04.png)
-
+![](./images/Ringbit_Bricks_Pack_case_en_06_04.png)
 
 
 
@@ -167,7 +171,10 @@ Note: If you met a tip indicating codebase will be deleted due to incompatibilit
 
 While button A being pressed, set the servo connected to P1 port turning 180 degrees and pause 300ms;  then set the same port turning 90 degrees and pause 1000ms; set the servo connected to P2 turning 0 degree and pause 1000ms; then the same port turning 90 degrees and pause 1000ms;  P1 turning 0 degree and pause 300ms; then the same port turning 90 degrees and pause 500ms; P2 turning 180 degrees and pause 1000ms and the same port turning 90 degrees and pause 1600ms. 
 
-![](./images/Ringbit_Bricks_Pack_case_06_05.png)
+
+
+![](./images/Ringbit_Bricks_Pack_case_en_06_05.png)
+
 
 
 
@@ -175,11 +182,11 @@ Note: As the servo we used is in 360 degrees, the "servo" extension in MakeCode 
 
 ### Code
 
-Link: [https://makecode.microbit.org/_VdHDyY6HJFso](https://makecode.microbit.org/_VdHDyY6HJFso)
+Link: [https://makecode.microbit.org/_AM7FejLdJD2m](https://makecode.microbit.org/_AM7FejLdJD2m)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_VdHDyY6HJFso]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AM7FejLdJD2m]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ### Result
 ---
 While button A being pressed, the trebuchet executes the launch order and will return to its original launch status automatically. 
