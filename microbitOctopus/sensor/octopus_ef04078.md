@@ -64,6 +64,8 @@ You can also download the links below:
 ### Result
 - Different data is showing on the micro:bit with the different gestures.
 
+![](./images/ef04078_07.gif)
+
 ## Relevant Cases
 
 ------
