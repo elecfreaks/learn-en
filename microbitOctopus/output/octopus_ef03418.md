@@ -69,7 +69,7 @@ The links of the program: <https://makecode.microbit.org/_FsFWvpXP4gsm>
 
 You can also download it directly:
 
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="<https://makecode.microbit.org/#pub:_FsFWvpXP4gsm>" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_R8RbWkh6pTP0" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
 
