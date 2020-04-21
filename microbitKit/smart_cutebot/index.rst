@@ -24,3 +24,4 @@ Smart Cutebot kit
     cutebot_case11.md
     cutebot_case12.md
     cutebot_case13.md
+    cutebot_case14.md
