@@ -62,15 +62,15 @@ First of all, initialize the OLED using blocks in the OLED section as shown in t
 
 ![](./images/L68fSV7.jpg)  
 
-This part of the code allows the soil moisture sensor to measure and record down the electrical conductivity between the two fingers every few seconds for about a minute. Then, it calculates the average. This is the “calm” value when the user has not told any lies.  
+This part of the code allows the soil moisture sensor to measure and record down the electrical conductivity between the two fingers every few seconds for about 45 seconds. Then, it calculates the average. This is the “calm” value when the user has not told any lies.  
 
 ![](./images/EdWwt5m.jpg)  
 
-This part of the code calculates the standard deviation of the readings obtained in that first minute. The standard deviation indicates how different the readings were. A larger standard deviation means more variance in the readings. The “Math.sqrt” block square roots the given value and was added in Javascript.  
+This part of the code calculates the standard deviation of the readings obtained in that 45 seconds. The standard deviation indicates how different the readings were. A larger standard deviation means more variance in the readings. The “Math.sqrt” block square roots the given value and was added in Javascript.  
 
 ![](./images/QHI8jfg.jpg)  
 
-After the initial readings have been made and recorded, the moisture sensor now measures the average electrical conductivity over five seconds. If it is higher than the average added to the standard deviation, we can conclude that the user has an abnormally high electrical conductivity and is thus lying. Then, the LED screen would show an “X”shape.  
+After the initial readings have been made and recorded, the moisture sensor now measures the average electrical conductivity over 2.5 seconds. If it is higher than the average added to the standard deviation, we can conclude that the user has an abnormally high electrical conductivity and is thus lying. Then, the LED screen would show an “X”shape.  
 
 ![](./images/y5qv2l9.jpg)  
 
