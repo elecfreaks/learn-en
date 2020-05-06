@@ -37,9 +37,7 @@ Fix the micro:bit to the button cell extension board Pro with screws.
 - 1 x micro USB wire 
 - 5 x M3x5 Inner cross screws 
 - 1 x MINI Screwdriver 
-- 1 x micro:bit
 - 1 x micro:bit guidebook 
-- 1 x micro:bit
 
 
 ## FAQ
