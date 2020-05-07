@@ -48,7 +48,7 @@
 
 - Give power to micro:bit solely and the displaying characters on the micro:bit is the identification code for Bluetooth.
 
-![](./images/case_01_02.jpg)
+![](./images/case_01_02.gif)
 
 
 ### Step 2
