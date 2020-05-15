@@ -1,14 +1,13 @@
-Octopus Iutput
+Octopus Input
 ====================
 
-Octopus Iutput
-
+Octopus Input
 
 .. toctree::
     :maxdepth: 2
     :numbered: 2
 
-    octopus_ef04085.md
+    octopus_ef04085.mdn
     octopus_ef04034.md
     octopus_ef04041.md
     octopus_ef04061.md
