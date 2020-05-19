@@ -46,7 +46,8 @@ Click "Advanced"in the choice of the MakeCode to find more choices.
 
 ![](./images/smtcNoB.png)
 
-Click "Extensions", search "oled"in the dialog box and then download the "oled-ssd1306".
+Click “Extensions” to search with "https://github.com/elecfreaks/pxt-gesture" in the dialogue box and download the package of the Gesture sensor.
+
 ![](./images/ef04078_05.png)
 
 ### Program as the picture shows
@@ -62,7 +63,7 @@ You can also download the links below:
 ---
 
 ### Result
-- Different data is showing on the micro:bit with the different gestures.
+- The direction of the arrow displaying on the micro:bit changes with the different gestures of your hands.   
 
 ![](./images/ef04078_07.gif)
 
