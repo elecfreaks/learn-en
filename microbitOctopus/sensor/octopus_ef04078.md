@@ -34,11 +34,11 @@ Size|23.48mm×31.28mm
 ---
 ### Materials used and connection diagram
 
-Connect to the P1 port 
+
 
 Take sensor:bit for example
 
-![](./images/jifx0hA.png)
+![](./images/ef04078_08.jpg)
 
 ### Add Package
 
