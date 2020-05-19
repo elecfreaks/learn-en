@@ -18,7 +18,7 @@ Item | Parameter
 :-: | :-: 
 SKU|EF04078
 Detection Method|Built-in approaching detection device
-Gesture|9基本手势(上/下/右/左/前进/后退/顺时针/顺时针/波计数）9 gestures including move up/down/left/right/forward/back/clockwise/anticlockwise/pulse counter
+Gesture|9 gestures including move up/down/left/right/forward/back/clockwise/anticlockwise/pulse counter
 Detection Scope|5-10cm
 Ability for Anti-background light|100k
 Power Supply|5V
