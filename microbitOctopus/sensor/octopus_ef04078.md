@@ -47,11 +47,11 @@ Click "Advanced"in the choice of the MakeCode to find more choices.
 ![](./images/smtcNoB.png)
 
 Click "Extensions", search "oled"in the dialog box and then download the "oled-ssd1306".
-![](./images/VGSLRXB.png)
+![](./images/ef04078_05.png)
 
 ### Program as the picture shows
 
-![](./images/5LEttGM.png)
+![](./images/ef04078_06.png)
 
 ### Reference
 Links:[https://makecode.microbit.org/_Dry9Rm7xpi2A](https://makecode.microbit.org/_Dry9Rm7xpi2A)
