@@ -61,8 +61,6 @@
 
 - The right detection probe would work as the same as the way of the left detection probe works.
 
-- When both of the detection probes detect the black line, the car would go forward at the speed of 100.
-
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_08.png)
 
  Links:[https://makecode.microbit.org/_K0xELbUoeJ2t](https://makecode.microbit.org/_K0xELbUoeJ2t)
