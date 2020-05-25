@@ -53,17 +53,17 @@
 ---
 
 - Choose `sonar:bit` in makecode.
-- Search `https://github.com/elecfreaks/pxt-sonarbit` in the dialogue box and click it to download it. 
+- Search `ringbit` in the dialogue box and click it to download it. 
 - Programme to measure the distance with ultrasonic in [makecode](https://makecode.microbit.org/) on-line editor.
 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_06.png)
 
-Links: [https://makecode.microbit.org/_6bVA34PU42WP](https://makecode.microbit.org/_6bVA34PU42WP)
+Links: [https://makecode.microbit.org/_iP7DWxFicRox](https://makecode.microbit.org/_iP7DWxFicRox)
 
 You can download it directly below: 
 
- <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6bVA34PU42WP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+ <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_iP7DWxFicRox" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
 ---
