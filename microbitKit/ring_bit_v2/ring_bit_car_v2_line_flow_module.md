@@ -63,11 +63,11 @@
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_08.png)
 
- Links:[https://makecode.microbit.org/_K0xELbUoeJ2t](https://makecode.microbit.org/_K0xELbUoeJ2t)
+ Links:[https://makecode.microbit.org/_hYH1Rd697TFf](https://makecode.microbit.org/_hYH1Rd697TFf)
 
 You can also download the code directly below:
 
- <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_K0xELbUoeJ2t" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+ <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_hYH1Rd697TFf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
 ---
