@@ -47,7 +47,7 @@ Note: if you are informed that it will be deleted due to incompatibility of the 
 
 - Set variate `sonar` in the `forever` brick and read the detected value from the Sonar:bit to it. 
 - Drag the `if` brick and judge if the value given by `sonar` is below 10 and not equal to 0. 
-- If yes, set the speed of right wheel to 100 and the left to 0 to turn left for obstacle avoidance. 
+- If yes, set the speed of right wheel to 100 and the left to 0 to turn left with 500ms for obstacle avoidance. 
 - If not, move forward at full speed.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/case_10_03.png)
