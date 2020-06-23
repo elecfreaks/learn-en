@@ -26,6 +26,7 @@ Welcome to micro:bit WIKI
    microbitKit/smart_cutebot/index
    microbitKit/Mecanum_wheel_car_kit/index
    microbitKit/iot_kit/index
+   microbitKit/TPbot_tianpeng/index
    microbitOctopus/input/index
    microbitOctopus/output/index
    microbitOctopus/sensor/index
