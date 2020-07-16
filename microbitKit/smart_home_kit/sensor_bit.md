@@ -64,6 +64,12 @@ This is a group of I2C female header, which can connect with OLED module directl
 
 This is a group of I2C male header.
 
+### USB Power Connection
+
+![](./images/sensor_bit_01.png)
+
+This a USB connection for power-supply.
+
 
 ## Quick Start
 ---
