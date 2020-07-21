@@ -73,33 +73,33 @@ Code Example:
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v1_09.png)
 
-Press button "1", OLED displays "1".
+Press button "1", LED displays "1".
 
-Press button "2", OLED displays "2".
+Press button "2", LED displays "2".
 
-Press button "3", OLED displays "3".
+Press button "3", LED displays "3".
 
-Press button "4", OLED displays "4".
+Press button "4", LED displays "4".
 
-Press button "5", OLED displays "5".
+Press button "5", LED displays "5".
 
-Press button "6", OLED displays "6".
+Press button "6", LED displays "6".
 
-Push joystick upward along "Y" axle, OLED displays "+Y".
+Push joystick upward along "Y" axle, LED displays "+Y".
 
-Push joystick downward along "Y" axle, OLED displays "-Y".
+Push joystick downward along "Y" axle, LED displays "-Y".
 
-Push joystick to the left along "X" axle, OLED displays "+X".
+Push joystick to the left along "X" axle, LED displays "+X".
 
-Push joystick to the right along "X" axle, OLED displays"-X".
+Push joystick to the right along "X" axle, LED displays"-X".
 
 - - - - 
 
-Please refer to the link here: [https://makecode.microbit.org/_atsVFWHcuXCU](https://makecode.microbit.org/_atsVFWHcuXCU) .
+Please refer to the link here: [https://makecode.microbit.org/_ibCFsHHWUFKh](https://makecode.microbit.org/_ibCFsHHWUFKh) .
 
 Or, you can download directly from the page below. 
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_atsVFWHcuXCU" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ibCFsHHWUFKh" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## More Information  
 ---
