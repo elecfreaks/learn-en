@@ -13,6 +13,7 @@ Welcome to micro:bit WIKI
    microbitKit/Starter_Kit/index
    microbitKit/Tinker_Kit/index
    microbitKit/smart_home_kit/index
+   microbitKit/Magic_wand_kit/index
    microbitKit/experiment_box/index
    microbitKit/watch_kit/index
    microbitKit/sensor_pack/index
