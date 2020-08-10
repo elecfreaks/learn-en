@@ -1,6 +1,6 @@
-行星系列传感器
+Planet X Sensors
 ====================
-行星系列传感器
+Planet X Sensors
 
 
 .. toctree::
