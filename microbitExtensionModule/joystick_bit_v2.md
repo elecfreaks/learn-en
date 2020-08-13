@@ -2,100 +2,159 @@
 
 ## Introduction
 ---
-Joystick:bit V2 is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as as classic JoyStick. At the same time, with the board buzzer and vibration motor, it also enhance game experience. Joystick:bit V2 can be remote control handle for micro:bit which on compact appearance and comfortable touch.
+Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons. At the same time, it enhances the game experience with its on-board buzzer and vibration motor. Joystick:bit V2 can also be used as a remote control with a good apperance and comfortable feels.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_01.jpg)
+![](./images/joystick_v2_01.png)
 
-## Packing List
+Note：There are two versions of Joystick bit V2
+
+### Joystick bit V2：
+
+![](./images/joystick_v2_02.png)
+
+### Joystick bit V2 Plus: 
+
+![](./images/joystick_v2_03.png)
+
+
+## Characteristic:
+---
+- Language: Javascript / Makecode / Microsoft Touch Develop / Python.
+
+- Load with buzzer. 
+
+- Support vibration feedback. 
+
+- Compatible with the MakeCode packages .
+
+- Power off automacticly after unplugging the micro:bit. 
+
+
+
+## Outlook and dimension
+
 ---
 
-1 x [Joystick:bit v2](http://www.elecfreaks.com/estore/elecfreaks-joystick-bit-for-micro-bit.html)
+![](./images/joystick_v2_15.png)
+
+![](./images/joystick_v2_04.png)
 
 
-## Features
----
-- Develop Environment:Javascript / Makecode / Microsoft Touch Develop / Python.
-- With buzzer.
-- Vibration feedback for better game experience.
-- Add makecode package, simple for software.
-- Automatically power outage while micro:bit is pulled out.
-- Lead out 7 IO ports of micro:bit board.
-
-
-## Appearance & location dimension
+## Main parts introduction
 ---
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_02.png)
+### Handle
 
+![](./images/joystick_v2_05.png)
 
-## Function module introduction
----
-
-### Joystick
-
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_03.png)
-
-Connect X & Y of joystick to P1 & P2 of micro:bit.
+ X and Y connect to the P1 and P2 port on the micro:bit accordingly.
 
 ### Buzzer
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_04.png)
+![](./images/joystick_v2_06.png)
 
-The buzzer is a passive buzzer which is connect to P0 of micro:bit.
+The buzzer connects to the P0 port on the micro:bit.
 
-### Vibration motor
+### Vibration Motor
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_05.png)
+![](./images/joystick_v2_07.png)
 
-The vibration motor is connect to P16 of micro:bit.
+It connects to the P16 port on the micro:bit
 
 ### Buttons
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_06.png)
+![](./images/joystick_v2_08.png)
 
-The four buttons C&D&E&F are respectively connect to P12&P13&P14&P15 of micro:bit.
+ C、D、E&F connect to the P12、P13、P14 and P15 ports on the micro:bit accordingly.
 
-### 7 GVS ports
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_07.png)
 
-It contains 7 GVS extension ports which could be soldered pin head and master more extension possibilities.
 
-## Let's do it
 ---
-### Install
+### Installment
 
-Install two 3A batteries to game:bit and insert the micro:bit.
+Install two pieces AAA batteries and insert the micro:bit. 
 
-Add joystick:bit package
+Add “joystick:bit” package.
 
-Go ahead makecode and add new project, click on Extensions.
+Go to MakeCode and create a new project, then click "Extensions".
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_08.png)
+![](./images/joystick_v2_09.png)
 
-Search joystickbit and add joystick:bit package.
+Search with “ joystickbit” to add it. 
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_09.png)
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_10.png)
+![](./images/joystick_v2_10.png)
 
-## Program
+
+## Programming
 ---
 
-Make your code. Ever once you press buttons of your joystick:bit, it comes about vibration feedback with buttons sign showing.
+Once you press the buttons on the joystick:bit, it comes about vibration feedback with buttons sign showing.
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitExtensionModule/images/joystick_v2_11.png)
+![](./images/joystick_v2_11.png)
 
-Click the link here to see the whole program: [https://makecode.microbit.org/_AD3P71UrTCA1](https://makecode.microbit.org/_AD3P71UrTCA1)
+Link:  [https://makecode.microbit.org/_YUaM2rdcFFYx](https://makecode.microbit.org/_YUaM2rdcFFYx)
 
-You can also download it from the page below:
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AD3P71UrTCA1" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+You may also download it directly below:
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YUaM2rdcFFYx" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
+## Result
 
-When download is finished, turn on the power switch and you will hear system sound.
+After downloading, turn on the power switch and you will hear the system tone.
 
-Push button C, the game:bit will vibrate once. Push button D, the game:bit will vibrate once. Push button E, the game:bit will vibrate once. Push button F, the game:bit will vibrate once.
+Push any one button on the Joysitick bit, it vibrates once.
 
-## More Information  
+## Project 1: Electronic organ
 ---
 
-For more details, please log on: [http://www.elecfreaks.com](http://www.elecfreaks.com).
+![](./images/joystick_v2_12.png)
+
+Link:  [https://makecode.microbit.org/_DHgcRfb6oJp5](https://makecode.microbit.org/_DHgcRfb6oJp5)
+
+You may also download it directly below:
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DHgcRfb6oJp5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+## Result
+
+It plays tones through the handle and the buttons.
+
+## Project 2: Direction indicator
+---
+
+![](./images/joystick_v2_13.png)
+
+Link:  [https://makecode.microbit.org/_YVdggwifHWEm](https://makecode.microbit.org/_YVdggwifHWEm)
+
+You may also download it directly below:
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YVdggwifHWEm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+## Result
+
+The direction of the arrow on the micro:bit is controlled by the handle.
+
+## Project 3: LED Controller
+---
+
+![](./images/joystick_v2_14.png)
+
+Link: [https://makecode.microbit.org/_KPMW36Pq0aLm](https://makecode.microbit.org/_KPMW36Pq0aLm)
+
+You may also download it directly below:
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_KPMW36Pq0aLm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+## Result 
+
+The on/ff status for each LED on the micro:bit is controlled by the handle.
+
+## Below are cases of remote control:
+
+[Remote control cutebot ](https://www.elecfreaks.com/learn-cn/microbitKit/smart_cutebot/cutebot_case13.html)
+
+[Remote control TPBot](https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPBot_tianpeng_case_14.html)
+
+
+
+## More Info
+---
+
+More info pls visit: http://www.elecfreaks.com
