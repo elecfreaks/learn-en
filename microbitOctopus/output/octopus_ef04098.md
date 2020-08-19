@@ -23,7 +23,7 @@
 - Connector Type: Analog
 - Number of beads: 10 pcs
 - Pins Definition: 1-Signal 2-VCC 3-GND
-- Response: Quick to response and high sensiivity
+- Response: Quick to response and high sensitivity
 - Circuit：Simple drive circuit 
 - Stability：Stable and durable
 
