@@ -1,4 +1,4 @@
-# Neopixel Rainbow LED Strip and GVS Conector -10 LEDs
+# Neopixel Rainbow LED Strip and GVS Connector -10 LEDs
 
 ## Introduction
 ---
@@ -65,7 +65,7 @@ You can also download it directly:
 
 ### Results
 
-- The LED strips display in a light water way.
+- The LED strips light in a way of flowing-water.
 
 ## Relevant Cases
 ---
