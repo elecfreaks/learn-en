@@ -1,4 +1,4 @@
-# 14. Nezha Expansion Board
+# Nezha Expansion Board
 
 ## 14.1. Introduction
 Nezha is an expanstion board for micro:bit with multuple functions available. It equips with four servos connections, four motors connections and seven sensors connections. All of the connections are required with RJ11 connectors that are fool-proofing and easy to plug. It is also compatible to Lego and Fischertechnik bricks and is available to get them connected with the electric modules,  thus it allows students to easily create their own amazing micro:bit projects. 
