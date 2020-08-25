@@ -123,6 +123,9 @@ How to adjust speed of fan to control cooling rate in the room.
 
 ## Questions
 ---
+- It works well if powering by the USB only without the battery holders, but if the current temperature is over the threshold value, the fan doesn’t.
+- If powering by the battery holders only without the USB, the fan works well and the detected temperature will be slightly higher than the real one.
+- If powering by the battery holders and the USB simultaneously, the fan works well and it gets the normal temperature( Do note that you have to detect the temperature under the premise of the motor fan doesn’t drive).
 
 
 ## More information   
