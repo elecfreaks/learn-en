@@ -26,7 +26,7 @@
 ## Hardware Connection
 ---
 
-Connect sonar:bit to P10 on motor:bit. See picture below. 
+Connect sonar:bit to P5 on motor:bit. See picture below. 
 
 ![](./images/t4vFZ0y.jpg)
 
@@ -54,7 +54,7 @@ Note: If you get a hint that some packages will be deleted due to the problem of
 
 ### Step 2
 
-At the beginning of our program, we need to create a variable named `away`, which means the distance between  our motor:bit car and the barrier detected. We set it to 0. 
+At the beginning of our program. 
 
 Set the speed of both motors to 100. 
 
@@ -88,11 +88,11 @@ If `away` is beyond 15 cm, set the speed of both motors to 100 and the car will 
 
 ### Program
 
-Link of the whole program: [https://makecode.microbit.org/_J6h7CtDfj6mo](https://makecode.microbit.org/_J6h7CtDfj6mo)
+Link of the whole program: [https://makecode.microbit.org/_cRgUy3h7VApT](https://makecode.microbit.org/_cRgUy3h7VApT)
 
 You can also download it from the page below.
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_J6h7CtDfj6mo" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cRgUy3h7VApT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ---
 
 

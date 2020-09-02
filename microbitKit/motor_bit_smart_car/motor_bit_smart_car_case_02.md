@@ -24,7 +24,7 @@
 ## Hardware Connection
 ---
 
-Connect sonar:bit to P10 on motor:bit.
+Connect sonar:bit to P5 on motor:bit.
 
 ![](./images/t4vFZ0y.jpg)
 
@@ -53,26 +53,26 @@ Note: If you get a hint that some packages will be deleted due to the problem of
 ### Step 2
 
 - Insert a `move forward with speed` block below `on start`, and set its parameter to 80, which means the car moves forward at the speed of 80 once powered on. 
-- The unit of ultrasonic wave is centimeter(cm). Read the value of P10 and assign its return value to variable `item`.
-- If the return value is above 5 but under 10, set the speed of motors to 0 and stop the car.
-- If the return value is under 5, set the motor speed to 80 and make the car reverse. 
+- The unit of ultrasonic wave is centimeter(cm). Read the value of P5 and assign its return value to variable `item`.
+- If the return value is above 10 but under 20, set the speed of motors to 0 and stop the car.
+- If the return value is under 20, set the motor speed to 80 and make the car reverse. 
 - If none of these values meet, set the motor speed to 80 and make the car move forward. 
 
 ![](./images/gcR99Lj.png)
 
 ### Program
 
-Link of the whole program: [https://makecode.microbit.org/_bW1ThbRWsdMP](https://makecode.microbit.org/_bW1ThbRWsdMP)
+Link of the whole program: [https://makecode.microbit.org/_5uq9T8d0p6hP](https://makecode.microbit.org/_5uq9T8d0p6hP)
 
 You can also download it from the page below.
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_bW1ThbRWsdMP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_5uq9T8d0p6hP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ---
 
 
 ## Result
 ---
-- Once powered on, the car moves forward at the speed of 80. Place your hand in front of the car at a distance among 5~10cm, the car stops moving forward. Again, place your hand closer to the car but at a distance less than 5 cm, the car will move back and then stop when the distance is beyond 5 cm. 
+- Once powered on, the car moves forward at the speed of 80. Place your hand in front of the car at a distance among10~20cm, the car stops moving forward. Again, place your hand closer to the car but at a distance less than 10 cm, the car will move back and then stop when the distance is beyond 10 cm. 
 
 
 ## Think 
