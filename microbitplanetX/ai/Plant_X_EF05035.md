@@ -30,6 +30,11 @@ Core IC|K210
 ![](./images/05035_02.png)
 
 
+## Connection Type: RJ11 to Dupont connector
+---
+
+
+![](./images/05035_03.png)
 
 
 
