@@ -61,7 +61,8 @@
 ## FAQ
 
 ---
-
+Q: The car does not work with the code in the wiki.     
+A: It should be the batteries that are lack of power, please try to fix it by adding the value of the speed in the code. 
 
 ## Relevant File
 
