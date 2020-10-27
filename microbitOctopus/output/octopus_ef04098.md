@@ -39,7 +39,7 @@
 
 - Connect to the P1 port of the extension board.
 
- ![](./images/04095_2.png)
+ ![](./images/04098_5.png)
 
 ### Add Package
 ---
