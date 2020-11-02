@@ -11,9 +11,14 @@ Based on the Ring:bit V2 from Elecfreaks, the micro:bit Ring:bit Bricks Pack con
 ---
 
 Ring:bit V2 * 1
+
 360 degrees servos * 2
+
 Rainbow LED Strip * 1
+
 Rubber Bands * 6
+
 Bricks * 200+
+
 Screwdriver * 1
 
