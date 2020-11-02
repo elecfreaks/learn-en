@@ -53,6 +53,16 @@ Note: The connection to servos shall be inserted vertically with the Ground wire
 - While in its line-tracking & obstacles-avoidance mode, press the power button to get back to the standby mode. 
 - No matter in its line-tracking & obstacles-avoidance mode or the standby mode, double click the power button to power off the TPBot. 
 
+## Components
+---
+TPBot Smart Car * 1
+Sticker(s) * 1
+Map * 1
+Manual book * 1
+Batteries * 4
+
+
+
 ## FAQ
 ---
 
