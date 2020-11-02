@@ -56,9 +56,13 @@ Note: The connection to servos shall be inserted vertically with the Ground wire
 ## Components
 ---
 TPBot Smart Car * 1
+
 Sticker(s) * 1
+
 Map * 1
+
 Manual book * 1
+
 Batteries * 4
 
 
