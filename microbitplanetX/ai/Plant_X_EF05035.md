@@ -33,7 +33,7 @@ Core IC|K210
 ## Connection Type: RJ11 to Dupont connector
 ---
 
-将黑线接GND，红线接VCC，绿线接P19（SDA）端口，黄线接P20（SCL）端口；如果使用过程中摄像头无法启动，请尝试给AI摄像头单独供电。
+
 Connect the black line to GND, red to VCC, green to P19(SDA) and yellow to P20(SCL); if the AI Lens doesn't work properly, please try giving it a standalone power source. 
 
 ![](./images/05035_03.png)
