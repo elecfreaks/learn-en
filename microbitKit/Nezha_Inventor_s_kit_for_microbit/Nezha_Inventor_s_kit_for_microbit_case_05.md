@@ -49,6 +49,12 @@ Bricks × n
 
 Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kB0bYEsJ1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 ## MakeCode Programming
 
 ---
