@@ -53,6 +53,11 @@ Build a device as the picture shows:
 
 Video reference:[https://youtu.be/YxEKEoDB6FQ](https://youtu.be/YxEKEoDB6FQ)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxEKEoDB6FQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## MakeCode Programming
 ---
 
