@@ -47,6 +47,15 @@ Build a device as the picture shows:
 
 Video reference:[https://youtu.be/BBP1Nx6t090](https://youtu.be/BBP1Nx6t090)
 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBP1Nx6t090" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 ## MakeCode Programming
 ---
 
