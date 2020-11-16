@@ -59,6 +59,14 @@ Video reference: [https://youtu.be/k8eaTQSVsfk](https://youtu.be/k8eaTQSVsfk)
 
 
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k8eaTQSVsfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 ## MakeCode Programming
 
 ---
