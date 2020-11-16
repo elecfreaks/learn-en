@@ -44,7 +44,17 @@ Bricks × n
 
 ![](./images/case_07_09.png)
 
-Video reference: [https://youtu.be/8_1d_F33y_4](https://youtu.be/8_1d_F33y_4)
+Video reference: [https://youtu.be/8_1d_F33y_4](v)
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_1d_F33y_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 ## MakeCode Programming
 
