@@ -7,7 +7,8 @@ Nezha Inventor's kit for micro:bit
 .. toctree::
     :maxdepth: 2
     :numbered: 2
-
+    
+    Nezha-Inventor-s-kit-for-microbit.md
     Nezha_Inventor_s_kit_for_microbit_case_01.md
     Nezha_Inventor_s_kit_for_microbit_case_02.md
     Nezha_Inventor_s_kit_for_microbit_case_03.md
