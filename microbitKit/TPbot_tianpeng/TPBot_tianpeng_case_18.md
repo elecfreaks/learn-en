@@ -15,7 +15,7 @@
 
 Connect rainbow led to port 1 and color sensor to IIC port on TPBot. 
 
-![](./_image/TPBot_tianpeng_case_18_03.png)
+![](./image/TPBot_tianpeng_case_18_03.png)
 
 
 
