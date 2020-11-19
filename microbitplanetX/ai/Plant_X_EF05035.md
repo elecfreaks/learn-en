@@ -42,4 +42,4 @@ Take IoT:bit for an example:
 
 ![](./images/05035_04.png)
 
-*Note: If you do not use Nezha expansion board to drive the AI Lens, please search with the package through this link:  https://github.com/elecfreaks/pxt-PlanetX-AI*
+Note: If you do not use Nezha expansion board to drive the AI Lens, please search with the package through this link:  https://github.com/elecfreaks/pxt-PlanetX-AI
