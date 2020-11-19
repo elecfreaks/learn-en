@@ -19,7 +19,7 @@
 Connect potentiometer to port 1 on TPBot. 
 
 
-![](.image/TPBot_tianpeng_case_15_02.png)
+![](./images/TPBot_tianpeng_case_15_02.png)
 
 
 
