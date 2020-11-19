@@ -17,7 +17,7 @@
 
 Connect gesture sensor to IIC port on TPBot. 
 
-![](./image/TPBot_tianpeng_case_17_03.png)
+![](./images/TPBot_tianpeng_case_17_03.png)
 
 
 
