@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- The rainbow LED changes in accordance with the color of the cards and it executes  the defined functions accordingly(move forward,;change the color of the headlights at random; obstacles avoidance; line-following)
+- The rainbow LED changes in accordance with the color of the cards and it executes  the defined functions accordingly(move forward,;change the color of the headlights at random; obstacles avoidance; line-following)
 
 ## Material
 
@@ -58,16 +58,16 @@
 
 - Set the rainbow led in green if the color sensor detects green, and judge the status of the two-way line-tracking sensor. If black is detected on the left, set the speed of the left wheel as 0 and right as 40; if it is detected on the right, set the speed of the left wheel as 40 and right as 0; if it is detected on both sides, it means the TPBot does not deviate from the black line, and set it move foreward at the speed of 25%. 
 
-![](./images/TPBot_tianpeng_case_18_07.png)
+![](./images/TPBot_tianpeng_case_18_08.png)
 
 - Set the rainbow led in blue if the color sensor detectsblue, set the TPBot stop moving. 
 
-![](./images/TPBot_tianpeng_case_18_08.png)
+![](./images/TPBot_tianpeng_case_18_09.png)
 
 
 Code：
 
-![](./images/TPBot_tianpeng_case_18_09.png)
+![](./images/TPBot_tianpeng_case_18_10.png)
 
 
 ### Link
