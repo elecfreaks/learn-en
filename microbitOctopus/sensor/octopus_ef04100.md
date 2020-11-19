@@ -60,7 +60,7 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 
 
 
-![](./images/04029_04.png)
+![](./images/04100_04.png)
 
 
 
