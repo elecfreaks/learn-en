@@ -14,6 +14,12 @@
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
+## Hardware connection
+
+Connect potentiometer to port 1 on TPBot. 
+
+
+![](./_image/TPBot_tianpeng_case_15_02.png)
 
 
 

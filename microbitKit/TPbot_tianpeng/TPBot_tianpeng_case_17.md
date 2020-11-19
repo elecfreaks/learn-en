@@ -13,6 +13,11 @@
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
+## Hardware connection
+
+Connect gesture sensor to IIC port on TPBot. 
+
+![](./_image/TPBot_tianpeng_case_17_03.png)
 
 
 
