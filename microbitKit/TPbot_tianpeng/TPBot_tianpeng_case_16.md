@@ -18,7 +18,7 @@
 Connect rainbow led to port 1 on TPBot. 
 
 
-![](./image/TPBot_tianpeng_case_16_03.png)
+![](./images/TPBot_tianpeng_case_16_03.png)
 
 
 
