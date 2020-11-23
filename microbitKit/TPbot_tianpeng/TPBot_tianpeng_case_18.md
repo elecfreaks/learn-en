@@ -103,6 +103,7 @@ Code：
 ---
 
 Q: While operating this case, why the car might not work properly?
+
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again. 
 
 ## Relevant File
