@@ -23,7 +23,7 @@ Connect rainbow led to port 1 on TPBot.
 
 
 
-- ## Software
+## Software
 
   ---
 
@@ -46,7 +46,7 @@ Connect rainbow led to port 1 on TPBot.
 
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
-##Sample
+## Sample
 
 - In on start brick, initialize the led strip and has it connected to J1 port, set TPBot move forward at the speed of 50%. 
 -  Save the variable "i" as 1 while pressing button A and set it as 0 while pressing button B. 
