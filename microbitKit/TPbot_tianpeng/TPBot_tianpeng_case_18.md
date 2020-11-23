@@ -19,14 +19,14 @@ Connect rainbow led to port 1 and color sensor to IIC port on TPBot.
 
 
 
-- ## Software
+## Software
 
   ---
 
   [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
-  ## Programming
+## Programming
 
   ---
 
@@ -42,7 +42,7 @@ Connect rainbow led to port 1 and color sensor to IIC port on TPBot.
 
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
-##Sample
+## Sample
 
 - In on start brick, drag the show icon brick into it and initialize the led strip and has it connected to J1 port.
 
