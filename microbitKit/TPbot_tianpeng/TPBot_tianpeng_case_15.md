@@ -53,8 +53,8 @@ Click "Advanced" to see more choices in the MakeCode drawer.
 ![](./images/TPBot_tianpeng_case_15_04.png)
 
 
-### L
-- L：[https://makecode.microbit.org/_ArRM71PD6de0](https://makecode.microbit.org/_ArRM71PD6de0)
+### Link
+- Link：[https://makecode.microbit.org/_ArRM71PD6de0](https://makecode.microbit.org/_ArRM71PD6de0)
 
 - You may also download it directly below:
 
@@ -62,17 +62,17 @@ Click "Advanced" to see more choices in the MakeCode drawer.
 ---
 
 ---
-## Conclu
+## Conclusion
 ---
 
 - After powering on, the speed of the TPBot could be adjusted by the potentioneter. 
 
 
-## 思Exploration
+## Exploration
 ---
 
 
-## F
+## FAQ
 ---
 Q: While operating this case, why the car might not work properly?
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again. 
