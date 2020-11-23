@@ -22,7 +22,7 @@ Connect gesture sensor to IIC port on TPBot.
 
 
 
-- ## Software
+## Software
 
   ---
 
@@ -46,7 +46,7 @@ Connect gesture sensor to IIC port on TPBot.
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
 
-##Sample
+## Sample
 
 -  Drag the show icon brick into on start. 
 - Detect the hands gesture through the gesture sensor, set the car to move forward at the speed of 40% for 1s while detecting your hand waving upward.
