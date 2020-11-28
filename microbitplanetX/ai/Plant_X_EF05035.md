@@ -13,7 +13,7 @@ The AI Lens is able to achieve the functions of face recognition, balls tracking
 
 Item | Parameter 
 :-: | :-: 
-SKU|EF05035
+SKU|EF05045
 Connection|RJ11
 Connection Type|IIC
 Working Voltage|3.3V
