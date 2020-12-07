@@ -13,10 +13,15 @@ To build a car that could drive along with the black line with a micro:bit.
 
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 Line-tracking sensor × 1
+
 Motors × 2
+
 RJ11 wires × 1
+
 Bricks × n
 
 ![](./images/case_10_02.png)
