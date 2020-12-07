@@ -11,10 +11,15 @@ To make an automatic gate with the ultrasonic sound sensor controlled by the mic
 ### Materials Required
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 360° servo × 1
+
 Sonar:bit  × 1
+
 RJ11 wire × 1
+
 Bricks × n
 
 ![](./images/case_03_02.png)
