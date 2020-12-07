@@ -13,10 +13,15 @@ To make a speed adjustable car with a micro:bit.
 
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 Potentiometer × 1
+
 Motors × 2
+
 RJ11 wires × 1
+
 Bricks × n
 
 ![](./images/case_10_02.png)
