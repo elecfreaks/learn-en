@@ -11,10 +11,15 @@ To make a mini table lamp with a micro:bit.
 ### Materials Reuqired
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 LED-yellow × 1
+
 Crash sensor × 1
+
 RJ11 wires × 2
+
 Bricks × n
 
 ![](./images/case_04_02.png)
