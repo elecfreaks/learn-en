@@ -11,10 +11,15 @@ To make a speed adjustable fan with the micro:bit.
 ### Materials Required
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 Potentiometer × 1
+
 Motor × 1
+
 RJ11 wire × 1
+
 Bricks × n
 
 ![](./images/case_08_02.png)
