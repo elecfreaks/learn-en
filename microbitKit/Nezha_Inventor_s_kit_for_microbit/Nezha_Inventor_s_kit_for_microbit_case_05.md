@@ -11,10 +11,15 @@ To make an automatic dryer with a micro:bit.
 ### Materials Required
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 Sonar:bit × 1
+
 Motor × 1
+
 RJ11 wires × 1
+
 Bricks × n
 
 ![](./images/case_05_02.png)
