@@ -13,10 +13,15 @@ To build a car that can avoid the obstacles automatically with a micro:bit.
 
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 Sonar:bit × 1
+
 Motors × 2
+
 RJ11 wires × 1
+
 Bricks × n
 
 ![](./images/case_10_02.png)
