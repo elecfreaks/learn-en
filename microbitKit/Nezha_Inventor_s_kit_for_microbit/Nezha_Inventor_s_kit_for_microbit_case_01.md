@@ -12,11 +12,17 @@ To make a traffic lights system controlled by the micro:bit.
 ### Materials Required
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 LED-red × 1
+
 LED-green × 1
+
 LED-yellow × 1
+
 RJ11 wires × 3
+
 Bricks × n
 
 ![](./images/case_01_02.png)
