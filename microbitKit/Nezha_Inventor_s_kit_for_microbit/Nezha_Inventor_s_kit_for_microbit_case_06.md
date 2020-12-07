@@ -13,8 +13,11 @@ To make a fan that can be controlled by the temperature with a micro:bit.
 
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 Motor × 1
+
 Bricks × n
 
 ![](./images/case_06_02.png)
