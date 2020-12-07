@@ -11,10 +11,15 @@ To make a smart lamp with the micro:bit.
 ### Materials Required
 ---
 Nezha expansion board × 1
+
 micro:bit × 1
+
 LED-yellow × 1
+
 Light sensor × 1
+
 RJ11 wires × 2
+
 Bricks × n
 
 
