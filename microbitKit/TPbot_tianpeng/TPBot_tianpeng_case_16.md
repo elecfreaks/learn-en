@@ -38,7 +38,7 @@ Connect rainbow led to port 1 on TPBot.
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
-- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and seach with "tpbot" in the dialogue box to download it.  
+- We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "tpbot" in the dialogue box to download it.  
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
