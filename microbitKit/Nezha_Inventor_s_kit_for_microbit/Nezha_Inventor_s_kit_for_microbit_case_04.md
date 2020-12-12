@@ -20,9 +20,18 @@ Crash sensor × 1
 
 RJ11 wires × 2
 
-Bricks × n
+
+
+### Bricks details
+
+
+
+![](./images/Bricks_case_04.png)
+
+
 
 ![](./images/case_04_02.png)
+
 
 
 ### Connection Diagram 
