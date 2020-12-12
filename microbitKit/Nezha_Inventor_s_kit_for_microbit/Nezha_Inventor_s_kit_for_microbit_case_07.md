@@ -20,7 +20,16 @@ Light sensor × 1
 
 RJ11 wires × 2
 
-Bricks × n
+
+
+### Bricks details
+
+
+
+
+![](./images/Bricks_case_07.png)
+
+
 
 
 ![](./images/case_07_02.png)
