@@ -20,7 +20,12 @@ Sonar:bit  × 1
 
 RJ11 wire × 1
 
-Bricks × n
+
+### Bricks details
+
+
+![](./images/Bricks_case_03.png)
+
 
 ![](./images/case_03_02.png)
 
