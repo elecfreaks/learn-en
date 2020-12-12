@@ -23,7 +23,12 @@ LED-yellow × 1
 
 RJ11 wires × 3
 
-Bricks × n
+
+### Bricks details
+
+![](./images/Bricks_case_01.png)
+
+
 
 ![](./images/case_01_02.png)
 
