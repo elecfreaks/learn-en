@@ -22,7 +22,12 @@ Soil moisture sensor × 1
 
 RJ11 wires × 3
 
-Bricks  × n
+
+### Bricks details
+
+
+![](./images/Bricks_case_02.png)
+
 
 ![](./images/case_02_02.png)
 
