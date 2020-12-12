@@ -20,7 +20,14 @@ Motor × 1
 
 RJ11 wires × 1
 
-Bricks × n
+
+
+### Bricks details
+
+
+![](./images/Bricks_case_05.png)
+
+
 
 ![](./images/case_05_02.png)
 
