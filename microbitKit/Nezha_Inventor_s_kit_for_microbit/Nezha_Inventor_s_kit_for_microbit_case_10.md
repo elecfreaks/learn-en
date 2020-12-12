@@ -22,9 +22,17 @@ Motors × 2
 
 RJ11 wires × 1
 
-Bricks × n
+
+### Bricks details
+
+
+![](./images/Bricks_case_10.png)
+
+###  Build the body parts of the car:
 
 ![](./images/case_10_02.png)
+
+###  Speed controller build-up
 
 ![](./images/case_10_03.png)
 
