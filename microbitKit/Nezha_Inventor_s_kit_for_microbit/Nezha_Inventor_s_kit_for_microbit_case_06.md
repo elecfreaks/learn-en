@@ -18,7 +18,12 @@ micro:bit × 1
 
 Motor × 1
 
-Bricks × n
+
+### Bricks details
+
+
+![](./images/Bricks_case_06.png)
+
 
 ![](./images/case_06_02.png)
 
