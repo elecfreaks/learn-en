@@ -1,4 +1,4 @@
-#Guess the tones
+# Case 14:  Guess the tones
 
 ## Introduction 
 Make a micro:bit device that is able to recognize the tones. 
