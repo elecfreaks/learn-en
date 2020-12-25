@@ -1,4 +1,4 @@
-Lively Music 
+# Case 13: Lively Music 
 
 ## Introduction 
 Make an electronic piano through micro:bit with the trimpot module. 
