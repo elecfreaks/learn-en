@@ -54,9 +54,9 @@ Bricks × n
 ![](./images/case_16_05.png)
 
 
-Video link:[https://youtu.be/G0hycQ2rxCk](https://youtu.be/G0hycQ2rxCk)
+Video link:[https://youtu.be/ie4sO5qNvfM](https://youtu.be/ie4sO5qNvfM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0hycQ2rxCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ie4sO5qNvfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## MakeCode Programming 
 ---
