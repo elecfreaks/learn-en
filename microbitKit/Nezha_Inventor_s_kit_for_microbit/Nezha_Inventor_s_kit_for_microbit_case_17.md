@@ -1,4 +1,4 @@
-# case 16：Alarm Device
+# Case 17: Alarm Device
 
 ## Introduction 
 Build an alarm device with the micro:bit. 
