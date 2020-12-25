@@ -3,7 +3,7 @@
 ## Introduction 
 Make a micro:bit device that is able to recognize the tones. 
 
-![](./images/)
+![](./images/case_14_01.png)
 
 
 ## Quick to Start 
@@ -21,7 +21,7 @@ micro:bit × 1
 - Connect the micro:bit to Nezha expansion board as the picture shows. 
 
 
-![](./images/case_13_03.png)
+![](./images/case_14_03.png)
 
 
 
