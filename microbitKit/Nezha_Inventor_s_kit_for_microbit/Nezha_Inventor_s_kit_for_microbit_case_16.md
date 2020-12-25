@@ -1,4 +1,4 @@
-#Light Show
+# Case 16: Light Show
 
 ## Introduction 
 Build a light show device with the micro:bit. 
