@@ -66,7 +66,7 @@ In forever brick, set the speed of the left wheel as  yValue+xValue and the spee
 
 
 
-![](./_image/Ringbit_Bricks_Pack_case_cn_07_05.png)
+![](./images/Ringbit_Bricks_Pack_case_cn_07_05.png)
 
 ### Link
 
@@ -86,7 +86,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 
-![](./_image/Ringbit_Bricks_Pack_case_cn_07_06.png)
+![](./images/Ringbit_Bricks_Pack_case_cn_07_06.png)
 
 
 
@@ -104,7 +104,7 @@ Send the value of x and y via radio.
 
 
 
-![](./_image/Ringbit_Bricks_Pack_case_cn_07_07.png)
+![](./images/Ringbit_Bricks_Pack_case_cn_07_07.png)
 
 
 
