@@ -48,7 +48,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_cn_02_04.png)
+![](./images/Ringbit_Bricks_Pack_case_cn_07_04.png)
 
 
 
