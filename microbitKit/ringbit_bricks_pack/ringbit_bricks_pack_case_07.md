@@ -7,7 +7,7 @@
 - Build a car with the ring:bit bricks pack and control it via the Joystick:bit. 
 
 
-![](./images/Ringbit_Bricks_Pack_case_cn_02_01.png)
+![](./images/Ringbit_Bricks_Pack_case_02_01.png)
 
 
 
@@ -48,7 +48,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_cn_02_03.png)
+![](./images/Ringbit_Bricks_Pack_case_02_03.png)
 
 
 
@@ -61,7 +61,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_cn_02_04.png)
+![](./images/Ringbit_Bricks_Pack_case_02_04.png)
 
 
 
