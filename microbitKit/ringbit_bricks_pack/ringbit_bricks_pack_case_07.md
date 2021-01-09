@@ -61,7 +61,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 
-![](./images/Ringbit_Bricks_Pack_case_02_04.png)
+![](./images/Ringbit_Bricks_Pack_cn_case_02_04.png)
 
 
 
