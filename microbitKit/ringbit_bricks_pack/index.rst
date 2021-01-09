@@ -17,3 +17,4 @@ Ring:bit Bricks Pack
     ringbit_bricks_pack_case_04.md
     ringbit_bricks_pack_case_05.md
     ringbit_bricks_pack_case_06.md
+    ringbit_bricks_pack_case_07.md
