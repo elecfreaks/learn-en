@@ -66,6 +66,7 @@ For programming, we need to add the file of AILens.py. Click Load/Save first and
 ![](./images/05001_10.png)
 
 ### API
+
 | API | Description |
 | :------------: | :-----------: |
 |`AILENS()`|Init AI Lens|
@@ -81,6 +82,7 @@ For programming, we need to add the file of AILens.py. Click Load/Save first and
 |`get_color_data()`|Get the info of the color(s) from the AI Lens to a list(X-axis; Y-axis; Width; Height; Confidence coefficient; Total numbers of color(s); ID of current color(s)).|
 |`learn_object(learn_id)`|Name with an ID number for a learnt object, ID number: 1~5|
 |`get_learn_data()`|Get the info of the learnt object(s) from the AI Lens to a list(ID of the object(s); Confidence coefficient).|
+
 
 `class AILENS(object)`
 
