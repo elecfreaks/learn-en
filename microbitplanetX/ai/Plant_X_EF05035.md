@@ -323,24 +323,38 @@ while True:
 ### Result 
 - A smile face displays on the micro:bit if a "stop" card is detected or it displays a sad face. 
 
+## AI Lens firmware update
 
-## AI Lens firmware download steps 
+For a better experience of the AI Lens, we are making an irregularly update for the new functions and optimization of the performance, a manually update of the firmware is required after the new version is released. 
 
-We need to install a firmware kflash for AI lens, download link: [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z)
+### How to check the current version
 
+![](./images/AI-gj-05.png)
+The current version number shall be displayed on the lower right corner of the boot screen(starting-on page), if there is no prompt, it should be the oldest version, please update asap. 
+
+
+### The newest firmware version
+
+Version V1.0.12[Click to download] (https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg)
+
+
+### Steps of updating 
+
+Firstly, install “kflash” for downloading the firmware, download via [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzip it. 
+
+Open the file folder kflash_gui and find kflash_gui.exe.  
 
 ![](./images/AI-gj-01.png)
 
-Double click kflash_gui.exe and open the file, choose to open firmware v0.4.3.kfpkg in the file folder. Firmware downlaoding link: [v0.4.3.kfpkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v0.4.3.kfpkg).
+Double click it to open the file and choose to open the newest firmware. 
 
 ![](./images/AI-gj-02.png)
 
-Connect the AI lens with the USB wire.
+Connect the AI Lens with the USB wire. 
 
 ![](./images/AI-gj-03.png)
 
-
-Choose the ports and click download to complete it. 
+Choose the port to download it. 
 
 ![](./images/AI-gj-04.png)
 
