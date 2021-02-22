@@ -330,6 +330,7 @@ For a better experience of the AI Lens, we are making an irregularly update for 
 ### How to check the current version
 
 ![](./images/AI-gj-05.png)
+
 The current version number shall be displayed on the lower right corner of the boot screen(starting-on page), if there is no prompt, it should be the oldest version, please update asap. 
 
 
