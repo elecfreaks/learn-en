@@ -61,18 +61,21 @@ The current version number shall be displayed on the lower right corner of the b
 
 ### The newest firmware version
 
-Version V1.0.12[Click to download] (https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg)
+Firstly, install “kflash” for downloading the firmware.
 
+Windows system downloading [kflash_gui_v1.6.5_2_windows.7z] (https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzipping it. 
 
-### Steps of updating 
+macOS system downloading [kflash_gui_v1.6.5_2_macOS.dmg] (https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg) 
 
-Firstly, install “kflash” for downloading the firmware, download via [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzip it. 
-
-Open the file folder kflash_gui and find kflash_gui.exe.  
+For windows system, open the file folder kflash_gui and find kflash_gui.exe.
 
 ![](./images/AI-gj-01.png)
 
-Double click it to open the file and choose to open the newest firmware. 
+For macOS system, click the icon of kflash_gui after the downloading. 
+
+![](./images/AI-gj-06.png)
+
+Double click kflash_gui.exe to open the file and choose to open the newest firmware.
 
 ![](./images/AI-gj-02.png)
 
@@ -83,7 +86,6 @@ Connect the AI Lens with the USB wire.
 Choose the port to download it. 
 
 ![](./images/AI-gj-04.png)
-
 
 
 
