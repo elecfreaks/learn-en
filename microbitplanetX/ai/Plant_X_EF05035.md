@@ -88,6 +88,13 @@ Choose the port to download it.
 ![](./images/AI-gj-04.png)
 
 
+### FAQ
+
+如果在macOS系统下，安装固件下载软件的过程中遇到了由于无法验证开发者而无法安装的情况。
+
+![](./images/AI-gj-07-en.png)
+
+请访问[https://support.apple.com/en-us/HT202491](https://support.apple.com/en-us/HT202491)获取解决方法。
 
 
 
