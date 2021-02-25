@@ -90,11 +90,14 @@ Choose the port to download it.
 
 ### FAQ
 
-如果在macOS系统下，安装固件下载软件的过程中遇到了由于无法验证开发者而无法安装的情况。
+In macOS operation system, if you fail to install the firmware because the developer cannot be verified. 
 
 ![](./images/AI-gj-07-en.png)
 
-请访问[https://support.apple.com/en-us/HT202491](https://support.apple.com/en-us/HT202491)获取解决方法。
+Please visit https://support.apple.com/en-us/HT202491 for solutions.
+
+
+
 
 
 
