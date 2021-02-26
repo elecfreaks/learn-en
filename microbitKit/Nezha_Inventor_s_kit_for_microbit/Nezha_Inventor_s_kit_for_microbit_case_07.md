@@ -45,6 +45,10 @@ RJ11 wires × 1
 
 Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oDzSJMKisO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## MakeCode Programming
 
 ---
