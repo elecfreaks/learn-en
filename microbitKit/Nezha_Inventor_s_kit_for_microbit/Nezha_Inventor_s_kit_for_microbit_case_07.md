@@ -43,7 +43,7 @@ RJ11 wires × 1
 
 
 
-Video reference: [https://makecode.microbit.org/_HjrJ387jw8Xa](https://makecode.microbit.org/_HjrJ387jw8Xa)
+Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
 ## MakeCode Programming
 
