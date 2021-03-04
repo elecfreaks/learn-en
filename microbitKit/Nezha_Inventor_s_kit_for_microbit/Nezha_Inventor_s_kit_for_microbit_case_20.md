@@ -1,4 +1,4 @@
-#Micro:bit Avoiding Bricks
+# Micro:bit Avoiding Bricks
 
 ## Introduction
 
