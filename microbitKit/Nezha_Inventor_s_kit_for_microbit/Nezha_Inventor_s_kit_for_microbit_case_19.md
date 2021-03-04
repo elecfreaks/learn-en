@@ -1,4 +1,4 @@
-#The Automatic Laundry Rack
+# The Automatic Laundry Rack
 
 ## Introduction
 Build an automatic laundry rack with a micro:bit. 
