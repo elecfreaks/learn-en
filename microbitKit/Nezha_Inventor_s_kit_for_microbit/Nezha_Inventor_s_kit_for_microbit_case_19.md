@@ -59,17 +59,17 @@ Video reference: [https://youtu.be/t2mYccra8Vw](https://youtu.be/t2mYccra8Vw)
 ### Step 1
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
-![](./image/case_01_10.png)
+![](./images/case_01_10.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it. 
 
-![](./image/case_01_11.png)
+![](./images/case_01_11.png)
 
 
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "Nezha" in the dialogue box to download it. 
 
-![](./image/case_03_09.png)
+![](./images/case_03_09.png)
 
 
 Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
