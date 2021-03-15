@@ -1,4 +1,4 @@
-# Case 18: Cutebot & AI Lens Discoloring Lights
+# AI Lens Discoloring Lights
 
 ## Purpose
 ---
