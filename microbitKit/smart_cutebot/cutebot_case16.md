@@ -1,4 +1,4 @@
-# Case 16: Cutebot & AI Lens Line-tracking Kit
+# AI Lens Line-tracking Kit
 
 ## Purpose
 ---
