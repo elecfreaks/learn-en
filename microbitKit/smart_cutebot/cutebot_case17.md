@@ -1,4 +1,4 @@
-# Case 17: Cutebot & AI Lens Signpost Car
+# Signpost Car
 
 ## Purpose
 ---
