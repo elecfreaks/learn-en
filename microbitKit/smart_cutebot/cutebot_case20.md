@@ -1,4 +1,4 @@
-# Case 20: Cutebot & AI Lens-One Button to Learn
+# AI Lens-One Button to Learn
 
 ## Purpose 
 ---
