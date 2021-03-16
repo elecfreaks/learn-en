@@ -7,7 +7,7 @@
 ## Materials
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
-- 1 x IR Remote Control
+- 1 x [IR Remote Control](https://www.elecfreaks.com/infrared-remote-control.html)
 ## Software Platform
 ---
 [MicroSoft makecode](https://makecode.microbit.org/#)
