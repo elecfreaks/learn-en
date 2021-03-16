@@ -7,8 +7,8 @@
 
 ## Materials 
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/store/cute-bot.html)
-- 1 x [micro:bit](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-18615042388.1.410d58b3rNtft8&id=562621059348&scene=taobao_shop)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [micro:bit](https://www.elecfreaks.com/microbit_edu.html)
 
 ## Software Platform 
 
