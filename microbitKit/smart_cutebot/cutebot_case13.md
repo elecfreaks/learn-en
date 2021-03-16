@@ -6,8 +6,8 @@
 
 ## Materials 
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/store/cute-bot.html)
-- 1 x [Joystick:bit2](https://www.elecfreaks.com/store/elecfreaks-joystick-bit-2-for-micro-bit.html)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [Joystick:bit2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
 
 
 ## Software Platform 
