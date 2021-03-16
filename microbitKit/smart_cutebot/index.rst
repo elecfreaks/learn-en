@@ -26,12 +26,7 @@ Smart Cutebot kit
     cutebot_case13.md
     cutebot_case14.md
     cutebot_case15.md
-    cutebot_case16.md
-    cutebot_case17.md
-    cutebot_case18.md
-    cutebot_case19.md
-    cutebot_case20.md
-    cutebot_case21.md
+    cutebot+AI lens/index
  
     
     
