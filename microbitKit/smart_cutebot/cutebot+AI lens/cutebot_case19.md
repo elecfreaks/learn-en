@@ -1,4 +1,4 @@
-# Case 19: Cutebot & AI Lens Balls Tracking
+#  Cutebot & AI Lens Balls Tracking
 
 ## Purpose 
 ---
