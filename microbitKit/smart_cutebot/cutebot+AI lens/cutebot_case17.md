@@ -6,7 +6,7 @@
 
 ## Materials required
 ---
-- 1 × [Cutebot V3.0](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
 - 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 
