@@ -1,4 +1,4 @@
-# Case 21: Cutebot & AI Lens- Face Tracking
+# Cutebot & AI Lens- Face Tracking
 
 ## Purpose
 ---
