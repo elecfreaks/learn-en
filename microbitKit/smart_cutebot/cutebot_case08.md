@@ -6,7 +6,7 @@
 
 ## Materials 
 ---
-- 1 x [Cutebot kit](https://www.elecfreaks.com/store/cute-bot.html)
+- 1 x [Cutebot kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 - 1 x Line-tracking Map(Homemade or enclosed in the Cutebot Kit)
 
 ## Software Platform 
