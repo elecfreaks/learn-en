@@ -58,6 +58,10 @@ For a better experience of the AI Lens, we are making an irregularly update for 
 
 The current version number shall be displayed on the lower right corner of the boot screen(starting-on page), if there is no prompt, it should be the oldest version, please update asap. 
 
+### Latest version firmware
+
+firmware v1.0.12 [click to download](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/v1.0.12.kfpkg)。
+
 
 ### The newest firmware version
 
