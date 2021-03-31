@@ -64,12 +64,17 @@ firmware v1.0.12 [click to download](https://github.com/elecfreaks/learn-cn/raw/
 
 
 ### The newest firmware version
+1. First, installation of camera serial port driver
 
-Firstly, install “kflash” for downloading the firmware.
+Windows system downloading [CH341SerSetup.exe](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH341SerSetup.exe)
 
-Windows system downloading [kflash_gui_v1.6.5_2_windows.7z] (https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzipping it. 
+macOS system downloading [CH34x_Install_V1.5.pkg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH34x_Install_V1.5.pkg)
 
-macOS system downloading [kflash_gui_v1.6.5_2_macOS.dmg] (https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg) 
+2. Install “kflash” for downloading the firmware.
+
+Windows system downloading [kflash_gui_v1.6.5_2_windows.7z](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_windows.7z) and unzipping it. 
+
+macOS system downloading [kflash_gui_v1.6.5_2_macOS.dmg](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/kflash_gui_v1.6.5_2_macOS.dmg) 
 
 For windows system, open the file folder kflash_gui and find kflash_gui.exe.
 
