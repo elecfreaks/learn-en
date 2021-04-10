@@ -1,7 +1,7 @@
-# Case 16: Light Show
+# Case 16: Memory Test 
 
 ## Introduction 
-Build a light show device with the micro:bit. 
+Build a memory test  device with the micro:bit. 
 
 ![](./images/case_16_01.png)
 
