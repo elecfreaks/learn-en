@@ -46,11 +46,11 @@ Bricks × n
 ---
 - Build a device as the pictures indicate: 
 
-![](./images/)
+![](./images/case_17_04.png)
 
-![](./images/)
+![](./images/case_17_05.png)
 
-![](./images/)
+![](./images/case_17_06.png)
 
 
 Video link:[https://youtu.be/bYN6-6PskHQ](https://youtu.be/bYN6-6PskHQ)
