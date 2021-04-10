@@ -39,7 +39,7 @@ Bricks × n
 - Connect the red LED to the J1 port on Nezha expansion board. 
 
 
-![](./images/)
+![](./images/case_17_03.png)
 
 
 ### Bricks Build-up 
