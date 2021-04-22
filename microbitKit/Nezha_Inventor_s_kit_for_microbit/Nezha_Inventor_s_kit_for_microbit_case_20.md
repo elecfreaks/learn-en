@@ -1,4 +1,4 @@
-# Micro:bit Avoiding Bricks
+# case 20：Micro:bit Avoiding Bricks
 
 ## Introduction
 
@@ -19,7 +19,7 @@ micro:bit × 1
 
 ### Connections Diagram
 ---
-- 将micro:bit插入哪吒扩展板。
+- Connect the micro:bit to Nezha expansion board.
 
 
 ![](./images/case_18_03.png)
@@ -108,9 +108,9 @@ On start
 
 
 ### Link
-请参考程序连接：[https : //makecode.microbit.org/_AF1g8HYYeTjH](https://makecode.microbit.org/_AF1g8HYYeTjH)
+Link: [https : //makecode.microbit.org/_AF1g8HYYeTjH](https://makecode.microbit.org/_AF1g8HYYeTjH)
 
-你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
+You may download it directly here:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AF1g8HYYeTjH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 ---
