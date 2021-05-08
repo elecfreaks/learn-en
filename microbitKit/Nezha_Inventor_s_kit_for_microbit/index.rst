@@ -29,4 +29,6 @@ Nezha Inventor's kit for micro:bit
     Nezha_Inventor_s_kit_for_microbit_case_18.md
     Nezha_Inventor_s_kit_for_microbit_case_19.md
     Nezha_Inventor_s_kit_for_microbit_case_20.md
+    Nezha_Inventor_s_kit_for_microbit_case_21.md
+    Nezha_Inventor_s_kit_for_microbit_case_22.md
 
