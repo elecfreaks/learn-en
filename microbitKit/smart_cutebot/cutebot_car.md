@@ -25,11 +25,10 @@ There are many on-board equipments on the Cutebot including ultrasonic sensor an
 |:-:|:-:|
 |Working Voltage| 3.5V — 5V |
 | Dimension |85.68mm X 85.34mm X 38.10mm|
-|Buzzer|Active buzzer connects to P0|
 |Infrared Control|Connect to P16|
 |RGB Headlights|2 x RGB|
 |Rainbow LED|2 x Neopixel connect to P15|
-| Connection |IIC Port(P19,P20)、Ultrasonic Port、P1、P2(GVS lead-out)|
+| Connection |IIC Port(P19,P20)、Servo Port(S1, S2)、Ultrasonic Port、P1、P2(GVS lead-out)|
 | Motor Type |GA12-N20 DC micro gear deceleration motor(300 RPM)|
 | Ultrasonic Sensor Type |HC-SR04(2cm-400cm Contactless distance detection, precision ±1.5mm)|
 
@@ -45,12 +44,6 @@ Two full color RGB lights controlled by the expansion board are placed on both s
 
 ![](./images/cutebot_01_03.jpg)
 
-- - - - -
-
-The on-board buzzer connecting to P0 port on the micro:bit can be alarmed by the bricks in `Music`
-
-
-![](./images/cutebot_01_13.jpg)
 
 - - - - -
 
@@ -60,7 +53,7 @@ An expansion board for 3x AA batteries is placed in the right above part of the 
 
 - - - - -
 
-The IIC port and P1,P2 IO connections are equipped in the battery expansion board.
+The IIC port and Servo Port(S1, S2), P1,P2 IO connections are equipped in the battery expansion board.
 
 ![](./images/cutebot_01_05.jpg)
 
