@@ -38,10 +38,10 @@ Bricks × n
 ### Bricks Build-up
 
 - Build it as below
-![](./images/case_23_04)
-![](./images/case_23_05)
-![](./images/case_23_06)
-![](./images/case_23_07)
+![](./images/case_23_04.png)
+![](./images/case_23_05.png)
+![](./images/case_23_06.png)
+![](./images/case_23_07.png)
 Link: [https://youtu.be/iJO1XlIaWwE](https://youtu.be/iJO1XlIaWwE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJO1XlIaWwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
