@@ -22,7 +22,7 @@ Bricks × n
 
 ### Bricks details
 
-![](./images/Bricks_case_23.png)
+![](./images/case_23_02.png)
 
 
 
