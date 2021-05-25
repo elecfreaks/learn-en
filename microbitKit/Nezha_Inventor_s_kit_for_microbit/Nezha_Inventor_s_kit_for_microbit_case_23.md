@@ -38,6 +38,7 @@ Bricks × n
 ### Bricks Build-up
 
 - Build it as below
+-
 ![](./images/case_23_04.png)
 ![](./images/case_23_05.png)
 ![](./images/case_23_06.png)
