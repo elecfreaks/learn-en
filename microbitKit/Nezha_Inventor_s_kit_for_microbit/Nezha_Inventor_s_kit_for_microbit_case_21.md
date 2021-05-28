@@ -1,4 +1,4 @@
-#An Oscillating Fan
+# case 21 An Oscillating Fan
 
 ## Introduction
 Build an oscillating fan with the micro:bit.
