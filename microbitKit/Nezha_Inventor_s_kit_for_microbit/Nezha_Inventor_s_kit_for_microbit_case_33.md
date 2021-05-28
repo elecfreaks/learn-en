@@ -1,4 +1,4 @@
-Case 33: Color-controlled Lights
+# Case 33: Color-controlled Lights
 
 ## Introduction
 To make a color-controlled lights system.
