@@ -64,13 +64,15 @@ After programming, connect the computer with the Retro via the USB cable.
 
   ![](./images/retro-case-01-12.png)
   
+- Click downloading to compile the program into the Retro. 
+
+  ![](./images/retro-case-01-14.png)
+
+  
 - Click the reset button on the Retro and go to the downloading page. 
 
   ![](./images/retro-case-01-13.png)
   
-- Click downloading to compile the program into the Retro. 
-
-![](./images/retro-case-01-14.png)
 
 
 
