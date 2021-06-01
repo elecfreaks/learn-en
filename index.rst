@@ -34,3 +34,4 @@ Welcome to micro:bit WIKI
    microbitOctopus/sensor/index
    microbitplanetX/index
    microbitExtensionModule/index
+   Retro Arcade for Education/index
