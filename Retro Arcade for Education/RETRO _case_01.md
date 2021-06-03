@@ -25,7 +25,7 @@
 
 - Create a spirite project, set move it with buttons and set it stay in screen with "on" and start screen with clouds. 
 
-![](./images/retro-case-02-01.png)
+![](./images/retro-case-03-01.png)
 
 - Set life to 3 in the on start block. Choose on game update every seconds block and set it as 1 sec, set the projectile catapult  from side VX 0 VY 50. Set change life by -1 while crashing the enemy and destroy it. 
 
