@@ -22,7 +22,7 @@
 
 ![](./images/retro-01.png)
 
-![](./images/retro-02.png)
+
 
 ### On/Off Button
 
