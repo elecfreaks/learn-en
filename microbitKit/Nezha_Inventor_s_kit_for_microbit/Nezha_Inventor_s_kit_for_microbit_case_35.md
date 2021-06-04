@@ -24,6 +24,8 @@ Rainbow LED ring  × 1
 
 Bricks × N
 
+Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+
 ### Bricks Required
 
 ![](./images/Bricks_case_34.png)
