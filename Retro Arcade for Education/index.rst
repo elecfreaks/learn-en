@@ -8,7 +8,7 @@ Retro Arcade for Education
     :numbered: 2
     
    RETRO.md 
-   RETRO _case_01.md
-   RETRO _case_02.md
-   RETRO _case_03.md
+   RETRO_case_01.md
+   RETRO_case_02.md
+   RETRO_case_03.md
  
