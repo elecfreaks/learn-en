@@ -36,6 +36,10 @@ Connect the relay module to P1 on octopus:bit using a jumper cable. Insert micro
 
 ![](./images/cJGeHvd.png)
 
+While connecting the cables with the Relay, please use screwdrivers to loosen the screws on the Relay first to make sure the cables get connected properly. 
+
+![](./images/smart_home_kit_case_05_06.png)
+
 ### Software Programming
 
 Click to open [Makecode](https://makecode.microbit.org/), write your code in the editor area. Set high electric level to P1 port to make the normally open contact close and the normally closed contact open. Thus, we are able to control the connection of contact switch through code.
