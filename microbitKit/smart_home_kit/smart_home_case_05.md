@@ -34,6 +34,9 @@ Preparing a tank and paste devices as below piture:
 
 ![](./images/LRBAV68.png)
 
+While connecting the cables with the Relay, please use screwdrivers to loosen the screws on the Relay first to make sure the cables get connected properly. 
+
+![](./images/smart_home_kit_case_05_06.png)
 
 
 
