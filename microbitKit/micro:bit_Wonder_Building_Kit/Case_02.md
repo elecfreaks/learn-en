@@ -32,7 +32,7 @@ Search with Wukong in the dialogue box to download it.
 
 ### Program
  
-![](./images/)
+![](./images/case-02-05.png)
 
 Link:[https://makecode.microbit.org/_09y508g6EMK2](https://makecode.microbit.org/_09y508g6EMK2)
 
