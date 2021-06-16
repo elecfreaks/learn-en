@@ -28,7 +28,7 @@ Search with Wukong in the dialogue box to download it.
 
 ![](./images/case-01-04.png)
  
- ![](./images/case-01-05.png)
+![](./images/case-01-05.png)
 
 ### Program
  
