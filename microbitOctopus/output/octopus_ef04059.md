@@ -14,7 +14,7 @@
 ---
 Item | Parameter 
 :-: | :-: 
-     Power Supply      |3.3V-5V
+Power Supply | 3.3V-5V
 N-MOS| IRLML2502TRPBF can support high currency power 
 Low power consumption|Working current 120mA
 Working Temperature|-25~85℃
