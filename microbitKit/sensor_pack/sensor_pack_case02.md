@@ -1,4 +1,4 @@
-# Case 02: Potentiometer
+# Case02: Potentiometer
 
 ## Purpose
 ---
