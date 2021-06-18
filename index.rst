@@ -26,6 +26,7 @@ Welcome to micro:bit WIKI
    microbitKit/robit_smart_car/index
    microbitKit/smart_cutebot/index
    microbitKit/Mecanum_wheel_car_kit/index
+   microbitKit/Wonder_Building_Kit/index
    microbitKit/Nezha_Inventor_s_kit_for_microbit/index
    microbitKit/iot_kit/index
    microbitKit/TPbot_tianpeng/index
