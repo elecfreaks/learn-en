@@ -1,4 +1,4 @@
-# Case 03: PIR sensor
+# Case03: PIR sensor
 
 ## Purpose
 ---
