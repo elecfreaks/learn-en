@@ -1,4 +1,4 @@
-# Case 05: Servo
+# Case05: Servo
 
 ## Purpose
 ---
