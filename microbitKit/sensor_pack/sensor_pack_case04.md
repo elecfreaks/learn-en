@@ -1,4 +1,4 @@
-# Case 04: Soil Moisture Sensor
+# Case04: Soil Moisture Sensor
 
 ## Purpose
 ---
