@@ -1,4 +1,4 @@
-# Case 06: Rainbow LED
+# Case06: Rainbow LED
 
 ## Purpose
 ---
