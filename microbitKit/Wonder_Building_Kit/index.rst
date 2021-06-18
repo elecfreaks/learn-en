@@ -1,7 +1,7 @@
-Wonder_Building_Kit
+Wonder Building Kit
 =====================
 
-Wonder_Building_Kit
+Wonder Building Kit
 
 
 .. toctree::
