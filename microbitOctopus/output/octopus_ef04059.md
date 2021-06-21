@@ -51,7 +51,6 @@ You can also download the links below:
 
 ### Result
 
-- 当按下A键时电机旋转，当按下B键时电机停止旋转。
 - While pressing button A, the motor starts rotating; while pressing button B, the motor stops rotating.
 
 ## Relevant Cases
