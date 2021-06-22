@@ -33,18 +33,18 @@ Note: If you met a tip indicating codebase will be deleted due to incompatibilit
 
 ### Step 3
 
-- Set the car to move at its full speed while button "up" being pressed on the remote controller;  to reverse at its full speed while button "down" being pressed; to turn left at its full speed while button "Left" being pressed; to turn right at its full speed while button "Right" being pressed and to stop immediately while button "OK" being pressed. 
+- Judge the instructions given from the pressed buttons while receiving IR signals,Set the car to move at its full speed while button "up" being pressed on the remote controller;  to reverse at its full speed while button "down" being pressed; to turn left at its full speed while button "Left" being pressed; to turn right at its full speed while button "Right" being pressed and to stop immediately while button "OK" being pressed. 
 
 ![](./images/case_14_02.png)
 
 ### Link
 
-Link：[https://makecode.microbit.org/_2z1a3APfPLT3](https://makecode.microbit.org/_2z1a3APfPLT3)
+Link：[https://makecode.microbit.org/_7PkWjwM9RTjH](https://makecode.microbit.org/_7PkWjwM9RTjH)
 
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_2z1a3APfPLT3" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_7PkWjwM9RTjH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 ---
