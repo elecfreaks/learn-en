@@ -52,11 +52,11 @@ Core IC|PN5321A3
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.
 
-![](./_image/05001_04.png)
+![](./image/05001_04.png)
 
 We need to add a package for programming. Click "Extensions" in the bottom of the drawer and search with "PlanetX" in the dialogue box to download it. 
 
-![](./_image/05001_05.png)
+![](./image/05001_05.png)
 
 Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 ### Step 2
