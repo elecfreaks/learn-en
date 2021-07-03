@@ -21,7 +21,7 @@ SKU|EF05038
 Connection|RJ11
 Connection Type|Digital input
 Working Voltage|3.3V
-Core IC|SNR3512M
+Core IC|YX6300
 
 
 
