@@ -165,9 +165,9 @@ You may also download it directly below:
 
 ### 现象
 ---
-- 当开机时连接WIFI
-- 循环判断是否连接WIFI，如果连接显示颗大心，如果未连接就继续连接。
-- 循环判断kidsIot平台是否连接，如果连接显示一颗小心，如果未连接就继续连接。
-- 循环判断如果KidsIot连接成功则上传一个数据“从0至10之间选取随机数”到平台
-- 如果平台开关打开点亮LED灯
-- 如果平台开关关闭熄灭LED灯
+-  Connect WIFI after powering on
+- In the forever brick, judge if WIFI is successfully connected, if yes, it displays a big heart icon; or it keeps trying. 
+- In the forever brick, judge if KidsIoT is successfully connected, if yes, it displays a small heart icon; or it keeps trying. 
+- If the kidsIoT is successfully connected, a random value from 0~10 will be uploaded to the platform. 
+- Turn on the switch on the platform to turn on the LED. 
+- Turn off the switch on the platform to turn off the LED.
