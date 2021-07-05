@@ -43,6 +43,7 @@ For Joystick:bit:
 ![](./images/case-08-05.png)
 
 Link:[https://makecode.microbit.org/_H50J7qeA3FvT](https://makecode.microbit.org/_H50J7qeA3FvT)
+
 For the robot arm:
 
 ![](./images/case-08-06.png)
