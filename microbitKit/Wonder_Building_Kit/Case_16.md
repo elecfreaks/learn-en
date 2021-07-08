@@ -15,7 +15,7 @@ To make a road sweeper.
 
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=16&page=16](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=16&page=16)
+[https://youtu.be/kdY41mPGvRI](https://youtu.be/kdY41mPGvRI)
 
 ## Software Platform
 
