@@ -13,7 +13,7 @@ To make a crawler.
 ![](./images/case-19-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=19&page=19](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=19&page=19)
+[https://youtu.be/s7h1DxN7FxI](https://youtu.be/s7h1DxN7FxI)
 
 ## Software Platform
 
