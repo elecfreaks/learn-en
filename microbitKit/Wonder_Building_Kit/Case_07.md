@@ -13,7 +13,7 @@ To make a basketball counter.
 ![](./images/case-07-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=7&page=7](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=7&page=7)
+[https://youtu.be/0P88GP4RQaw](https://youtu.be/0P88GP4RQaw)
 
 ## Software Platform
 
