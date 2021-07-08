@@ -15,7 +15,7 @@ To make a robot arm.
 ![](./images/case-08-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=8&page=8](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=8&page=8)
+[https://youtu.be/IRJKXAfJf9M](https://youtu.be/IRJKXAfJf9M)
 
 ## Software Platform
 
