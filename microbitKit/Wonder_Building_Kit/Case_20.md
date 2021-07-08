@@ -13,7 +13,7 @@ To make a smart arier.
 ![](./images/case-20-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=20&page=20](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=20&page=20)
+[https://youtu.be/ZjROexNQT1I](https://youtu.be/ZjROexNQT1I)
 
 ## Software Platform
 
