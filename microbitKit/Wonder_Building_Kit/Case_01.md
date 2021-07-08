@@ -12,7 +12,7 @@ To make a motorcycle with the Wonder Building kit.
 ![](./images/case-01-02.png) 
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM](https://player.bilibili.com/player.html?bvid=BV1V64y117zM)
+[https://youtu.be/rLnMMkofipM](https://youtu.be/rLnMMkofipM)
 
 ## Software Platform
 
