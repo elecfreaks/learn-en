@@ -13,7 +13,7 @@ To make a gyroscope baseboard.
 ![](./images/case-03-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=3&page=3](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=3&page=3)
+[https://youtu.be/XC_tynRRxR0](https://youtu.be/XC_tynRRxR0)
 
 ## Software Platform
 
