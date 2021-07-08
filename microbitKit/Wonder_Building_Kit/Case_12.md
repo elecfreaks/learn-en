@@ -14,7 +14,7 @@ To make a forklift.
 ![](./images/case-12-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=12&page=12](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=12&page=12)
+[https://youtu.be/PIhMVJYBMhM](https://youtu.be/PIhMVJYBMhM)
 
 ## Software Platform
 
