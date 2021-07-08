@@ -13,7 +13,7 @@ To make a bigfoot monster.
 ![](./images/case-06-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=6&page=6](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=6&page=6)
+[https://youtu.be/ODPzpMuwe7I](https://youtu.be/ODPzpMuwe7I)
 
 ## Software Platform
 
