@@ -13,7 +13,7 @@ To make a seesaw.
 ![](./images/case-13-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=13&page=13](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=13&page=13)
+[https://youtu.be/2qZLmY6tJRs](https://youtu.be/2qZLmY6tJRs)
 
 ## Software Platform
 
