@@ -14,7 +14,7 @@ To make an aerial ladder truck.
 ![](./images/case-18-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=18&page=18](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=18&page=18)
+[https://youtu.be/hWmRBTFC3cs](https://youtu.be/hWmRBTFC3cs)
 
 ## Software Platform
 
