@@ -13,7 +13,7 @@ To make an automatic door.
 ![](./images/case-09-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=9&page=9](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=9&page=9)
+[https://youtu.be/JimDF7ArSjQ](https://youtu.be/JimDF7ArSjQ)
 
 ## Software Platform
 
