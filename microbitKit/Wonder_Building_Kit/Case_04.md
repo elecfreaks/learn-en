@@ -13,7 +13,7 @@ To make an obstacle-avoidance car.
 ![](./images/case-04-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=4&page=4](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=4&page=4)
+[https://youtu.be/jYkSCfRpj1Y](https://youtu.be/jYkSCfRpj1Y)
 
 ## Software Platform
 
