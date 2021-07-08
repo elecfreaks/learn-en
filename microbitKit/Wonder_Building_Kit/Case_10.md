@@ -13,7 +13,7 @@ To make a boating car.
 ![](./images/case-10-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=10&page=10](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=10&page=10)
+[https://youtu.be/mT2DdwNPeks](https://youtu.be/mT2DdwNPeks)
 
 ## Software Platform
 
