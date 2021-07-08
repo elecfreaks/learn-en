@@ -13,7 +13,7 @@ To make a guitar that is able to read ranges.
 ![](./images/case-14-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=14&page=14](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=14&page=14)
+[https://youtu.be/B_P8gOaA0Gc](https://youtu.be/B_P8gOaA0Gc)
 
 ## Software Platform
 
