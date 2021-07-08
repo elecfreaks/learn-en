@@ -13,7 +13,7 @@ To make a tiny sky wheel.
 ![](./images/case-11-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=11&page=11](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=11&page=11)
+[https://youtu.be/dbboivj1E64](https://youtu.be/dbboivj1E64)
 
 ## Software Platform
 
