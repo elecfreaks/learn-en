@@ -13,7 +13,7 @@ To make a rotary chair project.
 ![](./images/case-05-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=5&page=5](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=5&page=5)
+[https://youtu.be/owKA9El5Or0](https://youtu.be/owKA9El5Or0)
 
 ## Software Platform
 
