@@ -13,7 +13,7 @@ To make a walking robot.
 ![](./images/case-15-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=15&page=15](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=15&page=15)
+[https://youtu.be/ohn8NMhKybw](https://youtu.be/ohn8NMhKybw)
 
 ## Software Platform
 
