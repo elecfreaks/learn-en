@@ -13,7 +13,7 @@ To make a rickshaw.
 ![](./images/case-17-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=17&page=17](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=17&page=17)
+[https://youtu.be/qHvM-sRProA](https://youtu.be/qHvM-sRProA)
 
 ## Software Platform
 
