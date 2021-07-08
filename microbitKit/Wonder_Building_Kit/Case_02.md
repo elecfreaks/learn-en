@@ -13,7 +13,7 @@ To make a line following car.
 ![](./images/case-02-02.png)
 
 Video link:
-[https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=2&page=2](https://player.bilibili.com/player.html?bvid=BV1V64y117zM&p=2&page=2)
+[https://youtu.be/J2QKDKnTklw](https://youtu.be/J2QKDKnTklw)
 
 ## Software Platform
 
