@@ -42,11 +42,11 @@ For Joystick:bit:
 
 ![](./images/case-08-05.png)
 
-Link:[https://makecode.microbit.org/_H50J7qeA3FvT](https://makecode.microbit.org/_H50J7qeA3FvT)
+Link:[https://makecode.microbit.org/_3mK9cbULkLCy](https://makecode.microbit.org/_3mK9cbULkLCy)
 
 For the robot arm:
 
 ![](./images/case-08-06.png)
 
-Link:[https://makecode.microbit.org/_L5YAk7b887dC](https://makecode.microbit.org/_L5YAk7b887dC)
+Link:[https://makecode.microbit.org/_Wh1gkFXdph36](https://makecode.microbit.org/_Wh1gkFXdph36)
 
