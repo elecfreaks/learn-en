@@ -10,6 +10,7 @@ TPBot(TianPeng)
 
 
     TPBot_tianpeng.md
+    TPbot-python.md
     TPBot_tianpeng_case_01.md
     TPBot_tianpeng_case_02.md
     TPBot_tianpeng_case_03.md
