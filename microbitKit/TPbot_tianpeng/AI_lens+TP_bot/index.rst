@@ -1,7 +1,7 @@
-TPBot(TianPeng)
+AI_lens+TP_bot(AI_lens+TP_bot)
 =====================
 
-TPBot(TianPeng)
+AI_lens+TP_bot(AI_lens+TP_bot)
 
 
 .. toctree::
