@@ -30,3 +30,4 @@ TPBot(TianPeng)
     TPBot_tianpeng_case_17.md
     TPBot_tianpeng_case_18.md
     TPBot_tianpeng_case_19.md
+    AI_lens+TP_bot/index
