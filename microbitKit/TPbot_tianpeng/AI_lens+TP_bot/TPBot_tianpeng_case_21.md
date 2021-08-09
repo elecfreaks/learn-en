@@ -24,7 +24,7 @@
 
 Connect the AI Lens to the IIC port on TPBot. 
 
-![](./images/TPBot_tianpeng_case_19_03.png)
+![](./images/TPBot_tianpeng_case_20_03.png)
 
 ## Software 
 
