@@ -1,4 +1,4 @@
-# Neopixel Rainbow LED Strip and GVS Connector -10 LEDs
+# Rainbow LED Strip and GVS Connector -10 LEDs
 
 ## Introduction
 ---
