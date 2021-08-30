@@ -95,7 +95,7 @@ Note：If there is a hint says some codebase will be deleted because of incompat
 
 ### Step 2
 
-Snap the on start block from the Basic, then snap the set to NeoPixel at pin with leds as from the Neopixel. Initialize the rainbow LED to RGB of the P2 port.
+Snap the on start block from the Basic, then snap the set to RainbowLED at pin with leds as from the RainbowLED. Initialize the rainbow LED to RGB of the P2 port.
 
 ![](./images/1912tDD.png)
 
