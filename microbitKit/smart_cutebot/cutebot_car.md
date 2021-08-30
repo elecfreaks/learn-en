@@ -27,7 +27,7 @@ There are many on-board equipments on the Cutebot including ultrasonic sensor an
 | Dimension |85.68mm X 85.34mm X 38.10mm|
 |Infrared Control|Connect to P16|
 |RGB Headlights|2 x RGB|
-|Rainbow LED|2 x Neopixel connect to P15|
+|Rainbow LED|2 x RainbowLED connect to P15|
 | Connection |IIC Port(P19,P20)、Servo Port(S1, S2)、Ultrasonic Port、P1、P2(GVS lead-out)|
 | Motor Type |GA12-N20 DC micro gear deceleration motor(300 RPM)|
 | Ultrasonic Sensor Type |HC-SR04(2cm-400cm Contactless distance detection, precision ±1.5mm)|
