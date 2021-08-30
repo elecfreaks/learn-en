@@ -43,7 +43,7 @@ The base board designs with standard 7x5 square bricks that can adapt perfectly 
 | Motor Drive |Dual (M1，M2)|Motor drive circuit onboard |-|
 | Servo Drive |Eight ways servo connection (S0~S7)|Servo drive circuit onboard|-|
 | IO Port Lead Out |P0、P1、P2、P8、P12、P13、P14、P15、IIC|Support 3V&5V modules|GVS|
-| Rainbow LED |LED0、LED1、LED2、LED3|Available for Neopixel database|Connect to micro:bit P16 port|
+| Rainbow LED |LED0、LED1、LED2、LED3|Available for RainbowLED database|Connect to micro:bit P16 port|
 | Buzzer |Passive buzzer with a switch on board|Available for music database|Connect to micro:bit P0 port|
 | LED |8 LEDs can be programmed on the base side|Light on, twinkle, breathing light|The LED twinkles when power on| Lego baseboard |Standard 7x5 rectangle base board|Battery is attached in the middle of the baseboard|-|
 
