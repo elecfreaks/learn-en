@@ -1,109 +1,136 @@
-# sonar:bit 
+# Sonar:bit
 
 ## Introduction
+Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V. It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only. It's available for short distance measuring in robtics device, micro:bit and Arduino etc.
+
+![](./images/04089_01.png)
+
+
+
+## Characteristics 
+---
+- The input voltage is 3V~5V, both micro:bit and Arduino are able to drive it.
+
+- Standard 3-GVS cable, occupy one IO port only. 
+## Specification
 ---
 
-Sonar:bit is an ultrasonic module with 3-5V working voltage. It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only. You can use this module to occasions like short-distance measurement, smart cars, robots, micro:bit and arduino teaching, etc..
+|Item| Parameter |
+|:-:|:-:|
+|Name| Sonar:bit|
+|SKU|EF04089|
+|Input Voltage|DC 3-5V|
+|Measurement Distance|4-400cm|
+|Tolerance|1cm|
+|Size |40.60× 51.60mm|
+|Net Weight|12g|
 
-![](./images/pdBREKf.jpg)
 
 
-## Features
+
+
+## Outlook and dimensions
 ---
-- Input voltage:3V~5V
-- Enable to drive micro:bit or arduino directly.
-- Standard 3-wire GVS connecotr, which occupies 1 IO port only. 
-
-## Parameter
----
-
-![](./images/G7YHeuJ.png)
 
 
-## Dimension
----
-![](./images/h4HcvxO.jpg)
 
-## Definition of Pins
----
+![](./images/04089_03.png)
+
+
+## Pins diagram 
+
 ![](./images/7E5ECzN.jpg)
 
+The probes send out and receive ultrasonic signals. 
 
-## Introduction of Major Components
----
+##Main parts information
 
-### Transmitter
+###Emitting probes
 
 ![](./images/T1xDsne.jpg)
 
-Transmitter is used to send ultrasonic signals. 
+The emmiting probes send out ultrasonic signals. 
 
-### Receiver
+###Receving probes
 
 ![](./images/JxNrz8Q.jpg)
 
-Receiver is for collecting ultrasonic signals. 
+The receiving probes receive ultrasonic signals. 
 
-### MCU
+###Chips MCU
 
 ![](./images/2CjnvfP.jpg)
 
-This is the master chip of sonar:bit. 
+Core controlling chips
 
-### Chip for Sending Signal
+###Emitting signals driving chips
 
 ![](./images/iOW0IN3.jpg)
 
-This chip is used to drive the transmitter to send out ultrasonic signals. 
+The transmitting signal driving chip is used to provide the transmitting ultrasonic signal for driving the ultrasonic transmitting probe.
 
-### Chip for Receiving Signal
+###Receiving signals driving chips
 
 ![](./images/VxEZ5KQ.jpg)
 
-This chip is used to receive and process ultrasonic echo signals as well as give feedbacks to the master chip. 
+。The receiving signal processing chip is used for receiving and processing the ultrasonic echo signal, and feeding back the processed signal to the main control chip.
 
-### G-V-S Port
+###G-V-S controlling port 
 
 ![](./images/N9yc6Jm.jpg)
 
-G-V-S port allows outer devices control.
+G-V-S are used for the controlling of the sonar:bit by other devices. 
 
-
-## Quick Start
+## Quick start
 ---
 
-### Hardware Connection  
+### Materails required and connections diagram
+---
 
-Connect sonar:bit to P2 port on sensor:bit and connect micro:bit to your computer.  
-Once completed, you can see the picture below:
+- Connect the sonar:bit to the P1 port of the iot:bit and the micro:bit to the computer. 
 
-![](./images/fvYx5lR.jpg)
+***Take iot:bit for an example***
 
-![](./images/wCftg3Y.jpg)
 
-### Programming
 
-Click to open [Makecode](https://makecode.microbit.org/) online editor.
+![](./images/04089_04.png)
 
-Write your program to assign the returned value of P2 to variable distance and display it on micro:bit screen.
 
-![](./images/sbRh3HL.png)
+### Step 1
+ Click “Advanced“ in the MakeCode drawer and click “Extentions“ to see more choices. 
 
-You can see the whole program from the link here: [https://makecode.microbit.org/_b7JL2Yd3q3Km](https://makecode.microbit.org/_b7JL2Yd3q3Km)
 
-Or you can download it from the page below:
+![](./images/04089_05.png)
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_b7JL2Yd3q3Km" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+We need to add a package for programming, . Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-sonarbit” in the dialogue box to download it.
+
+![](./images/04089_06.png)
+
+
+Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
+
+### Step 2
+In forever block, show the returned value from Sonar:bit in digit. 
+
+
+![](./images/04089_07.png)
+
+
+
+
+### Reference
+Link: [https://makecode.microbit.org/_eyU2yC79fXyc](https://makecode.microbit.org/_eyU2yC79fXyc)
+
+You may also download it directly below:
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_eyU2yC79fXyc" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+---
 
 ### Result
-
-We can see the distance between sonar:bit and the object is displayed on micro:bit in real time. The unit is centimeter. 
-
-
-## Document
+- The distance between the ultrasonic module and the object is displayed on the micro:bit with unit in cm.
+## Relevant Projects
 ---
-WIKI
 
-
-## FAQ
+## Technical File
 ---
