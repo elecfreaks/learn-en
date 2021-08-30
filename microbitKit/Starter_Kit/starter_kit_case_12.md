@@ -5,7 +5,7 @@
 ## Introduction
 
 ---
-micro:bit has integrated multiple sensors including accelerometer. Today, we are going to use accelerometer to make a level device and display the inclination on NeoPixel ring in bar chart format.
+micro:bit has integrated multiple sensors including accelerometer. Today, we are going to use accelerometer to make a level device and display the inclination on RainbowLED ring in bar chart format.
 
 ## Component List
 
@@ -16,7 +16,7 @@ micro:bit has integrated multiple sensors including accelerometer. Today, we are
 - 1 x USB Cable
 - 1 x micro:bit Breadboard Adapter
 - 1 x Transparent Breadboard - 83 * 55 mm
-- 1 x 8 RGB LED NeoPixel Ring
+- 1 x 8 RGB RainbowLED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
 ****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
