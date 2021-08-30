@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Do you know compass? I believe most of you have played it ever. Today I am going to use micro:bit to create a compass and display its direction on NeoPixels ring. Want to know how I do it? Just read the article below and follow my steps. Let’s go!
+Do you know compass? I believe most of you have played it ever. Today I am going to use micro:bit to create a compass and display its direction on RainbowLED ring. Want to know how I do it? Just read the article below and follow my steps. Let’s go!
 
 ## Component List
 
