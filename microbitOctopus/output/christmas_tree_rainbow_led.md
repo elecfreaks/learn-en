@@ -54,13 +54,13 @@
 
 #### Step 2
 
-- Snap "set strip to neopixel at pin with leds as" from neopixel into the on start. Set pin to P1 with 6 LEDs in RGB pattern.
+- Snap "set strip to RainbowLED at pin with leds as" from RainbowLED into the on start. Set pin to P1 with 6 LEDs in RGB pattern.
 
 ![](./images/qCgKGXD.png)
 
 #### Step 3
 
-- Snap the strip rotate block from the neopixel under the forever. Set the rotate pixels to 1 and set the LEDs change its colour one by one.
+- Snap the strip rotate block from the RainbowLED under the forever. Set the rotate pixels to 1 and set the LEDs change its colour one by one.
 - Then, snap a strip show block for colourful light. 
 
 ![](./images/LMHM9JS.png)
