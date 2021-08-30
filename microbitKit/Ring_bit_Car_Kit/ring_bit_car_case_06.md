@@ -36,7 +36,7 @@ Note：If you get a warning telling you some packages will be removed because of
 
 ### Step 2
 ---
-- Snap the `on start` block from the Basic. Set Neopixel with 24 leds in RGB format for colorful light and show rainbow from 1 to 360.
+- Snap the `on start` block from the Basic. Set RainbowLED with 24 leds in RGB format for colorful light and show rainbow from 1 to 360.
 Then, initialize the P1 port to left wheel and the P2 port to right wheel.
 
 ![](./images/R1Fowaz.png)
