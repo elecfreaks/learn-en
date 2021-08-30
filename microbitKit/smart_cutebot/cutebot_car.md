@@ -89,7 +89,7 @@ A universal wheel is placed in the front bottom of the Cutebot, an all-direction
 
 - - - - -
 
-The two full color  Rainbow LEDs programmed by  `Neopixel` connecting to P15 on the micro:bit are placed on both bottom side of the Cutebot and can be used as the clearance lamps or others.
+The two full color  Rainbow LEDs programmed by  Rainbow LED connecting to P15 on the micro:bit are placed on both bottom side of the Cutebot and can be used as the clearance lamps or others.
 
 ![](./images/cutebot_01_11.jpg)
 ## Components list
