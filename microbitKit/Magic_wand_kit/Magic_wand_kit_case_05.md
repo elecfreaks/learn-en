@@ -52,7 +52,7 @@ Choose the variables in the MakeCode drawer and write the letter "i" in the dial
 
 
 ### Step 3
-Initialize the Neopixel strips to connect to P8 with 8 beads and set the variable to 7 and the strip in bule in the on start brick.
+Initialize the RainbowLED strips to connect to P8 with 8 beads and set the variable to 7 and the strip in bule in the on start brick.
 
 ![](./images/magicwand_case_05_07.png)
 
