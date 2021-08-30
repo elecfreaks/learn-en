@@ -87,7 +87,7 @@ We need to add a package for programming the AI lens kit. Click “Extensions”
 
 ###  Step 2
 
-- In the “on start” brick, initialize the AI lens and switch the function to the color recognition mode, set the neopixel lights connect to P15 port. 
+- In the “on start” brick, initialize the AI lens and switch the function to the color recognition mode, set the RainbowLED lights connect to P15 port. 
 
 ![](./images/case-18-01.png)
 
