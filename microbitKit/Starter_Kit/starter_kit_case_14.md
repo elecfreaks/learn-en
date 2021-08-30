@@ -16,7 +16,7 @@ In our blog micro:bit Experiment 04: Photocell — Elecfreaks mirco: bit Starter
 - 1 x Micro-B USB Cable
 - 1 x micro:bit Breadboard Adapter
 - 1 x Transparent Breadboard - 83 * 55 mm
-- 1 x 8 RGB LED NeoPixel Ring
+- 1 x 8 RGB LED RainbowLED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
 ****Tips: If you want all components above, you may need Elecfreaks micro:bit Starter Kit.****
