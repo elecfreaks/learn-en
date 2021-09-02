@@ -13,7 +13,7 @@ Based on ESP8266 module, it is able to connect the micro:bit to the IoT platform
 
 Item | Parameter 
 :-: | :-: 
-SKU|EF05043
+SKU|EF05036
 Connection|RJ11
 Connection Type|Serial Communication
 Core IC|ESP8266
