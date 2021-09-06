@@ -1,7 +1,6 @@
-Ring:bit Bricks Pack
+6 IN 1 Ring:bit Bricks Pack
 =====================
-
-Ring:bit Bricks Pack
+6 IN 1 Ring:bit Bricks Pack
 
 
 .. toctree::
