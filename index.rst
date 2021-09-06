@@ -30,6 +30,7 @@ Welcome to micro:bit WIKI
    microbitKit/Nezha_Inventor_s_kit_for_microbit/index
    microbitKit/iot_kit/index
    microbitKit/TPbot_tianpeng/index
+   microbitKit/Drone_bit/index
    microbitOctopus/input/index
    microbitOctopus/output/index
    microbitOctopus/sensor/index
