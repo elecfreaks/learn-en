@@ -8,7 +8,7 @@ ring:bit Car Kit V2
     :maxdepth: 2
     :numbered: 2
 
-
+    ring-bit-python.md
     ring_bit_car_v2.md
     ring_bit_car_v2_assembly_step.md
     ring_bit_v2.md
