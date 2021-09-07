@@ -37,7 +37,9 @@ Notice: It is suggested to pause for 2 seconds or longer after triggering the ta
 
 Link: [https://makecode.microbit.org/_fdy88DiaVX9X](https://makecode.microbit.org/_fdy88DiaVX9X)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_fdy88DiaVX9X" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+You can also download it directly: 
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fdy88DiaVX9X]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
 ## Result
