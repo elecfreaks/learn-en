@@ -22,7 +22,7 @@
 - There are many categories of motors, but a motor basically transforms electric energy into kinetic energy according to the rule of electromagnetic induction. When the direct voltage was added on the two sides of the motor, the motor turns. The higher the voltage, the faster the rotation. 
 - The experiment box included a DC motor, and it connects a fan to show rotation.
 
-![](./images/vCBPKXo.png)
+![](./images/case-13-4.png)
 
 *- Note: Please note the positive and the negative when you are connecting.*
 
