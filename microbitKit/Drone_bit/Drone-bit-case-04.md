@@ -40,7 +40,9 @@ Notice: If you met a tip indicating that some codebases would be deleted due to 
 
 Link: [https://makecode.microbit.org/_9WA7g9Rm5cyu](https://makecode.microbit.org/_9WA7g9Rm5cyu)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_9WA7g9Rm5cyu" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+You can also download it directly: 
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9WA7g9Rm5cyu]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### The Drones Part:
 
@@ -51,7 +53,9 @@ Link: [https://makecode.microbit.org/_9WA7g9Rm5cyu](https://makecode.microbit.or
 
 Link: [https://makecode.microbit.org/_05Hc6fTUcRTr](https://makecode.microbit.org/_05Hc6fTUcRTr)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_05Hc6fTUcRTr" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+You can also download it directly: 
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_05Hc6fTUcRTr]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
 ---
