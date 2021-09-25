@@ -55,7 +55,7 @@ Click “Advanced” in the drawer of the MakeCode to see more choices.
 
 ![](./images/smtcNoB.png)
 
-We need to add a package for programming. Click “Extensions” in the bottom of the drawer and search with “PlanetX” in the dialogue box to download it.
+We need to add a package for programming. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-mp3player ” in the dialogue box to download it.
 
 ![](./images/04104_05.png)
 
