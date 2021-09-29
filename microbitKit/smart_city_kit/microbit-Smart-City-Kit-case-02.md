@@ -19,14 +19,18 @@ Detect the moisture value of the soil from the soil moisture sensor and display 
 
 ## Picture
 ---
+
 ![](./images/microbit-Smart-City-Kit-case-02-02.png)
+
 
 ## Hardware Connection 
 ---
 
 Connect the soil moisture sensor to P1,  the servo to P2 and the OLED to IIC on IoT:bit. 
 
+
 ![](./images/microbit-Smart-City-Kit-case-02-03.png)
+
 
 ## Software Programming 
 
