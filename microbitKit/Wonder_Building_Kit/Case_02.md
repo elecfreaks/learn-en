@@ -15,6 +15,30 @@ To make a line following car.
 Video link:
 [https://youtu.be/J2QKDKnTklw](https://youtu.be/J2QKDKnTklw)
 
+
+
+## Bricks build-up
+---
+
+
+![](./images/step-case-02-01.png)
+
+![](./images/step-case-02-02.png)
+
+![](./images/step-case-02-03.png)
+
+![](./images/step-case-02-04.png)
+
+![](./images/step-case-02-05.png)
+
+![](./images/step-case-02-06.png)
+
+![](./images/step-case-02-07.png)
+
+![](./images/step-case-02-08.png)
+
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
