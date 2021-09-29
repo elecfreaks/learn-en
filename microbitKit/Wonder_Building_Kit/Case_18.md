@@ -16,6 +16,55 @@ To make an aerial ladder truck.
 Video link:
 [https://youtu.be/hWmRBTFC3cs](https://youtu.be/hWmRBTFC3cs)
 
+## Bricks build-up
+---
+
+
+![](./images/step-case-18-01.png)
+
+![](./images/step-case-18-02.png)
+
+![](./images/step-case-18-03.png)
+
+![](./images/step-case-18-04.png)
+
+![](./images/step-case-18-05.png)
+
+![](./images/step-case-18-06.png)
+
+![](./images/step-case-18-07.png)
+
+![](./images/step-case-18-08.png)
+
+![](./images/step-case-18-09.png)
+
+![](./images/step-case-18-10.png)
+
+![](./images/step-case-18-11.png)
+
+![](./images/step-case-18-12.png)
+
+![](./images/step-case-18-13.png)
+
+![](./images/step-case-18-14.png)
+
+![](./images/step-case-18-15.png)
+
+![](./images/step-case-18-16.png)
+
+![](./images/step-case-18-17.png)
+
+![](./images/step-case-18-18.png)
+
+![](./images/step-case-18-19.png)
+
+![](./images/step-case-18-20.png)
+
+![](./images/step-case-18-21.png)
+
+
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
