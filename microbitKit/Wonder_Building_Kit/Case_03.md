@@ -15,6 +15,38 @@ To make a gyroscope baseboard.
 Video link:
 [https://youtu.be/XC_tynRRxR0](https://youtu.be/XC_tynRRxR0)
 
+
+## Bricks build-up
+---
+
+
+![](./images/step-case-03-01.png)
+
+![](./images/step-case-03-02.png)
+
+![](./images/step-case-03-03.png)
+
+![](./images/step-case-03-04.png)
+
+![](./images/step-case-03-05.png)
+
+![](./images/step-case-03-06.png)
+
+![](./images/step-case-03-07.png)
+
+![](./images/step-case-03-08.png)
+
+![](./images/step-case-03-09.png)
+
+![](./images/step-case-03-10.png)
+
+![](./images/step-case-03-11.png)
+
+![](./images/step-case-03-12.png)
+
+![](./images/step-case-03-13.png)
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
