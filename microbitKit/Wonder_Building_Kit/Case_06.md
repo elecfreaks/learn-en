@@ -15,6 +15,42 @@ To make a bigfoot monster.
 Video link:
 [https://youtu.be/ODPzpMuwe7I](https://youtu.be/ODPzpMuwe7I)
 
+## Bricks build-up
+---
+
+
+![](./images/step-case-06-01.png)
+
+![](./images/step-case-06-02.png)
+
+![](./images/step-case-06-03.png)
+
+![](./images/step-case-06-04.png)
+
+![](./images/step-case-06-05.png)
+
+![](./images/step-case-06-06.png)
+
+![](./images/step-case-06-07.png)
+
+![](./images/step-case-06-08.png)
+
+![](./images/step-case-06-09.png)
+
+![](./images/step-case-06-10.png)
+
+![](./images/step-case-06-11.png)
+
+![](./images/step-case-06-12.png)
+
+![](./images/step-case-06-13.png)
+
+![](./images/step-case-06-14.png)
+
+
+
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
