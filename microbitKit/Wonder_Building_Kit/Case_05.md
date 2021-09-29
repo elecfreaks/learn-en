@@ -15,6 +15,63 @@ To make a rotary chair project.
 Video link:
 [https://youtu.be/owKA9El5Or0](https://youtu.be/owKA9El5Or0)
 
+
+## Bricks build-up
+---
+
+
+![](./images/step-case-05-01.png)
+
+![](./images/step-case-05-02.png)
+
+![](./images/step-case-05-03.png)
+
+![](./images/step-case-05-04.png)
+
+![](./images/step-case-05-05.png)
+
+![](./images/step-case-05-06.png)
+
+![](./images/step-case-05-07.png)
+
+![](./images/step-case-05-08.png)
+
+![](./images/step-case-05-09.png)
+
+![](./images/step-case-05-10.png)
+
+![](./images/step-case-05-11.png)
+
+![](./images/step-case-05-12.png)
+
+![](./images/step-case-05-13.png)
+
+![](./images/step-case-05-14.png)
+
+![](./images/step-case-05-15.png)
+
+![](./images/step-case-05-16.png)
+
+![](./images/step-case-05-17.png)
+
+![](./images/step-case-05-18.png)
+
+![](./images/step-case-05-19.png)
+
+![](./images/step-case-05-20.png)
+
+![](./images/step-case-05-21.png)
+
+![](./images/step-case-05-22.png)
+
+![](./images/step-case-05-23.png)
+
+![](./images/step-case-05-24.png)
+
+
+
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
