@@ -14,6 +14,40 @@ To make a motorcycle with the Wonder Building kit.
 Video link:
 [https://youtu.be/rLnMMkofipM](https://youtu.be/rLnMMkofipM)
 
+
+
+## Bricks build-up
+---
+
+
+![](./images/step-case-01-01.png)
+
+![](./images/step-case-01-02.png)
+
+![](./images/step-case-01-03.png)
+
+![](./images/step-case-01-04.png)
+
+![](./images/step-case-01-05.png)
+
+![](./images/step-case-01-06.png)
+
+![](./images/step-case-01-07.png)
+
+![](./images/step-case-01-08.png)
+
+![](./images/step-case-01-09.png)
+
+![](./images/step-case-01-10.png)
+
+![](./images/step-case-01-11.png)
+
+
+
+
+
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
