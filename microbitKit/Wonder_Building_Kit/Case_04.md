@@ -15,6 +15,26 @@ To make an obstacle-avoidance car.
 Video link:
 [https://youtu.be/jYkSCfRpj1Y](https://youtu.be/jYkSCfRpj1Y)
 
+## Bricks build-up
+---
+
+
+![](./images/step-case-04-01.png)
+
+![](./images/step-case-04-02.png)
+
+![](./images/step-case-04-03.png)
+
+![](./images/step-case-04-04.png)
+
+![](./images/step-case-04-05.png)
+
+![](./images/step-case-04-06.png)
+
+![](./images/step-case-04-07.png)
+
+![](./images/step-case-04-08.png)
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
