@@ -15,6 +15,34 @@ To make a boating car.
 Video link:
 [https://youtu.be/mT2DdwNPeks](https://youtu.be/mT2DdwNPeks)
 
+## Bricks build-up
+---
+
+
+![](./images/step-case-10-01.png)
+
+![](./images/step-case-10-02.png)
+
+![](./images/step-case-10-03.png)
+
+![](./images/step-case-10-04.png)
+
+![](./images/step-case-10-05.png)
+
+![](./images/step-case-10-06.png)
+
+![](./images/step-case-10-07.png)
+
+![](./images/step-case-10-08.png)
+
+![](./images/step-case-10-09.png)
+
+![](./images/step-case-10-10.png)
+
+![](./images/step-case-10-11.png)
+
+![](./images/step-case-10-12.png)
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
