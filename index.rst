@@ -31,6 +31,7 @@ Welcome to micro:bit WIKI
    microbitKit/iot_kit/index
    microbitKit/TPbot_tianpeng/index
    microbitKit/Drone_bit/index
+   microbitKit/smart_agriculture_kit/index
    microbitOctopus/input/index
    microbitOctopus/output/index
    microbitOctopus/sensor/index
