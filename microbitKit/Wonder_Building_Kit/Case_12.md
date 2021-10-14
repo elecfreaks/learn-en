@@ -16,6 +16,55 @@ To make a forklift.
 Video link:
 [https://youtu.be/PIhMVJYBMhM](https://youtu.be/PIhMVJYBMhM)
 
+## Bricks build-up
+---
+
+
+![](./images/step-case-12-01.png)
+
+![](./images/step-case-12-02.png)
+
+![](./images/step-case-12-03.png)
+
+![](./images/step-case-12-04.png)
+
+![](./images/step-case-12-05.png)
+
+![](./images/step-case-12-06.png)
+
+![](./images/step-case-12-07.png)
+
+![](./images/step-case-12-08.png)
+
+![](./images/step-case-12-09.png)
+
+![](./images/step-case-12-10.png)
+
+![](./images/step-case-12-11.png)
+
+![](./images/step-case-12-12.png)
+
+![](./images/step-case-12-13.png)
+
+![](./images/step-case-12-14.png)
+
+![](./images/step-case-12-15.png)
+
+![](./images/step-case-12-16.png)
+
+![](./images/step-case-12-17.png)
+
+![](./images/step-case-12-18.png)
+
+![](./images/step-case-12-19.png)
+
+![](./images/step-case-12-20.png)
+
+![](./images/step-case-12-21.png)
+
+![](./images/step-case-12-22.png)
+
+
 ## Software Platform
 
 [MakeCode](https://makecode.microbit.org/)
