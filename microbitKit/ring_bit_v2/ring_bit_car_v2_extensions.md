@@ -1,88 +1,105 @@
-# Ring:bit Introduction of E-blocks 
+# Ring:bit Blocks Info
 
-## Add New Extensions ##
+## Add Packages ##
 ---
-- We'll need to add a package of code to be able to use our ring:bit car.
-- Add new package by following below steps.
+- The extension of the Ring:bit requires to be added if yuo want to use the Ring:bit blocks. 
+- Following the steps below to add it. 
 
 ### Step 1 ###
 
-- Click on "Advanced" in the Code Drawer to see more code sections and look at the bottom of the Code Drawer for " Extensions".
+- Click "Advanced" in thte MakeCode drawer to see more choices. 
 
-![](./images/Zh5p3Zu.jpg)
+![](./images/Ringbit-extension-01.png)
 
 ### Step 2 ###
 
-- Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
+- Search "ringbitcar" in the dialogue box and click the circled part for downloading. 
 
-![](./images/lScruzy.jpg)
+![](./images/Ringbit-extension-02.png)
 
-### Step 3 ###
+### Step 3  ###
 
-- Completed.
+- Extension sucessfully gets loaded. 
 
-![](./images/ikmJKH8.jpg)
+![](./images/Ringbit-extension-03.png)
 
-## Introduction ##
+
+## Blocks Info ##
 ---
 
-![](./images/GLRp8cK.jpg)
+![](./images/Ringbit-extension-04.png)
 
-- Pre-coding, we need to use the block to name the left wheel and the right wheel. 
-
----
-![](./images/Xlg5Ow5.jpg)
-
-- Above block is for the car goes straight at full speed.
+Before programming, the pins must be connected correctly with the equivalent wheels in this block. 
 
 ---
-![](./images/abEXhxg.jpg)
+![](./images/Ringbit-extension-05.png)
 
-- Above block is for the car reverses at full speed. 
-
----
-![](./images/x2PMCwM.jpg)
-
-- Above block is for the car turns left at full speed.
+To drive the car forward or backward for a certain time in seconds. 
 
 ---
-![](./images/GYcS0r4.jpg)
+![](./images/Ringbit-extension-06.png)
 
-- Above block is for the car turns right at full speed.
-
----
-![](./images/t0OMOyW.jpg)
-
-- Above block is for the car brakes.
+To drive the car forward or backward to a certain distance(For reference operation only).
 
 ---
-![](./images/oRWI7VS.jpg)
+![](./images/Ringbit-extension-07.png)
 
-- Above block is for setting the rotate speed for the left wheel and the right wheel of the car.
-
----
-![](./images/usA3YAi.jpg)
-
-- This block can be used to judge the line follow status after you expands the line follow module.
+To turn the directions of the car to right or left at a certain angle(For reference operation only). 
 
 ---
-![](./images/rH9jdAC.jpg)
+![](./images/Ringbit-extension-08.png)
 
-- This block can be used to receive the ultrasonic's distance after you expands the ultrasonic distance module.
+To drive the car forward at the full speed. 
 
----``
+---
+![](./images/Ringbit-extension-09.png)
+
+To drive the car backward at the full speed. 
+
+---
+![](./images/Ringbit-extension-10.png)
+
+To turn the car to the left at the full speed. 
+
+---
+![](./images/Ringbit-extension-11.png)
+
+ To turn the car to the right at the full speed. 
+
+---
+![](./images/Ringbit-extension-12.png)
+
+To stop the car. 
+
+---
+![](./images/Ringbit-extension-13.png)
+
+To define the speed of the left wheel or the right wheel. 
+
+---
+![](./images/Ringbit-extension-14.png)
+
+To detect the status of the detector with the line-tracking sensor. 
+
+---
+![](./images/Ringbit-extension-15.png)
+
+To get the distance detected from the ultrasonic sound sensor. 
+
+
+---
 
 ### Program
 ---
-- Program Link：[https://makecode.microbit.org/_MitdxCVTbJfz](https://makecode.microbit.org/_MitdxCVTbJfz)
+- Link: [https://makecode.microbit.org/_AgF9MT0sWAF2](https://makecode.microbit.org/_AgF9MT0sWAF2)
 
-- If you don't want to type these code by yourself, you can directly download the whole program from the link below:
+- Or to download it directly:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MitdxCVTbJfz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AgF9MT0sWAF2" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Questions
+## FAQ
 ---
 
-## More Information 
+## Relevant File
 ---
