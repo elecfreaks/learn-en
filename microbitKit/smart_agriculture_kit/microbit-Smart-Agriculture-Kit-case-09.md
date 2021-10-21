@@ -1,57 +1,60 @@
-# 农作物遮阳装置
+# Case 09: Crops Sunshade Device
 
 
-##  简介
+##  Introduction
 ---
- 
-- 虽然植物的生长依赖光合作用。但光照过强亦对植物造成生理伤害，在光照过强时易发生叶烧或者日灼，所以我们可以制作一个农作物遮阳装置。
 
-##  功能
+- Although the growth of plants depends on photosynthesis. However, the strong light may also cause physiological damage to plants. When the light is too strong, it is easy to cause leaf burn or sunburn, thus, we can make a crop sunshade device to protect the crops. 
+
+##  Function
 ---
-- 通过micro:bit上的亮度级别检测功能检测当前环境光强度，如果环境光强度过高，则通过舵机升起遮阳装置。
+- Detect the light intensity through the light sensor on the micro:bit, if it's strong, program to drive the servo to lift the sunshade device. 
 
-## 购买链接
+## Products Link
 ---
 - 1 x [microbit Smart Agriculture Kit]()
 
-## 产品图片
+## Picture
 ---
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 
-## 硬件链接
+## Hardware Connection
+
 ---
 
-将舵机连接到IOT:bit的P1端口。
+Connect the servo to P1 on IoT:bit. 
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-08-03.png)
 
-## 软件编程
+## Software Programming 
+
 ---
-在MakeCode的代码抽屉中点击“高级”，查看更多代码选项。
+
+Click "Advanced" in the MakeCode to see more choices.
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-04.png)
 
-为了给舵机编程，我们需要添加一个扩展库。在代码抽屉底部找到“扩展”，并点击它。这时会弹出一个对话框，搜索”servo“，然后点击下载这个代码库。
+For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "servo" in the dialogue box to download it. 
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-06.png)
 
+Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
-*注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+## Program
 
-## 程序
 ---
 
-在无限循环中，判断亮度级别是否大于200。
+In forever block, judge if the light intensity is over 200. 
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-09-07.png)
 
-如果亮度级别大于200，则设置舵机转动到90度，否则设置舵机转动到0度。
+If yes, program the servo to drive to 90°; or set the servo to drive to 0°.
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-09-08.png)
 
 
 
-请参考程序连接：[https://makecode.microbit.org/_hctVTMDirM8x](https://makecode.microbit.org/_hctVTMDirM8x)
+Link: [https://makecode.microbit.org/_hctVTMDirM8x](https://makecode.microbit.org/_hctVTMDirM8x)
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_hctVTMDirM8x" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
@@ -59,9 +62,9 @@
 </div>  
 
 
-## 结果
+## Result
 ---
-- 当亮度级别过高时，自动升起遮阳装置，防止农作物出现叶烧、日灼的情况。
+- If the light intensity is too strong, the sunshade device will be lifted automatically to protect the crops. 
 
 
 
