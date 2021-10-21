@@ -17,7 +17,7 @@ Control the lighting of LEDs in different colors from the tilted status of the m
 
 ## Picture
 ---
-![](./images/microbit-Smart-City-Kit-case-04-02.png)
+![](./images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection 
 ---
