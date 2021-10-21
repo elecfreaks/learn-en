@@ -20,7 +20,7 @@ Detect the moisture value of the soil from the soil moisture sensor and display 
 ## Picture
 ---
 
-![](./images/microbit-Smart-City-Kit-case-02-02.png)
+![](./images/microbit-Smart-City-Kit-case-01-02.png)
 
 
 ## Hardware Connection 
