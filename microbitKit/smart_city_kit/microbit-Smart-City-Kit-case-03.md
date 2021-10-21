@@ -17,7 +17,7 @@ Detect if there are humans approaching with the sonar:bit, program to open the l
 
 ## Picture
 ---
-![](./images/microbit-Smart-City-Kit-case-03-02.png)
+![](./images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection 
 ---
