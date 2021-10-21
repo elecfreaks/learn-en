@@ -18,7 +18,7 @@ Detect the temperature and moisture value from DHT11 sensor and display them on 
 
 ## Picture
 ---
-![](./images/microbit-Smart-City-Kit-case-05-02.png)
+![](./images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection 
 ---
