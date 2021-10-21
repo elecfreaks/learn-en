@@ -17,7 +17,7 @@
 
 ## Picture
 ---
-![](./images/microbit-Smart-City-Kit-case-06-02.png)
+![](./images/microbit-Smart-City-Kit-case-01-02.png)
 
 ## Hardware Connection
 ---
