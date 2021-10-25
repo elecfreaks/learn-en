@@ -39,7 +39,7 @@ Take IoT:bit for an example:
 
 Note:
 
-1.  If you do not use Nezha expansion board to drive the AI Lens, please search with the package through this link: https://github.com/elecfreaks/pxt-PlanetX-AI
+1.  If you do not use Nezha expansion board to drive the AI Lens, please search with the package through: PlanetX-AI
 
 2. Under the one button to acquire mode,  you will have to re-learn the objects if you restart the device. 
 
