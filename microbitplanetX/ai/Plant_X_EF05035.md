@@ -19,6 +19,10 @@ The AI Lens is able to achieve the functions of face recognition, balls tracking
 | Working Voltage |   3.3V    |
 |     Core IC     |   K210    |
 
+
+
+The origin point of the AI Lens is on the left top corner (0,0), and the range of the coordinate X&Y is (0,224).
+
 ## Outlook and Dimension
 ---
 
