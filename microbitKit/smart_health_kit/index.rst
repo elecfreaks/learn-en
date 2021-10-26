@@ -17,3 +17,7 @@ smart health kit
     microbit-Smart-Health-Kit-case-06.md
     microbit-Smart-Health-Kit-case-07.md
     microbit-Smart-Health-Kit-case-08.md
+    microbit-Smart-Health-Kit-case-09.md
+    microbit-Smart-Health-Kit-case-10.md
+    microbit-Smart-Health-Kit-case-11.md
+    microbit-Smart-Health-Kit-case-12.md
