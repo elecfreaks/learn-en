@@ -7,11 +7,11 @@ To build a car that can avoid the obstacles automatically with a micro:bit.
 
 ## Quick Start
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -23,66 +23,68 @@ Motors × 2
 RJ11 wires × 1
 
 
-### Bricks details
-
-
-![](./images/Bricks_case_12.png)
-
-### Build the body parts of the car
-
-![](./images/case_10_02.png)
-
-### Sonar:bit module build-up
-
-![](./images/case_12_03.png)
 
 ### Connection Diagram 
----
-- Connect the sonar:bit to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
+
+Connect the sonar:bit to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
 
 ![](./images/case_12_04.png)
 
 
 
-### Assembly
+### Assembly Video
 
-- Build a device as the picture shows:
-
-![](./images/case_11_05.png)
-
-![](./images/case_11_06.png)
-
-![](./images/case_11_07.png)
-
-![](./images/case_11_08.png)
-
-![](./images/case_11_09.png)
-
-![](./images/case_12_10.png)
-
-![](./images/case_12_11.png)
-
-![](./images/case_12_12.png)
-
-![](./images/case_12_13.png)
-
-![](./images/case_12_14.png)
 
 Video reference: [https://youtu.be/k8eaTQSVsfk](https://youtu.be/k8eaTQSVsfk)
-
-
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k8eaTQSVsfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
+
+
+![](./images/case_step_12_01.png)
+
+![](./images/case_step_12_02.png)
+
+![](./images/case_step_12_03.png)
+
+![](./images/case_step_12_04.png)
+
+![](./images/case_step_12_05.png)
+
+![](./images/case_step_12_06.png)
+
+![](./images/case_step_12_07.png)
+
+![](./images/case_step_12_08.png)
+
+![](./images/case_step_12_09.png)
+
+![](./images/case_step_12_10.png)
+
+![](./images/case_step_12_11.png)
+
+![](./images/case_step_12_12.png)
+
+![](./images/case_step_12_13.png)
+
+![](./images/case_step_12_14.png)
+
+![](./images/case_step_12_15.png)
+
+![](./images/case_step_12_16.png)
+
+![](./images/case_step_12_17.png)
+
+![](./images/case_step_12_18.png)
+
+![](./images/case_step_12_19.png)
 
 
 
 ## MakeCode Programming
 
----
 
 
 ### Step 1
@@ -117,5 +119,7 @@ You may also download it directly below:
 ---
 
 ### Result
-- The car drives and avoids the obstacles automatically. 
+The car drives and avoids the obstacles automatically. 
+
+![](./images/ case-gif-12.gif)
 
