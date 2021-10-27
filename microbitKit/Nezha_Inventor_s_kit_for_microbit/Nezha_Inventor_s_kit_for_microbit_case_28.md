@@ -7,11 +7,11 @@ To make a light controlling system by the ambient light and sound level.
 
 ## Quick Start 
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -22,44 +22,47 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
 
-![](./images/case_28_02.png)
 
 
 ### Connection Diagram 
----
-- Inset the micro:bit, and connect the rainbow led ring to J1 port on Nezha expansion board. 
+
+Inset the micro:bit, and connect the rainbow led ring to J1 port on Nezha expansion board. 
 
 
 ![](./images/case_28_03.png)
 
 
 
-### Bricks Build-up 
-
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_28_04.png)
-
-![](./images/case_28_05.png)
-
-
+### Assembly Video
 
 Video link: [https://youtu.be/9LZHzZaXf8Y](https://youtu.be/9LZHzZaXf8Y)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LZHzZaXf8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## MakeCode Programming 
 
----
+### Assembly Steps
+
+![](./images/case_step_28_01.png)
+
+![](./images/case_step_28_02.png)
+
+![](./images/case_step_28_03.png)
+
+![](./images/case_step_28_04.png)
+
+![](./images/case_step_28_05.png)
+
+
+
+
+
+## MakeCode Programming 
 
 
 ### Step 1
 
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -76,7 +79,7 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
+
 
 ### Programme as the pictures indicate
 
@@ -95,5 +98,6 @@ You may download it directly below:
 ---
 
 ### Result
-- After powering on, the rainbow led ring lights on/off by its ambient light and sound level. 
+After powering on, the rainbow led ring lights on/off by its ambient light and sound level. 
 
+![](./images/case-gif-28.gif)
