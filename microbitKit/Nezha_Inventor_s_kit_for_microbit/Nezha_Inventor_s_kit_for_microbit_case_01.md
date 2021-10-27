@@ -44,25 +44,26 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 
 ### Assembly Steps
 
-![](./images/case_step-01-01.png)
+![](./images/case_step_01_01.png)
 
-![](./images/case_step-01-02.png)
+![](./images/case_step_01_02.png)
 
-![](./images/case_step-01-03.png)
+![](./images/case_step_01_03.png)
 
-![](./images/case_step-01-04.png)
+![](./images/case_step_01_04.png)
 
-![](./images/case_step-01-05.png)
+![](./images/case_step_01_05.png)
 
-![](./images/case_step-01-06.png)
+![](./images/case_step_01_06.png)
 
-![](./images/case_step-01-07.png)
+![](./images/case_step_01_07.png)
 
-![](./images/case_step-01-08.png)
+![](./images/case_step_01_08.png)
 
-![](./images/case_step-01-09.png)
+![](./images/case_step_01_09.png)
 
-![](./images/case_step-01-10.png)
+![](./images/case_step_01_10.png)
+
 
 
 
