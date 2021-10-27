@@ -7,11 +7,9 @@ To make a fan that can be controlled by the temperature with a micro:bit.
 
 ## Quick Start
 
----
 
 ### Materials Required
 
----
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -19,38 +17,14 @@ micro:bit × 1
 Motor × 1
 
 
-### Bricks details
-
-
-![](./images/Bricks_case_06.png)
-
-
-![](./images/case_06_02.png)
-
 ### Connection Diagram 
----
-- Connect the motor to M1 on the Nezha expansion board as the picture shows.
+
+Connect the motor to M1 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_06_03.png)
 
-### Assembly
-
-- Build a device as the picture shows:
-
-
-![](./images/case_06_04.png)
-
-![](./images/case_06_05.png)
-
-![](./images/case_06_06.png)
-
-![](./images/case_06_07.png)
-
-![](./images/case_06_08.png)
-
-![](./images/case_06_09.png)
-
+### Assembly Video
 
 
 Video reference: [https://youtu.be/shI_D7j6M7o](https://youtu.be/shI_D7j6M7o)
@@ -59,11 +33,33 @@ Video reference: [https://youtu.be/shI_D7j6M7o](https://youtu.be/shI_D7j6M7o)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/shI_D7j6M7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
+
+![](./images/case_step_06_01.png)
+
+![](./images/case_step_06_02.png)
+
+![](./images/case_step_06_03.png)
+
+![](./images/case_step_06_04.png)
+
+![](./images/case_step_06_05.png)
+
+![](./images/case_step_06_06.png)
+
+![](./images/case_step_06_07.png)
+
+![](./images/case_step_06_08.png)
+
+![](./images/case_step_06_09.png)
+
+![](./images/case_step_06_10.png)
+
+![](./images/case_step_06_11.png)
+
 
 
 ## MakeCode Programming
-
----
 
 
 ### Step 1
@@ -94,5 +90,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- The fan turns on/off automatically according to the temperature. 
+The fan turns on/off automatically according to the temperature. 
 
+![](./images/case-gif-06.gif)
