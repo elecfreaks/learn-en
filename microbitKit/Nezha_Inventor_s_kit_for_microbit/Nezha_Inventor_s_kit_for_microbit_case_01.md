@@ -101,4 +101,4 @@ You may also download it directly below:
 ### Result
 The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then. 
 
-
+![](./images/case-gif-01.gif)
