@@ -6,10 +6,9 @@ To make a flower-watering prompter with a micro:bit.
 ![](./images/case_02_01.png)
 
 ## Quick Start
----
 
 ### Materials Required 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -23,55 +22,51 @@ Soil moisture sensor × 1
 RJ11 wires × 3
 
 
-### Bricks details
-
-
-![](./images/Bricks_case_02.png)
-
-
-![](./images/case_02_02.png)
-
-
-
-
 
 
 
 ### Connection Diagram 
----
-- Connect the green LED to J4, red LED to J3 and soil moisture sensor to J2 on the Nezha expansion board as the picture shows.
+
+Connect the green LED to J4, red LED to J3 and soil moisture sensor to J2 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_02_03.png)
 
 
-### Assembly
----
-
-Build a device as the picture shows:
-
-![](./images/case_02_04.png)
-
-![](./images/case_02_05.png)
-
-![](./images/case_02_06.png)
-
-![](./images/case_02_07.png)
-
-![](./images/case_02_08.png)
-
-![](./images/case_02_09.png)
-
+### Assembly Video
 
 Video reference:[https://youtu.be/YxEKEoDB6FQ](https://youtu.be/YxEKEoDB6FQ)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YxEKEoDB6FQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+
+
+
+![](./images/case_step_02_01.png)
+
+![](./images/case_step_02_02.png)
+
+![](./images/case_step_02_03.png)
+
+![](./images/case_step_02_04.png)
+
+![](./images/case_step_02_05.png)
+
+![](./images/case_step_02_06.png)
+
+![](./images/case_step_02_07.png)
+
+![](./images/case_step_02_08.png)
+
+
+
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1
@@ -101,5 +96,8 @@ You may also download it directly below:
 ---
 
 ### Result
-- The red LED lights on for reminding of watering if the soil moisture sensors gets a low value from the earth, or the green LED lights on. 
+The red LED lights on for reminding of watering if the soil moisture sensors gets a low value from the earth, or the green LED lights on. 
+
+
+![](./images/case-gif-02.gif)
 
