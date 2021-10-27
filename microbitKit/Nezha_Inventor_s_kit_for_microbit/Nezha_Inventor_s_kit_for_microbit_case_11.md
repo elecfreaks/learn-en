@@ -7,11 +7,8 @@ To build a car that could drive along with the black line with a micro:bit.
 
 ## Quick Start
 
----
-
 ### Materials Required
 
----
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -23,63 +20,70 @@ Motors × 2
 RJ11 wires × 1
 
 
-### Bricks details
-
-
-![](./images/Bricks_case_11.png)
-
-### Build the body parts of the car
-
-![](./images/case_10_02.png)
-
-### Line-tracking module build-up
-
-![](./images/case_11_03.png)
 
 ### Connection Diagram 
----
-- Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
+Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_11_04.png)
 
-### Assembly
-
-- Build a device as the picture shows:
-
-
-
-![](./images/case_11_05.png)
-
-![](./images/case_11_06.png)
-
-![](./images/case_11_07.png)
-
-![](./images/case_11_08.png)
-
-![](./images/case_11_09.png)
-
-![](./images/case_11_10.png)
-
-![](./images/case_11_11.png)
-
-![](./images/case_11_12.png)
-
-![](./images/case_11_13.png)
-
-![](./images/case_11_14.png)
+### Assembly Video
 
 Video reference: [https://youtu.be/N2w01pGaj30](https://youtu.be/N2w01pGaj30)
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N2w01pGaj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
+
+![](./images/case_step_11_01.png)
+
+![](./images/case_step_11_02.png)
+
+![](./images/case_step_11_03.png)
+
+![](./images/case_step_11_04.png)
+
+![](./images/case_step_11_05.png)
+
+![](./images/case_step_11_06.png)
+
+![](./images/case_step_11_07.png)
+
+![](./images/case_step_11_08.png)
+
+![](./images/case_step_11_09.png)
+
+![](./images/case_step_11_10.png)
+
+![](./images/case_step_11_11.png)
+
+![](./images/case_step_11_12.png)
+
+![](./images/case_step_11_13.png)
+
+![](./images/case_step_11_14.png)
+
+![](./images/case_step_11_15.png)
+
+![](./images/case_step_11_16.png)
+
+![](./images/case_step_11_17.png)
+
+![](./images/case_step_11_18.png)
+
+![](./images/case_step_11_19.png)
+
+![](./images/case_step_11_20.png)
+
+![](./images/case_step_11_21.png)
+
+![](./images/case_step_11_22.png)
+
 
 ## MakeCode Programming
 
----
+
 
 
 ### Step 1
@@ -115,5 +119,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- The car drives along with the black line. 
+The car drives along with the black line. 
 
+![](./images/ case-gif-11.gif)
