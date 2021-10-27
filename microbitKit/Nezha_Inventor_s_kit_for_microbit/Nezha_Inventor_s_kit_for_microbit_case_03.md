@@ -6,10 +6,10 @@ To make an automatic gate with the ultrasonic sound sensor controlled by the mic
 ![](./images/case_03_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -21,37 +21,15 @@ Sonar:bit  × 1
 RJ11 wire × 1
 
 
-### Bricks details
-
-
-![](./images/Bricks_case_03.png)
-
-
-![](./images/case_03_02.png)
-
-
 ### Connection Diagram
----
-- Connect the 360° servo to S1 and the ultrasonic sound sensor to J1 on the Nezha expansion board as the picture shows.
+
+Connect the 360° servo to S1 and the ultrasonic sound sensor to J1 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_03_03.png)
 
 
-### Assembly
----
-
-Build a device as the picture shows:
-
-![](./images/case_03_04.png)
-
-![](./images/case_03_05.png)
-
-![](./images/case_03_06.png)
-
-![](./images/case_03_07.png)
-
-![](./images/case_03_08.png)
+### Assembly Video
 
 
 Video reference: [https://youtu.be/nOh7YCmcotA](https://youtu.be/nOh7YCmcotA)
@@ -60,11 +38,35 @@ Video reference: [https://youtu.be/nOh7YCmcotA](https://youtu.be/nOh7YCmcotA)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nOh7YCmcotA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
+
+
+![](./images/case_step_03_01.png)
+
+![](./images/case_step_03_02.png)
+
+![](./images/case_step_03_03.png)
+
+![](./images/case_step_03_04.png)
+
+![](./images/case_step_03_05.png)
+
+![](./images/case_step_03_06.png)
+
+![](./images/case_step_03_07.png)
+
+![](./images/case_step_03_08.png)
+
+![](./images/case_step_03_09.png)
+
+![](./images/case_step_03_10.png)
+
+![](./images/case_step_03_11.png)
+
 
 
 
 ## MakeCode Programming
----
 
 
 ### Step 1
@@ -98,5 +100,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- While the ultrasonic sound sensor detects any object, the gate opens automatically.
+While the ultrasonic sound sensor detects any object, the gate opens automatically.
 
+![](./images/case-gif-03.gif)
