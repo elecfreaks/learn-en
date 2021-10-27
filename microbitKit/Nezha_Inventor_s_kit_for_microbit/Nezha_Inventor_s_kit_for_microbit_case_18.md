@@ -6,10 +6,10 @@ Build a music box with the micro:bit.
 
 
 ## Quick to Start
----
+
 
 ### Materials 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -17,8 +17,8 @@ micro:bit × 1
 
 
 ### Connection Diagram
----
-- Insert the micro:bit to Nezha expansion board. 
+
+Insert the micro:bit to Nezha expansion board. 
 
 
 ![](./images/case_18_03.png)
@@ -26,7 +26,7 @@ micro:bit × 1
 
 
 ## MakeCode Programming
----
+
 
 
 
@@ -46,5 +46,6 @@ You may also downoad it directly below:
 ---
 
 ### Result 
-- Press button A to switch the music.
+Press button A to switch the music.
 
+![](./images/case-gif-18.gif)
