@@ -95,4 +95,4 @@ You may download it directly below:
 ### Result
 The tones could be adjusted via the trimpot. 
 
-![](./images/ case-gif-13.gif)
+![](./images/case-gif-13.gif)
