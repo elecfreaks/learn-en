@@ -87,5 +87,5 @@ You may also download it directly below:
 
 The LED lamps light on/off according to the light intensity.
 
-![](./images/ case-gif-07.gif)
+![](./images/case-gif-07.gif)
 
