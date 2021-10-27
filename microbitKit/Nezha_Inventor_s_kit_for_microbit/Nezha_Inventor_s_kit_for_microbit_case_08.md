@@ -6,10 +6,10 @@ To make a speed adjustable fan with the micro:bit.
 ![](./images/case_08_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -22,53 +22,57 @@ RJ11 wire × 1
 
 
 
-### Bricks details
 
-
-
-![](./images/Bricks_case_08.png)
-
-
-
-![](./images/case_08_02.png)
 
 ### Connection Diagram 
----
-- Connect the potentiometer to J1 and motor to M1 on the Nezha expansion board as the picture shows.
+
+Connect the potentiometer to J1 and motor to M1 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_08_03.png)
 
-### Assembly
-
-- Build a device as the picture shows:
-
-![](./images/case_08_04.png)
-
-![](./images/case_08_05.png)
-
-![](./images/case_08_06.png)
-
-![](./images/case_08_07.png)
-
-![](./images/case_08_08.png)
-
-![](./images/case_08_09.png)
-
-
-
+### Assembly Video
 
 Video reference: [https://youtu.be/1-FaQU7Yj0k](https://youtu.be/1-FaQU7Yj0k)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-FaQU7Yj0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+
+![](./images/case_step_08_01.png)
+
+![](./images/case_step_08_02.png)
+
+![](./images/case_step_08_03.png)
+
+![](./images/case_step_08_04.png)
+
+![](./images/case_step_08_05.png)
+
+![](./images/case_step_08_06.png)
+
+![](./images/case_step_08_07.png)
+
+![](./images/case_step_08_08.png)
+
+![](./images/case_step_08_09.png)
+
+![](./images/case_step_08_10.png)
+
+![](./images/case_step_08_11.png)
+
+![](./images/case_step_08_12.png)
+
+![](./images/case_step_08_13.png)
+
 
 
 
 ## MakeCode Programming
 
----
+
 
 
 ### Step 1
@@ -103,5 +107,7 @@ You may also download it directly below:
 ---
 
 ### Result
-- Adjust the speed of the fan via the potentiometer. 
+Adjust the speed of the fan via the potentiometer. 
 
+
+![](./images/ case-gif-08.gif)
