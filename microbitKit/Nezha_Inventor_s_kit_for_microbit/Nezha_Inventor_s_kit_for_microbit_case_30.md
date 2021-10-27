@@ -7,11 +7,9 @@ To make a lighting device in different  luminance levels.
 
 ## Quick Start 
 
----
 
 ### Materials Required
 
----
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -24,44 +22,47 @@ Bricks × n
 
 Tips: Purchase Interactive coding accessories pack here. 
 
-### Bricks Required
-
-![](./images/case_30_02.png)
-
 
 ### Connection Diagram 
----
-- Inset the micro:bit, connect the rainbow led ring to J1 port and the trimpot to J2 port on Nezha expansion board. 
+
+Inset the micro:bit, connect the rainbow led ring to J1 port and the trimpot to J2 port on Nezha expansion board. 
 
 
 ![](./images/case_30_03.png)
 
 
 
-### Bricks Build-up 
+### Assembly Video
 
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_30_04.png)
-
-![](./images/case_30_05.png)
-
-![](./images/case_30_01.png)
 
 Video link: [https://youtu.be/IDo75YvbOB8](https://youtu.be/IDo75YvbOB8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDo75YvbOB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_30_01.png)
+
+![](./images/case_step_30_02.png)
+
+![](./images/case_step_30_03.png)
+
+![](./images/case_step_30_04.png)
+
+![](./images/case_step_30_05.png)
+
+
+
+
+
 ## MakeCode Programming 
 
----
+
 
 
 ### Step 1
 
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -78,7 +79,7 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
+
 
 ### Programme as the pictures indicate
 
@@ -97,5 +98,6 @@ You may download it directly below:
 ---
 
 ### Result 
-- After powering on, the luminance level is able to be adjusted by the trimpot.
+After powering on, the luminance level is able to be adjusted by the trimpot.
 
+![](./images/case-gif-30.gif)
