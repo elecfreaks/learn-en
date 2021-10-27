@@ -7,10 +7,9 @@ Make a gesture recognition car.
 ![](./images/case_34_01.png)
 
 ## Quick Start
----
 
 ### Materials Required
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -23,41 +22,69 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks
 
-![](./images/Bricks_case_34.png)
-
-![](./images/case_34_02.png)
 
 
 ### Connection Diagram 
----
-- Insert the micro:bit, connect the motors to M1and M4 and the gesture sensor to IIC port on the Nezha expansion board as the picture shows.
+
+Insert the micro:bit, connect the motors to M1and M4 and the gesture sensor to IIC port on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_34_03.png)
 
 
 
-### Assembly
-
-- Build a device as the picture shows:
-
-![](./images/case_34_04.png)
-
-![](./images/case_34_05.png)
-
-![](./images/case_34_06.png)
-
- ![](./images/case_34_07.png)
+### Assembly Video
 
 
 link: [https://youtu.be/ib-xX0MS41U](https://youtu.be/ib-xX0MS41U)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ib-xX0MS41U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_34_01.png)
+
+![](./images/case_step_34_02.png)
+
+![](./images/case_step_34_03.png)
+
+![](./images/case_step_34_04.png)
+
+![](./images/case_step_34_05.png)
+
+![](./images/case_step_34_06.png)
+
+![](./images/case_step_34_07.png)
+
+![](./images/case_step_34_08.png)
+
+![](./images/case_step_34_09.png)
+
+![](./images/case_step_34_10.png)
+
+![](./images/case_step_34_11.png)
+
+![](./images/case_step_34_12.png)
+
+![](./images/case_step_34_13.png)
+
+![](./images/case_step_34_14.png)
+
+![](./images/case_step_34_15.png)
+
+![](./images/case_step_34_16.png)
+
+![](./images/case_step_34_17.png)
+
+![](./images/case_step_34_18.png)
+
+![](./images/case_step_34_19.png)
+
+
+
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -92,5 +119,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- After powering on, the car moves along with the indicated gestures. 
+After powering on, the car moves along with the indicated gestures. 
 
+![](./images/case-gif-34.gif)
