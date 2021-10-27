@@ -9,10 +9,10 @@ Build an alarm device with the micro:bit.
 
 
 ## Quick to Start 
----
+
 
 ### Materials
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -24,45 +24,45 @@ RJ11 wires × 1
 Bricks × n
 
 
-![](./images/case_17_02.png)
-
-### Bricks details
----
-
-![](./images/Bricks_case_17.png)
-
-
 
 
 ### Connection Diagram
----
-- Connect the red LED to the J1 port on Nezha expansion board. 
+
+Connect the red LED to the J1 port on Nezha expansion board. 
 
 
 ![](./images/case_17_03.png)
 
 
-### Bricks Build-up 
----
-- Build a device as the pictures indicate: 
-
-![](./images/case_17_04.png)
-
-![](./images/case_17_05.png)
-
-![](./images/case_17_06.png)
+### Assembly Video
 
 
 Video link:[https://youtu.be/bYN6-6PskHQ](https://youtu.be/bYN6-6PskHQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bYN6-6PskHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+
+![](./images/case_step_17_01.png)
+
+![](./images/case_step_17_02.png)
+
+![](./images/case_step_17_03.png)
+
+![](./images/case_step_17_04.png)
+
+![](./images/case_step_17_05.png)
+
+
+
+
 ## MakeCode Programming
----
+
 
 
 ### Step 1
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -77,7 +77,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
----
+
 
 ### Programme as the picture shows: 
 
@@ -93,5 +93,6 @@ You may also downoad it directly below:
 ---
 
 ### Result
-- Press button A to alarm and the red LED flashes; press it again to stop the alarming and the LED turns off. 
+Press button A to alarm and the red LED flashes; press it again to stop the alarming and the LED turns off. 
 
+![](./images/ case-gif-17.gif)
