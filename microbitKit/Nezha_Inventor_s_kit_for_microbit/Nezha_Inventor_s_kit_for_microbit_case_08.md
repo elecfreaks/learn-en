@@ -110,4 +110,4 @@ You may also download it directly below:
 Adjust the speed of the fan via the potentiometer. 
 
 
-![](./images/ case-gif-08.gif)
+![](./images/case-gif-08.gif)
