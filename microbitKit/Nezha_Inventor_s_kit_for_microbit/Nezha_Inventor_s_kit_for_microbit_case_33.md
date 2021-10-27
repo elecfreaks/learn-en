@@ -6,11 +6,11 @@ To make a color-controlled lights system.
 ![](./images/case_33_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -23,37 +23,47 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
-
-![](./images/case_33_02.png)
 
 
 ### Connection Diagram 
----
-- Insert the micro:bit, connect the color sensor to IIC port and the rainbow led ring to J1 on the Nezha expansion board as the picture shows.
+
+Insert the micro:bit, connect the color sensor to IIC port and the rainbow led ring to J1 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_33_03.png)
 
 
 
-### Assembly
-
-Build a device as the picture shows:
-
-![](./images/case_33_04.png)
-
-![](./images/case_33_05.png)
-
+### Assembly Video
 
 
 Link: [https://youtu.be/I05r5ebvQXY](https://youtu.be/I05r5ebvQXY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I05r5ebvQXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+![](./images/case_step_33_01.png)
+
+![](./images/case_step_33_02.png)
+
+![](./images/case_step_33_03.png)
+
+![](./images/case_step_33_04.png)
+
+![](./images/case_step_33_05.png)
+
+![](./images/case_step_33_06.png)
+
+![](./images/case_step_33_07.png)
+
+![](./images/case_step_33_08.png)
+
+
 ## MakeCode Programming
 
----
+
 
 ### Step 1
 
@@ -88,5 +98,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- After powering on, the the lights turn on with the color detected from the color sensor.
+After powering on, the the lights turn on with the color detected from the color sensor.
 
+![](./images/case-gif-33.gif)
