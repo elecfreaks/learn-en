@@ -6,10 +6,10 @@ To make an automatic dryer with a micro:bit.
 ![](./images/case_05_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -21,42 +21,14 @@ Motor × 1
 RJ11 wires × 1
 
 
-
-### Bricks details
-
-
-![](./images/Bricks_case_05.png)
-
-
-
-![](./images/case_05_02.png)
-
 ### Connection Diagram 
----
-- Connect the sonar:bit to J1 and the motor to M1 on the Nezha expansion board as the picture shows.
+
+Connect the sonar:bit to J1 and the motor to M1 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_05_03.png)
 
-- ### Assembly
-
-  ---
-
-  Build a device as the picture shows:
-
-![](./images/case_05_04.png)
-
-![](./images/case_05_05.png)
-
-![](./images/case_05_06.png)
-
-![](./images/case_05_07.png)
-
-![](./images/case_05_08.png)
-
-![](./images/case_05_09.png)
-
-
+### Assembly Video
 
 
 Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
@@ -64,6 +36,33 @@ Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5kB0bYEsJ1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+
+![](./images/case_step_05_01.png)
+
+![](./images/case_step_05_02.png)
+
+![](./images/case_step_05_03.png)
+
+![](./images/case_step_05_04.png)
+
+![](./images/case_step_05_05.png)
+
+![](./images/case_step_05_06.png)
+
+![](./images/case_step_05_07.png)
+
+![](./images/case_step_05_08.png)
+
+![](./images/case_step_05_09.png)
+
+![](./images/case_step_05_10.png)
+
+![](./images/case_step_05_11.png)
+
+![](./images/case_step_05_12.png)
 
 
 
@@ -106,5 +105,7 @@ You may also download it directly below:
 ---
 
 ### Result
-- While there is any object detected by the Sonar:bit, the fan moves automatically. 
+While there is any object detected by the Sonar:bit, the fan moves automatically. 
 
+
+![](./images/case-gif-05.gif)
