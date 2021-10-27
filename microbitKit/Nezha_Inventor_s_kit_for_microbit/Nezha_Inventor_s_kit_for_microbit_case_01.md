@@ -7,10 +7,10 @@ To make a traffic lights system controlled by the micro:bit.
 ![](./images/case_01_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -24,40 +24,17 @@ LED-yellow × 1
 RJ11 wires × 3
 
 
-### Bricks details
-
-![](./images/Bricks_case_01.png)
-
-
-
-![](./images/case_01_02.png)
 
 ### Connection Diagram 
----
-- Connect the red LED to J1, yellow LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
+
+Connect the red LED to J1, yellow LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_01_03.png)
 
 
 
-### Assembly
----
-
-![](./images/case_01_04.png)
-
-![](./images/case_01_05.png)
-
-![](./images/case_01_06.png)
-
-![](./images/case_01_07.png)
-
-![](./images/case_01_08.png)
-
-![](./images/case_01_09.png)
-
-
-
+### Assembly Video
 
 
 Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
@@ -65,10 +42,36 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmsDDWLcgcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
+
+![](./images/case_step-01-01.png)
+
+![](./images/case_step-01-02.png)
+
+![](./images/case_step-01-03.png)
+
+![](./images/case_step-01-04.png)
+
+![](./images/case_step-01-05.png)
+
+![](./images/case_step-01-06.png)
+
+![](./images/case_step-01-07.png)
+
+![](./images/case_step-01-08.png)
+
+![](./images/case_step-01-09.png)
+
+![](./images/case_step-01-10.png)
+
+
+
+
+
 
 
 ## Makecode Programming
----
+
 
 
 ### Step 1
@@ -97,5 +100,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then. 
+The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then. 
+
 
