@@ -95,4 +95,4 @@ You may also downoad it directly below:
 ### Result
 Press button A to alarm and the red LED flashes; press it again to stop the alarming and the LED turns off. 
 
-![](./images/ case-gif-17.gif)
+![](./images/case-gif-17.gif)
