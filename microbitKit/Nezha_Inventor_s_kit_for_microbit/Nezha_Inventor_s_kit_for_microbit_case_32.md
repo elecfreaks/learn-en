@@ -7,11 +7,11 @@ To make a light system that is controlled by hands gesture.
 
 ## Quick Start 
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -24,44 +24,52 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
 
-![](./images/case_32_02.png)
 
 
 ### Connection Diagram 
----
-- Inset the micro:bit, connect the gesture sensor to IIC port and the rainbow led ring to S1 on Nezha expansion board. 
+
+Inset the micro:bit, connect the gesture sensor to IIC port and the rainbow led ring to S1 on Nezha expansion board. 
 
 
 ![](./images/case_32_03.png)
 
 
 
-### Bricks Build-up 
-
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_32_04.png)
-
-![](./images/case_32_01.png)
-
+### Assembly Video 
 
 
 Video link: [https://youtu.be/hq1rtbGvAwU](https://youtu.be/hq1rtbGvAwU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hq1rtbGvAwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+
+![](./images/case_step_32_01.png)
+
+![](./images/case_step_32_02.png)
+
+![](./images/case_step_32_03.png)
+
+![](./images/case_step_32_04.png)
+
+![](./images/case_step_32_05.png)
+
+![](./images/case_step_32_06.png)
+
+![](./images/case_step_32_07.png)
+
+
+
 ## MakeCode Programming 
 
----
+
 
 
 ### Step 1
 
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -78,7 +86,6 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
 
 ### Programme as the pictures indicate
 
@@ -97,5 +104,6 @@ You may download it directly below:
 ---
 
 ### Result
-- The lights color is able to be changed by hands gesture. 
+The lights color is able to be changed by hands gesture. 
 
+![](./images/case-gif-32.gif)
