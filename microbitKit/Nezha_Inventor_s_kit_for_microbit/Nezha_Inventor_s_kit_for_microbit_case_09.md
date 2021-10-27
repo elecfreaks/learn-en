@@ -99,4 +99,4 @@ You may also download it directly below:
 ### Result
 While the sonar:bit detects the object, the red LED lights up and the buzzer alarms. 
 
-![](./images/ case-gif-09.gif)
+![](./images/case-gif-09.gif)
