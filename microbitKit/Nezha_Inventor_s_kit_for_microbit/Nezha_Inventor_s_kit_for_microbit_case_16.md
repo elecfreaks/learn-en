@@ -6,10 +6,9 @@ Build a memory test  device with the micro:bit.
 ![](./images/case_16_01.png)
 
 ## Quick to Start
----
 
 ### Materials 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -22,48 +21,43 @@ RJ11 wires × 2
 
 Bricks × n
 
-![](./images/case_16_02.png)
-
-
-### Bricks details
----
-
-![](./images/Bricks_case_16.png)
-
-
 
 
 ### Connection Diagram
----
-- Connect the green LED to J1 port and red LED to J2 port on the Nezha expansion board as the picture shows. 
+
+Connect the green LED to J1 port and red LED to J2 port on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/case_16_03.png)
 
 
-### Bricks Build-up 
----
-- Build a device as the pictures indicate: 
-
-
-
-
-![](./images/case_16_04.png)
-
-
-![](./images/case_16_05.png)
-
+### Assembly Video
 
 Video link:[https://youtu.be/ie4sO5qNvfM](https://youtu.be/ie4sO5qNvfM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ie4sO5qNvfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_16_01.png)
+
+![](./images/case_step_16_02.png)
+
+![](./images/case_step_16_03.png)
+
+![](./images/case_step_16_04.png)
+
+![](./images/case_step_16_05.png)
+
+
+
+
 ## MakeCode Programming 
----
+
 
 
 ### Step 1
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -79,7 +73,7 @@ Note: If you met a tip indicating that the codebase will be deleted due to incom
 
 ### Step 2
 
----
+
 
 ### Programme as the picture shows: 
 
@@ -95,5 +89,7 @@ You may also downoad it directly below:
 ---
 
 ### Result
-- The red and green LEDs light on at random, press button A while the red lights on; press button B while the green lights on, if you press them at the right sequence(A for red and B for green ), the micro:bit display a "√" or it displays a sad face. 
+The red and green LEDs light on at random, press button A while the red lights on; press button B while the green lights on, if you press them at the right sequence(A for red and B for green ), the micro:bit display a "√" or it displays a sad face. 
 
+
+![](./images/case-gif-16.gif)
