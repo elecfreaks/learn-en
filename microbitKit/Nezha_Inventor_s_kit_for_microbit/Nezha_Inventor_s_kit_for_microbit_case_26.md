@@ -7,11 +7,11 @@ To make a color-changing device that is reflected with its ambient sound level.
 
 ## Quick Start 
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -22,29 +22,21 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
 
-![](./images/case_28_02.png)
 
 
 ### Connection Diagram 
----
-- Inset the micro:bit, and connect the rainbow LED ring to IIC port on Nezha expansion board. 
+
+Inset the micro:bit, and connect the rainbow LED ring to IIC port on Nezha expansion board. 
 
 
 ![](./images/case_28_03.png)
 
 
 
-### Bricks Build-up 
+### Assembly Video
 
----
 
-- Build a device as the pictures indicate: 
-
-![](./images/case_28_04.png)
-
-![](./images/case_28_05.png)
 
 
 
@@ -52,14 +44,27 @@ Video link: [https://youtu.be/4tFv6rWx8uM](https://youtu.be/4tFv6rWx8uM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tFv6rWx8uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+![](./images/case_step_26_01.png)
+
+![](./images/case_step_26_02.png)
+
+![](./images/case_step_26_03.png)
+
+![](./images/case_step_26_04.png)
+
+![](./images/case_step_26_05.png)
+
+
+
 ## MakeCode Programming 
 
----
 
 
 ### Step 1
 
----
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -77,7 +82,6 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
 
 ### Programme as the pictures indicate
 
@@ -96,5 +100,7 @@ You may download it directly below:
 ---
 
 ### Result
-- After powering on, the rainbow LED ring lights up in different colors reflecting with the ambient sound level. 
+After powering on, the rainbow LED ring lights up in different colors reflecting with the ambient sound level. 
+
+![](./images/case-gif-26.gif)
 
