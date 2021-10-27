@@ -63,4 +63,4 @@ You may also download it directly below:
 ### Result
 After powering on, it displays a smile face and plays a tone. Choose the equivalent numbers by pressing button A and confirm it by pressing button B. If the confirmed number and the tone are the same one,  the micro:bit displays √; if not, it displays ×. 
 
-![](./images/ case-gif-14.gif)
+![](./images/case-gif-14.gif)
