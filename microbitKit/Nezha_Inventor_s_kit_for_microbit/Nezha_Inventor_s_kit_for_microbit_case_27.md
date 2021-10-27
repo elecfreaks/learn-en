@@ -7,11 +7,11 @@ To make a device that is able to display the distance from the sonar:bit to the 
 
 ## Quick Start 
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -20,44 +20,44 @@ sonar sensor  × 1
 
 Bricks × n
 
-### Bricks Required
-
-![](./images/case_27_02.png)
 
 
 ### Connection Diagram 
----
-- Inset the micro:bit, and connect the sonar:bit to J1 port on Nezha expansion board. 
+
+Inset the micro:bit, and connect the sonar:bit to J1 port on Nezha expansion board. 
 
 
 ![](./images/case_27_03.png)
 
 
 
-### Bricks Build-up 
-
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_27_04.png)
-
-![](./images/case_27_01.png)
-
+### Assembly Video
 
 
 Video link: [https://youtu.be/0HgP_YVgNJU](https://youtu.be/0HgP_YVgNJU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HgP_YVgNJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+![](./images/case_step_27_01.png)
+
+![](./images/case_step_27_02.png)
+
+![](./images/case_step_27_03.png)
+
+![](./images/case_step_27_04.png)
+
+![](./images/case_step_27_05.png)
+
+
 ## MakeCode Programming 
 
----
 
 
 ### Step 1
 
----
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -74,7 +74,6 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
 
 ### Programme as the pictures indicate
 
@@ -93,5 +92,6 @@ You may download it directly below:
 ---
 
 ### Result
-- After powering on, the detected distance displays on the micro:bit. 
+After powering on, the detected distance displays on the micro:bit. 
 
+![](./images/case-gif-27.gif)
