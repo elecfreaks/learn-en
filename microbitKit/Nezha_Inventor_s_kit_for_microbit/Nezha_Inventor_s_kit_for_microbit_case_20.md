@@ -7,10 +7,10 @@ Let’s use micro:bit to make a game of avoiding bricks. It can control the spot
 
 
 ## Quick to Start
----
+
 
 ### Materials 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -18,8 +18,8 @@ micro:bit × 1
 
 
 ### Connections Diagram
----
-- Connect the micro:bit to Nezha expansion board.
+
+Connect the micro:bit to Nezha expansion board.
 
 
 ![](./images/case_18_03.png)
@@ -27,7 +27,7 @@ micro:bit × 1
 
 
 ##  MakeCode Programming
----
+
 
 ## Principle:
 
@@ -116,7 +116,7 @@ You may download it directly here:
 ---
 
 ### Result
-- It can control the spots by gravity to avoid the falling bricks. Once it touches the bricks, the game ends. 
+It can control the spots by gravity to avoid the falling bricks. Once it touches the bricks, the game ends. 
 
 ![](./images/case_20_19.gif)
 
