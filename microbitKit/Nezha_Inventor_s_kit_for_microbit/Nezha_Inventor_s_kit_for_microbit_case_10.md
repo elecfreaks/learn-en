@@ -118,4 +118,4 @@ You may also download it directly below:
 ### Result
 The speed of the car could be adjusted by the potentiometer.
 
-![](./images/ case-gif-10.gif)
+![](./images/case-gif-10.gif)
