@@ -7,11 +7,11 @@ To make a speed adjustable car with a micro:bit.
 
 ## Quick Start
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -23,64 +23,65 @@ Motors × 2
 RJ11 wires × 1
 
 
-### Bricks details
-
-
-![](./images/Bricks_case_10.png)
-
-###  Build the body parts of the car:
-
-![](./images/case_10_02.png)
-
-###  Speed controller build-up
-
-![](./images/case_10_03.png)
-
 ### Connection Diagram 
----
-- Connect the potentiometer to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
+Connect the potentiometer to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_10_04.png)
 
-### Assembly
-
-- Build a device as the picture shows:
-
-
-![](./images/case_11_05.png)
-
-![](./images/case_11_06.png)
-
-![](./images/case_11_07.png)
-
-![](./images/case_11_08.png)
-
-![](./images/case_11_09.png)
-
-![](./images/case_10_13.png)
-
-![](./images/case_10_14.png)
-
-![](./images/case_10_15.png)
-
-![](./images/case_10_16.png)
-
-![](./images/case_10_17.png)
-
-![](./images/case_10_18.png)
+### Assembly Video
 
 Video reference: [https://youtu.be/bVa5-wrcoeA](https://youtu.be/bVa5-wrcoeA)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVa5-wrcoeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+
+![](./images/case_step_10_01.png)
+
+![](./images/case_step_10_02.png)
+
+![](./images/case_step_10_03.png)
+
+![](./images/case_step_10_04.png)
+
+![](./images/case_step_10_05.png)
+
+![](./images/case_step_10_06.png)
+
+![](./images/case_step_10_07.png)
+
+![](./images/case_step_10_08.png)
+
+![](./images/case_step_10_09.png)
+
+![](./images/case_step_10_10.png)
+
+![](./images/case_step_10_11.png)
+
+![](./images/case_step_10_12.png)
+
+![](./images/case_step_10_13.png)
+
+![](./images/case_step_10_14.png)
+
+![](./images/case_step_10_15.png)
+
+![](./images/case_step_10_16.png)
+
+![](./images/case_step_10_17.png)
+
+![](./images/case_step_10_18.png)
+
+![](./images/case_step_10_19.png)
+
 
 
 
 ## MakeCode Programming
 
----
 
 
 ### Step 1
@@ -115,5 +116,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- The speed of the car could be adjusted by the potentiometer.
+The speed of the car could be adjusted by the potentiometer.
 
+![](./images/ case-gif-10.gif)
