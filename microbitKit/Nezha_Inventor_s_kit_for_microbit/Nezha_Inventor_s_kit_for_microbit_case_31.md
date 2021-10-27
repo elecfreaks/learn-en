@@ -6,11 +6,11 @@ To make a rotary password door.
 
 ## Quick Start 
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -27,44 +27,55 @@ Bricks × n
 
 Tips: Purchase Interactive coding accessories pack here. 
 
-### Bricks Required
 
-![](./images/case_31_02.png)
 
 
 ### Connection Diagram 
----
-- Inset the micro:bit, connect the OLED display to IIC port, the servo to S1, the trimpot to J1and the crash sensor to J2 on Nezha expansion board. 
+
+Inset the micro:bit, connect the OLED display to IIC port, the servo to S1, the trimpot to J1and the crash sensor to J2 on Nezha expansion board. 
 
 
 ![](./images/case_31_03.png)
 
 
 
-### Bricks Build-up 
-
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_31_04.png)
-
-![](./images/case_31_05.png)
-
+### Assembly Video
 
 
 Video link: [https://youtu.be/eniQAfqXym0](https://youtu.be/eniQAfqXym0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eniQAfqXym0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_31_01.png)
+
+![](./images/case_step_31_02.png)
+
+![](./images/case_step_31_03.png)
+
+![](./images/case_step_31_04.png)
+
+![](./images/case_step_31_05.png)
+
+![](./images/case_step_31_06.png)
+
+![](./images/case_step_31_07.png)
+
+![](./images/case_step_31_08.png)
+
+![](./images/case_step_31_09.png)
+
+![](./images/case_step_31_10.png)
+
+
+
 ## MakeCode Programming 
 
----
 
 
 ### Step 1
 
----
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -81,7 +92,7 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
+
 
 ### Programme as the pictures indicate
 
@@ -100,5 +111,7 @@ You may download it directly below:
 ---
 
 ### Result
-- Adjust the numbers by rotating the trimpot, press the crash sensor after you choose the numbers ready, the door would open if the two passwords are in the correct ranges or the micro:bit displays "x" and the program reruns. 
+Adjust the numbers by rotating the trimpot, press the crash sensor after you choose the numbers ready, the door would open if the two passwords are in the correct ranges or the micro:bit displays "x" and the program reruns. 
+
+![](./images/case-gif-31.gif)
 
