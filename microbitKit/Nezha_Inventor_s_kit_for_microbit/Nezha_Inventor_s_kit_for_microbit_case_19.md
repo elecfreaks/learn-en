@@ -1,17 +1,15 @@
 # case 19：The Automatic Laundry Rack
 
 ## Introduction
+
 Build an automatic laundry rack with a micro:bit. 
 
 ![](./images/case_19_01.png)
 
 ## Quick to Start
 
----
-
 ### Materials 
 
----
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -20,40 +18,70 @@ micro:bit × 1
 
 Bricks × n
 
-### Bricks details
 
-![](./images/Bricks_case_19.png)
-
-![](./images/case_19_02.png)
 
 ### Connections Diagram
----
-- Connect the micro:bit with the Nezha expansion board, connect the servo to S1 port and the soil moisture sensor to J1 port on Nezha expansion board.
+
+Connect the micro:bit with the Nezha expansion board, connect the servo to S1 port and the soil moisture sensor to J1 port on Nezha expansion board.
 
 
 ![](./images/case_19_03.png)
 
 
 
-### Assembly
+### Assembly Video
 
-- Assemble it as the pictures suggest:
-
-
-![](./images/case_19_04.png)
-
-![](./images/case_19_05.png)
-
-![](./images/case_19_06.png)
-
-![](./images/case_19_07.png)
 
 Video reference: [https://youtu.be/t2mYccra8Vw](https://youtu.be/t2mYccra8Vw)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t2mYccra8Vw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+
+![](./images/case_step_19_01.png)
+
+![](./images/case_step_19_02.png)
+
+![](./images/case_step_19_03.png)
+
+![](./images/case_step_19_04.png)
+
+![](./images/case_step_19_05.png)
+
+![](./images/case_step_19_06.png)
+
+![](./images/case_step_19_07.png)
+
+![](./images/case_step_19_08.png)
+
+![](./images/case_step_19_09.png)
+
+![](./images/case_step_19_10.png)
+
+![](./images/case_step_19_11.png)
+
+![](./images/case_step_19_12.png)
+
+![](./images/case_step_19_13.png)
+
+![](./images/case_step_19_14.png)
+
+![](./images/case_step_19_15.png)
+
+![](./images/case_step_19_16.png)
+
+![](./images/case_step_19_17.png)
+
+![](./images/case_step_19_18.png)
+
+![](./images/case_step_19_19.png)
+
+
+
+
 ## MakeCode Programming
----
+
 
 
 ### Step 1
@@ -78,7 +106,7 @@ Note: If you met a tip indicating that the codebase will be deleted due to incom
 
 ### Step 2
 
----
+
 
 ### Programme as the picture shows: 
 
@@ -96,5 +124,6 @@ You may also downoad it directly below:
 ---
 
 ### Result
-- While rainning, the detected value from the soil moisture sensor is over the setting point, the laundry rack folds back in case of the clothes getting wet; while the sun comes out, the the detected value from the soil moisture sensor is below the setting point, and the the laundry rack stretches out to dry the clothes. 
+While rainning, the detected value from the soil moisture sensor is over the setting point, the laundry rack folds back in case of the clothes getting wet; while the sun comes out, the the detected value from the soil moisture sensor is below the setting point, and the the laundry rack stretches out to dry the clothes. 
 
+![](./images/case-gif-19.gif)
