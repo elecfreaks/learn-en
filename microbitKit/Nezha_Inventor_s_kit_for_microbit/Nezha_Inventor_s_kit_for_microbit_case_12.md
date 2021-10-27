@@ -121,5 +121,5 @@ You may also download it directly below:
 ### Result
 The car drives and avoids the obstacles automatically. 
 
-![](./images/ case-gif-12.gif)
+![](./images/case-gif-12.gif)
 
