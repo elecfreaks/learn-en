@@ -7,11 +7,10 @@ To make a color recognition password door.
 
 ## Quick Start 
 
----
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -26,44 +25,55 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
-
-![](./images/case_36_02.png)
 
 
 ### Connection Diagram 
----
-- Inset the micro:bit, connect the color sensor to IIC port, the 360 degrees servo to S1 and the crash sensor to J1 port on Nezha expansion board. 
+
+Inset the micro:bit, connect the color sensor to IIC port, the 360 degrees servo to S1 and the crash sensor to J1 port on Nezha expansion board. 
 
 
 ![](./images/case_36_03.png)
 
 
 
-### Bricks Build-up 
+### Assembly Video
 
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_36_04.png)
-
-![](./images/case_36_05.png)
-
-![](./images/case_36_01.png)
 
 Video link: [https://youtu.be/WiSpnc5fPbA](https://youtu.be/WiSpnc5fPbA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiSpnc5fPbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_36_01.png)
+
+![](./images/case_step_36_02.png)
+
+![](./images/case_step_36_03.png)
+
+![](./images/case_step_36_04.png)
+
+![](./images/case_step_36_05.png)
+
+![](./images/case_step_36_06.png)
+
+![](./images/case_step_36_07.png)
+
+![](./images/case_step_36_08.png)
+
+![](./images/case_step_36_09.png)
+
+![](./images/case_step_36_10.png)
+
+![](./images/case_step_36_11.png)
+
+
 ## MakeCode Programming 
 
----
 
 
 ### Step 1
 
----
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -79,8 +89,6 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
-
----
 
 ### Programme as the pictures indicate
 
@@ -99,5 +107,6 @@ You may download it directly below:
 ---
 
 ### Result
-- Sending the passwords via the colors, press the crash sensor to confirm after you choose the colors ready, the door would open if the two passwords are correct or the micro:bit displays "x" and the program reruns. 
+Sending the passwords via the colors, press the crash sensor to confirm after you choose the colors ready, the door would open if the two passwords are correct or the micro:bit displays "x" and the program reruns. 
 
+![](./images/case-gif-36.gif)
