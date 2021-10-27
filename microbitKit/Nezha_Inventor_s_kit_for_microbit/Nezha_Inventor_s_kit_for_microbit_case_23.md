@@ -7,11 +7,9 @@ Make a mechanical crawler.
 
 ## Quick Start
 
----
 
 ### Materials Required
 
----
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -20,35 +18,57 @@ micro:bit V2 × 1
 
 Bricks × n
 
-### Bricks details
-
-![](./images/case_23_02.png)
-
 
 
 ### Connection Diagram
----
-- Connect the servo to S1 and the micro:bit to Nezha expansion board. 
+
+Connect the servo to S1 and the micro:bit to Nezha expansion board. 
 
 
 ![](./images/case_23_03.png)
 
 
 
-### Bricks Build-up
-
-- Build it as below
--
-![](./images/case_23_04.png)
-![](./images/case_23_05.png)
-![](./images/case_23_06.png)
-![](./images/case_23_07.png)
-Link: [https://youtu.be/iJO1XlIaWwE](https://youtu.be/iJO1XlIaWwE)
+### Assembly Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJO1XlIaWwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_23_01.png)
+
+![](./images/case_step_23_02.png)
+
+![](./images/case_step_23_03.png)
+
+![](./images/case_step_23_04.png)
+
+![](./images/case_step_23_05.png)
+
+![](./images/case_step_23_06.png)
+
+![](./images/case_step_23_07.png)
+
+![](./images/case_step_23_08.png)
+
+![](./images/case_step_23_09.png)
+
+![](./images/case_step_23_10.png)
+
+![](./images/case_step_23_11.png)
+
+![](./images/case_step_23_12.png)
+
+![](./images/case_step_23_13.png)
+
+![](./images/case_step_23_14.png)
+
+![](./images/case_step_23_15.png)
+
+
+
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -86,5 +106,7 @@ You may also downoad it directly below:
 ---
 
 ### Result
-- The crawlers move forward after powering on. 
+The crawlers move forward after powering on. 
+
+![](./images/case-gif-23.gif)
 
