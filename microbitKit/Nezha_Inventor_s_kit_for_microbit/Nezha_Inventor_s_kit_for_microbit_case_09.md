@@ -7,11 +7,10 @@ To make an invading detection device with the micro:bit.
 
 ## Quick Start
 
----
+
 
 ### Materials Required
 
----
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -26,37 +25,14 @@ RJ11 wires × 3
 
 
 
-### Bricks details
-
-
-
-![](./images/Bricks_case_09.png)
-
-
-
-![](./images/case_09_02.png)
-
 ### Connection Diagram 
----
-- Connect the sonar:bit to J1, red LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
+
+Connect the sonar:bit to J1, red LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_09_03.png)
 
-### Assembly
-
-- Build a device as the picture shows:
-
-
-![](./images/case_09_04.png)
-
-![](./images/case_09_05.png)
-
-![](./images/case_09_06.png)
-
-![](./images/case_09_07.png)
-
-
+### Assembly Video
 
 
 Video Reference: [https://youtu.be/jw9_wlNIiHw](https://youtu.be/jw9_wlNIiHw)
@@ -65,13 +41,32 @@ Video Reference: [https://youtu.be/jw9_wlNIiHw](https://youtu.be/jw9_wlNIiHw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jw9_wlNIiHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
 
+
+![](./images/case_step_09_01.png)
+
+![](./images/case_step_09_02.png)
+
+![](./images/case_step_09_03.png)
+
+![](./images/case_step_09_04.png)
+
+![](./images/case_step_09_05.png)
+
+![](./images/case_step_09_06.png)
+
+![](./images/case_step_09_07.png)
+
+![](./images/case_step_09_08.png)
+
+![](./images/case_step_09_09.png)
 
 
 
 ## MakeCode Programming
 
----
+
 
 
 ### Step 1
@@ -102,4 +97,6 @@ You may also download it directly below:
 ---
 
 ### Result
-- While the sonar:bit detects the object, the red LED lights up and the buzzer alarms. 
+While the sonar:bit detects the object, the red LED lights up and the buzzer alarms. 
+
+![](./images/ case-gif-09.gif)
