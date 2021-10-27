@@ -7,11 +7,10 @@ Make a dazzling car.
 
 ## Quick Start
 
----
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -26,43 +25,69 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
-
-![](./images/Bricks_case_34.png)
-
-![](./images/case_29_02.png)
 
 
 ### Connection Diagram 
----
-- Insert the micro:bit, connect the motors to M1and M4, the color sensor to IIC port and the rainbow LED ring to J1 on the Nezha expansion board as the picture shows.
+
+Insert the micro:bit, connect the motors to M1and M4, the color sensor to IIC port and the rainbow LED ring to J1 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_29_03.png)
 
 
 
-### Assembly
+### Assembly Video
 
-- Build a device as the picture shows:
-
-![](./images/case_34_04.png)
-
-![](./images/case_34_05.png)
-
-![](./images/case_29_06.png)
-
- ![](./images/case_29_07.png)
-
-![](./images/case_29_01.png)
 
 Link: [https://youtu.be/Am1ZEq1CqnY](https://youtu.be/Am1ZEq1CqnY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Am1ZEq1CqnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+
+![](./images/case_step_29_01.png)
+
+![](./images/case_step_29_02.png)
+
+![](./images/case_step_29_03.png)
+
+![](./images/case_step_29_04.png)
+
+![](./images/case_step_29_05.png)
+
+![](./images/case_step_29_06.png)
+
+![](./images/case_step_29_07.png)
+
+![](./images/case_step_29_08.png)
+
+![](./images/case_step_29_09.png)
+
+![](./images/case_step_29_10.png)
+
+![](./images/case_step_29_11.png)
+
+![](./images/case_step_29_12.png)
+
+![](./images/case_step_29_13.png)
+
+![](./images/case_step_29_14.png)
+
+![](./images/case_step_29_15.png)
+
+![](./images/case_step_29_16.png)
+
+![](./images/case_step_29_17.png)
+
+
+
+
+
 ## MakeCode Programming
 
----
+
 
 ### Step 1
 
@@ -98,5 +123,7 @@ You may also download it directly below:
 ---
 
 ### Result
-- After powering on, press button A to drive the car foward and the LEDs light up in red and blue, press button B to stop the car and the LEDs light off. 
+After powering on, press button A to drive the car foward and the LEDs light up in red and blue, press button B to stop the car and the LEDs light off. 
+
+![](./images/case-gif-29.gif)
 
