@@ -73,8 +73,6 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 
 ## Makecode Programming
 
-
-
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
