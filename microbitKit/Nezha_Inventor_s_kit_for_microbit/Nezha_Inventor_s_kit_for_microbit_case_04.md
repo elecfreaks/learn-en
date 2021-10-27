@@ -6,10 +6,10 @@ To make a mini table lamp with a micro:bit.
 ![](./images/case_04_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Reuqired
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -22,57 +22,48 @@ RJ11 wires × 2
 
 
 
-### Bricks details
-
-
-
-![](./images/Bricks_case_04.png)
-
-
-
-![](./images/case_04_02.png)
 
 
 
 ### Connection Diagram 
----
-- Connect the crash sensor to J1 and the yellow LED to J2 on the Nezha expansion board as the picture shows.
+
+Connect the crash sensor to J1 and the yellow LED to J2 on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_04_03.png)
 
-### Assembly
+### Assembly Video
 
----
-
-Build a device as the picture shows:
-
-![](./images/case_04_04.png)
-
-![](./images/case_04_05.png)
-
-![](./images/case_04_06.png)
-
-![](./images/case_04_07.png)
-
-![](./images/case_04_08.png)
-
-![](./images/case_04_09.png)
 
 Video reference:[https://youtu.be/BBP1Nx6t090](https://youtu.be/BBP1Nx6t090)
-
-
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BBP1Nx6t090" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Assembly Steps
+
+![](./images/case_step_04_01.png)
+
+![](./images/case_step_04_02.png)
+
+![](./images/case_step_04_03.png)
+
+![](./images/case_step_04_04.png)
+
+![](./images/case_step_04_05.png)
+
+![](./images/case_step_04_06.png)
+
+![](./images/case_step_04_07.png)
+
+![](./images/case_step_04_08.png)
+
+![](./images/case_step_04_09.png)
 
 
 
 ## MakeCode Programming
----
-
 
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
@@ -101,5 +92,7 @@ You may also download it directly below:
 ---
 
 ### Result
-- The crash sensor controlls the on/off of the LED. 
+The crash sensor controlls the on/off of the LED. 
 
+
+![](./images/case-gif-04.gif)
