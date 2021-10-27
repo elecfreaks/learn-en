@@ -7,11 +7,11 @@ To make the micro:bit display different emotions in accordance with the colors d
 
 ## Quick Start 
 
----
+
 
 ### Materials Required
 
----
+
 Nezha expansion board × 1
 
 micro:bit V2 × 1
@@ -22,44 +22,46 @@ Bricks × n
 
 Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
-### Bricks Required
-
-![](./images/case_25_02.png)
-
 
 ### Connection Diagram 
----
-- Inset the micro:bit, and connect the color sensor to IIC port on Nezha expansion board. 
+
+Inset the micro:bit, and connect the color sensor to IIC port on Nezha expansion board. 
 
 
 ![](./images/case_25_03.png)
 
 
 
-### Bricks Build-up 
-
----
-
-- Build a device as the pictures indicate: 
-
-![](./images/case_25_04.png)
-
-![](./images/case_25_05.png)
-
-
+### Assembly Video
 
 Video link: [https://youtu.be/5xkxc6J6AnI](https://youtu.be/5xkxc6J6AnI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5xkxc6J6AnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+![](./images/case_step_25_01.png)
+
+![](./images/case_step_25_02.png)
+
+![](./images/case_step_25_03.png)
+
+![](./images/case_step_25_04.png)
+
+![](./images/case_step_25_05.png)
+
+
+
+
 ## MakeCode Programming 
 
----
+
 
 
 ### Step 1
 
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -77,7 +79,6 @@ Note: If you met a tip indicating the codebase might be deleted due to incompati
 
 ### Step 2
 
----
 
 ### Programme as the pictures indicate
 
@@ -95,5 +96,7 @@ You may download it directly below:
 ---
 
 ### Result
-- After powering on, the micro:bit displays different emotions in accordance with the colors detected by the sensor. 
+After powering on, the micro:bit displays different emotions in accordance with the colors detected by the sensor. 
+
+![](./images/case-gif-25.gif)
 
