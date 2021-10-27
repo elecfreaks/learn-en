@@ -6,52 +6,54 @@ To make a smart lamp with the micro:bit.
 ![](./images/case_07_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
----
+
 Nezha expansion board × 1
+
 micro:bit × 1
+
 LED-yellow × 1
+
 RJ11 wires × 1
 
-![](./images/Bricks_case_07.png)
-
-![](./images/case_07_02.png)
 
 
 ### Connection Diagram
----
-- Connect the yellow LED on the Nezha expansion board as the picture shows.
+
+Connect the yellow LED on the Nezha expansion board as the picture shows.
 
 
 ![](./images/case_07_03.png)
 
-- ### Assembly
-
-  Build the device as the picture shows:
-
-![](./images/case_07_04.png)
-
-![](./images/case_07_05.png)
-
-![](./images/case_07_06.png)
-
-![](./images/case_07_07.png)
-
-![](./images/case_07_08.png)
-
+### Assembly Video
 
 
 Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDzSJMKisO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Assembly Steps
+
+![](./images/case_step_07_01.png)
+
+![](./images/case_step_07_02.png)
+
+![](./images/case_step_07_03.png)
+
+![](./images/case_step_07_04.png)
+
+![](./images/case_step_07_05.png)
+
+![](./images/case_step_07_06.png)
+
+![](./images/case_step_07_07.png)
+
 
 
 ## MakeCode Programming
 
----
 
 
 ### Step 1
@@ -83,5 +85,7 @@ You may also download it directly below:
 
 ### Result
 
-- The LED lamps light on/off according to the light intensity. 
+The LED lamps light on/off according to the light intensity.
+
+![](./images/ case-gif-07.gif)
 
