@@ -6,10 +6,10 @@ Make a volume reminder with micro:bit.
 ![](./images/case_15_01.png)
 
 ## Quick to Start
----
+
 
 ### Materials 
----
+
 Nezha expansion board × 1
 
 micro:bit × 1
@@ -20,45 +20,48 @@ RJ11 wires × 1
 
 Bricks × n
 
-![](./images/case_15_02.png)
-
-
-### Bricks Details
----
-
-![](./images/Bricks_case_15.png)
-
-
-
 
 ### Connection Diagram 
----
-- Connect the 360 degrees servo to S1 port on the Nezha expansion board. 
+
+Connect the 360 degrees servo to S1 port on the Nezha expansion board. 
 
 
 ![](./images/case_15_03.png)
 
 
-### Bricks Build-up 
----
-- Build a device as the pictures indicate: 
-
-![](./images/case_15_04.png)
-
-![](./images/case_15_05.png)
-
-![](./images/case_15_06.png)
+### Assembly Video
 
 Video link:[https://youtu.be/sq4fq4W51Ck](https://youtu.be/sq4fq4W51Ck)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sq4fq4W51Ck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Assembly Steps
+
+
+![](./images/case_step_15_01.png)
+
+![](./images/case_step_15_02.png)
+
+![](./images/case_step_15_03.png)
+
+![](./images/case_step_15_04.png)
+
+![](./images/case_step_15_05.png)
+
+![](./images/case_step_15_06.png)
+
+![](./images/case_step_15_07.png)
+
+
+
+
 ## MakeCode Programming 
----
+
 
 
 ### Step 1
----
+
 
 Click "Advanced" in the MakeCode drawer to see more choices. 
 
@@ -75,7 +78,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
----
+
 
 ### Programme as the pictures indicate
 
@@ -94,5 +97,6 @@ You may download it directly below:
 ---
 
 ### Result
-- The servos drive in accordance with the change of the volume. 
+The servos drive in accordance with the change of the volume. 
 
+![](./images/ case-gif-15.gif)
