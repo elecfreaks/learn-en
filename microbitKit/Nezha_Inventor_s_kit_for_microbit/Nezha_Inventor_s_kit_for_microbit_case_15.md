@@ -99,4 +99,4 @@ You may download it directly below:
 ### Result
 The servos drive in accordance with the change of the volume. 
 
-![](./images/ case-gif-15.gif)
+![](./images/case-gif-15.gif)
