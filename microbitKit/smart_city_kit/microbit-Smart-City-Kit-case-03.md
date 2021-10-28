@@ -24,6 +24,9 @@ Detect if there are humans approaching with the sonar:bit, program to open the l
 
 Connect the sonar:bit to P1,  the servo to P2 on IoT:bit. 
 
+![](./images/microbit-Smart-City-Kit-case-03-03.png)
+
+
 ## Software Programming 
 
 ---
