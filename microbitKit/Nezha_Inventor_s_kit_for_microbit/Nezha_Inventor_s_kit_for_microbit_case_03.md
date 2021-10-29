@@ -1,7 +1,8 @@
 # Case 03: Automatic Gate
 
 ## Introduction
-To make an automatic gate with the ultrasonic sound sensor controlled by the micro:bit. 
+
+A simple automatic sensor door. When the ultrasonic sensor detects that a person is approaching, the micro:bit controls the servo to automatically open the door. When no person is approaching, the micro:bit controls the servo to automatically close the door.
 
 ![](./images/case_03_01.png)
 
