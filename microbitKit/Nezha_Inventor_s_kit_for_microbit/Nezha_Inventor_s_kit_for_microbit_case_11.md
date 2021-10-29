@@ -2,7 +2,7 @@
 
 ## Introduction
 
-electrical tape to paste a track on the white plane, and then make the car drive according to the preset trajectory.
+This is a line tracking car, we can use black electrical tape to paste a track on the white plane, and then make the car drive according to the preset trajectory.
 
 ![](./images/case_11_01.png)
 
