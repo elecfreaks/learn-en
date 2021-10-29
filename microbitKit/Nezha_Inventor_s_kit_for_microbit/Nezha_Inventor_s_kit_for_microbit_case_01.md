@@ -2,7 +2,7 @@
 
 ## Introduction
 
-To make a traffic lights system controlled by the micro:bit. 
+In our daily life, many traffic accidents should have been avoided. These traffic accidents are often caused by people not observing the traffic rules, thus, we must understand the traffic rules. For example, the common traffic lights in our lives, red light means not passing, yellow light means warning, and green light means permission to pass. Let's make a traffic light controlled by the micro:bit.
 
 ![](./images/case_01_01.png)
 
