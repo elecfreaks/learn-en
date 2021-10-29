@@ -1,7 +1,8 @@
 # Case 18: Music Box
 
 ## Introduction
-Build a music box with the micro:bit. 
+
+This is an alarm device. Press button A to make the red LED light on and flash, and the buzzer will be activated. Press button A again to cancel the alarm.
 
 
 
