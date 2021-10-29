@@ -1,7 +1,8 @@
 # Case 09: Invading Detection Device
 
 ## Introduction
-To make an invading detection device with the micro:bit.
+
+This is an intrusion detection device. When the ultrasonic sensor detects that someone is approaching, it will automatically turn on a red light and alarm through the buzzer on the micro:bit. If the ultrasonic sensor does not detect anyone, it will automatically turn on green light.
 
 ![](./images/case_09_01.png)
 
