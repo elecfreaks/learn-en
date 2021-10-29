@@ -1,6 +1,7 @@
 # Case 31: The Rotary Password Door
 ## Introduction
-To make a rotary password door. 
+
+The selected password can be adjusted by the potentiometer and confirmed by the crash sensor. If two consecutive passwords are entered within the correct range, the password door will open. Perhaps we can use this device to make some decryption plots to make the game more interesting.
 
 ![](./images/case_31_01.png)
 
