@@ -1,7 +1,8 @@
 # Case 27: The Distance Indicator
 
 ## Introduction 
-To make a device that is able to display the distance from the sonar:bit to the object. 
+
+This is a distance detection device. In order to prevent the spread of the epidemic, people should maintain a certain social distance in public. This device can display the distance between the carrier and the person in front of it on the screen.
 
 ![](./images/case_27_01.png)
 
