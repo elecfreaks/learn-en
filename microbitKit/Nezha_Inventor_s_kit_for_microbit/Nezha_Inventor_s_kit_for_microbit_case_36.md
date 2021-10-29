@@ -1,7 +1,8 @@
 # Case 36: Color Recognition Password Door
 
 ## Introduction 
-To make a color recognition password door.
+
+This is a unique code door because it uses colors as the password. The code door will only open when the color cards are placed in the correct order.
 
 ![](./images/case_36_01.png)
 
