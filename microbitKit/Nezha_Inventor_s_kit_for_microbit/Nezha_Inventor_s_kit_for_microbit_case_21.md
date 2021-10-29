@@ -1,7 +1,8 @@
 # case 21 An Oscillating Fan
 
 ## Introduction
-Build an oscillating fan with the micro:bit.
+
+Combine the motor and the servo to make a common head-shaking fan in daily life, and control the fan head-shaking function and turn it on and off by pressing the button.
 
 ![](./images/case_21_01.png)
 
