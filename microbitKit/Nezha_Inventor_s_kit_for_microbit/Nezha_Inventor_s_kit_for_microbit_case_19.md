@@ -2,8 +2,7 @@
 
 ## Introduction
 
-
-This is a music box. We can control the buzzer on the micro:bit to emit different melody by pressing the button A on the micro:bit.
+When people are not at home, if it suddenly rains, we will be able to go home to pick up the clothes, and the clothes will get wet. Thus, we can use soil moisture sensor and servos to make a simple automatic drying rack. When the soil moisture sensor detects rain, it controls the servo to automatically retract the clothes rod to keep the clothes from getting wet. When the soil moisture sensor does not detect rain, it automatically extends the clothes rod to dry the clothes.
 
 ![](./images/case_19_01.png)
 
