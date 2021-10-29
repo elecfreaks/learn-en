@@ -1,7 +1,8 @@
 # Case 08: Speed Adjustable Fans
 
 ## Introduction
-To make a speed adjustable fan with the micro:bit. 
+
+Use the potentiometer and the motor to make a knob to control the fan, and you can use the knob to control the speed of the fan.
 
 ![](./images/case_08_01.png)
 
