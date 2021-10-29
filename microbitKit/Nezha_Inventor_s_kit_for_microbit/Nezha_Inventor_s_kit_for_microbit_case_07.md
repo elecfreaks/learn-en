@@ -1,7 +1,8 @@
 # Case 07: Smart Lamps 
 
 ## Introduction
-To make a smart lamp with the micro:bit. 
+
+Use the light intensity of the micro:bit to make a smart light, which automatically turns on or off the LED light according to the light level.
 
 ![](./images/case_07_01.png)
 
