@@ -1,7 +1,8 @@
 # Case 10: Speed Adjustable Car
 
 ## Introduction
-To make a speed adjustable car with a micro:bit.
+
+This is an adjustable speed car, we can control the speed of the it through the potentiometer installed at the back side.
 
 ![](./images/case_10_01.png)
 
