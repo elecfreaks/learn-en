@@ -1,7 +1,8 @@
 # Case 25: Colors of the Emotions
 
 ## Introduction
-To make the micro:bit display different emotions in accordance with the colors detected by the sensor. 
+
+This is an emotional micro:bit. It will show a smile to the color that it likes, and it will also express sadness or anger at the color it doesn't like. Let’s find out the favorite color of the small micro:bit.
 
 ![](./images/case_25_01.png)
 
