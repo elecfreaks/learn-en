@@ -1,7 +1,8 @@
 # Case 16: Memory Test 
 
 ## Introduction 
-Build a memory test  device with the micro:bit. 
+
+This is a memory testing device. The red and green lights on the device will light up randomly. After all the light instructions are displayed, you need to press the corresponding buttons according to the order of the lights, (A stands for red, B stands for green) , If in the correct order, the micro:bit displays "√", otherwise the micro:bit displays a sad face.
 
 ![](./images/case_16_01.png)
 
