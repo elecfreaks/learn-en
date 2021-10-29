@@ -1,7 +1,8 @@
 # Case 15: Volume Reminder 
 
 ## Introduction 
-Make a volume reminder with micro:bit. 
+
+This device uses the sound intensity detection on the micro:bit V2 to control the servo to rotate to the corresponding position by detecting the surrounding sound level, so that the pointer connected to the servo fluctuates with the volume.
 
 ![](./images/case_15_01.png)
 
