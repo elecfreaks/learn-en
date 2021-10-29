@@ -1,7 +1,8 @@
 # Case 28: The Corridor Lights 
 
 ## Introduction 
-To make a light controlling system by the ambient light and sound level. 
+
+This is a smart corridor light, which judges whether it needs to be turned on by the sound level and light level. Only when the light is dim and the sound of people walking is detected, the light will be automatically turned on, which saves more energy.
 
 ![](./images/case_28_01.png)
 
