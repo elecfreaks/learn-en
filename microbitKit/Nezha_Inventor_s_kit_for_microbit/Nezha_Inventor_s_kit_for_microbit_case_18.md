@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an alarm device. Press button A to make the red LED light on and flash, and the buzzer will be activated. Press button A again to cancel the alarm.
+This is a music box. We can control the buzzer on the micro:bit to emit different melody by pressing the button A on the micro:bit.
 
 
 
