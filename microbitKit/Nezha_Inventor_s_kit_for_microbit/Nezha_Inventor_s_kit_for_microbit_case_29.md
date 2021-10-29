@@ -1,7 +1,8 @@
 # Case 29: The Dazzling Car
 
 ## Introduction
-Make a dazzling car. 
+
+This is a simple car. I installed a cool rainbow light ring on the car, and we can display different lighting effects through this light ring.
 
 ![](./images/case_29_01.png)
 
