@@ -2,7 +2,7 @@
 
 ## Introduction
 
-detects whether there are obstacles in front of it through the ultrasonic sensor on the front of the car, the car automatically turns when it detects obstacles to avoid collisions. 
+This is an obstacle avoidance car. It detects whether there are obstacles in front of it through the ultrasonic sensor on the front of the car, the car automatically turns when it detects obstacles to avoid collisions.
 
 ![](./images/case_12_01.png)
 
