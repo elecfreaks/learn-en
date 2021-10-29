@@ -1,7 +1,8 @@
 # Case 26: The Volume Indicator
 
 ## Introduction
-To make a color-changing device that is reflected with its ambient sound level. 
+
+This is a sound warning device. As we all know, noise pollution seriously affects our lives. If we are exposed to a certain decibel noise for a long time, our physical and mental state will also be harmed. Thus, we can make a noise detection device. Different decibel values light up different colors of lights to remind people to keep quiet.
 
 ![](./images/case_28_01.png)
 
