@@ -1,7 +1,8 @@
 # case 23 micro:bit Crawlers
 
 ## Introduction
-Make a mechanical crawler.
+
+Let the children use the building blocks and micro:bit to make a crawling caterpillar. In this process, children could experience the fun of building blocks and get a preliminary understanding of the ratchet structure.
 
 ![](./images/case_23_01.png)
 
