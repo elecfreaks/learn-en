@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Build an automatic laundry rack with a micro:bit. 
+
+This is a music box. We can control the buzzer on the micro:bit to emit different melody by pressing the button A on the micro:bit.
 
 ![](./images/case_19_01.png)
 
