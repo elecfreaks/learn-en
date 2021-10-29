@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Make a gesture recognition car. 
+This is a simple car. We can install gesture recognition sensors on the car to control the car’s driving route based on gestures.
 
 ![](./images/case_34_01.png)
 
