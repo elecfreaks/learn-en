@@ -1,7 +1,8 @@
 # Case 11: Line-tracking Car
 
 ## Introduction
-To build a car that could drive along with the black line with a micro:bit. 
+
+electrical tape to paste a track on the white plane, and then make the car drive according to the preset trajectory.
 
 ![](./images/case_11_01.png)
 
