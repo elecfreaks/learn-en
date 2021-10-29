@@ -1,7 +1,8 @@
 # case 35 Color Recognition Car
 
 ## Introduction
-To make a color recognition car.
+
+A color recognition sensor is installed on the car. We can use the color recognition sensor to identify the color blocks that the car passes along the way and display it through the rainbow LED on the car.
 
 ![](./images/case_35_01.png)
 
