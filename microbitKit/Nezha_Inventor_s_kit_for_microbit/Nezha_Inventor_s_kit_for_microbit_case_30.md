@@ -1,7 +1,8 @@
 # Case 30: Adjustable lights
 
 ## Introduction
-To make a lighting device in different  luminance levels. 
+
+This is an adjustable LED light. We can adjust the brightness of the light through the potentiometer, so that the light is at our most comfortable brightness.
 
 ![](./images/case_30_01.png)
 
