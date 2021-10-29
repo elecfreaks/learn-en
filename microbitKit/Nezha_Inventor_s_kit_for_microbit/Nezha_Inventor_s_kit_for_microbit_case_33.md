@@ -1,7 +1,8 @@
 # Case 33: Color-controlled Lights
 
 ## Introduction
-To make a color-controlled lights system.
+
+Recognize the color through the color recognition sensor, and control the rainbow LED to light up the in the same color.
 
 ![](./images/case_33_01.png)
 
