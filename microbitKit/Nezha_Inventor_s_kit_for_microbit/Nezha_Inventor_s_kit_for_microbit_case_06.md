@@ -1,7 +1,8 @@
 # Case 06: Temperature-controlled Fan
 
 ## Introduction
-To make a fan that can be controlled by the temperature with a micro:bit. 
+
+If staying in a room under a high temperature with dry air, our noses and throats are prone to dryness, congestion, pain, and sometimes nosebleeds. Also, people will become irritable, lack of concentration, poor accuracy and coordination, and slower reaction speed under such condition. What’s more, the body temperature regulation mechanism temporarily becomes obstructed, and heat accumulation in the body occurs, leading to heat stroke. Thus, we can make a smart temperature-controlled fan, when the temperature is high, the fan will be automatically turned on for heat dissipation and cooling, and when the temperature is low, the fan will be automatically turned off to save energy.
 
 ![](./images/case_06_01.png)
 
