@@ -1,7 +1,8 @@
 # Case 32: Gesture Recognition Ring LEDs
 
 ## Introduction
-To make a light system that is controlled by hands gesture. 
+
+This is an interesting lighting device that uses gesture recognition sensors to recognize human gesture commands and control the color of the light.
 
 ![](./images/case_32_01.png)
 
