@@ -1,7 +1,8 @@
 # Case 04: Mini Table Lamps
 
 ## Introduction
-To make a mini table lamp with a micro:bit. 
+
+Use micro:bit to make a mini desk lamp, and control the LED light to turn on or off through a crash sensor.
 
 ![](./images/case_04_01.png)
 
