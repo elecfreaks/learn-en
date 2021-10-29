@@ -1,7 +1,8 @@
 # Case 02: Flower-watering Prompter
 
 ## Introduction
-To make a flower-watering prompter with a micro:bit. 
+
+Some plants can make people live healthier. For example, a pot of green dill in a room of 8-10 square meters is equivalent to an air purifier, which can effectively absorb harmful gases such as formaldehyde, benzene and trichloroethylene in the air. Thus, we can make a simple watering device to help us take care of plants.
 
 ![](./images/case_02_01.png)
 
