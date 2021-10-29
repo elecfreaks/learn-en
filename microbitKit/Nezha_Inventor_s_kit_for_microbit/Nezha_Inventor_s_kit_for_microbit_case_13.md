@@ -1,7 +1,8 @@
 # Case 13: Lively Music 
 
 ## Introduction 
-Make an electronic piano through micro:bit with the trimpot module. 
+
+We can adjust the frequency of the buzzer sound through the potentiometer. Try to create unique music by turning the potentiometer!
 
 ![](./images/case_13_01.png)
 
