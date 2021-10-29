@@ -1,7 +1,8 @@
 # Case 14:  Guess the tones
 
 ## Introduction 
-Make a micro:bit device that is able to recognize the tones. 
+
+This is a gaming device. It displays a smiley face and plays a beep when it is turned on. Press the button A to select the corresponding number, and press the button B to confirm. If the confirmed number is the same as the prompt sound, the micro:bit displays √; if not, it displays ×.
 
 ![](./images/case_14_01.png)
 
