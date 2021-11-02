@@ -1,6 +1,6 @@
 # Case 02: Auto Irrigation System 
 
-![](./images/microbit-Smart-City-Kit-case-02-01.png)
+
 
 ##  Introduction
 ---
