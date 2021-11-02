@@ -1,6 +1,6 @@
 # Case 01: Water Backflow Prevention Device in Subway
 
-![](./images/microbit-Smart-City-Kit-case-01-01.png)
+
 
 ##  Introduction
 
