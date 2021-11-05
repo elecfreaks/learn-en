@@ -6,10 +6,7 @@ It is able to play the music.
 
 ![](./images/04104_01.png)
 
-## Characteristic
 
----
-- Designed with RJ11 ports and easy to plug.
 ## Specification
 
 ---
