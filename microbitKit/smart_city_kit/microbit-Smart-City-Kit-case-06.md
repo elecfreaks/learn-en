@@ -21,7 +21,7 @@
 ## Hardware Connection
 ---
 
-Connect sonar sensor to P1, the sever to P2 on IoT:bit. 
+Connect the sonar:bit to P1, the servo to P2 on IoT:bit.
 
 ![](./images/microbit-Smart-City-Kit-case-03-03.png)
 
