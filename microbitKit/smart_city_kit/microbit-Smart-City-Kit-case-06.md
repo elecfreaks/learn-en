@@ -21,9 +21,9 @@
 ## Hardware Connection
 ---
 
-Connect DHT11 sensor to P1, the red LED to P2 and the OLED display to IIC on IoT:bit. 
+Connect sonar sensor to P1, the sever to P2 and the OLED display to IIC on IoT:bit. 
 
-![](./images/microbit-Smart-City-Kit-case-05-03.png)
+![](./images/microbit-Smart-City-Kit-case-06-03.png)
 
 ## Software Program
 ---
