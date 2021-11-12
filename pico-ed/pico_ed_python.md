@@ -10,6 +10,7 @@ Download and unzip the package: [lib.rar](https://github.com/elecfreaks/pico_ed/
 Install and open it: [thonny](https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe)
 
 Click "Tools" to see more "Options..." 
+
 ![](./images/pico-ed-py-01.png)
 
 Click "Interpreter" to see more choices by clicking the arrow, and choose Rasperry Pi Pico. 
