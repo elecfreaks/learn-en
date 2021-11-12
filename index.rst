@@ -40,3 +40,4 @@ Welcome to micro:bit WIKI
    microbitplanetX/index
    microbitExtensionModule/index
    RetroArcadeforEducation/index
+   pico-ed/index
