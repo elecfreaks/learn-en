@@ -10,6 +10,7 @@ Smart Cutebot kit
 
 
     cutebot_car.md
+    cutebot-python.md
     cutebot_extensions.md
     cutebot_case01.md
     cutebot_case02.md
