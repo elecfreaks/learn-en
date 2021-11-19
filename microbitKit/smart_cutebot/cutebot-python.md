@@ -57,7 +57,7 @@ while(True):
 ### Result
 - The Cutebot turns its direction once it detects any obstacle ahead of it. 
 
-### Sample 4: Link-tracking 
+### Sample 4: Line-tracking 
 ```
 from microbit import *
 from Cutebot import *
