@@ -70,6 +70,10 @@ Note the directions of the propellers and positions before installation.
 
 ![](./images/Drone-bit-04.png)
 
+Connect the propeller guards.
+
+![](./images/Drone-bit-11.png)
+
 Insert the arms to the connectors. 
 
 ![](./images/Drone-bit-05.png)
