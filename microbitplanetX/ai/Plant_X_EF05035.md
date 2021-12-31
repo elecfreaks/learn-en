@@ -103,12 +103,34 @@ Choose the port to download it.
 
 ### FAQ
 
-In macOS operation system, if you fail to install the firmware because the developer cannot be verified. 
+1.In macOS operation system, if you fail to install the firmware because the developer cannot be verified. 
 
 ![](./images/AI-gj-07-en.png)
 
 Please visit https://support.apple.com/en-us/HT202491 for solutions.
 
+2.While using AI cameras, if there is an error tip occurring while clicking downloading, it might be the corrupted extensions of the PlanetX. 
+
+![](./images/AI-FAQ-01.png)
+
+Details of the corrupted might be these two reasons: 
+
+（1）The version of the extension is not the newest, please try creating a new project and add the extensions again. 
+
+
+（2）
+The conflict emerged due the adding of both the PlanetX and PlanetX-AI, please click the part circled in red in the picture “JaveScript”to switch the program screen, click the explorer and delete PlanetX or PlanetX-AI according to your demand. 
+
+![](./images/AI-FAQ-03.png)
+
+After deleting, it should work now. 
+
+![](./images/AI-FAQ-04.png)
+
+After deleting, if you find the loss of the visual block, please try adding the extensions again. If it doesn’t work, please try resetting the MakeCode with the tips in below picture. 
+Note: all projects saved in MakeCode will be cleared after the reset, please save all of them in your computer if you need them. 
+
+![](./images/AI-FAQ-05.png)
 
 
 
