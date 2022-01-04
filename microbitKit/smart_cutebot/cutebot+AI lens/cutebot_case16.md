@@ -91,12 +91,12 @@ Connect the RJ11 cable with the AI Lens and the other end in Dupont connection t
 
 ![](./images/case-16-03.png)
 
-Link: [https://makecode.microbit.org/_hcy8YeM87AVd](https://makecode.microbit.org/_hcy8YeM87AVd)
+Link: [https://makecode.microbit.org/_APW2Ps3hAU9L](https://makecode.microbit.org/_APW2Ps3hAU9L)
 
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_hcy8YeM87AVd" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_APW2Ps3hAU9L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 ---
