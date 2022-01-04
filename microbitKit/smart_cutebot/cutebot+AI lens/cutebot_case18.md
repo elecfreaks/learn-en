@@ -99,12 +99,12 @@ We need to add a package for programming the AI lens kit. Click “Extensions”
 
 ![](./images/case-18-03.png)
 
-Link: [https://makecode.microbit.org/_L36f3yaJgTVH](https://makecode.microbit.org/_L36f3yaJgTVH)
+Link: [https://makecode.microbit.org/_h7RFxiT6MJWX](https://makecode.microbit.org/_h7RFxiT6MJWX)
 
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_L36f3yaJgTVH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_h7RFxiT6MJWX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 ---
