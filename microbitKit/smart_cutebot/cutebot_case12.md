@@ -43,12 +43,12 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 #### Programming
 
-Links: [https://makecode.microbit.org/_0Xo6EX0weMVF](https://makecode.microbit.org/_0Xo6EX0weMVF)
+Links: [https://makecode.microbit.org/_Pv01m2ehfcKT](https://makecode.microbit.org/_Pv01m2ehfcKT)
 
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_0Xo6EX0weMVF" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_Pv01m2ehfcKT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 
@@ -64,12 +64,12 @@ You can also download it directly below:
 
 #### Programming
 
-Links: [https://makecode.microbit.org/_6ExC8oRz3i6U](https://makecode.microbit.org/_6ExC8oRz3i6U)
+Links: [https://makecode.microbit.org/_VYxbiCVtE962](https://makecode.microbit.org/_VYxbiCVtE962)
 
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_6ExC8oRz3i6U" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_VYxbiCVtE962" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
 
