@@ -28,6 +28,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 ### Step 2
 
 - Choose "show icon" in the `On start`bricks.
+
 ![](./images/case_01_02.png)
 
 ### Step 3
@@ -39,7 +40,9 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 ### Step 4
 
-- Drag ``reverse at full speed` brick into `on button B pressed` brick.![](./images/case_01_03.png)
+- Drag ``reverse at full speed` brick into `on button B pressed` brick.
+
+![](./images/case_01_03.png)
 
 ### Programming
 
