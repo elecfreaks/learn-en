@@ -50,7 +50,7 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 
 4.After programming, click the green flag to run it.
 
-# ![](./images/Bitboard_Kit_09.png)
+![](./images/Bitboard_Kit_09.png)
 
 ### Operation steps
 1.Connect the Bitboard with the computer through the USB cable. 
