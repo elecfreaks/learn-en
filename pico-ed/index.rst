@@ -7,4 +7,4 @@ pico-ed
     :maxdepth: 2
     :numbered: 2
     
-    Bitboard_Kit.md
+    pico_ed_python.md
