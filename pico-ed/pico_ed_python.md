@@ -29,7 +29,7 @@ Getting in the "Files" folder, open the downloaded and unzipped folder of pico_e
 
 ![](./images/pico-ed-py-05.png)
 
-Click the right mouse button on the "lib" folder and select "Move to Recyle Bin" to upload the data to pico_ed.
+Click the right mouse button on the "lib" folder and select "Move to Recyle Bin" to upload the data to pico_ed. After the operation, click "stop" button.
 
 ![](./images/pico-ed-py-06.png)
 
