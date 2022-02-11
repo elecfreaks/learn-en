@@ -15,6 +15,7 @@ Smart Science IoT Kit
     how_to_use_IFTTT.md
     excel_and_microbit.md
     how_to_use_kidsiot.md
+    IOT_MQTT.md
     IOT_bit_case01.md
     IOT_bit_case02.md
     IOT_bit_case03.md
