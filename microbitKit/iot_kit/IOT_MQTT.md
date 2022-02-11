@@ -134,4 +134,9 @@ Program:
 Link: [https://makecode.microbit.org/_2Ys7uE8F7Dr8](https://makecode.microbit.org/_2Ys7uE8F7Dr8)
 
 
+## FAQ
 
+### F：如何判断当前版本的IOT:bit是否支持MQTT？
+Q：请查看IOT:bit背面的版本号，IOT:bit V1.6版本支持MQTT协议，IOT:bit V1.4及其以下版本不支持MQTT协议。
+
+![](./images/IOT_HiveMQ_27.png)
