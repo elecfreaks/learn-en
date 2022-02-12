@@ -13,15 +13,16 @@ Power:bit button cell board is a micro expansion board in the smallest size equi
 
 ## Parameter
 ---
-Item | Parameter 
-:-: | :-: 
-Name|power:bit
-Version Number|V1.6
-SKU| EF03409
-Operating Voltage|2.7~3.3V
-Buzzer|Support
-Size|42x52mm
-Net weight|10.7g
+
+|Item | Parameter |
+|:-: | :-: |
+|Name|power:bit|
+|Version Number|V1.6|
+|SKU| EF03409|
+|Operating Voltage|2.7~3.3V|
+|Buzzer|Support|
+|Size|42x52mm|
+|Net weight|10.7g|
 
 ### Exterior dimension
 ![](./images/BQCpLVu.png)
