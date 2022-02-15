@@ -1,6 +1,6 @@
 # Case 27: The Smart Garbage Can
 ## Purpose
-制作一个智能垃圾桶。
+Make a smart garbage can.
  
 ![](./images/Wonder-Building-Kit-case-27-01.png)
 
