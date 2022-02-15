@@ -1,6 +1,6 @@
 # Case 24: The Top Emitter 
 ## Purpose
-制作一个陀螺发射器。
+Make a top emitter.
  
 ![](./images/Wonder-Building-Kit-case-24-01.png)
 
