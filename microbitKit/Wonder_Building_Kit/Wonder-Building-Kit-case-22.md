@@ -1,6 +1,6 @@
 # Case 22: The Helicopter 
 ## Purpose
-制作一架直升飞机。
+Make a helicopter.
  
 ![](./images/Wonder-Building-Kit-case-22-01.png)
 
