@@ -42,3 +42,5 @@ Welcome to micro:bit WIKI
    RetroArcadeforEducation/index
    pico-ed/index
    Bitboard_Kit/index
+   Arduino-3-in-1-box/index
+   
