@@ -1,6 +1,6 @@
 # Case 29: The Stone Thrower
 ## Purpose
-制作一辆投石车。
+Make a stone thrower.
  
 ![](./images/Wonder-Building-Kit-case-29-01.png)
 
