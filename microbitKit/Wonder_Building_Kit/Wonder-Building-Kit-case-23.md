@@ -1,6 +1,6 @@
 # Case 23: The Locomotive
 ## Purpose
-制作一个火车头。
+Make a locomotive.
  
 ![](./images/Wonder-Building-Kit-case-23-01.png)
 
