@@ -1,6 +1,6 @@
 # Case 31: The Drawing Machine
 ## Purpose
-制作一台画画机。
+Make a drawing machine.
  
 ![](./images/Wonder-Building-Kit-case-31-01.png)
 
