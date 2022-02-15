@@ -1,6 +1,6 @@
 # Case 28:The Wiper
 ## Purpose
-制作一个雨刷器。
+Make a wiper.
  
 ![](./images/Wonder-Building-Kit-case-28-01.png)
 
