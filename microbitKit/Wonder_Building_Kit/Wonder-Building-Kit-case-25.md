@@ -1,6 +1,6 @@
 # Case 25: The Egg Beater
 ## Purpose
-制作一个打蛋器。
+Make an egg beater.
  
 ![](./images/Wonder-Building-Kit-case-25-01.png)
 
