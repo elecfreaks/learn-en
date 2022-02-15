@@ -1,6 +1,6 @@
 # Case 30: The Ambient Lighting
 ## Purpose
-制作一个氛围灯。
+Make an ambient lighting.
  
 ![](./images/Wonder-Building-Kit-case-30-01.png)
 
