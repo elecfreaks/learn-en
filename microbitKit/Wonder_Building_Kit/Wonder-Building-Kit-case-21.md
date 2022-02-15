@@ -1,6 +1,6 @@
 # Case 21: The Spider Walker  
 ## Purpose
-制作一只爬行蜘蛛。
+Make a spider walker.
  
 ![](./images/Wonder-Building-Kit-case-21-01.png)
 
