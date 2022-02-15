@@ -28,3 +28,15 @@ Wonder Building Kit
     Case_18.md
     Case_19.md
     Case_20.md
+    Wonder-Building-Kit-case-21.md
+    Wonder-Building-Kit-case-22.md
+    Wonder-Building-Kit-case-23.md
+    Wonder-Building-Kit-case-24.md
+    Wonder-Building-Kit-case-25.md
+    Wonder-Building-Kit-case-26.md
+    Wonder-Building-Kit-case-27.md
+    Wonder-Building-Kit-case-28.md
+    Wonder-Building-Kit-case-29.md
+    Wonder-Building-Kit-case-30.md
+    Wonder-Building-Kit-case-31.md
+    Wonder-Building-Kit-case-22.md
