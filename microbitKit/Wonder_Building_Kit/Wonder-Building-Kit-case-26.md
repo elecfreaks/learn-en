@@ -1,6 +1,6 @@
 # Case 26: The Corsair 
 ## Purpose
-制作一艘海盗船。
+Make a corsair.
  
 ![](./images/Wonder-Building-Kit-case-26-01.png)
 
