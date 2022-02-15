@@ -19,3 +19,4 @@ micro:bit Extension Module
     nezha.md
     joystick_bit_v1.md
     joystick_bit_v2.md
+    classroombit.md
