@@ -1,6 +1,6 @@
 # Case 32: The Locomotive
 ## Purpose
-制作一只机械狗。
+Make a robot dog.
  
 ![](./images/Wonder-Building-Kit-case-32-01.png)
 
