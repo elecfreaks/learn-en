@@ -39,4 +39,4 @@ Wonder Building Kit
     Wonder-Building-Kit-case-29.md
     Wonder-Building-Kit-case-30.md
     Wonder-Building-Kit-case-31.md
-    Wonder-Building-Kit-case-22.md
+    Wonder-Building-Kit-case-32.md
