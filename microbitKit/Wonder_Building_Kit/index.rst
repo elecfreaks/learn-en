@@ -1,4 +1,4 @@
-20 IN 1 Wonder Building Kit
+32 IN 1 Wonder Building Kit
 =====================
 
 Wonder Building Kit
