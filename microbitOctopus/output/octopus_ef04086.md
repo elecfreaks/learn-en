@@ -8,7 +8,7 @@
 ## Characteristics
 
 
-- Equipped with a high current relay with max current can be up to 30A.
+- Equipped with a high current relay with max current can be up to 2A.
 - Adopt 3V power supply.
 - Contact control, including a normally open contact and a normally closed contact.
 - Easy to connect wires.
@@ -22,7 +22,7 @@ Version|V1.0
 SKU| EF04086
 Working Voltage|DC 3~5.5V
 Size|38x27mm
-Contact Currency|AC 250V-3A  DC30V-3A
+Contact Currency|DC 24V 2A，AC 120V 2A
 NW|8.5g
 
 ### Outlook and Dimensions  
