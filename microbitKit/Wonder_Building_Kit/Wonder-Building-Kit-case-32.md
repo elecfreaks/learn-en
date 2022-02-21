@@ -1,4 +1,4 @@
-# Case 32: The Locomotive
+# Case 32: Robot Dog
 ## Purpose
 Make a robot dog.
  
