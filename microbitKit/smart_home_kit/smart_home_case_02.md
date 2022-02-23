@@ -126,6 +126,7 @@ How to adjust speed of fan to control cooling rate in the room.
 - It works well if powering by the USB only without the battery holders, but if the current temperature is over the threshold value, the fan doesn’t.
 - If powering by the battery holders only without the USB, the fan works well and the detected temperature will be slightly higher than the real one.
 - If powering by the battery holders and the USB simultaneously, the fan works well and it gets the normal temperature( Do note that you have to detect the temperature under the premise of the motor fan doesn’t drive).
+- micro:bit v1.5 is okay to be powered via battery holder directly for this project, but if you are using micro:bit V2, please do use the sensor:bit in the new version(with USB connectors), and please power the project through the USB cable(powering from both wall power and computer are ok), and no need to connect with the battery holder on micro:bit V2.
 
 
 ## More information   
