@@ -22,7 +22,7 @@ Servo  × 1
 
 Crash sensor  × 1
 
-OLED display  × 1
+OLED display  × 1 （It requires to be purchased as standalones.）
 
 Bricks × n
 
