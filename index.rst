@@ -34,6 +34,7 @@ Welcome to micro:bit WIKI
    microbitKit/smart_agriculture_kit/index
    microbitKit/smart_city_kit/index
    microbitKit/smart_health_kit/index
+   microbitKit/microbit-xgo-robot-kit/index
    microbitOctopus/input/index
    microbitOctopus/output/index
    microbitOctopus/sensor/index
