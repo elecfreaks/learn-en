@@ -35,6 +35,7 @@ Welcome to micro:bit WIKI
    microbitKit/smart_city_kit/index
    microbitKit/smart_health_kit/index
    microbitKit/microbit-xgo-robot-kit/index
+   microbitKit/straw-manipulator/index
    microbitOctopus/input/index
    microbitOctopus/output/index
    microbitOctopus/sensor/index
