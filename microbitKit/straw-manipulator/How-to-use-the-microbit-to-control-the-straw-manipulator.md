@@ -2,7 +2,7 @@
 
 
 
-![](.\images\straw-manipulator-01.gif)
+![](./images/straw-manipulator-01.gif)
 
 
 
@@ -14,7 +14,7 @@ The materials we used in this blog are [micro:bit](https://www.microbit.org) and
 
 ### Wukong Breakout board
 
-![](.\images\straw-manipulator-03.png)
+![](./images/straw-manipulator-03.png)
 
 
 
@@ -26,35 +26,35 @@ For more info, please visit: [Wukong Breakout board](https://www.elecfreaks.com/
 
 ### Materials Required
 
-![](.\images\straw-manipulator-08.png)
+![](./images/straw-manipulator-08.png)
 
 Materials List
 
-![](.\images\straw-manipulator-04.png)
+![](./images/straw-manipulator-04.png)
 
 BBC micro:bit × 1
 
 
 
-![](.\images\straw-manipulator-02.png)
+![](./images/straw-manipulator-02.png)
 
 Wukong Breakout board × 1
 
 
 
-![](.\images\straw-manipulator-05.png)
+![](./images/straw-manipulator-05.png)
 
 180 degrees servos × 5
 
 
 
-![](.\images\straw-manipulator-06.png)
+![](./images/straw-manipulator-06.png)
 
 The acrylic board × 1
 
 
 
-![](.\images\straw-manipulator-07.png)
+![](./images/straw-manipulator-07.png)
 
 Straws × 5
 
@@ -68,9 +68,9 @@ Straws × 5
 
 Fix the servos(note the direction of the cable end should be put downward) with the acrylic board with the screws as the picture indicates:
 
-![](.\images\straw-manipulator-09-1.png)
+![](./images/straw-manipulator-09-1.png)
 
-![](.\images\straw-manipulator-09.png)
+![](./images/straw-manipulator-09.png)
 
 
 
@@ -86,19 +86,19 @@ Fix Wukong breakout board with the acrylic board at the bottom with shafts as th
 | S5          | Ring finger   |
 | S7          | Little finger |
 
-![](.\images\straw-manipulator-10-2.png)
+![](./images/straw-manipulator-10-2.png)
 
-![](.\images\straw-manipulator-10.png)
+![](./images/straw-manipulator-10.png)
 
-![](.\images\straw-manipulator-10-1.png)
+![](./images/straw-manipulator-10-1.png)
 
-![](.\images\straw-manipulator-11.png)
+![](./images/straw-manipulator-11.png)
 
 #### Step 3
 
 Connect the micro:bit with the breakout board
 
-![](.\images\straw-manipulator-12.png)
+![](./images/straw-manipulator-12.png)
 
 
 
@@ -106,11 +106,11 @@ Connect the micro:bit with the breakout board
 
 Install the white plates on the servos and adjust the directions of them as the same with the fingers. 
 
-![](.\images\straw-manipulator-14-1.png)
+![](./images/straw-manipulator-14-1.png)
 
-![](.\images\straw-manipulator-14-2.png)
+![](./images/straw-manipulator-14-2.png)
 
-![](.\images\straw-manipulator-14.png)
+![](./images/straw-manipulator-14.png)
 
 
 
@@ -118,13 +118,13 @@ Install the white plates on the servos and adjust the directions of them as the 
 
 Fasten the thread with the top hole on the white plate and get it though the tube, then fasten ond of the ends of the straw with the equivalent "fingers" positions on the acrylic board. Fix the white plates with the servos and fasten the top end of the thread with the crack on the top part of the straws as the pictures describe below: 
 
-![](.\images\straw-manipulator-14-3.png)
+![](./images/straw-manipulator-14-3.png)
 
-![](.\images\straw-manipulator-14-4.png)
+![](./images/straw-manipulator-14-4.png)
 
-![](.\images\straw-manipulator-15.png)
+![](./images/straw-manipulator-15.png)
 
-![](.\images\straw-manipulator-16.png)
+![](./images/straw-manipulator-16.png)
 
 
 
@@ -144,7 +144,7 @@ Program in [Makecode](https://makecode.microbit.org) and for more details about 
 
 
 
-![](.\images\straw-manipulator-18.png)
+![](./images/straw-manipulator-18.png)
 
 
 
@@ -156,9 +156,9 @@ Create New Project and name it, click "Create" to enter the program page.
 
 
 
-![](.\images\straw-manipulator-21.png)
+![](./images/straw-manipulator-21.png)
 
-![](.\images\straw-manipulator-22.png)
+![](./images/straw-manipulator-22.png)
 
 
 
@@ -170,13 +170,13 @@ Click "Advanced" to see more choices, then click "Extensions" and seach with "wu
 
 
 
-![](.\images\straw-manipulator-19.png)
+![](./images/straw-manipulator-19.png)
 
-![](.\images\straw-manipulator-20.png)
+![](./images/straw-manipulator-20.png)
 
-![](.\images\straw-manipulator-23.png)
+![](./images/straw-manipulator-23.png)
 
-![](.\images\straw-manipulator-24.png)
+![](./images/straw-manipulator-24.png)
 
 
 
@@ -200,7 +200,7 @@ Fix the white plates after adjusting the servos and excute the programs, and of 
 
 
 
-![](.\images\straw-manipulator-25.png)
+![](./images/straw-manipulator-25.png)
 
 
 
