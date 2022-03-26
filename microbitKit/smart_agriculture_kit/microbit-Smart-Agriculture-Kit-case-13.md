@@ -1,4 +1,4 @@
-# The Smart Farm
+# Case 13:The Smart Farm
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-01.png)
 
