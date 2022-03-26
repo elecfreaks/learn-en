@@ -22,3 +22,4 @@ smart agriculture kit
     microbit-Smart-Agriculture-Kit-case-10.md
     microbit-Smart-Agriculture-Kit-case-11.md
     microbit-Smart-Agriculture-Kit-case-12.md
+    microbit-Smart-Agriculture-Kit-case-13.md
