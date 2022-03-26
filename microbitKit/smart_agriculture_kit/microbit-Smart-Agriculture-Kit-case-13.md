@@ -45,7 +45,7 @@ Step 2: Fold the cardboards with the crease and fasten the buckles.
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-04.png)
 
-Finished models after the assembly
+Finished models after the assembly：
 
 1. The baseboard 
   
