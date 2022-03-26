@@ -22,9 +22,13 @@ To build a smart farm with the Smart Agriculture Kit and the Carton models.
 ## Materials Required
 
 Smart Agriculture Kit
+
 Link: [https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
+
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
+
 Smart Agricultural Carton Model
+
 Link: []()
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-02.png)
@@ -44,15 +48,24 @@ Step 2: Fold the cardboards with the crease and fasten the buckles.
 Finished models after the assembly
 
 1. The baseboard 
-   ![](./images/microbit-Smart-Agriculture-Kit-13-05.png)
-   2. The fish pond
-      ![](./images/microbit-Smart-Agriculture-Kit-13-06.png)
-      3. The cabbin
-         ![](./images/microbit-Smart-Agriculture-Kit-13-07.png)
-         4. The fence
-            ![](./images/microbit-Smart-Agriculture-Kit-13-08.png)
-            5. The plant
-               ![](./images/microbit-Smart-Agriculture-Kit-13-09.png)
+  
+  ![](./images/microbit-Smart-Agriculture-Kit-13-05.png)
+  
+2. The fish pond
+  
+  ![](./images/microbit-Smart-Agriculture-Kit-13-06.png)
+  
+3. The cabbin
+  
+  ![](./images/microbit-Smart-Agriculture-Kit-13-07.png)
+  
+4. The fence
+  
+  ![](./images/microbit-Smart-Agriculture-Kit-13-08.png)
+  
+5. The plant
+  
+  ![](./images/microbit-Smart-Agriculture-Kit-13-09.png)
 
 Step 3: Put the models on the baseboard
 
