@@ -1,1 +1,1 @@
-[http://www.elecfreaks.com/learn-en/](http://www.elecfreaks.com/learn-en/)
+[https://www.elecfreaks.com/learn-en/](https://www.elecfreaks.com/learn-en/)
