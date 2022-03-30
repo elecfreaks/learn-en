@@ -26,58 +26,83 @@ Dronebit.py添加完成后。
 ## API
 
 `DRONE(object)`
+
 创建对象。
 
 `heartbeat(self)`
+
 心跳函数，在程序运行过程中保持microbit与无人机的连接，每隔一秒发送一次心跳指令，在程序中需要包含在主循环中。
 
 `Drone_sleep(self,time_ms)`
+
 延时函数，用于代替sleep()，内含心跳指令。
 
 `initModule(self,mode)`
+
 初始化Drone:bit，检查电量，选择模式，初始化完毕会有提示音。
+
 `mode`选择无人机模式：
+
         `DRONE.master`主控模式，
         `DRONE.remote`遥控模式。
 
 `UAV_speed(self,power)`
+
 动力设定，即无人机速度设定。
 
 `Basic_action(self,basicstate)`
+
 执行基础动作，含起飞和降落功能。
+
 `basicstate`动作指令：
+
         `DRONE.take_off`起飞，
         `DRONE.take_off`降落。 
 
 `Move_action(self,Directionstate,distance)`
+
 执行移动指令。
+
 `Directionstate`动作指令：
+
         `DRONE.Up`上升，
         `DRONE.Down`下降，
         `DRONE.Forward`前进，
         `DRONE.Backward`后退，
         `DRONE.Left`左侧飞，
         `DRONE.Right`右侧飞；
+        
 `distance`移动距离：
+
         单位：厘米，
         上升：0~200，
         下降：0~200，
         其余动作：0~500。
 
 `Rotation_action(self,rotationstate,angle)`执行旋转指令。
+
 `rotationstate`动作指令：
+
         `DRONE.turn_left`左转，
         `DRONE.turn_right`右转；
+        
 `angle`旋转角度：
+
         取值范围：0~360。
 
 `Hovering(self,time)`设置无人机悬停时间。
+
 `time`悬停时间：
+
         取值范围：0~200。
 
-`Get_voltage(self)`获取无人机当前电压。
+`Get_voltage(self)`
 
-`Get_height(self)`获取无人机当前高度。
+获取无人机当前电压。
+
+`Get_height(self)`
+
+获取无人机当前高度。
 
 
 ## 示例代码
