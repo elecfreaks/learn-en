@@ -19,7 +19,7 @@
 
 ![](./images/Drone-bit-py-03.png)
 
-Dronebit.py添加完成后。
+Dronebit.py添加完成。
 
 ![](./images/Drone-bit-py-04.png)
 
