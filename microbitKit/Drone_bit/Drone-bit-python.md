@@ -44,10 +44,9 @@ Dronebit.py添加完成后。
 
 初始化Drone:bit，检查电量，选择模式，初始化完毕会有提示音。
 
-        `mode`选择无人机模式：
-
-                `DRONE.master`主控模式，
-                `DRONE.remote`遥控模式。
+ `mode`选择无人机模式：
+        `DRONE.master`主控模式，
+        `DRONE.remote`遥控模式。
 
 
 `UAV_speed(self,power)`
