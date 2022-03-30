@@ -8,20 +8,20 @@
 
 打开[Python editor](https://python.microbit.org/v/2.0)
 
-![](./images/AI-py-01.png)
+![](./images/Drone-bit-py-01.png)
 
 为了给Drone:bit编程，我们需要添加Drone:bit的软件库文件Dronebit.py。点击Load/Save，然后点击Show Files（1）下拉菜单。
 
 
-![](./images/AI-py-02.png)
+![](./images/Drone-bit-py-02.png)
 
 再点击Add file在本地找到下载并解压完成的EF_Produce_MicroPython-master文件夹，从中选择Dronebit.py这个文件添加进来。
 
-![](./images/AI-py-03.png)
+![](./images/Drone-bit-py-03.png)
 
 Dronebit.py添加完成后。
 
-![](./images/AI-py-04.png)
+![](./images/Drone-bit-py-04.png)
 
 ## API
 
