@@ -31,7 +31,7 @@ Create the object.
 
 `heartbeat(self)`
 
-心The heartbeat function, maintain the connection between the micro:bit and the Drones while running the program, send the heartbeat command every second and the program needs to be included in the main loops.
+The heartbeat function, maintain the connection between the micro:bit and the Drones while running the program, send the heartbeat command every second and the program needs to be included in the main loops.
 
 `Drone_sleep(self,time_ms)`
 
@@ -42,45 +42,71 @@ The delay function, for the replacement of sleep(), it contains the command of h
 Initialize the Drone:bit, inspect the power status and select the mode, the device shall alert after initialization. 
 
 
+        `mode`Select the drone mode:
 
-`mode`Select the drone mode:
-        `DRONE.master`Master mode,
-        `DRONE.remote`Remote mode.
+                `DRONE.master`Master mode,
+
+                `DRONE.remote`Remote mode.
 
 `UAV_speed(self,power)`
+
 The motivation settings, which means to set the speed of the drones. 
 
 `Basic_action(self,basicstate)`
+
 Execute the basic actions, such as taking off and landing. 
-`basicstate`Actions commands
-        `DRONE.take_off`Taking off,
-        `DRONE.take_off`Landing.
+
+        `basicstate`Actions commands
+        
+                `DRONE.take_off`Taking off,
+                
+                `DRONE.take_off`Landing.
 
 `Move_action(self,Directionstate,distance)`
+
 Execute the move commands.
-`Directionstate`Movement commands:
-        `DRONE.Up`Up,
-        `DRONE.Down`Down,
-        `DRONE.Forward`Forward,
-        `DRONE.Backward`Backward,
-        `DRONE.Left`Fly left,
-        `DRONE.Right`Fly right;
-`distance`Distances of movement:
-        Unit: CM 
-        Up: 0~200,
-        Down: 0~200,
-        Other movements: 0~500
+
+        `Directionstate`Movement commands:
+        
+                `DRONE.Up`Up,
+                
+                `DRONE.Down`Down,
+                
+                `DRONE.Forward`Forward,
+                
+                `DRONE.Backward`Backward,
+                
+                `DRONE.Left`Fly left,
+                
+                `DRONE.Right`Fly right;
+                
+        `distance`Distances of movement:
+        
+                Unit: CM,
+                
+                Up: 0~200,
+                
+                Down: 0~200,
+                
+                Other movements: 0~500
 
 `Rotation_action(self,rotationstate,angle)`Execute the rotating commands.
-`rotationstate`Actions commands:
-        `DRONE.turn_left` Turn left,
-        `DRONE.turn_right`Turn right;
-`angle`Rotation angels:
-        Ranges: 0~360.
+
+        `rotationstate`Actions commands:
+        
+                `DRONE.turn_left` Turn left,
+                
+                `DRONE.turn_right`Turn right;
+                
+        `angle`Rotation angels:
+        
+                Ranges: 0~360.
 
 `Hovering(self,time)`Time of hovering
-`time`Time of hovering:
-        Range: 0~200.
+
+        `time`Time of hovering:
+        
+                Range: 0~200.
 
 `Get_voltage(self)`Get the voltage of the drone,
 
