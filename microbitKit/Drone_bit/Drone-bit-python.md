@@ -68,7 +68,7 @@ Dronebit.py添加完成。
 `basicstate`动作指令：
 
         `DRONE.take_off`起飞，
-        `DRONE.take_off`降落。 
+        `DRONE.landing`降落。 
         
 
 
