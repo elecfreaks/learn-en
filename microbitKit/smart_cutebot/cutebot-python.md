@@ -4,7 +4,7 @@
 
 
 ### Add Python File
-Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
+Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
 ![](./images/cutebot-py-01.png)
