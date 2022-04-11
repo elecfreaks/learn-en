@@ -57,7 +57,7 @@ We need to add Cutebot.py for programming. Click "Load/Save" and then click "Sho
                `11` 均在黑色
                
 
-`set_servo`
+`set_servo(self, servo, angle)`
 
 选择伺服电机并且设置角度/速度:
 
