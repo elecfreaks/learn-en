@@ -47,23 +47,23 @@ Step 2: Fold the cardboards with the crease and fasten the buckles.
 
 Finished models after the assembly：
 
-1. The baseboard 
+1.The baseboard 
   
   ![](./images/microbit-Smart-Agriculture-Kit-13-05.png)
   
-2. The fish pond
+2.The fish pond
   
   ![](./images/microbit-Smart-Agriculture-Kit-13-06.png)
   
-3. The cabbin
+3.The cabbin
   
   ![](./images/microbit-Smart-Agriculture-Kit-13-07.png)
   
-4. The fence
+4.The fence
   
   ![](./images/microbit-Smart-Agriculture-Kit-13-08.png)
   
-5. The plant
+5.SThe plant
   
   ![](./images/microbit-Smart-Agriculture-Kit-13-09.png)
 
