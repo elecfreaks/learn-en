@@ -52,15 +52,15 @@ k
 
 ---
 ### Connection diagram:
--Connect the light sensor to P1 port.
+-Connect the iot:bit to the micro:bit.
 ![](./images/case_ts_17.png)
 
 #### Step 1
-- Click on "Advanced" in the MakeCode Drawer to see more code sections.
+- Click on "Advanced" in the MakeCode drawer to see more code selections.
 
 ![](./images/iot_bit_11.jpg)
 
-- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
+- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
 ![](./images/iot_bit_12.jpg)
 
@@ -68,7 +68,7 @@ Note：If you get a warning telling you some packages will be removed because of
 
 #### Step 2
 
-Snap the `set 8266` block into the `on start` and choose RX`P8`TX`P12` `baud rate`115200`.
+Drag the `set 8266` block into the `on start` and choose RX`P8`TX`P12` `baud rate`115200`.
 
 Snap into the `connect wifi` block，write in your wifi name and the key. 
 
@@ -78,37 +78,28 @@ Snap into the `connect wifi` block，write in your wifi name and the key.
 
 #### Step 3
 
-Snap `connect thinkspeak`, `set data` and `pause` blocks into the `forever`. 
+Snap `connect thinkspeak`, `set data` and "upload data to Thingspeak"  into the `forever`. 
 
-Write `write api key` into `set data` and snap light intensity to the field1.
-
-Pause `60s` and sending every minute. 
+Write `write api key` into `set data` and snap the randow number block to the field1.
 
 
 ![](./images/case_ts_12.png)
 
-### Step 4
 
-Initialize OLED `initialize OLED ` in `On start'to display the IoT working state.
-
-In `serial on data received', when the serial port receives the data, insert the display building blocks, and display the serial port to read characters until it encounters a newline.
-
-![](./images/case_ts_21.png)
 
 #### Program
 
-program link：[https://makecode.microbit.org/_WukWe0VL3bJX](https://makecode.microbit.org/_WukWe0VL3bJX)
+program link：[https://makecode.microbit.org/_0MqJdw99D2hV](https://makecode.microbit.org/_0MqJdw99D2hV)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WukWe0VL3bJX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0MqJdw99D2hV" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
 #### Result
 ---
 
-Uploading the light intensity to the thingspeak every minute. 
+Uploading the random data to the thingspeak continuously. 
 
 You can check all datas on the thingspeak.
 
