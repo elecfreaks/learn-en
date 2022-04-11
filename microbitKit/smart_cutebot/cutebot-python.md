@@ -4,7 +4,7 @@
 
 
 ### Add Python File
-Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
+Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
 ![](./images/cutebot-py-01.png)
@@ -14,6 +14,57 @@ We need to add Cutebot.py for programming. Click "Load/Save" and then click "Sho
 ![](./images/cutebot-py-02.png)
 ![](./images/cutebot-py-03.png)
 ![](./images/cutebot-py-04.png)
+
+## API
+
+`CUTEBOT(object)`
+
+创建对象。
+
+`set_motors_speed(self, left_wheel_speed: int, right_wheel_speed: int)`
+
+设置左右轮的电机速度：
+
+        `left_wheel_speed: int`左轮速度-100～100
+        `right_wheel_speed: int`右轮速度-100～100。
+
+`set_car_light(self, light: int, R: int, G: int, B: int)`
+
+设置车头灯颜色:
+
+        `light`:选择车灯
+        `R`:R通道颜色0-255`
+        `G`:G通道颜色0-255`
+        `B`:B通道颜色0-255`
+        
+
+
+`get_distance(self, unit: int = 0)`
+
+车头超声波读取距离:
+
+        `unit`检测距离单位:` 0 `厘米,` 1 `英尺
+        
+         
+
+`get_tracking(self)`
+
+返回当前巡线头状态:
+
+        return:`00` 均在白色
+               `10` 左黑右白
+               `01` 左白右黑
+               `11` 均在黑色
+               
+
+`set_servo(self, servo, angle)`
+
+选择伺服电机并且设置角度/速度:
+
+            `servo (number)`选择第几个舵机（伺服电机）1,2
+           `angle (number)`设置舵机角度 0~180
+
+
 
 ### Samples
 ### Sample 1: Drive the car at a full speed. 
@@ -92,6 +143,19 @@ while(True):
 ```
 ### Result
 - The servo connecting to S1 continues driving back and forth. 
+
+## FAQ
+
+关于程序报错信息：
+
+ |ValueError|错误内容|
+ |:---:|:---:|
+ |speed error,-100~100|小车的左轮或者右轮的速度超出设定阈值|
+ |RGB is error|小车的车头灯颜色参数超出设定阈值|
+ |select servo error,1,2|小车的舵机接口参数设置错误|
+ |angle error,0~180|舵机旋转角度设置错误|
+
+
 
 ## Relevant Case
 ---
