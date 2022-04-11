@@ -19,50 +19,50 @@ We need to add Cutebot.py for programming. Click "Load/Save" and then click "Sho
 
 `CUTEBOT(object)`
 
-创建对象。
+Create an object.
 
 `set_motors_speed(self, left_wheel_speed: int, right_wheel_speed: int)`
 
-设置左右轮的电机速度：
+Set the speed of both wheels: 
 
-        `left_wheel_speed: int`左轮速度-100～100
-        `right_wheel_speed: int`右轮速度-100～100。
+        `left_wheel_speed: int` Speed of the left: -100～100
+        `right_wheel_speed: int` Speed of the right: -100～100
 
 `set_car_light(self, light: int, R: int, G: int, B: int)`
 
-设置车头灯颜色:
+Set the color of the headlights：
 
-        `light`:选择车灯
-        `R`:R通道颜色0-255`
-        `G`:G通道颜色0-255`
-        `B`:B通道颜色0-255`
+        `light`:Choose the lights
+        `R`:channel color-255`
+        `G`:channel color-255`
+        `B`:channel color-255`
         
 
 
 `get_distance(self, unit: int = 0)`
 
-车头超声波读取距离:
+Get the distance from the ultrasonic sound sensor:
 
-        `unit`检测距离单位:` 0 `厘米,` 1 `英尺
+        `unit`detecting the distances:` 0 `cm,` 1 `lnch
         
          
 
 `get_tracking(self)`
 
-返回当前巡线头状态:
+Get the status from the tracking headers:
 
-        return:`00` 均在白色
-               `10` 左黑右白
-               `01` 左白右黑
-               `11` 均在黑色
+        return:`00` all in white
+               `10` left in black and right in white
+               `01` left in white and right in black
+               `11` all in black
                
 
 `set_servo(self, servo, angle)`
 
-选择伺服电机并且设置角度/速度:
+Choose the servos and set the angles/speed: 
 
-            `servo (number)`选择第几个舵机（伺服电机）1,2
-           `angle (number)`设置舵机角度 0~180
+            `servo (number)`choose the servos 1,2
+           `angle (number)`set the angles of the servo 0~180
 
 
 
@@ -146,14 +146,14 @@ while(True):
 
 ## FAQ
 
-关于程序报错信息：
+About the reported error:
 
- |ValueError|错误内容|
+ |ValueError|Error content|
  |:---:|:---:|
- |speed error,-100~100|小车的左轮或者右轮的速度超出设定阈值|
- |RGB is error|小车的车头灯颜色参数超出设定阈值|
- |select servo error,1,2|小车的舵机接口参数设置错误|
- |angle error,0~180|舵机旋转角度设置错误|
+ |speed error,-100~100|The speed of the left/right wheel is beyond the threshold that we set|
+ |RGB is error|The parameter of the color of the headlight is beyond the threshold that we set|
+ |select servo error,1,2|The parameter of the servo connections is wrong|
+ |angle error,0~180|The setting to the angles of the servos is wrong|
 
 
 
