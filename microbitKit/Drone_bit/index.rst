@@ -11,6 +11,7 @@ Drone bit
 
     Drone-bit.md
     Drone-bit-Add-Package.md
+    Drone-bit-python.md
     Drone-bit-case-01.md
     Drone-bit-case-02.md
     Drone-bit-case-03.md
