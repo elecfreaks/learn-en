@@ -144,6 +144,19 @@ while(True):
 ### Result
 - The servo connecting to S1 continues driving back and forth. 
 
+## FAQ
+
+关于程序报错信息：
+
+ |ValueError|错误内容|
+ |:---:|:---:|
+ |speed error,-100~100|小车的左轮或者右轮的速度超出设定阈值|
+ |RGB is error|小车的车头灯颜色参数超出设定阈值|
+ |select servo error,1,2|小车的舵机接口参数设置错误|
+ |angle error,0~180|舵机旋转角度设置错误|
+
+
+
 ## Relevant Case
 ---
 
