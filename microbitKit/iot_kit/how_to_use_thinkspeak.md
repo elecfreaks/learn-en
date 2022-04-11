@@ -15,6 +15,7 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 ![](./images/case_ts_02.png)
 
 -Confirm the email address, click it as the sign in account to continue.
+
 ![](./images/case_ts_03.png)
 
 - Verify your MathWorks account and the thingspeak will send an email to your email box. You need to click the lin of the email to verify and continue. 
@@ -22,6 +23,7 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 ![](./images/case_ts_04.png)
  
 - Then set your own user ID and password(Note: both Captital and lower case words are required)，then click on continue to go on.
+- 
 ![](./images/case_ts_05.png)
 
 - Then, Sign-up successful!
@@ -37,22 +39,27 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 - Click on “MY Channels” and click on **New Channel** for your new project.
 
 !![](./images/case_ts_07.png)
-k
+
 - An project parameter design list be showed. If there are more parameters, you need to choose more fields.
+
 ![](./images/case_ts_08.png)
 
 - Then, click on save channel. 
 
 - But here you will find nothing. You can find the data of what we have uploaded here:
+- 
 ![](./images/case_ts_09.png)
+
 - Click on API KEY, parameters as below be showed.
+
 ![](./images/case_ts_10.png)
 
 ## Coding
 
 ---
 ### Connection diagram:
--Connect the iot:bit to the micro:bit.
+- Connect the iot:bit to the micro:bit.
+- 
 ![](./images/case_ts_17.png)
 
 #### Step 1
@@ -114,12 +121,14 @@ You can check all datas on the thingspeak.
 
 ![](./images/case_ts_15.png)
 
--Choose types of the stopwatch and click NEXT, write the name, filed, the maximum and minimum value of the chart, then click Create to create a new chart.
+- Choose types of the stopwatch and click NEXT, write the name, filed, the maximum and minimum value of the chart, then click Create to create a new chart.
+
 ![](./images/case_ts_16.png)
 
 Both the chart and the value of Field 1 changed.
 
 ![](./images/case_ts_19.png)
 
--Add the numeric display and Threshold indicator light in the same way for the chart.
+- Add the numeric display and Threshold indicator light in the same way for the chart.
+
 ![](./images/case_ts_20.png)
