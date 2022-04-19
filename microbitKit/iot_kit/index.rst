@@ -1,7 +1,7 @@
-Smart Science IoT Kit
+Smart Science IoT Kit(EF08203/EF08204)
 =====================
 
-Smart Science IoT Kit
+Smart Science IoT Kit(EF08203/EF08204)
 
 
 .. toctree::
