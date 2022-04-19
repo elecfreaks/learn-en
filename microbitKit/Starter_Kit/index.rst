@@ -1,4 +1,4 @@
-Starter Kit(EF08179,EF08180)
+Starter Kit(EF08179/EF08180)
 =============
 
 Starter Kit(EF08179,EF08180) 
