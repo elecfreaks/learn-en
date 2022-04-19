@@ -1,7 +1,7 @@
-smart agriculture kit
-==========
+smart agriculture kit(EF08254/EF08255)
+======================================
 
-smart agriculture kit
+smart agriculture kit(EF08254/EF08255)
 
 
 .. toctree::
