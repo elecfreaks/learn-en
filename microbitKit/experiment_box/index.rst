@@ -1,7 +1,7 @@
-experiment box kit 
+experiment box kit(EF08199/EF08200) 
 =====================
 
-experiment box kit 
+experiment box kit(EF08199/EF08200) 
 
 .. toctree::
     :maxdepth: 2
