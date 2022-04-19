@@ -1,7 +1,7 @@
-Smart Cutebot kit
-=====================
+Smart Cutebot kit(EF08209)
+==========================
 
-Smart Cutebot kit
+Smart Cutebot kit(EF08209)
 
 
 .. toctree::
