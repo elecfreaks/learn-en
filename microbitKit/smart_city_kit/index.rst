@@ -1,7 +1,7 @@
-smart city kit
-==========
+smart city kit(EF08252/EF08253)
+===============================
 
-smart city kit
+smart city kit(EF08252/EF08253)
 
 
 .. toctree::
