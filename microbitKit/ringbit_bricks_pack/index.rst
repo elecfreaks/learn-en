@@ -1,6 +1,6 @@
-6 IN 1 Ring:bit Bricks Pack
-=====================
-6 IN 1 Ring:bit Bricks Pack
+6 IN 1 Ring:bit Bricks Pack(EF08217/EF08218)
+============================================
+6 IN 1 Ring:bit Bricks Pack(EF08217/EF08218)
 
 
 .. toctree::
