@@ -1,7 +1,7 @@
-Smart Coding Kit
+Smart Coding Kit(EF08205/EF08206)
 =====================
 
-Smart Coding Kit
+Smart Coding Kit(EF08205/EF08206)
 
 
 .. toctree::
