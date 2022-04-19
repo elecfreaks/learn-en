@@ -1,7 +1,7 @@
-32 IN 1 Wonder Building Kit
+32 IN 1 Wonder Building Kit(EF08239)
 =====================
 
-Wonder Building Kit
+Wonder Building Kit(EF08239)
 
 
 .. toctree::
