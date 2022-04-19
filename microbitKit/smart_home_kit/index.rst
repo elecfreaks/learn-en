@@ -1,7 +1,7 @@
-Smart home Kit(EF08197,EF08198)
+Smart home Kit(EF08197/EF08198)
 =====================
 
-Smart home Kit(EF08197,EF08198)
+Smart home Kit(EF08197/EF08198)
 
 
 .. toctree::
