@@ -1,7 +1,7 @@
-ring:bit Car Kit
-=====================
+ring:bit Car Kit(EF08201/EF08202)
+=================================
 
-ring:bit Car Kit
+ring:bit Car Kit(EF08201/EF08202)
 
 
 .. toctree::
