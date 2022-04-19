@@ -1,7 +1,7 @@
-microbit Wonder Rugged Car kit
+Wonder Rugged Car kit(EF08211/EF08212)
 =====================
 
-    microbit Wonder Rugged Car kit
+Wonder Rugged Car kit(EF08211/EF08212)
 
 
 .. toctree::
