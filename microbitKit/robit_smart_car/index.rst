@@ -1,7 +1,7 @@
-robit Smart Car kit
-=====================
+robit Smart Car kit(EF08208)
+============================
 
-robit Smart Car kit
+robit Smart Car kit(EF08208)
 
 
 .. toctree::
