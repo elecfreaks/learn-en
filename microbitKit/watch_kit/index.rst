@@ -1,7 +1,7 @@
-Watch Kit
+Watch Kit(EF08191/EF08192)
 ==========
 
-Watch Kit
+Watch Kit(EF08191/EF08192)
 
 
 .. toctree::
