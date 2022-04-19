@@ -34,7 +34,15 @@ source_suffix = {
     '.txt': 'markdown',
     '.md': 'markdown',
 }
+extensions = ['sphinx.ext.intersphinx', 'sphinx.ext.todo']
 
+import sphinx
+if sphinx.version_info >= (3, 0):
+  # This requires 0.5 or later.
+  extensions.append('recommonmark')
+  extensions.append('sphinx_markdown_tables')
+else:
+  source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -44,15 +52,15 @@ source_suffix = {
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 # extensions = ['recommonmark']
-extensions = [
-    'sphinx_markdown_tables',
-]
-extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinx.ext.mathjax',
-    'sphinx_markdown_tables',
-]
+# extensions = [
+#     'sphinx_markdown_tables',
+# ]
+# extensions = [
+#     'sphinx.ext.autodoc',
+#     'sphinx.ext.napoleon',
+#     'sphinx.ext.mathjax',
+#     'sphinx_markdown_tables',
+# ]
 
 # Add any paths that contain templates here, relative to this directory.
 # templates_path = ['_templates']
@@ -65,7 +73,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'ELECFREAKS WIKI'
-copyright = '2020, ELECFREAKS Team'
+copyright = '2022, ELECFREAKS Team'
 author = 'ELECFREAKS Team'
 
 
