@@ -1,6 +1,6 @@
-pico-ed
+pico-ed(EF01033)
 ====================
-pico-ed
+pico-ed(EF01033)
 
 
 .. toctree::
