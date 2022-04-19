@@ -1,7 +1,7 @@
-smart health kit
-==========
+smart health kit(EF08256/EF08257)
+=================================
 
-smart health kit
+smart health kit(EF08256/EF08257)
 
 
 .. toctree::
