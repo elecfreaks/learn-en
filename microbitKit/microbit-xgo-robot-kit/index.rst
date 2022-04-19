@@ -1,7 +1,7 @@
-xgo robot kit
+xgo robot kit(EF08268)
 =====================
 
-xgo robot kit
+xgo robot kit(EF08268)
 
 
 .. toctree::
