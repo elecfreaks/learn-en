@@ -1,7 +1,7 @@
-motor:bit Smart Car Kit(EF08188)
+motor:bit Smart Car Kit(EF08188/EF08193)
 ================================
 
-motor:bit Smart Car Kit(EF08188)
+motor:bit Smart Car Kit(EF08188/EF08193)
 
 
 .. toctree::
