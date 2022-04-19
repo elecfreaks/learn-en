@@ -1,6 +1,6 @@
-Magic_wand_kit
+Magic_wand_kit(EF08225,EF08226)
 =====================
-Magic_wand_kit
+Magic_wand_kit(EF08225,EF08226)
 
 
 
