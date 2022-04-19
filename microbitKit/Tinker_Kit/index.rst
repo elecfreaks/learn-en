@@ -1,7 +1,7 @@
-Tinker Kit 
+Tinker Kit(EF08181,EF08183) 
 ===========
 
-Tinker Kit 
+Tinker Kit(EF08181,EF08183) 
 
 
 .. toctree::
