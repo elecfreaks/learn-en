@@ -1,4 +1,4 @@
-## Hardware Assembly
+# Hardware Assembly
 
 ### Step 1
 
