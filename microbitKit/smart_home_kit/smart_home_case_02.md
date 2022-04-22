@@ -126,7 +126,8 @@ How to adjust speed of fan to control cooling rate in the room.
 - It works well if powering by the USB only without the battery holders, but if the current temperature is over the threshold value, the fan doesn’t.
 - If powering by the battery holders only without the USB, the fan works well and the detected temperature will be slightly higher than the real one.
 - If powering by the battery holders and the USB simultaneously, the fan works well and it gets the normal temperature( Do note that you have to detect the temperature under the premise of the motor fan doesn’t drive).
-- micro:bit v1.5 is okay to be powered via battery holder directly for this project, but if you are using micro:bit V2, please do use the sensor:bit in the new version(with USB connectors), and please power the project through the USB cable(powering from both wall power and computer are ok), and no need to connect with the battery holder on micro:bit V2.
+- Please check if you are using micro:bit V2, if yes, please try using the micro:bit V1 instead. If you only have micro:bit V2 , then the sensor:bit with the lastest version should be applied, and you have to power it with the USB port. 
+The voltage regulator chip is able to give the current at 1A. Theoretically speaking, the fan can rotate normally. If it cannot rotate, please check whether the USB input current is sufficient. Generally, the computer USB provides 500Ma of current which is able to drive the motor. If the external input current is sufficient and the fan still cannot rotate, please check whether the micro:bit or sensor:bit is damaged.
 
 
 ## More information   
