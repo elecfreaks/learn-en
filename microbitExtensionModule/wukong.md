@@ -130,7 +130,7 @@ The base board designs with standard 7x5 square bricks that can adapt perfectly 
 - Search `wukong` in the box and click it to add package.
 - Completed
 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_14.jpg)
+![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_14.png)
 
 ## User Guide
 
