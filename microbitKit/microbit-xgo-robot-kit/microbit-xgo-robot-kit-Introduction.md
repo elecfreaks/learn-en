@@ -60,7 +60,7 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 
 
 
-# Preparation
+## Preparation
 
 ### Start the XGO
 
