@@ -6,7 +6,7 @@
 
 
 ### Add Python Package 
-Download and unzip the package: [lib.rar](https://github.com/elecfreaks/pico_ed/archive/refs/heads/master.zip)
+Download and unzip the package: [lib.zip](https://github.com/elecfreaks/pico_ed/archive/refs/heads/master.zip)
 Install and open it: [thonny](https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe)
 
 Click "Tools" to see more "Options..." 
