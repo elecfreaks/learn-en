@@ -55,8 +55,9 @@ Want to know resistor value by color circles? You can read this article:
 
 ## Experimental Procedure
 ---
-## Hardware Connection
----
+
+### Hardware Connection
+
 Connect your components according to the picture below: 
 
 - 1. Connect the shorter leg with the GND.
