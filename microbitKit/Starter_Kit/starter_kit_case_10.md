@@ -54,7 +54,7 @@ In this experiment, we use alligator clip wire to connect our motor.
 
 ## Experimental Procedure
 ---
-## Hardware Connection
+### Hardware Connection
 
 Connect your components according to the picture below: 
 
@@ -98,7 +98,6 @@ Links:[https://makecode.microbit.org/_CAUDezEJrVtc](https://makecode.microbit.or
 You can also download the links directly:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_CAUDezEJrVtc" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ## Result
 ---
