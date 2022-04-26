@@ -29,7 +29,7 @@ We’re going to create a maze game where you must navigate a series of mazes wi
 
 
 ## How to Make
-
+---
 ### Step 1
 
 Plug in Buzzer to Pin0. Connect the positive lead to the yellow signal pin and the negative lead to the black ground pin on the breakout board.
