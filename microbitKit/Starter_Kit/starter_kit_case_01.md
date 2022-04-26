@@ -20,7 +20,7 @@ LED has wide applications. Most signal lights we saw in our daily life use LED a
 - 2 x 100 Ohm Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.
+****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
 
 ![](./images/W4tseua.jpg)
 
