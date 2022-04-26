@@ -35,7 +35,7 @@ That’s really amazing! Except for its light emitting ability, micro:bit can se
 
 ## Experimental Procedure
 ---
-## Hardware Connection
+### Hardware Connection
 
 Connect your components according to the picture below:
 
