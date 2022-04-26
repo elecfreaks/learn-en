@@ -64,7 +64,6 @@ Links:[https://makecode.microbit.org/_A2a4C65woMoc](https://makecode.microbit.or
 You can also download the links directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_A2a4C65woMoc" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ## Result
 ---
