@@ -21,7 +21,7 @@
 
 ![](./images/BJ5WTuI.jpg)
 
-Tips: If you want all components above, you may need ElecFreaks Micro:bit Tinker Kit
+***Tips: If you want all components above, you may need ElecFreaks Micro:bit Tinker Kit***
 
 
 ## How to Make
