@@ -89,4 +89,4 @@ Or you can download from the page below.
 
 ### Step 4 – Success!    
 
-Voilà! You have created a intruder detector!
+Success! You have created a intruder detector!
