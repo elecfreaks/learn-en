@@ -11,3 +11,4 @@ Micro:bit Starter kit can help you enter a wonderful of electronic world.
 ![](./images/NJPB9qt.jpg)
 
 ## FAQ
+---
