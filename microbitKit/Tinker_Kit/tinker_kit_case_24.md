@@ -6,7 +6,7 @@
 
 ![](./images/N3HnCBy.jpg)
 
-### Goals
+## Goals
 ---
 - Assemble the game:bit.
 
@@ -14,7 +14,7 @@
 
 - Helpful Hint: Toggle through pictures for each step for more photographic detail!
 
-### Materials
+## Materials
 ---
 - 1 x Game:bit kit
 - 1 x Screwdriver
