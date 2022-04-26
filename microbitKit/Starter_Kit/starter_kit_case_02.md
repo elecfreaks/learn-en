@@ -39,7 +39,7 @@ Momentary Pushbutton Switch has 4 pins which can be divided into 2 groups: pin 1
 
 ## Experimental Procedure
 ---
-## Hardware Connection
+### Hardware Connection
 
 Connect your components according to the picture below: 
 
@@ -78,7 +78,7 @@ Links: [https://makecode.microbit.org/_T585WeYwVWtv](https://makecode.microbit.o
 You can also download the links directly:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_T585WeYwVWtv" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Result
 ---
@@ -90,5 +90,6 @@ When the button is pressed, you can see the  2 LEDs flashing alternatively; When
 ## Exploration
 ---
 If we want to light  on the red LED when press the button and light on the green LED when release the button,  how can we program? 
-## 常见问题FAQ
+
+## FAQ
 ---
