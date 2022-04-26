@@ -21,7 +21,6 @@
 
 
 ### Step 1 – Buttons!
----
 
 ![](./images/Ri5D7oe.png)
 
@@ -37,7 +36,6 @@
 
 
 ### Step 2 – Wire it up!
----
 
 ![](./images/Gae1BQv.png)
 
@@ -49,7 +47,6 @@
 
 
 ### Step 3 – Wiring Firing
----
 
 ![](./images/dV72K9F.png)
 
@@ -66,7 +63,6 @@
 
 
 ### Step 4 – Add a Buzzer
----
 
 ![](./images/AXzsW5w.png)
 
@@ -84,7 +80,6 @@ The power supply capabilities and parameters, which better define how you can us
 
  
 ### Step 5 – Battery Powered
----
 
 ![](./images/TwHv0lF.png)
 
@@ -97,7 +92,6 @@ The power supply capabilities and parameters, which better define how you can us
 
 
 ### Step 6 – Closing Time
----
 
 ![](./images/mccKFUr.png)
 
@@ -105,7 +99,6 @@ The power supply capabilities and parameters, which better define how you can us
 2. Screw down into the standoffs to secure the back.
 
 ### Step 7 – Closing Time
----
 
 ![](./images/sBHbG0a.png)
 
@@ -121,6 +114,5 @@ The power supply capabilities and parameters, which better define how you can us
 
 
 ### Cool stuff!
----
 
 Now you’ve gotten your game:bit fixed together – get your game on and start coding! Follow along with our tutorials and make cool games like Avoid the Asteroids, Maze Runnerand Flappy Bird.
