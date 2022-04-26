@@ -1,7 +1,7 @@
 # case 04 Simple Alarm Box 
 
 ## Step 0: Pre-build Overview  
-
+---
 ![](./images/mNlJj4l.png)
 
 In this project, we are going to create a simple alarm device which will alert the owner if someone has stolen his or her property. The red LED will blink when the crash sensor detects that the object has been taken away. Otherwise, the green LED will light up continuously. The OLED will display the status of the device.
