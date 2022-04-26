@@ -13,8 +13,7 @@ In this project, we are going to create a smart light with ElecFreaks Micro:bit 
 
 
 ## Materials:    
----    
-
+---
 - 1 x BBC micro:bit
 - 1 x Micro USB cable
 - 1 x Breakout board
@@ -69,4 +68,4 @@ If any motion is detected by the PIR sensor, the light is triggered. Or else, th
 
 ### Step 4: Success
 
-Voilà! You have created a simple smart light! Let’s light it up !
+Success! You have created a simple smart light! Let’s light it up !
