@@ -110,4 +110,4 @@ Or you can download from the page below：
 
 ### Step 4 – Success!
 
-Voilà! You have created your own mini video game console with your Micro:bit. Now go out there and show your friends who’s the real boss!  
+Voila! You have created your own mini video game console with your Micro:bit. Now go out there and show your friends who’s the real boss!  
