@@ -55,7 +55,7 @@ We’ll be using two micro:bits, one to transmit Morse code and one to receive M
 Attach the servo to the cardboard sheet, and tie the string around the end of the rotor attached to the servo. Tie the other end of the string around the metal flap of the crash sensor. Attach the crash sensor at a distance such that when the servo turns, the string is pulled and the sensor is activated. If you don’t have a cardboard sheet, you could tape everything to a table. For the transmitting micro:bit, attach the servo to pin 0 on the breakout board. For the receiving micro:bit, attach the crash sensor to pin 0 on the breakout board.  
 
 ## What’s Morse Code?  
-
+---
 Morse code is a type of code used to transmit text by a combination of short (“.”, or “dit”) and long (“-“, or “dah”) signals. Every letter of the alphabet and number from 0 to 9 has its own Morse code representation. Letters are separated by pauses.  
 
 
