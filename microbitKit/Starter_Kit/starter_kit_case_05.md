@@ -34,7 +34,7 @@ RGB LED can be divided into 2 types: common anode and common cathode. In common-
 
 ## Experimental Procedure
 ---
-## Hardware Connection
+### Hardware Connection
 
 Connect your components according to the picture below: 
 
