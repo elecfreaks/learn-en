@@ -46,3 +46,4 @@ Planet X Sensors
     Plant_X_EF05041.md
     Plant_X_EF05043.md
     Plant_X_EF05047.md
+    Plant_X_EF05053.md
