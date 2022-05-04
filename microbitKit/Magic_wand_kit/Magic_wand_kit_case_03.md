@@ -34,7 +34,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/magicwand_case_01_03.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
