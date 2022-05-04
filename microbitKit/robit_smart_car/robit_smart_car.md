@@ -59,10 +59,10 @@ Step 6: Install the Fender with M4*5 screws.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_07.JPG)
 
 Step 7: Install the universal wheel and line-following module with 2 M4*10 countersunk screws. 
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_08.JPG)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitKit/robit_smart_car/images/robit_smart_car_08.JPG)
 
 Step 8: Install the wheels.
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_09.JPG)
+![](https://raw.githubusercontent.com/elecfreaks/learn-en/master/microbitKit/robit_smart_car/images/robit_smart_car_09.JPG)
 
 Step 9: Install 2 M4*6+6 single-pass copper cylinders on the head of the car.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_10.jpg)
