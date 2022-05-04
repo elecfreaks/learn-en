@@ -42,7 +42,7 @@ For programming the ultrasonic sound sensor, we need to add a package. Click "Ex
 
 
 
-Note：If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
+***Note:*** If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
 ### Step 2
 
