@@ -13,7 +13,7 @@
            
 
 ## Project 01: Music Machine
-
+---
 ![](./images/gXqhVI7.jpg)
 
 **Pin Layout**
@@ -32,7 +32,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 
 
 ## Project 02: Smart Light
-
+---
 ![](./images/qIQKK4y.jpg)
 
 **Pin Layout**
@@ -42,7 +42,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 ![](./images/7Dgi7Wt.png)
 
 ## Project 03: Electro-Theremin
-
+---
 ![](./images/Njalhk0.jpg)
 
 **Pin Layout**
@@ -54,7 +54,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 
 
 ## Project 04: Simple Alarm Box
-
+---
 ![](./images/gWAmEhW.jpg)
 
 **Pin Layout**
@@ -69,7 +69,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 ![](./images/01GlIIR.png)
  
 ## Project 05: Plant Monitoring Device
-
+---
 ![](./images/JBmCc6A.jpg)       
  
 **Pin Layout**
@@ -84,7 +84,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 
 
 ### Get Creative!
-
+---
 Mix and match the component in the Tinker Kit to create your own projects.
 
 For a more comprehensive explanation of MicroPython, visit the official documentation [here](https://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html)
