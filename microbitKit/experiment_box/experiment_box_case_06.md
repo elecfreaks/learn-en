@@ -24,7 +24,7 @@
 
 ![](./images/M3k99Lj.png)
 
-*- Note: Please note the positive and the negative when you are connecting.*
+***Note:*** Please note the positive and the negative when you are connecting.
 
 ## Software
 ---
@@ -63,8 +63,6 @@
 - You also could directly download program by visiting website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_h8hUjXYFM0yH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
-
 
 ## Result
 ---
