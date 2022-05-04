@@ -1,6 +1,6 @@
-Bitboard-Kit(EF08250)
+Bitboard Kit(EF08250)
 ====================
-Bitboard-Kit(EF08250)
+Bitboard Kit(EF08250)
 
 
 .. toctree::
