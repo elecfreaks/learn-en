@@ -187,8 +187,9 @@ Link: [https://makecode.microbit.org/_AM7FejLdJD2m](https://makecode.microbit.or
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AM7FejLdJD2m]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
 ### Result
----
+
 While button A being pressed, the trebuchet executes the launch order and will return to its original launch status automatically. 
 
 ## Exploration
