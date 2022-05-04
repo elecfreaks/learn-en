@@ -1,4 +1,4 @@
-# Bitboard_Kit
+# Bitboard Kit
 
 ## Introduction
 ---
