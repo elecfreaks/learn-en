@@ -25,6 +25,7 @@ Optionally, you can plug in the rainbow LED to make it looks more beautiful.
 
 ## Parameters
 ---
+
 Item | Parameter
 :-: | :-:
 Product Name|micro:bit Watch Kit
