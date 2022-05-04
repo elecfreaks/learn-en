@@ -33,14 +33,14 @@
 
 ![](./images/xyNlKjk.jpg)
 
-### Mos Tube###
+### Mos Tube ###
 
 - Audion is a semiconductor device to control the current. It is used to amplify the feeble signal to electronic signal with large amplitudes. The buzzer will in a feeble voice when it directly received PWM signal by micro:bit. This is because the currents of I/O port is usually weak which can’t directly drive buzzer. Now we need a transistor to amplify the currents of PMW signal for buzzer can alarm properly.
 - The experiment box included a mos tube.
 
 ![](./images/NnmYwRp.jpg)
 
-*- Note: Please note the positive and the negative when you are connecting.*
+***Note:*** Please note the positive and the negative when you are connecting.
 
 ## Software
 ---
@@ -65,7 +65,6 @@
 - You also could directly download program by visiting website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_VdrFjUVzHgA1" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result
