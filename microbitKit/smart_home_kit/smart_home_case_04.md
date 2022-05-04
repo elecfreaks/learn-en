@@ -72,7 +72,7 @@ We need to add a new codebase for programming of smart home. Finding “Add Pack
 
 ![](./images/QR2s7LD.png)
 
-Note：If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
+***Note：*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
 
 
 ### Step 2
@@ -105,7 +105,6 @@ Make code：[https://makecode.microbit.org/_Trh6x75hYcAT](https://makecode.micro
 You also could directly download program visit website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Trh6x75hYcAT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ## Result
 ---
