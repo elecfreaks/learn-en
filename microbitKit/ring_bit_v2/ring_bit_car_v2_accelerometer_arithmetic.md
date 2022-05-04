@@ -42,7 +42,7 @@
 
 ![](./images/1Wq2Mov.jpg)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2：Principle of arithmetic 
 
@@ -60,7 +60,7 @@ Note：If you get a warning telling you some packages will be removed because of
 ![](./images/8oOCEWj.png)
 
 ### Step 3：Code Interpretation(The controlling end) ###
----
+
 
 ![](./images/xxvSu1T.png)
 
@@ -69,7 +69,7 @@ Note：If you get a warning telling you some packages will be removed because of
 - In the forever loop, send the acceleration magnitude of the Y-axis and divided by ten.
 
 ### Step 4：Code Interpretation(The car)
----
+
 
 ![](./images/JsLkJ1t.png)
 
@@ -84,22 +84,21 @@ Note：If you get a warning telling you some packages will be removed because of
 - Then, calculating the speed value of the right and left wheel, set them to corresponding value.
 
 
-## Reference Program ##
+## Reference Program
+---
 ### Remote Control Coding
 Program Link：[https://makecode.microbit.org/_AT4PoHKdVi6L](https://makecode.microbit.org/_AT4PoHKdVi6L)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AT4PoHKdVi6L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
-### Ring:bit car Coding ###
+### Ring:bit car Coding
 Program Link：[https://makecode.microbit.org/_e5t6XPHoTiHy](https://makecode.microbit.org/_e5t6XPHoTiHy)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_e5t6XPHoTiHy" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result 
