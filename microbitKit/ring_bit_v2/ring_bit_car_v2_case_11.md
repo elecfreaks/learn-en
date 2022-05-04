@@ -50,7 +50,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/1Wq2Mov.jpg)
 
-*Note: If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu. 
+***Note:*** If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu. 
 
 
 
@@ -90,7 +90,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 
-Note: If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu. 
+***Note:*** If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu. 
 
 In the on start brick, set the radio group as 1;
 
@@ -116,8 +116,9 @@ Link：[https://makecode.microbit.org/_Ct3UpWKx3eb0](https://makecode.microbit.o
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Ct3UpWKx3eb0]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
 ### Result
----
+
 The Joystick:bit is able to control the movement of the ring:bit car. 
 
 
