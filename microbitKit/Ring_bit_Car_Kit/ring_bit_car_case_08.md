@@ -10,12 +10,13 @@
 - 2 x micro:bit
 
 ## Background ##
-### What is wireless ###
 ---
+### What is wireless ###
+
 - Wireless technology sends message by radio wave because changes of electricity will generate waves. We can use this to load the message to the wave. Variation of electromagnetic field will generate the electricity when the electromagnetic is arrving the receiver. Then, to extract the message from wave by demodulation to send the message.
 
 ### What is an accelerometer ###
----
+
 - The accelerometer is a kind of sensor to measure the accelerated speed. It has included mass block, damper, elastic component, sensitive element and optimal tuning circuit. The sensor is measuring the inertia force and getting the acceleration magnitude by newton's second law  during its accelerating. According to the difference of sensitive element, the common used accelerometer has included capacitance, strain, piezoresistive and piezoelectric.
 
  *The new version accelerometer chip of micro:bit is different from the old version. The new version has combined the electronic compass and the accelerometer. No change for usage.*
@@ -42,7 +43,7 @@
 
 ![](./images/1Wq2Mov.jpg)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2 ###
 
@@ -56,7 +57,6 @@ Program Link：[https://makecode.microbit.org/_AT4PoHKdVi6L](https://makecode.mi
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AT4PoHKdVi6L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ### Ring:bit car Coding ###
 Program Link：[https://makecode.microbit.org/_aRxV2TAXeYgH](https://makecode.microbit.org/_aRxV2TAXeYgH)
@@ -64,7 +64,6 @@ Program Link：[https://makecode.microbit.org/_aRxV2TAXeYgH](https://makecode.mi
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_aRxV2TAXeYgH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result
