@@ -7,7 +7,7 @@ An electric current is a flow of electric charge.[1]:2 In electric circuits this
 ![](./images/GnEGYeW.png)
 
 ### Ampere
-The SI unit for measuring an electric current is the ampere, which is the flow of electric charge across a surface at the rate of one coulomb per second. Electric current is measured using a device called an ammeter.[
+The SI unit for measuring an electric current is the ampere, which is the flow of electric charge across a surface at the rate of one coulomb per second. Electric current is measured using a device called an ammeter.
 
 ### Current Measurements
 Oriented movement of charge to form a current. Direction of current depends on regulation of positive charge orientation. The electric current is a physical quantity to signify strong and weak of the current. We should use an ampere meter to measure the current and it need to be connection in series with measured electrical appliance. Then, let the current flow into the positive terminal and out from the negative terminal. Please note that the measured current should not be over the maximum measurement value(range) of the ampere meter. 
@@ -88,7 +88,8 @@ Unit of U:（V），Unit of R:（Ω），Unit of I（A）
 
 
 ## Color Ring Resistance Reference ##
-- The color ring resistance identification method refers to the use of four color rings or five color rings or six color rings on the resistance to represent the resistance value. We could read color signal of resistance value from any angle.
+---
+The color ring resistance identification method refers to the use of four color rings or five color rings or six color rings on the resistance to represent the resistance value. We could read color signal of resistance value from any angle.
 The color ring resistance is the most using resistance type for different electronic equipments. It is easy for the maintainer to read the value whatever it be installed and convenient for detecting and relacing.
 
 ### Reference ###
