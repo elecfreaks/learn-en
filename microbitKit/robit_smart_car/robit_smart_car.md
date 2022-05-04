@@ -6,7 +6,7 @@ Robit smart car is a kind of smart car which is based on micro:bit and ElecFreak
 
 
 ### Characteristics
----
+
 - Support 4 channels of DC motor and 2 channels of stepping motors.
 - With 8-way PWM signal output connectors.
 - With 8-way G-5V-S digital signal connectors(for OCTOPUS electric brick).
@@ -15,7 +15,7 @@ Robit smart car is a kind of smart car which is based on micro:bit and ElecFreak
 - Lithium battery power supply input voltage: DC 3.7-4.2V.
 
 ###  Technical Parameter
----
+
 
 - Name:Robit Smart Car
 - SKU:EF08195
