@@ -69,9 +69,9 @@ Link of the whole program: [https://makecode.microbit.org/_1gXfr9fdA6LH](https:/
 You can also download it from the page below.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_1gXfr9fdA6LH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
-**Note:** Due to the effect of inertia, the car will rush out a certain distance before stop when a black line is detected.
+
+***Note:*** Due to the effect of inertia, the car will rush out a certain distance before stop when a black line is detected.
 
 
 ## Result
