@@ -26,7 +26,7 @@
 
 Note：You don't need to think out some complex questions like pulse width because micro:bit Foundation has converted the servo code to block.
 
-*- Note: Please note the positive and the negative when you are connecting.*
+***Note:*** Please note the positive and the negative when you are connecting.
 
 ## Software
 ---
@@ -57,7 +57,6 @@ Note：You don't need to think out some complex questions like pulse width becau
 - You also could directly download program by visiting website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fudJaMCRhE1r" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result
