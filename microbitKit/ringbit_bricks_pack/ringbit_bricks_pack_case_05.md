@@ -114,7 +114,7 @@ While button A being pressed, set the servo connected to P0 port turning 180 deg
 
 
 
-Note: As the servo we used is in 360 degrees, the "servo" extension in MakeCode is suitable for servos in 180 degrees, therefore, setting the turning angle to 0 degree or 180 degrees will lead to the servo turning clockwisely or anti-clockwisely, and 90 degrees means to stop turning.
+***Note:*** As the servo we used is in 360 degrees, the "servo" extension in MakeCode is suitable for servos in 180 degrees, therefore, setting the turning angle to 0 degree or 180 degrees will lead to the servo turning clockwisely or anti-clockwisely, and 90 degrees means to stop turning.
 
 ### Code
 
@@ -123,8 +123,9 @@ Link: [https://makecode.microbit.org/_6Pvbj1fPt33f](https://makecode.microbit.or
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6Pvbj1fPt33f]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
 ### Result 
----
+
 When button A being pressed, the wiper begins working; while buton B being pressed, the wiper stops working.
 
 
