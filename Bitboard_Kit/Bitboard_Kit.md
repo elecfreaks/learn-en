@@ -1,16 +1,22 @@
 # Bitboard_Kit
 
 ## Introduction
+---
+
 Change everything into a "keyboard"! The Bitboard helps to learn the electric circuits, create music and games, and it makes everything to be your creating tools!
 
 ## Products link
+---
+
 [ Bitboard Kit](https://www.elecfreaks.com/elecfreaks-bitboard-kit.html)
 
 ## Picture
+---
 
 ![](./images/Bitboard_Kit_01.png)
 
 ## Parameter
+---
 
 |  Item   | Data  |
 | :----: | :----: |
@@ -24,6 +30,7 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 | Net weight | 31g |
 
 ## Components List
+---
 
 |  Item   | Quantity  |
 | :----: | :----: |
@@ -35,6 +42,8 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 ![](./images/Bitboard_Kit_02.png)
 
 ## Quick Start
+---
+
 ### Programming
 1.Go to [https://www.ecode.cn/creative/](https://www.ecode.cn/creative/), and click "Events".
 
@@ -66,6 +75,8 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 ![](./images/Bitboard_Kit_05.png)
 
 ## Result
+---
+
 Hold the conductors of the buttons `→` and GND to complete the closed-loop circuit with your hands, you can see the tiger on the stage(in ecode) moving to the right side. 
 
 
