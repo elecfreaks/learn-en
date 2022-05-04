@@ -13,6 +13,7 @@ motor:bit smart car kit is a tailor-made smart car for micro:bit and motor:bit. 
 
 ## Parameters
 ---
+
 Item |Parameter
 :-:|:-:
 Motor Type|TT Motor
