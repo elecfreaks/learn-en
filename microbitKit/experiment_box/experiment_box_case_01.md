@@ -26,7 +26,7 @@ LED is a common use in our life. Most of signal light employs LED as main illumi
 
 ![](./images/ks4hn2r.png)
 
-*- Note: Please note the positive and the negative when you are connecting.*
+***Note:*** Please note the positive and the negative when you are connecting.
 
 ### Resistor ###
 - The resistor is a kind of component to control the current. It can limit the current of connecting circuit. By the way, there is no positive or negative for the resistor.
