@@ -74,7 +74,7 @@ Connect small LED to P0, servo ro P1, crash sensor to P2 and battaries pack to m
 ![](./images/qIxyiCc.jpg)
 
 
-###Please note the swith of basic:bit should at P0.
+### Please note the swith of basic:bit should at P0.
 
 
 
@@ -124,7 +124,6 @@ Please refer to detail programming：[https://makecode.microbit.org/_M9M33fRYo9K
 You also could directly download program visit website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_M9M33fRYo9KY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ## Result
 ---
