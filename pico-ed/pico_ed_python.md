@@ -2,10 +2,9 @@
 
 
 
+## Add Python Package 
 ---
 
-
-### Add Python Package 
 Download and unzip the package: [lib.zip](https://github.com/elecfreaks/pico_ed/archive/refs/heads/master.zip)
 Install and open it: [thonny](https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-3.3.13.exe)
 
@@ -47,7 +46,9 @@ Enter the name 'main.py" to the jumped-out column and click "OK" for confirmatio
 
 ![](./images/pico-ed-py-09.png)
 
-### Sample Projects
+## Sample Projects
+---
+
 ### Project 01: Control the on/off of onboard LEDs with buttons.    
 ```
 from Pico_ed import *     #import file
@@ -115,5 +116,6 @@ while True:
 ### Result 
 Press button A to light on the LED and button B to turn it off. 
 
-### Technical Files
+## Technical Files
+---
 [https://docs.micropython.org/en/latest/library/rp2.html](https://docs.micropython.org/en/latest/library/rp2.html)
