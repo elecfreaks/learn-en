@@ -24,7 +24,7 @@
 - The experiment box included a 180° servo.
 ![](./images/uqmkhZ6.png)
 
-Note：You don't need to think out some complex questions like pulse width because micro:bit Foundation has converted the servo code to block.
+***Note:*** You don't need to think out some complex questions like pulse width because micro:bit Foundation has converted the servo code to block.
 
 ***Note:*** Please note the positive and the negative when you are connecting.
 
