@@ -143,6 +143,7 @@ Link: [https://makecode.microbit.org/_DdAU5d4kMJDh](https://makecode.microbit.or
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DdAU5d4kMJDh]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
 ### Result
 
 When power on, the red LED lights on for 3 seconds, then the yellow led in 1 second and the green one in 3 seconds at last. 
