@@ -35,7 +35,7 @@
 ## Quick to Start
 ---
 ### Hardware Connection
----
+
 
 - Connect the acrylic transition board to the back board with the rivets.
 
@@ -50,7 +50,7 @@
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_05.jpg)
 
 ### Software Programming 
----
+
 
 - Choose `sonar:bit` in makecode.
 - Search `ringbit` in the dialogue box and click it to download it. 
@@ -66,7 +66,7 @@ You can download it directly below:
  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_iP7DWxFicRox" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
----
+
 
 - The value measured by Sonar:bit is showing on the micro:bit.
 
