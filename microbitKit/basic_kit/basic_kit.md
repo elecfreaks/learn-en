@@ -7,6 +7,7 @@ ELECFREAKS micro:bit basic kit is an entry-level kit. We carefully select 5 most
 
 ## Components
 ---
+
 Module | Quantity
 :-: | :-: 
 micro:bit |1
