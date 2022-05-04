@@ -37,7 +37,7 @@
 ## Quick to Start
 ---
 ### Hardware Connection  
----
+
 - The first step is to insert this module to the baseboard of the Ring:bit car V2.
 
  ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_04.gif)
@@ -51,7 +51,7 @@
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_07.jpg)
 
 ### Software Programming  
----
+
 
 - Program a simple line-following code in the [makecode](https://makecode.microbit.org/) .
 
@@ -70,7 +70,7 @@ You can also download the code directly below:
  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_hYH1Rd697TFf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
----
+
 - The Ring:bit car runs around the circle slowly.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_09.gif)
