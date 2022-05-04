@@ -28,6 +28,8 @@
 
 - When the analog noise sensor is receiving human voice, it will send the signal to the micro:bit. The micro:bit will judge the voice intensity and the LED will show different light colors. 
 
+---
+
 Colors | Paremeters 
 :-: | :-: 
 Red|30db
