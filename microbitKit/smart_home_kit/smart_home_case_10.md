@@ -67,7 +67,7 @@ Connect the rainbow LED to P2 port of the expansion board;
 
 ![](./images/OY706rv.png)
 
-Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
+***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
 
 ### Step 2
 
@@ -95,7 +95,7 @@ Program link：[https://makecode.microbit.org/_HsM6PrRhAA9c](https://makecode.mi
 You also could directly download program by visiting website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_HsM6PrRhAA9c" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Succeed!
 ---
