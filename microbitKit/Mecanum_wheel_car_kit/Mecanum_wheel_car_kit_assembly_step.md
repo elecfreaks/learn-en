@@ -6,14 +6,14 @@
 <iframe src="//player.bilibili.com/player.html?aid=67229888&cid=116572655&page=1" scrolling="no" border="0"framespacing="0" allowfullscreen="true" width="700px" height="600px"> </iframe>
 
 ## Offline pdf
-
+---
 [Main channel Download:Github ](https://github.com/elecfreaks/learn-en/blob/master/microbitKit/Mecanum_wheel_car_kit/files/Mecanum_wheel_car_kit_assembly_step.pdf)
 
 [Streaming Download:Gitee ](https://gitee.com/lionkkk/elecfreaks_files/raw/master/wukong_assembly_step_english_v1.1.pdf)
 
 [Streaming Download:Onenote ](https://onedrive.live.com/view.aspx?resid=549F5F25FB946922%211132&id=documents&wd=target%28microbit%20Wonder%20Rugged%20Car%20kit.one%7C6BD0FCAC-749F-44DD-9DCB-D486908DEE1A%2FWonder%20Rugged%20Kit%20Assembly%20Steps%7C1E078FBC-12C3-41CD-A5FC-6477B69B8031%2F%29)
 ## Online picture
-
+---
 ![](./images/step_2.jpg)
 ![](./images/step_3.jpg)
 ![](./images/step_4.jpg)
