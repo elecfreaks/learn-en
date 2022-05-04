@@ -7,7 +7,7 @@
 
 Ring:bit Car is a DIY smart car which is based on BBC micro:bit and ELECFREAKS ring:bit. Ring:bit has extended 3 channels of GPIO, among which 2 channels are used for driving servos and one channel of GPIO is undefined. The basic version of ring:bit car can realize functions like road design, wireless remote control, graphic drawing etc.. By increasing other sensors' extension, this car can also realize functions line follow, light tracking, barrier avoidance and so on.  
 
-![1(./images/etm0cGB.png)  
+![1](./images/etm0cGB.png)
 
 ## How to add ring:bit car package?   
 ---
