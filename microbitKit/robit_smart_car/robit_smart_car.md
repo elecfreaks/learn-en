@@ -40,37 +40,46 @@ Robit smart car is a kind of smart car which is based on micro:bit and ElecFreak
 
 ## Diagram for Installment of Chassis
 ---
-### Step 1: Install TT motor with four M3*25 countersunk screws
+ Step 1: Install TT motor with four M3*25 countersunk screws
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_02.JPG)
-### Step 2: Attach the hook side of HOOK & LOOP to the aluminum chassis. 
+
+Step 2: Attach the hook side of HOOK & LOOP to the aluminum chassis. 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_03.JPG)
-### Step 3: Fasten the four 4*6 single-pass coppers with four nuts to the Robit board.
+
+ Step 3: Fasten the four 4*6 single-pass coppers with four nuts to the Robit board.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_04.jpg)
-### Step 4: Fasten the four M3*30 single-pass coppers on the aluminum chassis.
+
+Step 4: Fasten the four M3*30 single-pass coppers on the aluminum chassis.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_05.JPG)
-### Step 5: Fasten the Robit board with four M3*5 screws to the aluminum chassis.
+
+Step 5: Fasten the Robit board with four M3*5 screws to the aluminum chassis.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_06.JPG)
-### Step 6: Install the Fender with M4*5 screws. 
+
+Step 6: Install the Fender with M4*5 screws. 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_07.JPG)
-### Step 7: Install the universal wheel and line-following module with 2 M4*10 countersunk screws. 
+
+Step 7: Install the universal wheel and line-following module with 2 M4*10 countersunk screws. 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_08.JPG)
-### Step 8: Install the wheels.
+
+Step 8: Install the wheels.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_09.JPG)
-### Step 9: Install 2 M4*6+6 single-pass copper cylinders on the head of the car.
+
+Step 9: Install 2 M4*6+6 single-pass copper cylinders on the head of the car.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_10.jpg)
-### Step 10: Install sonar module with 2 M4*5 screws.
+
+Step 10: Install sonar module with 2 M4*5 screws.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_11.JPG)
-### Step 11: Stick the loop side of the Hook&Loop onto the battery.
+
+Step 11: Stick the loop side of the Hook&Loop onto the battery.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_12.JPG)
-### Finished Products
-![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_01.JPG)
 
 
 ### Finished Products
----
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/robit_smart_car/images/robit_smart_car_01.JPG)
 
 ## Sample Code
+---
 Click "**Add Package**" and  search with "**robit**", then add the robit package.
 ![](./images/u1nc7NF.png)
 ### The code of moving forward is list below, you can have your car moving forward after downloading.
