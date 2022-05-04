@@ -77,3 +77,4 @@ You can also download directly from below:
 Icon is shown on the micro:bit.
 
 ## FAQ
+---
