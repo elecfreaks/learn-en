@@ -105,7 +105,7 @@ Now we need to set up the micro:bit to detect the key presses!
 
 
 ### Step 4 – Build it!
-
+---
 1. Using a laser cutter cut out 18.5cm by 28cm of 3mm acrylic
 2. If you do not have acrylic you can use cardboard instead
 3. Cut out slots for the OLED as well as the keypad wires
@@ -118,7 +118,7 @@ Now we need to set up the micro:bit to detect the key presses!
 ![](./images/gyFKK63.jpg)
 
 ### Step 5 – Demo Time!
-
+---
 ![](./images/PQCmICX.jpg)
 
 ![](./images/7ocL6rB.jpg)
