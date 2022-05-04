@@ -30,7 +30,7 @@ For programming, we need to add a package. Click "Extensions" at the bottom of t
 
 ![](./images/Mecanum_wheel_car_kit_case_01_02.png)
 
-Note：If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
+***Note:*** If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
 ### Step 2
 
