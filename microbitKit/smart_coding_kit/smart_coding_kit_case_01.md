@@ -19,9 +19,7 @@
 
 ### What is Scratch ? 
 
-- [Scratch](https://baike.baidu.com/item/Scratch/15493636?fr=aladdin) is a graphical programming tool developed by Lifelong Kindergarten Group from MIT, it suits for teenagers. 
-![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=df7338639f8fa0ec6bca6c5f47fe328b/2cf5e0fe9925bc31e1c3fbc850df8db1ca1370c0.jpg)
-
+- [Scratch](https://en.wikipedia.org/wiki/Scratch) is a graphical programming tool developed by Lifelong Kindergarten Group from MIT, it suits for teenagers. 
 
 ## Software
 ---
