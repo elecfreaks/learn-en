@@ -69,6 +69,7 @@ If you don't want to type these code by yourself, you can directly download the 
 ## Result
 ---
 - The Ring:bit car will move as direction of the gyroscope and its speed will as the angle of inclination of the gyroscope.
+
 ![](./images/5fPKpKC.gif)
 
 ## Think
