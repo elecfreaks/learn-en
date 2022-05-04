@@ -58,7 +58,6 @@ The link of the whole program: [https://makecode.microbit.org/_cuufKuP6FARo](htt
 You can also check the program from the page below.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cuufKuP6FARo" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result
