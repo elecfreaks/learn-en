@@ -108,8 +108,8 @@ Make code：[https://makecode.microbit.org/_14sKK4Kyigs3](https://makecode.micro
 You also could directly download program visit website as below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_14sKK4Kyigs3" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
-**Note：** The value of light intensity is base on actual environment.
+
+***Note：*** The value of light intensity is base on actual environment.
 
 ## Result
 ---
