@@ -127,8 +127,9 @@ Link: [https://makecode.microbit.org/_3972aULrT1Dz](https://makecode.microbit.or
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3972aULrT1Dz]" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+
 ### Result
----
+
 It lights on automatically while the surrounding light is low and lights off when the returned value is higher than your set point.
 
 ## Exploration
