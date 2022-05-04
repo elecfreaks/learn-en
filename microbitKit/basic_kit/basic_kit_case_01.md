@@ -23,7 +23,7 @@
 
 ![](./images/Fmowi1n.jpg)
 
-- **Note**：The switch on basic:bit must be shifted to P0 end, or the buzzer onboard will be connected to P0 port.
+***Note：*** The switch on basic:bit must be shifted to P0 end, or the buzzer onboard will be connected to P0 port.
 
 
 ## Software
@@ -60,7 +60,6 @@ The link of the whole program: [https://makecode.microbit.org/_DL87DfRpaL7z](htt
 You can also check the program from the page below.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DL87DfRpaL7z" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result
