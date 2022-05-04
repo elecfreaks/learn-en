@@ -42,20 +42,20 @@
 ---
 ### Hardware Connection 
 
----
 
 - First, insert this module to the baseboard of the Ring:bit car V2.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_04.gif)
 
-- Then, screw up the screws.
+Then, screw up the screws.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_05.gif)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_06.gif)
 
-- Completed.
+Completed.
+
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_07.jpg)
 
 ### Software Programming
----
+
 
 - Program a simple light-bar code in the [makecode](https://makecode.microbit.org/) .
 
@@ -73,8 +73,8 @@ You can download it directly below:
  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3Wc1k8Ckg9vF" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result
----
--Rainbow lights.
+
+Rainbow lights.
 
 ## FAQ
 ---
