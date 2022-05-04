@@ -15,7 +15,7 @@
 
 ### What is compass?   
 
-- [Compass](https://en.wikipedia.org/wiki/Compass)was called Sinan in chinese ancient times. Its major component is a magnetic pin installed on a shaft. The magnetic pin can rotate freely under the effect of the natural magnetic field and maintain in the tangential direction of the magnetic meridian. The north pole of the magnetic pin points to the geographical south pole. We can use this feature to recognise directions.
+- [Compass](https://en.wikipedia.org/wiki/Compass) was called Sinan in chinese ancient times. Its major component is a magnetic pin installed on a shaft. The magnetic pin can rotate freely under the effect of the natural magnetic field and maintain in the tangential direction of the magnetic meridian. The north pole of the magnetic pin points to the geographical south pole. We can use this feature to recognise directions.
 
 ### micro:bit Compass  
 
