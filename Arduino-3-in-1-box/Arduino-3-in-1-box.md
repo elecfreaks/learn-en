@@ -1,13 +1,17 @@
 # 3 in 1 Breakout Board
 
 ## Introduction
+---
+
 The Arduino 3 in 1 Breakout board is a programmable masterboard based on ATMEGA328P, it is loaded with the dual drive servo connections, the dual drive motor connections and 8-way connections for sensors; all the sensor connections are in RJ11 type with fool-proof and anti-plug design; it is also loaded with Lego compatible ports on the shells which make them possible to connect the modules with Lego bricks. 
 
 ## Pictures
+---
 
 ![](./images/Arduino-3-in-1-box-01.png)
 
 ## Parameter
+---
 
 |  Item   | Parameter  |
 | :----: | :----: |
@@ -20,10 +24,12 @@ The Arduino 3 in 1 Breakout board is a programmable masterboard based on ATMEGA3
 | Working Voltage | 9V |
 
 ## Dimensions
+---
 
 ![](./images/Arduino-3-in-1-box-02.png)
 
 ## Quick to Start
+---
 ### Main Modules
 
 ![](./images/Arduino-3-in-1-box-15.png)
@@ -106,7 +112,7 @@ Click the save button, upload the program to the breakout board.
 ![](./images/Arduino-3-in-1-box-14.png)
 
 ## Result
-
+---
 After powering on, the two motors start driving and the two servos drive to the degrees as we've programmed. 
 
 
