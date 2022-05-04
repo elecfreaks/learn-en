@@ -33,7 +33,7 @@ Plug the LED ring into power:bit just like the picture below.
 
 ![](./images/0u6UbMV.png)  
 
-Note: If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
+***Note:*** If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
 ### Step 2  
 
@@ -79,7 +79,6 @@ Note: If you get a hint that some packages will be deleted due to the problem of
 - You can also download the program from the page below.  
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_goJVKXdyqVRX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 
 ## Result  
