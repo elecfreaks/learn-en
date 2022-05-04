@@ -34,7 +34,7 @@
 
 - We also need to add a package for programming the Sonar:bit. Click "Extensions" in the drawer and search “`https://github.com/elecfreaks/pxt-sonarbit`" in the dialogue box to download it. 
 
-Note: if you are informed that it will be deleted due to incompatibility of the codebase, you can go on with the tips or create a new project in the menu.
+***Note:***  if you are informed that it will be deleted due to incompatibility of the codebase, you can go on with the tips or create a new project in the menu.
 
 ### Step 2
 
@@ -59,13 +59,15 @@ Links: [https://makecode.microbit.org/_RTwFcMeA1MMY](https://makecode.microbit.o
 You can also download it below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RTwFcMeA1MMY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 ## Result 
 ---
+
 - The Ring:bit car turns left automatically when detecting any obstacle 10cm in front of it.
 
 ## Exploration
 ---
+
 - Question: Why we need to judge if the value is not 0 ?
 - Answer: The detection value is also 0 if beyond the detection scope of Sonar:bit. 
 
