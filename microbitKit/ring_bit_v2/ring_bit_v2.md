@@ -9,7 +9,7 @@
 
 
 ## The Special Expansion Board of Ring:bit car 2 
-
+---
 
 - The Special Expansion Board of Ring:bit car 2 is for adding extendibility of Ring:bit car. With two Rainbow LEDs and a special expanded port for special expansion module connection.
 - There is a slide switch on the board, slide it to “Rainbow LED” for using of two Rainbow LEDs; slide the switch to the “Other modules” for using other modules. Please note that these can not be operated at the same time.
@@ -18,5 +18,6 @@
 
 ![](./images/MVoGDx1.jpg)
 
-*Please note that the Ring:bit car version 2 has been upgraded. It is diffrent from the Ring:bit car version 1. All related documents refers to the Ring:bit car version 2.*
-*[Information of the Ring:bit car version 1](http://www.elecfreaks.com/learn-cn/microbitKit/Ring_bit_Car_Kit/index.html)*
+Please note that the Ring:bit car version 2 has been upgraded. It is diffrent from the Ring:bit car version 
+1. All related documents refers to the Ring:bit car version 
+2. [Information of the Ring:bit car version 1](http://www.elecfreaks.com/learn-cn/microbitKit/Ring_bit_Car_Kit/index.html)
