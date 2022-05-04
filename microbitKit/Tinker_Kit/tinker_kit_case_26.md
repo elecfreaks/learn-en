@@ -170,7 +170,6 @@
 
 - Every ultrasound is different and the environmental conditions at your place might be different from mine so the values I use might be different from yours. Calibration helps you find what values you should be using in your situation.
 
--- 
 1. Download the Sonar package for easy access to the ultrasound function.
 2. Create a function to get the distance of the ultrasound as shown.
 3. Create a function to show the distance that the ultrasound is sensing on the screen
