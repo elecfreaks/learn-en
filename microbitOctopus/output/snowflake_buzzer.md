@@ -1,4 +1,4 @@
-# Snowflake Buzzer for micro:bit
+# Snowflake Buzzer for micro:bit(EF03419)
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@
 
 ## Parameters 
 ---
+
 |Items|Parameters|
 |:-:|:-:|
 |Name|Snowflake Buzzer|
@@ -62,4 +63,4 @@ You also could directly download program by visiting website as below:
 - When the button B pressed, a piece of "Jingle Bells" plays.
 
 ## FAQ
-
+---
