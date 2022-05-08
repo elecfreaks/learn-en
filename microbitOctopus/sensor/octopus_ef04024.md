@@ -2,8 +2,6 @@
 
 ## Introduction
 ---
-
-
 This is a Rain/steam sensor from ElecFreaks, the output voltage will increase when the humidity of the sensor surface goes up, thus to detect the change of the humidity.
 
  ![](./images/4tWL14e.jpg)
@@ -15,7 +13,8 @@ This is a Rain/steam sensor from ElecFreaks, the output voltage will increase wh
 
 ## Specifications
 ---
-Item |              Parameter               
+
+Item | Parameter               
 :-: | :-: 
 SKU|EF04024
 Power Input|3V-5.5V
@@ -51,7 +50,7 @@ Links:
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_7cm75DbwJEaY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The current amount of precipitation is scrolling on the micro:bit. 
