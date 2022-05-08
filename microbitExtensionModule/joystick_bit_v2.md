@@ -1,4 +1,4 @@
-# Joystick:bit V2
+# Joystick:bit V2(EF03423)
 
 ## Introduction
 ---
