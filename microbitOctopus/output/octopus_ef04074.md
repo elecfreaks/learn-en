@@ -1,4 +1,4 @@
-# OCTOPUS Vibration Motor
+# OCTOPUS Vibration Motor(EF04074)
 
 ## Introduction
 ---
@@ -6,14 +6,14 @@ OCTOPUS Vibration Motor is a kind of electric brick module carrying with a small
 
  ![](./images/d9jdEqa.jpg)
 
-- ## Characteristics
-
-  ------
+## Characteristics
+---
 
   The 3-pins ports is easy to plug and play.
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04074
@@ -32,7 +32,7 @@ Size|31.28mm×23.48mm
 
 
 ## Quick to Start
-
+---
 ### Materials used and connection diagram
 
 - Connect to the P1 port 
@@ -54,15 +54,13 @@ Links:[https://makecode.microbit.org/_K3ydU0V389k2](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_K3ydU0V389k2" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The module starts vibrating after pressing button A.
 
 ## Relevant Cases
-
-------
+---
 
 ## Technique Files
-
 ---
