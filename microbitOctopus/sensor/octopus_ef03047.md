@@ -1,7 +1,6 @@
-# Color Sensor Module
+# Color Sensor Module(EF03047)
 
 ## Introduction
-
 ---
 
 Based on TCS3200, the Color sensor module is a programmable color light-to-frequency converter, it could filter RGB data from source light and convert it to a square wave(50% duty cycle) with frequency directly proportional to light intensity (irradiance). The full-scale output frequency can be scaled by one of three preset values via two control input pins(SO, S1 Selectable Options 2%, 20%, 100% frequency),and pin S2, S3 control the filter of RGB. Digital input and output allow interface to a microcontroller or other logic circuitry directly. Output enable (OE) places the output in the high-impedance state for multiple-unit sharing of a microcontroller input line. At last, user can calculate the color of the light by RGB values. 
@@ -56,7 +55,7 @@ You can also download it directly below:
 The value of the current red, blue and green is displaying on the OLED screen.
 
 ## FAQ
-
+---
 Avoid the interference of outside light,testing the better in a confined space
 No special requirements for light, but try to focus on a single
 The first use or restart or change light and so on, please adjust the WB(White Balance)
