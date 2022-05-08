@@ -48,7 +48,7 @@ The base board designs with standard 7x5 square bricks that can adapt perfectly 
 | LED |8 LEDs can be programmed on the base side|Light on, twinkle, breathing light|The LED twinkles when power on| Lego baseboard |Standard 7x5 rectangle base board|Battery is attached in the middle of the baseboard|-|
 
 
-*Note: Any overcharge or over-discharge may result in swelling of the batteries. If your battery is not going to be used for a long time: store it in cool and dry place. Please disconnect your battery with the power source once it is fully charged in case of the overcharge and do not leave it plugged in all the time. *
+***Note:*** Any overcharge or over-discharge may result in swelling of the batteries. If your battery is not going to be used for a long time: store it in cool and dry place. Please disconnect your battery with the power source once it is fully charged in case of the overcharge and do not leave it plugged in all the time. *
 
 
 
