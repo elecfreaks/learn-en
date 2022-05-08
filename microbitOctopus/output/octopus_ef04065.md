@@ -1,4 +1,4 @@
-# Octopus 5mm LED Brick - White
+# Octopus 5mm LED Brick - White(EF04065)
 
 ## Introduction
 ---
@@ -7,14 +7,13 @@ Octopus 5mmLED light Brick can be used in the interaction with the light works w
  ![](./images/FJgPKrD.jpg)
 
 ## Characteristics
-
-------
+---
 
 - The 3-pins ports is easy to plug and play.
 
 ## Specifications
-
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04065
@@ -24,10 +23,11 @@ Weight|5g
 
 ## Outlook and Dimensions
 ---
+
  ![](./images/G7swW1F.png)
 
 ## Quick to Start
-
+---
 ### Materials used and connection diagram
 
 - Connect to the P0 port 
@@ -56,16 +56,14 @@ Links:[https://makecode.microbit.org/_J82V5PgzghKR](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_J82V5PgzghKR" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 
 - LED flashes each second.
 
 ## Relevant Cases
-
-------
+---
 
 ## Technique Files
-
 ---
