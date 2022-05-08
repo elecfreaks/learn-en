@@ -1,4 +1,4 @@
-# Octopus Soil Moisture Sensor Brick 
+# Octopus Soil Moisture Sensor Brick(EF04027) 
 
 ## Introduction
 ---
@@ -14,7 +14,8 @@
 
 ## Specifications
 ---
-Item |              Parameter               
+
+Item |  Parameter               
 :-: | :-: 
 SKU|EF04027
 Power Input|3V-5.5V
@@ -61,7 +62,7 @@ Links: [https://makecode.microbit.org/_X3xXFcTkMUex](https://makecode.microbit.o
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_X3xXFcTkMUex" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The soil moisture is showing on the micro:bit after inserting the module into the soil.
