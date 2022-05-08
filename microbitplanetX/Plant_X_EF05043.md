@@ -1,13 +1,16 @@
-# WIFI Module
+# WIFI Module(EF05043)
 
 ## Introduction
+---
 Based on ESP8266 module, it is able to connect the micro:bit to the IoT platform and upload the data or control the micro:bit from the platform. 
 
 ![](./images/05043_01.png)
 
 ## Characteristics
 ---
+
 - Designed with RJ11 ports and easy to plug. 
+
 ## Specification
 ---
 
@@ -17,10 +20,6 @@ SKU|EF05036
 Connection|RJ11
 Connection Type|Serial Communication
 Core IC|ESP8266
-
-
-
-
 
 
 ## Outlook and Dimension
@@ -34,24 +33,24 @@ Core IC|ESP8266
 ---
 
 ### Materials required and connections diagram 
----
 
 - Connect the WIFI module to the J1 port and the LED to J2 port on Nezha expansion board. 
 
 
 ![](./images/05043_03.png)
 
----
 
 
 
 ## Kids IoT
 ---
+
 - KidsIoT is a platform for IoT(Internet of Things) produced by ELECFREAKS with only three minutues to get connected, it can achieve a remote control to the micro:bit. (Currently in English version only) link: [KidsIoT Cloud Platform: https://www.kidsiot.cn/](https://www.kidsiot.cn/)
 
 ![](./images/kidsiot_01.jpg)
 
 ## KidsIoT Registration
+---
 
 - Sign up in the website to get a new account.
 
@@ -75,6 +74,7 @@ Core IC|ESP8266
 
 
 ## KidsIoT Guidance
+---
 
 - Go to the log in interface by clicking Sign in.
 
@@ -100,14 +100,13 @@ Core IC|ESP8266
 ![](./images/kidsiot_12.jpg)
 
 ## Write Code
-
 ---
 
 [MicroSoft MakeCode](https://makecode.microbit.org/#)
 
 ## Programme
-
 ---
+
 ### Modules Connection Diagram
 
 Click "Advanced" in the drawer of the MakeCode to see more choices.
@@ -118,7 +117,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Code Details
 
@@ -133,19 +132,19 @@ Connect to Kids’IoT platform, User Token is the only indentification code for 
 
  Topic is the only indentification code and you have to appoint the updload device when connecting. The device number(Topic) will be in sequential order.
 
-- - - - -
+
 
 ![](./images/kidsiot_17.jpg)
 
 Upload an integer to KidsIoT and it shows here.
 
 ![](./images/kidsiot_18.jpg)
-- - - - -
+
 
 ![](./images/kidsiot_19.jpg)
 
 Judge if the conection status is successful, “Ture” for success, “False” for failure. You can edit the reconnection system to ensure the stable connection.
-- - - - -
+
 
 ![](./images/kidsiot_20.jpg)
 
