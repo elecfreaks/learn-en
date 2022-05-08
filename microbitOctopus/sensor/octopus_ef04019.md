@@ -1,19 +1,20 @@
-# Octopus Temperature And Humidity Sensor 
+# Octopus Temperature And Humidity Sensor(EF04019) 
 
 ## Introduction
- 
-
+---
 - Temperature and humidity sensor is a module based on DHT11 digital temperature and humidity sensing element. It is sensitive to the ambient temperature and humidity changes and can be used for temperature alarm, humidity testing and other works.
 
  ![](./images/b4CeLwq.jpg)
 
 ## Characteristics
+---
 The 3-pins ports is easy to plug and play.
 
 
 ## Specifications
 ---
-      Item       | Parameter 
+
+Item  | Parameter 
 :-: | :-: 
 SKU|EF04019
 Power Input|3v-5.5v
@@ -62,7 +63,7 @@ Links: [https://makecode.microbit.org/_E2kTxL2wp42J](https://makecode.microbit.o
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_E2kTxL2wp42J" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The temperature value is scrolling on the micro:bit.
