@@ -1,4 +1,4 @@
-# Octopus Water-proof Temperature Sensor
+# Octopus Water-proof Temperature Sensor(EF04095)
 
 ## Introduction
 ---
@@ -41,7 +41,7 @@
  ![](./images/04095_2.png)
 
 ###  Add Package
----
+
 Click "Advanced" in MakeCode to check more choices.
 
  ![](./images/smtcNoB.png)
@@ -50,17 +50,17 @@ Click "Extensions", and search “`https://github.com/elecfreaks/pxt-ds18b20`" i
 
 
 ### Programme as the Picture Shows
----
+
   ![](./images/04095_3.png)
 
 ### Reference
----
+
 Links: [https://makecode.microbit.org/_1x1ERwiT1bui](https://makecode.microbit.org/_1x1ERwiT1bui)
 
 You can also download it directly: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_1x1ERwiT1bui" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Results
 
