@@ -1,14 +1,10 @@
-# Octopus Light Sensor
+# Octopus Light Sensor(EF04092)
 
 ## Introduction
 ---
 - Octopus Light Sensor Brick can detect the light value of the current environment. It is in a small volume with a low power consumption and it is very easy to operate with good performance.
 
-
-
 ![](./images/04092_01.jpg)
-
-
 
 ## Characteristics
 ---
@@ -40,7 +36,7 @@ Stability|Stable and durable
 
 ![](./images/04092_02.png)
 ### Program as the picture shows 
----
+
 Click "Advanced" in the drawer of the MakeCode to see more choices.
 
 ![](./images/04092_03.png)
@@ -60,14 +56,13 @@ Link：[https://makecode.microbit.org/_iMH0jK6quc2j](https://makecode.microbit.o
 You can also download it directly:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_iMH0jK6q" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - If the light intensity is below 50, it shows the specified icons or it shows a "smile" face.
-## Relevant Cases
 
+## Relevant Cases
 ---
 
 ## Technical Files
-
 ---
