@@ -29,7 +29,7 @@ The ELECFREAKS Ring:bit Car is a small DIY smart car driven by the BBC micro:bit
 |360° Servo|2| ![](https://www.elecfreaks.com/learn-en/_images/U3XGnyB.jpg) |
 |Castor Wheel|1| ![](https://www.elecfreaks.com/learn-en/_images/Ky220DU.jpg) |
 |Screw|5| ![](https://www.elecfreaks.com/learn-en/_images/LqTtuBl.jpg) |
-|Tapping Screw|5| ![](./images/SIgzxED.jpg)|
+|Tapping Screw|5| ![](https://www.elecfreaks.com/learn-en/_images/SIgzxED.jpg)|
 |Rivet|2| ![](https://www.elecfreaks.com/learn-en/_images/dYrPAoC.jpg) |
 |Screwdriver|1| ![](https://www.elecfreaks.com/learn-en/_images/NbE9vox.jpg) |
 |Rubber Band|1| ![](https://www.elecfreaks.com/learn-en/_images/LKjqmwk.jpg) |
