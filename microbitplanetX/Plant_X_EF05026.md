@@ -1,18 +1,17 @@
-# 7-Seg LED Nixietube
+# 7-Seg LED Nixietube(EF05026)
 
 ##  Introduction
+---
 It is able to display the numbers and time and so on. 
 
 ![](./images/05026_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -24,8 +23,6 @@ Working Voltage|3.3V
 Core IC|TM1637
 
 
-
-
 ## Outlook
 ---
 
@@ -33,12 +30,9 @@ Core IC|TM1637
 ![](./images/05026_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the 7-Seg LED Nixietube to J1 port in the Nezha expansion board as the picture shows.
 
@@ -46,7 +40,6 @@ Core IC|TM1637
 ![](./images/05026_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -59,7 +52,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -74,13 +67,12 @@ Link: [https://makecode.microbit.org/_7tmRmJ2c4Khw](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_7tmRmJ2c4Khw" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Set it display 12.34.
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -116,10 +108,9 @@ while n < 10000:
 
 ### Result
 - The numbers from 0~99999 display on the 7-Seg LED Nixietube.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
