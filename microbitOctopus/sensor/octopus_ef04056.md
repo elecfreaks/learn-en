@@ -1,14 +1,9 @@
-# Octopus 0.36'' Segment LED Brick
+# Octopus 0.36'' Segment LED Brick(EF04056)
 
 ## Introduction
 ---
 
-
-
-
 ![](./images/04056_1.jpg)
-
-
 
 
 ## Characteristics 
@@ -44,7 +39,7 @@ Stability|Stable and durable
 
 
 ### Add Package
----
+
 Click "Advanced" to see more choices in the MakeCode drawer. 
 
 
@@ -77,7 +72,7 @@ Link：[https://makecode.microbit.org/_P5HfWFAvHe8J](https://makecode.microbit.o
 You can also download it below directly:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_P5HfWFAvHe8J" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The setting numbers display on the led screen.
