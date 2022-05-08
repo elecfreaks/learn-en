@@ -1,4 +1,4 @@
-# Robit
+# Robit(EF03413)
 
 ## Introduction
 ---
@@ -177,26 +177,25 @@ Also, you can download the code directly from the page below:
 
 We can see our robit car moves forward for 3 seconds, and then backward 3 seconds. This round trip movement is repeated forever.  
 
----
 
 ## case 01 Ultrasonic Distance Measurement 
-
-### Our Goal
 ---
+### Our Goal
+
 
 - Get to know ultrasonic wave and how to use it to measure distance. 
 - Achieve distance measurement with the ultrasonic module on mBot(controlled by robit). 
 
 
 ### Material Needed
----
+
 
 - 1 x Robit
 - 1 x Mbot Car
 
 
 ### Background Knowledge
----
+
 
 #### What is ultrasonic wave?
 
@@ -210,7 +209,6 @@ When the transmitter emit ultrasonic wave in a certain direction, it starts time
 
 
 ### Hardware Assembly
----
 
 Connect ultrasonic module to J1 port on Robit with RJ25 wire, just as the following picture showed. 
 
@@ -219,13 +217,12 @@ Connect ultrasonic module to J1 port on Robit with RJ25 wire, just as the follow
 
 
 ### Software
----
 
 [Microsoft Makecode](https://makecode.microbit.org/#)
 
 
 ### Study Case
----
+
 
 #### Step 1
 
@@ -267,37 +264,37 @@ Ultrasonic module will measure return distance in real time and display it on mi
 
 
 ### Think
----
+
 
 How many situations are there when the distance measured by ultrasonic module is 0 ?
 
 
----
+
 
 ## case 02 Ultrasonic Obstacle Avoidance
-
+---
 
 ### Our Goal 
----
+
 
 Make mBot car (controlled by robit) avoid obstacle. 
 
 
 ### Material Needed
----
+
 
 - 1 x Robit
 - 1 x Mbot Car
 
 
 ### Introduction
----
+
 
 In our last chapter Ultrasonic Distance Measurement, we have realized measuring distance in real time with ultrasonic module. In this chapter, we are going to use it to make mBot car avoid obstacles. 
 
 
 ### Hardware Assembly
----
+
 
 Connect the left motor to port M1 and the right motor to port M2. Same to the last chapter, the ultrasonic module shall be connected to J1 port. 
 
@@ -307,13 +304,13 @@ Connect the left motor to port M1 and the right motor to port M2. Same to the la
 
 
 ### Software
----
+
 
 [Microsoft Makecode](https://makecode.microbit.org/#)
 
 
 ### Programming
----
+
 
 #### Step 1
 
@@ -379,37 +376,37 @@ The mBot car automatically turns when it detects that there is an obstacle at th
 
 
 ### Think 
----
+
 
 Why we have to judge if the distance is 0 during the procedure of stop to prevent collision?
 
 ### FAQ
----
+
 
 **Why it can't realize obstacle avoidance after the 5x5 dot screen is turned on?**
 
 Because the LED dot metrix will greatly decrease the running speed of the program, which will make obstacle detect become more slowly. 
 
----
+
 
 ## case 03 Never Fallen Car
 
 ### Our Goal   
----  
+
 
 - Get to know line tracking module.   
 - Realize edge detection with the line tracking module on mBot car.   
 
 
 ### Material Needed  
----  
+ 
 
 - 1 x Robit
 - 1 x Mbot Car  
 
 
 ### Background Knowledge  
----  
+
 
 #### Principle of Line Tracking   
 
@@ -420,7 +417,7 @@ Because the LED dot metrix will greatly decrease the running speed of the progra
 
 
 ### Hardware Assembly    
----  
+
 
 Like the previous chapter, connect motors to port M1 and M2.  
 Using RJ25 wire to connect line tracking module to port J2 on Robit just as pictures below.  
@@ -433,13 +430,13 @@ Using RJ25 wire to connect line tracking module to port J2 on Robit just as pict
 
 
 ### Software  
----  
+
 
 [Microsoft Makecode](https://makecode.microbit.org/#)  
 
 
 ### Programming    
----  
+
 
 #### Step 1  
 
@@ -475,7 +472,7 @@ If both infrared sensors don't detect edges, set the motor speed to be 15 and th
 
 
 ### Programming  
----  
+ 
 
 You can refer to the whole program from the link here:[https://makecode.microbit.org/_1mCg9TgVxJ5K](https://makecode.microbit.org/_1mCg9TgVxJ5K)  
 
@@ -487,31 +484,31 @@ Or you can download it directly from the page below.
 
 
 ### Result  
----
+
 
 Once detected table edges, mBot will move backward to prevent falling down.   
 
 ![](./images/u7fGgG1.gif)  
 
----
+
 
 ## case 04 Line Tracking 
-
+---
 ### Our Goal   
----  
+
 
 - Make mBot car(controlled by Robit) run around with its line tracking module.   
 
 
 ### Material Needed  
----  
+
 
 - 1 x Robit
 - 1 x Mbot Car   
 
 
 ### Hardware Assembly  
----  
+
 
 Like the previous chapter, connect motors to port M1 and M2. 
 Using RJ25 wire to connect the line tracking module to port J2 on Robit just as pictures below.
@@ -524,13 +521,13 @@ Using RJ25 wire to connect the line tracking module to port J2 on Robit just as 
 
 
 ### Software
----
+
 
 [Microsoft Makecode](https://makecode.microbit.org/#)
 
 
 ### Programming  
----
+
 
 #### Step 1
 
@@ -576,33 +573,32 @@ Or you can directly download from the page below.
 
 
 ### Result  
----   
+ 
 
 The mBot car will move forward along the planned black line.
 
 ![](./images/15YjRy5.gif)
 
 
----
 
 
 ## case 05 Reversing Alarm
-
-### Our Goal  
 ---
+### Our Goal  
+
 
 - Make mBot car realize the function of reversing alarm. 
 
 
 ### Material Needed
----
+
 
 - 1 x Robit
 - 1 x Mbot Car
 
 
 ### Background Knowledge
----
+
 
 #### Buzzer
 
@@ -630,7 +626,7 @@ Convert the square wave input into sound signal output via the resonantor.
 
 
 ### Assembly
----
+
 
 Connect the left motor to M1 and the right motor to M2. 
 
@@ -646,13 +642,13 @@ The buzzer is marked in the picture below. It is connected to P0 port on micro:b
 
 
 ### Software
----
+
 
 [Microsoft Makecode](https://makecode.microbit.org/#)
 
 
 ### Programming
----
+
 
 #### Step 1
 
@@ -691,7 +687,7 @@ If the distance is beyond 50cm, the buzzer alarm in 4 beats and set the motor sp
 ![](./images/ASwsTIA.png)
 
 ### Program
----
+
 
 You can see the whole program from the link here: [https://makecode.microbit.org/_gFiciE4PLF37](https://makecode.microbit.org/_gFiciE4PLF37)
 
@@ -699,12 +695,12 @@ Or you can download it from the page below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_gFiciE4PLF37" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
----
+
 **Note:** Setting the motor speed too low will cause the motor to operate abnormally.
 
 
 ### Result
----
+
 
 When the distance between mBot car and the wall is beyond 50cm, the buzzer will alarm in 4 beats and the motors will run in full speed. 
 
@@ -714,13 +710,13 @@ When the distance is less than 10cm, the buzzer will keep alarming and the motor
 
 
 ### Think 
----
+
 
 Why we have to judge if the distance is 0 during parking? 
 
 
 ### FAQ
----
+
 
 **Q:** Why it can't avoid obstacles after turning on micro:bit 5x5 dot screen?
 
