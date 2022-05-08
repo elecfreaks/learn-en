@@ -1,15 +1,14 @@
-# MG811 CO2 Gas Sensor
+# MG811 CO2 Gas Sensor(EF04100)
 
 ## Introduction
 ---
-
 Octopus MG811 CO2 Gas Sensor is a CO2 electronic brick in our OCTOPUS series, the basic design for the outlook, PCB fixing holes and connections are the same with them.
 
 The higher the CO2concentration is, the lower the output voltage would be. The users can read the CO2 value easily after checking our brochures and coding samples.
 
 The CO2 probe is made with industrial grade which is high allergic to CO2 and anti-interference to alcohol and CO. It is of high performance and quick response with loaded signal amplification circuit even in different temperature and humidity environment. Besides, the heating circuit on-board helps to convert to stable 6V voltage from 5V directly that improves the adaptability of the module.
 
-**Caution：**
+***Caution：***
 
 - The module belongs to electrochemistry CO2 and the probe heats itself when working, please do not touch in case of getting hurt.
 - Please make a seal preservation while the sensor is not in use in case of the probe getting “poisoned” due to the long time exposure in the air or you have to heating continuously another 48 hours to activate it!
@@ -18,16 +17,16 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 ![](./images/04100_00.jpg)
 
 ## Characteristic
-
 ---
+
 - Working voltage of the probes: 6v
 - With booster circuit inbuilt, it supports input DC 3.7~5V and the current over 500mA.
 - OCTOPUS electronic bricks.
 - Easy connection.
 
 ## Parameter
-
 ---
+
 - Item:  MG811 CO2 Gas Sensor
 - SKU：EF04100
 - Working Voltage: DC 3.7~5v
@@ -36,34 +35,22 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 - Net Weight: 9.6g
 
 ## Outlook and Dimension
-
 ---
 
 ![](./images/04100_02.png)
 
 ## Quick to Start
-
 ---
 ## Materials Required and Connection Diagram
 - Connect CO2 sensor to P1on the breakout board as the picture shows.
 
 ***Take iot：bit for an example***
 
-
-
 ![](./images/04029_03.png)
-
-
-
 
 ### Code as below
 
-
-
 ![](./images/04100_04.png)
-
-
-
 
 ### Reference
 Link：[https://makecode.microbit.org/_KJVXj9Co2UXU](https://makecode.microbit.org/_KJVXj9Co2UXU)
@@ -71,7 +58,7 @@ Link：[https://makecode.microbit.org/_KJVXj9Co2UXU](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_KJVXj9Co2UXU" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - After connecting the hardware, please preheating it for 3 minutes, and please operate it with the probe approaching to the detected gas only if you get a stable value. 
@@ -233,3 +220,4 @@ int  MGGetPercentage(float volts, float *pcurve)
 Open the serial monitor and you should get the data of the CO2 concentration 5 minutes later. 
 
 ## FAQ
+---
