@@ -1,18 +1,17 @@
-# Two Channels Tracking Module
+# Two Channels Tracking Module(EF05019)
 
 ## Introduction
+---
 The two channels Tracking Module has integrated two groups of reflective infrared pair diode, which can be used to make line tracking smart cars. 
 
 ![](./images/05019_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -25,10 +24,6 @@ Effective Distance|2~12mm
 Black Line|Low level output
 White Line|High level output
 
-
-
-
-
 ## Outlook
 ---
 
@@ -36,12 +31,9 @@ White Line|High level output
 ![](./images/05019_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Two channels tracking module to J1 port in the Nezha expansion board as the picture shows.
 
@@ -49,7 +41,6 @@ White Line|High level output
 ![](./images/05019_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -62,7 +53,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -77,13 +68,12 @@ Link: [https://makecode.microbit.org/_hy3VDtA3xAqE](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_hy3VDtA3xAqE" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -124,10 +114,9 @@ while True:
 
 ### Result
 - Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
