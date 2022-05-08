@@ -41,20 +41,16 @@
 
 
 
-
-
 ## Programming
-
+--
 The program platform here we use for XGO is [Makecode](https://makecode.microbit.org/#) in the graphical programming, you can choose to program in Python or JaveScript too. 
-
 
 
 ![](./images/microbit-xgo-robot-kit-10.png)
 
 
-
 ## Add XGO Package
-
+---
 ### Steps
 
 - Create a new project, click Advanced in the drawer to see more choices. 
@@ -105,7 +101,7 @@ The program platform here we use for XGO is [Makecode](https://makecode.microbit
 
 
 ## Program Guidance
-
+---
 Initialize XGO 
 
 
@@ -251,8 +247,8 @@ You can also download it directly below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_i4k5K6HYMcjc" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
 
 ##  FAQ
-
- **Note**: Turn on the Ring:bit V2 before running the program and note if the power is sufficient. 
+---
+***Note***: Turn on the Ring:bit V2 before running the program and note if the power is sufficient. 
 
 ## Relevant File
-
+---
