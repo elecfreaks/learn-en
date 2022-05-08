@@ -1,8 +1,7 @@
-# Octopus Touch PAD Sensor 
+# Octopus Touch PAD Sensor(EF04011) 
 
 ## Introduction
-
-
+---
 Touch PAD Brick is a sensor module mainly through the capacitive touch TTP223-BA6 charge IC and the body of pressure, ceramics, glass and other dielectric materials, and the charge level is used to detect small changes in a touch switch of a sensor module.
 
  ![](./images/XLSIYQj.jpg)
@@ -13,6 +12,7 @@ Touch PAD Brick is a sensor module mainly through the capacitive touch TTP223-BA
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04011
@@ -23,6 +23,7 @@ Choice Model|Two choices
 Output Mode|Two Choices
 High and low output mode|Can be selected(AHLB pins)
 Insulation characteristics|Insulating medium between 0MM~10MM
+
 ## Outlook and Dimensions
 ---
  ![](./images/uX6EyOO.png)
@@ -40,6 +41,7 @@ Insulation characteristics|Insulating medium between 0MM~10MM
 Connect to the P1 port.
 
  ![](./images/xqYKZ0r.png)
+ 
 ### Add Package
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
@@ -57,7 +59,7 @@ links:
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_UJELf0aERP9z" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The relevant information is shown on the micro:bit.
