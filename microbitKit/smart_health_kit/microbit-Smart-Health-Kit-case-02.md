@@ -45,6 +45,7 @@ Notice: If you met a tip indicating that some codebases would be deleted due to 
 
 ## Program 
 ---
+
 Save the value detected from the UV sensor connecting to P1 as the variable "UV" and display the value on the micro:bit. 
 
 ![](./images/microbit-Smart-Health-Kit-case-02-07.png)
@@ -53,11 +54,6 @@ Judge if the variable is over 5, if yes, set the servo connecting to P2 to drive
 
 ![](./images/microbit-Smart-Health-Kit-case-02-08.png)
 
-
-
-
-
-
 Link: [https://makecode.microbit.org/_exdb9fFJjeuj](https://makecode.microbit.org/_exdb9fFJjeuj)
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
@@ -65,10 +61,7 @@ Link: [https://makecode.microbit.org/_exdb9fFJjeuj](https://makecode.microbit.or
 </iframe>
 </div>  
 
-
 ## Result
 ---
 - If the intensity of the UV light is strong, program to lift the parasol. 
-
-
 
