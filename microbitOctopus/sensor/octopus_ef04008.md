@@ -1,9 +1,7 @@
-# Octopus Sound Sensor 
+# Octopus Sound Sensor(EF04008) 
 
 ## Introduction
 ---
-
-
 - OCTOPUS Sound Sensor is a sensor module based on MIC sound sensing element. Sound Sensor is particularly sensitive to sound intensity,and it can be used to detect ambient sound level, but it can not identify the size of sound and the specific sound frequencies. It is available to make voice switches and other works.
 
  ![](./images/RYuGvVY.jpg)
@@ -15,6 +13,7 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04008
@@ -62,7 +61,7 @@ Links:https://makecode.microbit.org/_TzgHwu4jUAdy
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_TzgHwu4jUAdy" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The value of the current noise(dB) is shown on the micro:bit. 
