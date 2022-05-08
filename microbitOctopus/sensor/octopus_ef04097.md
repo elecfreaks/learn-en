@@ -1,8 +1,7 @@
-# Octopus Analog Capacitive Soil Moisture Sensor
+# Octopus Analog Capacitive Soil Moisture Sensor(EF04097)
 
 ## Introduction
 ---
-
 Octopus Analog Capacitive Soil Moisture Sensor is the soil moisture electric brick in our Octopus series, the basic design is from the Octopus electric bricks and the setting of its outlook, the PCB fixing hole and the connectors are the same. 
 
 Adopted the capacitive sensing principle to detect the soil moisture, it perfectly avoids the problem of easy to be corroded of the resistive transducer and greatly extends its service time.
@@ -26,7 +25,6 @@ Adopted the capacitive sensing principle to detect the soil moisture, it perfect
 
 ### Dimensions and Outlook
 
----
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04097_01.png)
 
 ## Quick to Start  
@@ -54,3 +52,4 @@ You can also download it directly:
 The value of the soil moisture is showing on the micro:bit. 
 
 ## FAQ
+---
