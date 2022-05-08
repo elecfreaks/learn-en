@@ -1,18 +1,17 @@
-# MQ3 Gas Sensor
+# MQ3 Gas Sensor(EF05032)
 
 ## Introduction
+---
 The MQ3 Gas sensor is tin dioxide (SnO2), which has a low conductivity in clean air. While the sensor being put in an environment that exists the alcohol vapor, the electrical conductivity of the sensor increases as the concentration of alcohol gas in the air increases.
 
 ![](./images/05032_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -23,10 +22,6 @@ Type of Connection|Analog output
 Working Voltage|3.3V
 
 
-
-
-
-
 ## Outlook
 ---
 
@@ -34,22 +29,18 @@ Working Voltage|3.3V
 ![](./images/05032_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the MQ3 Gas sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05032_03.png)
 
-Note: A preheating for 3 minutes after powering on is required before using.
+***Note:*** A preheating for 3 minutes after powering on is required before using.
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -77,13 +68,12 @@ Link: [https://makecode.microbit.org/_A0b2Ri6Lp4aD](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_A0b2Ri6Lp4aD" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The value detected from MQ3 Gas sensor displays on the OLED screen.
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -116,10 +106,9 @@ while True:
 
 ### Result
 - The value detected from MQ3 Gas sensor displays on the micro:bit.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
