@@ -1,18 +1,17 @@
-# PM2.5 Module
+# PM2.5 Module(EF05028)
 
 ## Introduction
+---
 PM2.5 module is able to test the PM2.5 concentration in the current environment. Based on ZH03 laser dust sensors, it is able to test the dust particle in the air. 
 
 ![](./images/05028_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -23,10 +22,6 @@ Type of Connection|Digital output
 Working Voltage|3.3V
 
 
-
-
-
-
 ## Outlook
 ---
 
@@ -34,12 +29,9 @@ Working Voltage|3.3V
 ![](./images/05028_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the PM2.5 sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
@@ -47,7 +39,6 @@ Working Voltage|3.3V
 ![](./images/05028_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -60,7 +51,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -75,13 +66,12 @@ Link: [https://makecode.microbit.org/_Mvxdh2ER4JdF](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Mvxdh2ER4JdF" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The value detected from the PM2.5 module display on the OLED screen.
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -117,10 +107,9 @@ while True:
 
 ### Result
 - The value detected from the PM2.5 module display on the micro:bit.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
