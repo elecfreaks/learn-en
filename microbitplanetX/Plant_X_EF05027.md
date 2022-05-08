@@ -1,18 +1,17 @@
-# Dust Sensor Detector Module
+# Dust Sensor Detector Module(EF05027)
 
 ## Introduction
+---
 The Dust Sensor Detector Module with Sharp GP2Y1010AU0F adopts Sharp optical dust sensor(GP2Y1010AU0F). It is used to detect the density of dust particle with diameter beyond 0.8μm such as cigarette smoke.
 
 ![](./images/05027_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -25,9 +24,6 @@ Sensitivity|0.5V /（100μg/ m3）
 Effective Scope|500μg/ m3
 
 
-
-
-
 ## Outlook
 ---
 
@@ -35,12 +31,9 @@ Effective Scope|500μg/ m3
 ![](./images/05027_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Dust sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
@@ -48,7 +41,6 @@ Effective Scope|500μg/ m3
 ![](./images/05027_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -61,7 +53,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -76,13 +68,12 @@ Link: [https://makecode.microbit.org/_WupJoaVVEdUL](https://makecode.microbit.or
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WupJoaVVEdUL" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The value detected by the Dust Sensor displays on the OLED screen.
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -115,12 +106,11 @@ while True:
 ```
 
 
-### 结果
+### Result
 - The value detected by the Dust Sensor displays on the micro:bit.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
