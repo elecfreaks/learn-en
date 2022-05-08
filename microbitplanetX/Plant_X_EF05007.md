@@ -1,6 +1,7 @@
-# Sonar:bit
+# Sonar:bit(EF05007)
 
 ## Introduction
+---
 Sonar:bit aims to measure the shortly distance. 
 
 ![](./images/05007_01.png)
@@ -8,6 +9,7 @@ Sonar:bit aims to measure the shortly distance.
 ## Characteristic
 ---
 - Designed in RJ11 connections, easy to plug.
+
 ## Specification
 ---
 
@@ -19,10 +21,6 @@ Type of Connection|Digital output
 Working Voltage|3.3V
 
 
-
-
-
-
 ## Outlook
 ---
 
@@ -30,12 +28,9 @@ Working Voltage|3.3V
 ![](./images/05007_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Sonar:bit to J1 port and the OLED module to the IIC port in the Nezha expansion board as the picture shows. 
 
@@ -43,7 +38,6 @@ Working Voltage|3.3V
 ![](./images/05007_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -56,7 +50,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -71,13 +65,12 @@ Link: [https://makecode.microbit.org/_YbDY1RJUEDp6](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YbDY1RJUEDp6" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The distance value displays on the OLED module.
 
 ## Python Programming 
-
 ---
 
 
@@ -113,10 +106,9 @@ while True:
 
 ### Result
 - The detected distance displays on the micro:bit.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
