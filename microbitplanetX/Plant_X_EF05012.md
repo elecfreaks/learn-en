@@ -1,19 +1,17 @@
-# Yellow LED
+# Yellow LED(EF05012)
 
 ## Introduction
-
+---
 Yellow LED is usually used as the indicator. 
 
 ![](./images/05012_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 |        Item        |   Parameter    |
@@ -25,19 +23,15 @@ Yellow LED is usually used as the indicator.
 |        Size        | 55.8 x 23.8 mm |
 
 ## Outlook
-
 ---
 
 
 ![](./images/05012_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Yellow LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
 
@@ -45,7 +39,6 @@ Yellow LED is usually used as the indicator.
 ![](./images/05012_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -58,7 +51,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -73,14 +66,12 @@ Link: [https://makecode.microbit.org/_eTHcUiPhjLpz](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_eTHcUiPhjLpz" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ### Result
 
 - The brightness is adjusted by the potentiometer. 
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -121,10 +112,8 @@ while True:
 - LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
 
 ## Relevant File
-
 ---
 
 ## Technique File
-
 ---
 
