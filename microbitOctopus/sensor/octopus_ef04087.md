@@ -1,4 +1,4 @@
-# BME280 Air Pressure Sensor 
+# BME280 Air Pressure Sensor(EF04087) 
 
 ## Introduction
 ---
@@ -10,8 +10,10 @@ Octopus BME280 Pressure Sensor is an electric brick integrating temperature sens
 - 3mm standard positioning hole.
 - 3.3v power supply
 - Support I2C and SPI protocol.
+- 
 ## Parameter
 ---
+
 Item | Parameter 
 :-: | :-: 
 Name|Octopus BME280 Pressure Sensor
@@ -64,3 +66,4 @@ You can also download the links below:
 The air pressure value is scrolling on the micro:bit, the unit is MPa.
 
 ## FAQ
+---
