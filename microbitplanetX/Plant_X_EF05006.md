@@ -1,4 +1,4 @@
-# Color Sensor
+# Color Sensor(EF05006)
 
 ## Introduction
 ---
