@@ -27,7 +27,6 @@ Connect the PIR sensor to P1 and the rainbow LED to P2 on sensor:bit.
 ![](./images/microbit-Smart-Health-Kit-case-09-03.png)
 
 ## Software Programming 
-
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
@@ -41,7 +40,6 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
-
 ---
 Initialize the strip connecting to P2 with 1 led. 
 
@@ -58,8 +56,6 @@ Detect if there is anyone sitting in the chair, if yes, set the variable "new_ti
 If the value given by the variable  "new_time"  deducting the variable "time" is over 60000, it means the one has sitted in the chair for more than 1 minute, then program to light on the rainbow LED. 
 
 ![](./images/microbit-Smart-Health-Kit-case-09-10.png)
-
-
 
 
 Link: [https://makecode.microbit.org/_XefWfY0eaEzT](https://makecode.microbit.org/_XefWfY0eaEzT)
