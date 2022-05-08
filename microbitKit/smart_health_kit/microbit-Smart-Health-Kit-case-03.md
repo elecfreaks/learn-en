@@ -27,7 +27,6 @@ Connect the DHT11 sensor to P1,  the motor fan to P2 and the OLED to IIC on sens
 ![](./images/microbit-Smart-Health-Kit-case-03-03.png)
 
 ## Software Programming 
-
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
@@ -43,7 +42,6 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
-
 ---
 Initialize the OLED display. 
 
