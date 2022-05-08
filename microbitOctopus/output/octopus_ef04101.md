@@ -1,4 +1,4 @@
-# Octopus EL Driver Module
+# Octopus EL Driver Module(EF04101)
 
 ## Introduction
 ---
@@ -66,5 +66,5 @@ Press button A to light on and button B to light off the EL.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitOctopus/output/images/04101_05.jpg)
 
 ## Relevant Files
-
+---
 [https://www.elecfreaks.com/store/catalogsearch/result/?q=Neon+Light](https://www.elecfreaks.com/store/catalogsearch/result/?q=Neon+Light)
