@@ -1,4 +1,4 @@
-# Octopus Magnetic Switch
+# Octopus Magnetic Switch(EF04075)
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@ OCTOPUS Magnetic Switch is a simple electric brick module with magnetic control 
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04075
@@ -28,7 +29,7 @@ Size|23.48mm×31.28mm
  ![](./images/9AZBMTT.png)
 
 ## Quick to Start
-
+---
 ### Materials used and connection diagram
 
 - Connect to the P0 port 
@@ -49,15 +50,13 @@ Links:[https://makecode.microbit.org/_9qEAW758A6Cm](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9qEAW758A6Cm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - When there is magnet approaching, a rectangle is showing on the micro:bit; Or an icon is showing on the micro:bit.
 
 ## Relevant Cases
-
-------
+---
 
 ## Technique Files
-
 ---
