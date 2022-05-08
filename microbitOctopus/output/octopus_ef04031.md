@@ -1,4 +1,4 @@
-# Octopus Passive buzzer Brick OBPB01
+# Octopus Passive buzzer Brick OBPB01(EF04031)
 
 ## Introduction
 ---
@@ -13,6 +13,7 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04031
@@ -40,7 +41,7 @@ Stability|Stable and durable
  ![](./images/wqD4VuO.png)
 
 ### Program as the picture shows
----
+
 - Playing a melody when power is on.
 
  ![](./images/KjnioxB.png)
@@ -52,7 +53,7 @@ Links: [https://makecode.microbit.org/_Yew55FJateYP](https://makecode.microbit.o
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Yew55FJateYP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The buzzer is playing a melody when power is on.
