@@ -1,8 +1,7 @@
-# Octopus 5mm LED Brick OBLED - Blue
+# Octopus 5mm LED Brick OBLED - Blue(EF04036)
 
 ## Introduction
-
-
+---
 - Octopus 5mm LED light Brick can be used in the interaction with the light works.
 
  ![](./images/Raj46TF.jpg)
@@ -13,11 +12,13 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 Power Dissipation|ULP
 Working Temperature|-20-70℃
 Working Voltage|3.3-5V
+
 ## Outlook and Dimensions
 ---
 
@@ -47,7 +48,7 @@ Links: [https://makecode.microbit.org/_KtyY18CKtAb5](https://makecode.microbit.o
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_KtyY18CKtAb5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The LED lights on each second while the power is on.
