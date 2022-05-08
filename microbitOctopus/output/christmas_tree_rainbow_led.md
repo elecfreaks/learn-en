@@ -1,4 +1,4 @@
-# Christmas Tree Rainbow LED for micro:bit
+# Christmas Tree Rainbow LED for micro:bit(EF03420)
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@
 
 ## Parameters
 ---
+
 |Items|Parameters|
 |:-:|:-:|
 |Name|Christmas Tree Rainbow LED|
@@ -23,6 +24,7 @@
 
 ## Quick Start  
 ---
+
 ### Preparation
 - 1 x Chritmas Tree Rainbow LED
 - 3 x crocodile clip lines（Please prepare by yourself）
