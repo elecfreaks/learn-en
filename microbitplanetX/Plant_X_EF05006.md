@@ -1,6 +1,7 @@
 # Color Sensor
 
 ## Introduction
+---
 Color sensor aims to read the HUE values of the detected objects.  
 
 ![](./images/05006_01.png)
@@ -8,6 +9,7 @@ Color sensor aims to read the HUE values of the detected objects.
 ## Characteristic
 ---
 - Designed in RJ11 connections, easy to plug.
+
 ## Specification
 ---
 
@@ -19,10 +21,6 @@ Type of Connection|IIC
 Working Voltage|3.3V
 Size|55.8 x 23.8 mm
 
-
-
-
-
 ## Outlook
 ---
 
@@ -30,12 +28,9 @@ Size|55.8 x 23.8 mm
 ![](./images/05006_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Color sensor to IIC port and the OLED module to another IIC port in the Nezha expansion board as the picture shows. 
 
@@ -43,7 +38,6 @@ Size|55.8 x 23.8 mm
 ![](./images/05006_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -56,7 +50,8 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+
 ### Step 2
 
 ### Code as below:
@@ -70,7 +65,7 @@ Link: [https://makecode.microbit.org/_1559o4XKEftb](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_1559o4XKEftb" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The color of the detected object displays on the OLED module.
@@ -105,10 +100,9 @@ while True:
 
 ### Result
 - The HUE value displays on the micro:bit.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
