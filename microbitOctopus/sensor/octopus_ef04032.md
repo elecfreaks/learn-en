@@ -1,4 +1,4 @@
-# Octopus Analog Photocell Brick OBPhotocell 
+# Octopus Analog Photocell Brick OBPhotocell(EF04032) 
 
 ## Introduction
 ---
@@ -7,8 +7,7 @@ Photocells are sensors that allow you to detect light. They are small, inexpensi
  ![](./images/sCid5Hu.jpg)
 
 ## Characteristics
-
-
+---
 - Photocells are basically a resistor that changes its resistive value (in ohms Ω) 
 - They have a low cost which is also friendly to the environment.
 - Each photocell sensor will act a little differently than the other, even if they are from the same batch.
@@ -17,6 +16,7 @@ Photocells are sensors that allow you to detect light. They are small, inexpensi
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04032
@@ -44,7 +44,7 @@ Stability|Stable and durable
  ![](./images/XwQieks.png)
 
 ### Program as the picture shows
----
+
  ![](./images/4oRJ1Ub.png)
 
 ### Reference
@@ -54,7 +54,7 @@ Links: https://makecode.microbit.org/_XsgKbLhb54MP](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_XsgKbLhb54MP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - While the light intensity is over 700, an icon is showing on the micro:bit; or a rectangle is showing on the micro:bit.
