@@ -1,4 +1,4 @@
-# OCTOPUS 1Channel Relay - 5V
+# OCTOPUS 1Channel Relay - 5V(EF04026)
 
 ##  Introduction
 ---
@@ -13,6 +13,7 @@ OCTOPUS 1Channel Relay is a single relay electronic brick.
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04026
@@ -32,7 +33,7 @@ PCB location hole|Standard 3mm
 ---
 
 ### Materials used and connection diagram
----
+
 - Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
@@ -40,19 +41,18 @@ PCB location hole|Standard 3mm
  ![](./images/xcHn45y.png)
 
 ### Program as the picture shows
----
+
 
  ![](./images/hXlcnvg.png)
 
 ### Reference
----
 
 Links: [https://makecode.microbit.org/_5fRVFCVFUJmE](https://makecode.microbit.org/_5fRVFCVFUJmE)
 
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_5fRVFCVFUJmE" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Press the button A or B to control the on or off of the relay.
