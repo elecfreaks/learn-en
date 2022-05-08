@@ -6,6 +6,8 @@
 Power:bit button cell board is a micro expansion board in the smallest size equipped  with a buzzer. It can not only supply power to the board but is also equipped with P1, P2,GND and 3V ports by the row needles, which can be used with our acrylic watch straps and boards.
 
 ## Speciality 
+---
+
 - Power is supplied by two 3V CR2025 lithium cells.
 - It is equipped with a buzzer, and is controlled with P0 port. 
 - P1, P2, 3V, and GND pins are led by row needles.
@@ -27,6 +29,8 @@ Power:bit button cell board is a micro expansion board in the smallest size equi
 ### Exterior dimension
 ![](./images/BQCpLVu.png)
 ## Diagram for Pins
+---
+
 ![](./images/ONnPnR7.png)
 
 ## Introduction to main function modules  
@@ -77,3 +81,5 @@ You can also download directly from below:
 Icon is shown on the micro:bit.
 
 ## FAQ
+---
+
