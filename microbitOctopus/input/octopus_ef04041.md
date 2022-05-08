@@ -1,4 +1,4 @@
-# Octopus Analog Rotation Brick OBARot
+# Octopus Analog Rotation Brick OBARot(EF04041)
 
 ## Introduction
 ---
@@ -9,8 +9,10 @@ Octopus Analog Rotation Brick is micro:bit compatible and can be rotated up to 3
 ## Characteristics
 ---
 - The 3-pins ports is easy to plug and play.
+
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|04041
@@ -51,7 +53,7 @@ Links:[https://makecode.microbit.org/_2hr1UMdcp0uj](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2hr1UMdcp0uj" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Rotate the button on the sensor clock-wisely, then the led on the micro:bit lights on gradually; Oppositely, the led lights off one by one.
