@@ -1,14 +1,12 @@
-# 8x16 matrix module
+# 8x16 matrix module(EF03418)
 
 ##  Introduction
-
-------
+---
 
 8 x 16 matrix module is a kind of 8 x 16 matrix screen that can display numbers, commonly used letters and symbols with scrolling-displaying function. It adopts IIC bus protocol and makes it easy to connect and operate.
 
 ## Characteristic
-
-------
+---
 
 - The matrix module is of high luminance, low consumption and good quality.
 - It has original outlook with silk print design.
@@ -16,8 +14,7 @@
 - It has three user-defined hardware address bit .
 
 ## Parameter
-
-------
+---
 
 | Item               | Parameter          |
 | ------------------ | ------------------ |
@@ -34,12 +31,11 @@
 [![img](https://camo.githubusercontent.com/6c755db5c526672fcc67b12653d60c2e12f2993c/68747470733a2f2f692e696d6775722e636f6d2f45434d357747562e706e67)](https://camo.githubusercontent.com/6c755db5c526672fcc67b12653d60c2e12f2993c/68747470733a2f2f692e696d6775722e636f6d2f45434d357747562e706e67)
 
 ## Connector Diagram for Pins
-
+---
 [![img](https://camo.githubusercontent.com/5c37fab4d068c788cee54ac92dceed27608f4653/68747470733a2f2f692e696d6775722e636f6d2f6c467a6d5531442e706e67)](https://camo.githubusercontent.com/5c37fab4d068c788cee54ac92dceed27608f4653/68747470733a2f2f692e696d6775722e636f6d2f6c467a6d5531442e706e67)
 
 ## Introduction to Main Function Modules
-
-------
+---
 
 ###  8x16 matrix
 
@@ -54,8 +50,7 @@ Each LED can be turned on or off separately to display numbers, commonly used le
 It communicates with SCM through 12C communication mode.
 
 ## Quick to Start
-
-------
+---
 
 ### Hardware Connection
 
@@ -76,3 +71,4 @@ You can also download it directly:
 The scroll-displaying begins from top to bottom and then from left to right on the 8x16 matrix module.
 
 ## FAQ
+---
