@@ -1,4 +1,4 @@
-# Octopus PIR Sensor Brick
+# Octopus PIR Sensor Brick(EF04055)
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@ OCTOPUS PIR Sensor module is a type of electronic building block based on AM412 
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04055
@@ -58,7 +59,7 @@ Links:[https://makecode.microbit.org/_esoRoUPzUAhf](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_esoRoUPzUAhf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - If there is object approaching, an icon is showing on the micro:bit; while taking away the object, a rectangle is showing on the micro:bit.
