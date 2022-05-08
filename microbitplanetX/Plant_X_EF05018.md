@@ -1,18 +1,17 @@
-# Analog Rotation Potentiometer
+# Analog Rotation Potentiometer(EF05018)
 
 ## Introduction
+---
 Analog Rotation Potentiometer can be rotated up to 300 degrees and the analog read value scope is 0~1023.
 
 ![](./images/05018_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -22,11 +21,6 @@ Connection|RJ11
 Type of Connection|Analog output
 Working Voltage|3.3V
 
-
-
-
-
-
 ## Outlook
 ---
 
@@ -34,12 +28,9 @@ Working Voltage|3.3V
 ![](./images/05018_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Analog Rotation Potentiometer to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows.
 
@@ -47,7 +38,6 @@ Working Voltage|3.3V
 ![](./images/05018_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -60,7 +50,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -75,13 +65,12 @@ Link: [https://makecode.microbit.org/_0Ff9eMJT2Y5F](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0Ff9eMJT2Y5F" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The detected value displays on the OLED screen. 
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -115,10 +104,9 @@ while True:
 
 ### Result
 - The detected value of the Analog Rotation Potentiometer displays on the micro:bit. 
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
