@@ -20,16 +20,11 @@
 ![](./images/microbit-Smart-Health-Kit-case-01-02.png)
 
 
-
 ## Software Programming 
-
 ---
 
 
-
-
 ## Program 
-
 ---
 Judge if micro:bit is in "logo up", if yes, program to display a smile face. 
 
@@ -38,9 +33,6 @@ Judge if micro:bit is in "logo up", if yes, program to display a smile face.
 If the micro:bit displays a sad face, program to start melody for reminding. 
 
 ![](./images/microbit-Smart-Health-Kit-case-10-08.png)
-
-
-
 
 
 Link: [https://makecode.microbit.org/_Mws2cyWm6RFg](https://makecode.microbit.org/_Mws2cyWm6RFg)
