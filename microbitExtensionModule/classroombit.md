@@ -63,6 +63,7 @@ Connect the micro:bit with this breakout board.
 ### Program
 The noisr sensor on this board requires to be drived with the extensions seach with "smarthome" in the makecode and add it.   
 ![](./images/classroombit-10.png)
+
 ***Note:*** If you met a notice saying the codebase will be deleted due to incompatibility, you can go forward as the tips say or to create a new project. 
 
 Program  
