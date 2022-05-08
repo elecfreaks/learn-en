@@ -1,4 +1,4 @@
-# Motor:bit
+# Motor:bit(EF03406)
 
 ## Introduction
 ---
