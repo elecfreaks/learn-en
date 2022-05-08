@@ -1,4 +1,4 @@
-# Octopus 2 Channel Tracking Module 
+# Octopus 2 Channel Tracking Module(EF04088) 
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@ Octopus 2 Channel Tracking Module has integrated two groups of reflective infrar
 
 ## Parameter
 ---
+
 Item | Parameter 
 :-: | :-: 
 Name|Octopus 2 Channel Tracking Module
