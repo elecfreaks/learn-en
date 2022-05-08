@@ -1,4 +1,4 @@
-# Octopus Single RGB Rainbow LED
+# Octopus Single RGB Rainbow LED(EF04091)
 
 ## Introduction
 ---
@@ -15,6 +15,7 @@ Octopus Single RGB Rainbow LED is one of the single rainbow LED electronic brick
 
 ## Parameter
 ---
+
 Item | Parameter 
 :-: | :-: 
 Name|Octopus Single RGB Rainbow LED
@@ -30,13 +31,14 @@ NW|2.4g
 ![](./images/w5nulIo.png)
 
 ## Quick Start
-**Hardware Connection**  
+---
+### Hardware Connection
 
 Connection note: Connect this to the P1 port in OCTOPUS:BIT, and insert the micro:bit into it.
 
 ![](./images/AGdJhsV.png)
 
-### **Software Programming**
+### Software Programming
 Click "Advanced"in the choice of the MakeCode to find more choices.
 
 ![](./images/LjMR5IU.png)
@@ -56,3 +58,4 @@ You can also download the links below:
 The led begins with white light and then the color begins to change gradually with the shaking of the micro:bit.
 
 ## FAQ
+---
