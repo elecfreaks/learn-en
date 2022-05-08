@@ -1,18 +1,17 @@
-# Rainbow LED Ring
+# Rainbow LED Ring(EF05015)
 
 ## Introduction 
- Rainbow LED Ring is based on WS2812B bead that can show the RGB. 
+---
+Rainbow LED Ring is based on WS2812B bead that can show the RGB. 
 
 ![](./images/05015_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -24,10 +23,6 @@ Working Voltage|3.3V
 Core IC|WS2812 3535 Encapsulation
 Number of Pixels|8
 
-
-
-
-
 ## Outlook
 ---
 
@@ -35,12 +30,9 @@ Number of Pixels|8
 ![](./images/05015_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Rainbow LED ring to J1 port in the Nezha expansion board as the picture shows.
 
@@ -48,7 +40,6 @@ Number of Pixels|8
 ![](./images/05015_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -61,7 +52,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -76,13 +67,12 @@ Link: [https://makecode.microbit.org/_AU7FyLCLFTMY](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AU7FyLCLFTMY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Rainbow LED ring lights on. 
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -113,10 +103,9 @@ while True:
 
 ### Result
 - Rainbow LED ring lights on after powering on. 
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
