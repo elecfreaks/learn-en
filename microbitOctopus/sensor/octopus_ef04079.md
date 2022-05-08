@@ -1,4 +1,4 @@
-# Octopus Temperature Sensor Brick TMP36
+# Octopus Temperature Sensor Brick TMP36(EF04079)
 
 ## Introduction
 ---
@@ -6,15 +6,14 @@ Octopus TMP36 Temperature Sensor Brick is a temperature sensor with low voltage 
 
  ![](./images/zqYYROQ.jpg)
 
-- ## Characteristics
-
-  ------
-
-  The 3-pins ports is easy to plug and play.
-
-  ## Specifications
-
+## Characteristics
 ---
+
+The 3-pins ports is easy to plug and play.
+
+## Specifications
+---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04079
@@ -33,8 +32,7 @@ Turn Off Current|Max 0.5μA
  ![](./images/e5NlyhB.png)
 
 ## Quick to Start
-
-------
+---
 
 ### Materials used and connection diagram
 
@@ -62,21 +60,19 @@ Click "Extensions", search "iot"in the dialog box and then download it.
  ![](./images/PvPxhtr.png)
 
 ### Reference
----
+
 Links:[https://makecode.microbit.org/_URRdVrPFX68R](https://makecode.microbit.org/_URRdVrPFX68R)
 
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_URRdVrPFX68R" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The current temperature is showing on the micro:bit.
 
 ## Relevant Cases
-
-------
+---
 
 ## Technique Files
-
---
+---
