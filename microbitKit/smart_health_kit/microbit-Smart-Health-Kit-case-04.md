@@ -26,7 +26,6 @@ Connect the alcohol sensor to PI, the rainbow LED to P2, the crash sensor to P9 
 ![](./images/microbit-Smart-Health-Kit-case-04-03.png)
 
 ## Software Programming 
-
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
@@ -44,7 +43,6 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
-
 ---
 Drag the "on start" block from the drawer, set the crash sensor to connect to P9, initialize the OLED display and set the strip to connect to P2 with 1 led.  
 
