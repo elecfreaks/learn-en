@@ -49,6 +49,7 @@ Drag the "on start" block from the drawer, set the crash sensor to connect to P9
 ![](./images/microbit-Smart-Health-Kit-case-04-07.png)
 
 While the crash sensor is pressed, save the returned value from the alcohol sensor connecting to P1 as the variable "i" and display it on the OLED screen. 
+
 ![](./images/microbit-Smart-Health-Kit-case-04-08.png)
 
 Judge the value of the variable "i", if it's over 50, set the rainbow LED to light on in red; or set it to light on in green. 
