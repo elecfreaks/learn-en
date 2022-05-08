@@ -1,15 +1,13 @@
 # Case 05: Find the Bigger Face
 
 ## Purpose
+---
 To make the AI Lens be able to recognize the face and display the width of the face on the OLED module. 
 
 ![](./images/05035_01.png)
 
-
----
-
 ### Materials Required and Connection Diagram
----
+
 
 - Connect the AI Lens and the OLED display to the IIC ports on Nezha expansion board.
 
@@ -19,7 +17,6 @@ To make the AI Lens be able to recognize the face and display the width of the f
 
 
 ## MakeCode Programming 
-
 ---
 
 ### Step 1
@@ -47,7 +44,7 @@ Link: [https://makecode.microbit.org/_RF01zfeA2VkW](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RF01zfeA2VkW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The width of the regcognized face displays on the OLED module.
