@@ -162,8 +162,8 @@ You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4eoUoJLffWsf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
-### 现象
----
+### Phenomenon
+
 -  Connect WIFI after powering on
 - In the forever brick, judge if WIFI is successfully connected, if yes, it displays a big heart icon; or it keeps trying. 
 - In the forever brick, judge if KidsIoT is successfully connected, if yes, it displays a small heart icon; or it keeps trying. 
