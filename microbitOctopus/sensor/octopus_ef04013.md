@@ -1,4 +1,4 @@
-# Octopus Crash Sensor Brick
+# Octopus Crash Sensor Brick(EF04013)
 
 ## Introduction
 ---
@@ -15,6 +15,7 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04013
@@ -53,10 +54,10 @@ Links: https://makecode.microbit.org/_WMwRtRXFe2tw
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WMwRtRXFe2tw" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
----
+
 
 
 When the sensor is pressed, a rectangle is showing on the micro:bit; while released, an icon is showing on the micro:bit.
