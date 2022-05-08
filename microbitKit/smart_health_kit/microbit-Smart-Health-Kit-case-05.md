@@ -50,9 +50,13 @@ Notice: If you met a tip indicating that some codebases would be deleted due to 
 Connect the soil moisture sensor to P1 and save the returned value as the variable "soil_moisture".
 
 ![](./images/microbit-Smart-Health-Kit-case-05-07.png)
+
 Judge if the variable "soil_moisture" is below 50. 
+
 ![](./images/microbit-Smart-Health-Kit-case-05-08.png)
+
 If yes, it means the soil moisture value is too low, program to drive the servo connecting to P2 to drive to 90° to open the water valve for watering; or set the servo to drive to 0° to close the valve. 
+
 ![](./images/microbit-Smart-Health-Kit-case-05-09.png)
 
 
