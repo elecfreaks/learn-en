@@ -1,4 +1,4 @@
-# Octopus:bit
+# Octopus:bit(EF03405)
 
 ## Introduction
 ---
