@@ -1,9 +1,7 @@
-# Octopus Photo Interrupter Sensor 
+# Octopus Photo Interrupter Sensor(EF04012) 
 
 ## Introduction
 ---
-
-
 - Photo Interrupter Sensor is a sensor module based on ITR9608 photoelectric switch that can be used with micro:bit.
 
    ![](./images/xxZhvK9.jpg)
@@ -15,6 +13,7 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04012
@@ -52,7 +51,7 @@ Links: https://makecode.microbit.org/_VcJWCh4hw97j
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_VcJWCh4hw97j" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The on start micro:bit shows number 0, the counting system would add one each time when objects are put on the Optoelectronic switch.
