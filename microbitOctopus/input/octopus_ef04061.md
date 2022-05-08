@@ -1,4 +1,4 @@
-# Octopus Linear Slider Potentiometer Brick
+# Octopus Linear Slider Potentiometer Brick(EF04061)
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@ OCTOPUS Potentiometer is a simple linear sliding potentiometer electronic buildi
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04061
@@ -26,6 +27,7 @@ Size|51mm X 13.95mm
  ![](./images/dLwyWxY.jpg)
 
 ## Quick to Start
+---
 ### Materials used and connection diagram
 
 - Connect out port to the P1 port and the led port to P2 port as the picture shows
@@ -45,13 +47,13 @@ Size|51mm X 13.95mm
  ![](./images/Q7yiG9T.png)
 
 ### Reference
----
+
 Links:[https://makecode.microbit.org/_19baPjHKcJMT](https://makecode.microbit.org/_19baPjHKcJMT)
 
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_19baPjHKcJMT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 As the resistance is changed by sliding, the resistance of the corresponding band 0-1023 is displayed on the  micro:bit, and the LED on the module is illuminated at the same time.
