@@ -1,4 +1,4 @@
-# Sensor:bit
+# Sensor:bit(EF03415)
 
 ## Introduction
 ---
