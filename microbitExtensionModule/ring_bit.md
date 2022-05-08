@@ -1,4 +1,4 @@
-# Ring:bit v1.0
+# Ring:bit v1.0(EF03423)
 
 ## Introduction  
 ---  
