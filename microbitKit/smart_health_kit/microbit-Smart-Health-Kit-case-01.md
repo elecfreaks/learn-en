@@ -27,7 +27,6 @@ Connect the PIR sensor to P1 and the servo to P2 on sensor:bit.
 ![](./images/microbit-Smart-Health-Kit-case-01-03.png)
 
 ## Software Programming 
-
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
@@ -45,14 +44,10 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
-
 ---
 Judge the detected motion of  variable "IR", if yes, set to show "√" and the servo to drive to 0° to open the water valve; or set to show "x" and to drive to 180° to close the water valve. 
 
 ![](./images/microbit-Smart-Health-Kit-case-01-07.png)
-
-
-
 
 Link: [https://makecode.microbit.org/_KuhhtHVds1EH](https://makecode.microbit.org/_KuhhtHVds1EH)
 
