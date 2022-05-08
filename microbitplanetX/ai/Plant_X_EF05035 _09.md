@@ -1,16 +1,14 @@
 # Case 09: Control the Car with an Indicator 
 
 ## Purpose
+---
 Build a car with the bricks and control it with the AI Lens via the indicators. 
 
 ![](./images/05035_01.png)
 
 
-
----
-
 ### Materials Required and Connection Diagram
----
+
 
 - Connect the AI Lens to the IIC port and the two motors on M1,M4 ports on the Nezha expansion board as the picture shows. 
 
@@ -29,14 +27,7 @@ Build a car with the bricks and control it with the AI Lens via the indicators.
 
 ![](./images/05035_09_05.png)
 
-
-
-
-
-
-
 ## MakeCode Programming 
-
 ---
 
 ### Step 1
@@ -54,7 +45,7 @@ Then search with “nezha” to download this extension.
 
 ![](./images/05035_09_06.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -88,7 +79,7 @@ Link：[https://makecode.microbit.org/_09hHUgWMeY2o](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_09hHUgWMeY2o" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Drive the car and make it move with the instructions.
