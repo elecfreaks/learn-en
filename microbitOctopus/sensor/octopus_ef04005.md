@@ -1,4 +1,4 @@
-# Octopus Real-time Clock
+# Octopus Real-time Clock(EF04005)
 
 ## Introduction
 ---
@@ -17,6 +17,7 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04005
@@ -42,14 +43,10 @@ Take sensor:bit for example
  ![](./images/WrOpBWb.png)
 
 ### Add Package
----
-
 
 - Click "Advanced"in the choice of the MakeCode to find more choices.
 
  ![](./images/smtcNoB.png)
-
-
 
 - Click "Extensions", search "iot"in the dialog box and then download it.
 
@@ -57,27 +54,22 @@ Take sensor:bit for example
 
  ![](./images/pVEXZaA.png)
 
-### 
-
-Program as the picture shows
-
----
-
+### Program as the picture shows
 
 - Set the number of second as "10" on start to show the second each minute.
 
  ![](./images/pOLA97P.png)
 
 ### Reference
+
 [https://makecode.microbit.org/_4AgTERW0qXRt](https://makecode.microbit.org/_4AgTERW0qXRt)
 
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4AgTERW0qXRt" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
-
 
 - The current number of second is shown on the micro:bit each minute.
 
