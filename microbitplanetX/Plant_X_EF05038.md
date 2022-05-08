@@ -1,18 +1,17 @@
-# MP3 Module
+# MP3 Module(EF05038)
 
 ## Introduction
+---
 It is able to play the music.
 
 ![](./images/05038_01.png)
 
 ## Characteristics
-
 ---
 
 - Designed with RJ11 ports and easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
@@ -22,9 +21,6 @@ Connection|RJ11
 Connection Type|Digital input
 Working Voltage|3.3V
 Core IC|YX6300
-
-
-
 
 
 ## Outlook and Dimension
@@ -38,7 +34,6 @@ Core IC|YX6300
 ---
 
 ### Materials Required and Connection Diagram
----
 
 - Connect the ASR module to the IIC port and the MP3 module to J1 port on Nezha expansion board. 
 
@@ -46,7 +41,6 @@ Core IC|YX6300
 ![](./images/05038_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -59,7 +53,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 ### Step 2
 ### Code as below
 
@@ -72,7 +66,7 @@ Link: [https://makecode.microbit.org/_6L7Mdji6t85Y](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6L7Mdji6t85Y" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The MP3 module is controlled by the ASR module. 
@@ -119,11 +113,10 @@ while True:
 
 ### Result
 - Press button A on the micro:bit to start playing the music; press button B to stop playing the music.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
 
