@@ -1,4 +1,4 @@
-# Octopus 3V laser sensor
+# Octopus 3V laser sensor(EF04096)
 
 ## Introduction
 ---
@@ -19,6 +19,7 @@ Notice: Please do not shine the eyes. The laser emits a red laser beam that usua
 
 ## Parameter 
 ---
+
 - Name: Octopus 3V laser sensor
 - SKU：EF04096
 - Working Voltage: DC 3~5.5V
@@ -60,3 +61,4 @@ You can also download it directly:
 The laser lights on.
 
 ## FAQ
+---
