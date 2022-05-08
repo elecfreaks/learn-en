@@ -1,6 +1,7 @@
-# IIC OLED Module
+# IIC OLED Module(EF03155)
 
 ## Introduction
+---
 - This is an OLED display to show the data you want to print.(Chinese is not supported)
 
  ![](./images/Xa4wAJ3.jpg)
@@ -17,6 +18,7 @@
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF03155
@@ -65,7 +67,6 @@ Take sensor:bit for example:
  ![](./images/IK3ue9u.png)
 
 ### Reference
----
 
 
 Links:https://makecode.microbit.org/_iEs0aXHMh011
@@ -73,7 +74,7 @@ Links:https://makecode.microbit.org/_iEs0aXHMh011
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_iEs0aXHMh011" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - "elecfreaks" is displayed on the screen.
