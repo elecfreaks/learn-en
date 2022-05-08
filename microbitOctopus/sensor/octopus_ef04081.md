@@ -1,4 +1,4 @@
-# Octopus Analog Noise Sound Sensor Detection Module 
+# Octopus Analog Noise Sound Sensor Detection Module(EF04081) 
 
 ## Introduction
 ---
@@ -6,14 +6,14 @@ Octopus Analog Noise Sound Sensor Detection Module  is particularly sensitive to
 
  ![](./images/hP4azP5.png)
 
-- ## Characteristics
+## Characteristics
+---
 
-  ------
-
-  The 3-pins ports is easy to plug and play.
+The 3-pins ports is easy to plug and play.
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04081
@@ -22,13 +22,11 @@ Sine Wave|Loud noise brings greater output sine wave
 
 
 ## Outlook and Dimensions
-
+---
  ![](./images/uPRIFLt.png)
 
 ## Quick to Start
-
-------
-
+---
 ### Materials used and connection diagram
 
 Connect to the P1 port 
@@ -53,14 +51,13 @@ Links:[https://makecode.microbit.org/_ebfHWPiUA0Tm](https://makecode.microbit.or
 ou can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ebfHWPiUA0Tm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The dB is showing on the micro:bit.
-## Relevant Cases
 
-------
+## Relevant Cases
+---
 
 ## Technique Files
-
 ---
