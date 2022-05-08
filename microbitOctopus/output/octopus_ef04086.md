@@ -1,4 +1,4 @@
-# 3V Relay Module
+# 3V Relay Module(EF04086)
 
 ## Introduction
 ---
@@ -6,7 +6,7 @@
 1 Channel Relay 3V Relay Module is one of OCTOPUS series of electric bricks. It is designed according to OCTOPUS electric brick series with same shape, PCB positioning holes and electric brick connectors. It has adopted a mini and high-quality HUIKE relay, which is available to control all kinds of home appliances and high current devices. This is a common accessory module for electronic DIY fans.
 
 ## Characteristics
-
+---
 
 - Equipped with a high current relay with max current can be up to 2A.
 - Adopt 3V power supply.
@@ -15,6 +15,7 @@
 
 ## Parameter
 ---
+
 Item | Parameter 
 :-: | :-: 
 Name|1 Channel Relay 3V Relay Module
@@ -53,3 +54,4 @@ You can also download the links below:
 The normally open contact is closed, while the normally closed contact is opened.
 
 ## FAQ
+---
