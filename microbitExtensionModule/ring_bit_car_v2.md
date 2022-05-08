@@ -17,22 +17,22 @@ The ELECFREAKS Ring:bit Car is a small DIY smart car driven by the BBC micro:bit
 
 |Components|Numbers|Pictures|
 |:-:|:-:|:-:|
-|micro:bit|Optional| ![](./images/qd2qCry.png) |
-|Ring:bit Expansion Board|1| ![](./images/y42umRI.jpg) |
-|Ring:bit Car Expansion Board|1| ![](./images/FISsc91.jpg) |
-|Ring:bit Car Front Board|1| ![](./images/fsGQx7H.png) |
-|Ring:bit Car Back Board|1| ![](./images/wy2UOVu.jpg) |
-|Ring:bit Car Base Board|1| ![](./images/XmJFP0l.jpg) |
-|Ring:bit Car Side Board|2| ![](./images/N8GdGB3.jpg) |
-|Ring:bit Car Wheel|2| ![](./images/HnkSTMd.jpg) |
-|Binding Post|1| ![](./images/7gvcsGF.jpg) |
-|360° Servo|2| ![](./images/U3XGnyB.jpg) |
-|Castor Wheel|1| ![](./images/Ky220DU.jpg) |
-|Screw|5| ![](./images/LqTtuBl.jpg) |
+|micro:bit|Optional| ![](https://www.elecfreaks.com/learn-en/_images/qd2qCry.png) |
+|Ring:bit Expansion Board|1| ![](https://www.elecfreaks.com/learn-en/_images/y42umRI.jpg) |
+|Ring:bit Car Expansion Board|1| ![](https://www.elecfreaks.com/learn-en/_images/FISsc91.jpg) |
+|Ring:bit Car Front Board|1| ![](https://www.elecfreaks.com/learn-en/_images/fsGQx7H.png) |
+|Ring:bit Car Back Board|1| ![](https://www.elecfreaks.com/learn-en/_images/wy2UOVu.jpg) |
+|Ring:bit Car Base Board|1| ![](https://www.elecfreaks.com/learn-en/_images/XmJFP0l.jpg) |
+|Ring:bit Car Side Board|2| ![](https://www.elecfreaks.com/learn-en/_images/N8GdGB3.jpg) |
+|Ring:bit Car Wheel|2| ![](https://www.elecfreaks.com/learn-en/_images/HnkSTMd.jpg) |
+|Binding Post|1| ![](https://www.elecfreaks.com/learn-en/_images/7gvcsGF.jpg) |
+|360° Servo|2| ![](https://www.elecfreaks.com/learn-en/_images/U3XGnyB.jpg) |
+|Castor Wheel|1| ![](https://www.elecfreaks.com/learn-en/_images/Ky220DU.jpg) |
+|Screw|5| ![](https://www.elecfreaks.com/learn-en/_images/LqTtuBl.jpg) |
 |Tapping Screw|5| ![](./images/SIgzxED.jpg)|
-|Rivet|2| ![](./images/dYrPAoC.jpg) |
-|Screwdriver|1| ![](./images/NbE9vox.jpg) |
-|Rubber Band|1| ![](./images/LKjqmwk.jpg) |
+|Rivet|2| ![](https://www.elecfreaks.com/learn-en/_images/dYrPAoC.jpg) |
+|Screwdriver|1| ![](https://www.elecfreaks.com/learn-en/_images/NbE9vox.jpg) |
+|Rubber Band|1| ![](https://www.elecfreaks.com/learn-en/_images/LKjqmwk.jpg) |
 
 
 
