@@ -1,13 +1,17 @@
 # AI Lens
 
 ## Introduction
+---
+
 The AI Lens is able to achieve the functions of face recognition, balls tracking, cards recognition and characteristics acquisition.
 
 ![](./images/05035_01.png)
 
 ## Characteristics
 ---
+
 - Designed with RJ11 connection and easy to plug.
+
 ## Specification
 ---
 
@@ -41,7 +45,7 @@ Take IoT:bit for an example:
 
 ![](./images/05035_04.png)
 
-Note:
+***Note:***
 
 1.  If you do not use Nezha expansion board to drive the AI Lens, please search with the package through: PlanetX-AI
 
@@ -53,7 +57,7 @@ Note:
 
 
 ## AI Lens firmware update
-
+---
 For a better experience of the AI Lens, we are making an irregularly update for the new functions and optimization of the performance, a manually update of the firmware is required after the new version is released. 
 
 ### How to check the current version
@@ -68,6 +72,7 @@ firmware v1.0.12 [click to download](https://github.com/elecfreaks/learn-cn/raw/
 
 
 ### The newest firmware version
+
 1. First, installation of camera serial port driver
 
 Windows system downloading [CH341SerSetup.exe](https://github.com/elecfreaks/learn-cn/raw/master/microbitplanetX/ai/CH341SerSetup.exe)
@@ -115,11 +120,9 @@ Please visit https://support.apple.com/en-us/HT202491 for solutions.
 
 Details of the corrupted might be these two reasons: 
 
-（1）The version of the extension is not the newest, please try creating a new project and add the extensions again. 
+(1)The version of the extension is not the newest, please try creating a new project and add the extensions again. 
 
-
-（2）
-The conflict emerged due the adding of both the PlanetX and PlanetX-AI, please click the part circled in red in the picture “JaveScript”to switch the program screen, click the explorer and delete PlanetX or PlanetX-AI according to your demand. 
+(2)The conflict emerged due the adding of both the PlanetX and PlanetX-AI, please click the part circled in red in the picture “JaveScript”to switch the program screen, click the explorer and delete PlanetX or PlanetX-AI according to your demand. 
 
 ![](./images/AI-FAQ-03.png)
 
@@ -128,7 +131,8 @@ After deleting, it should work now.
 ![](./images/AI-FAQ-04.png)
 
 After deleting, if you find the loss of the visual block, please try adding the extensions again. If it doesn’t work, please try resetting the MakeCode with the tips in below picture. 
-Note: all projects saved in MakeCode will be cleared after the reset, please save all of them in your computer if you need them. 
+
+***Note:*** all projects saved in MakeCode will be cleared after the reset, please save all of them in your computer if you need them. 
 
 ![](./images/AI-FAQ-05.png)
 
