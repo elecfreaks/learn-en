@@ -1,17 +1,17 @@
-# The 4-way Line Following Sensor
+# The 4-way Line Following Sensor(EF05053)
 
 ## Introduction
-
+---
 The 4-way line following sensor has integrated 4 groups photocell recevier and the fill light LEDs(We call them all as the Probes). At the mean time, it is able to learn by itselft, which means it could adapt to colors in different gray levels. 
 
 ![](./images/05053_01.png)
 
 ## Characteristics
-
+---
 RJ11 connections,  easy to plug. 
 
 ## Specification
-
+---
 
 Item | Parameter 
 :-: | :-: 
@@ -26,13 +26,13 @@ Valid Scope|8~16 mm
 
 
 ## Outlook and Dimensions 
-
+---
 
 ![](./images/05053_02.png)
 
 
 ## Quick Start
-
+---
 ### Connection Diagram 
 
 Connect the 4 way line following sensor with the IIC port and the two motors to M1 and M4 on Nezha board. 
@@ -58,7 +58,7 @@ Note: The height of the line tracking probe from the ground should be among 8mm 
 After the learning, the two learn indicators will be off. When the probe detects the track, the corresponding probe indicator light will be on. When the learn fails, the hollow circle and solid circle LEDs flash rapidly at the same time, and the fill light RGB light goes out.
 
 ## MakeCode Programming
-
+---
 
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
@@ -73,7 +73,8 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/05053_05.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+
 ### Step 2
 
 ### Code as below:
