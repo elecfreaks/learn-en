@@ -1,4 +1,4 @@
-# Octopus Push Lock E-Switch Brick OBPLock
+# Octopus Push Lock E-Switch Brick OBPLock(EF04035)
 
 ## Introduction
 ---
@@ -13,6 +13,7 @@ This is Push Lock E-Switch button brick, which detects your press action and it 
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04035
@@ -47,7 +48,7 @@ Links: [https://makecode.microbit.org/_8pkVmHELdVHd](https://makecode.microbit.o
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_8pkVmHELdVHd" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - While the button being pressed, the status of the sensor button is showing on the micro:bit in number: 0 or 1.
