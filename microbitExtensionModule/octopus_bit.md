@@ -63,7 +63,7 @@ You can see its working range in the below:
 The working voltage of serial port is available to be shifted between 3.3V and 5V through the voltage switch. 
 Connect TX to P8，RX to P12. The left pins are bidirectional serial port, which can run both input and output. The right female header is a one-way output serial port. 
 
-**Note** : To use this port, we have to initialize it according to the program in the below:   
+***Note*** : To use this port, we have to initialize it according to the program in the below:   
 
 ![](./images/1gnuYd5.png)  
 
