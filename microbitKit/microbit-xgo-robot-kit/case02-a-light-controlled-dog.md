@@ -3,19 +3,19 @@
 
 
 ## Purpose 
-
+---
 Program to make XGO go forward in strong light and get down if the light gets weak. 
 
 
 
 ## Materials Required
-
+---
 1 × micro:bit XGO Robot Kit 
 
 
 
 ## Hardware Connections
-
+---
 Connect the micro:bit with the computer. 
 
 ![](./images/microbit-xgo-robot-kit-22.png)
@@ -23,7 +23,7 @@ Connect the micro:bit with the computer.
 
 
 ## Software Platform
-
+---
 [Makecode](https://makecode.microbit.org/#)
 
 ![](./images/microbit-xgo-robot-kit-10.png)
@@ -31,7 +31,7 @@ Connect the micro:bit with the computer.
 
 
 ## Program
-
+---
 
 
 Add the XGO extensions. 
@@ -47,7 +47,7 @@ Add the XGO extensions.
 
 
 ## Program
-
+---
 #### Code
 
 
@@ -65,11 +65,11 @@ You can also download it directly below:
 
 
 ## FAQ
-
+---
 If XGO doesn't move, please try adjusting the light intensity. 
 
 
 
 ## Exploration
-
+---
 How to give more commands to XGO with light intensity? 
