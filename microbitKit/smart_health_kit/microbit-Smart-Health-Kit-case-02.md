@@ -27,7 +27,6 @@ Connect the UV sensor to P1 and the servo to P2 on sensor:bit.
 ![](./images/microbit-Smart-Health-Kit-case-02-03.png)
 
 ## Software Programming 
-
 ---
 
 Click "Advanced" in the MakeCode to see more choices.
@@ -45,7 +44,6 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
-
 ---
 Save the value detected from the UV sensor connecting to P1 as the variable "UV" and display the value on the micro:bit. 
 
