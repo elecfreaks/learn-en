@@ -1,6 +1,7 @@
-# Crash Sensor
+# Crash Sensor(EF05008)
 
 ## Introduction
+---
 Crash Sensor is a sensor module based on crash components.
 
 ![](./images/05008_01.png)
@@ -8,6 +9,7 @@ Crash Sensor is a sensor module based on crash components.
 ## Characteristic
 ---
 - Designed in RJ11 connections, easy to plug.
+
 ## Specification
 ---
 
@@ -18,11 +20,6 @@ Connection|RJ11
 Type of Connection|Digital output
 Working Voltage|3.3V
 
-
-
-
-
-
 ## Outlook
 ---
 
@@ -30,12 +27,9 @@ Working Voltage|3.3V
 ![](./images/05008_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Crash sensor to J1 port and the LED to J2 port in the Nezha expansion board as the picture shows. 
 
@@ -43,7 +37,6 @@ Working Voltage|3.3V
 ![](./images/05008_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -56,7 +49,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -71,13 +64,12 @@ Link: [https://makecode.microbit.org/_Wj9bvpfFm4YK](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Wj9bvpfFm4YK" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The LED lights on if the crash switch was pressed or it lights off. 
 
 ## Python Programming 
-
 ---
 
 
@@ -116,10 +108,9 @@ while True:
 
 ### Result
 - A smile face displays on the micro:bit while the crash switch being pressed or the micro:bit displays a sad face.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
