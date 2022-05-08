@@ -46,10 +46,13 @@ Notice: If you met a tip indicating that some codebases would be deleted due to 
 Initialize the OLED display. 
 
 ![](./images/microbit-Smart-Health-Kit-case-03-07.png)
+
 Save the returned value as the variable "i" and display it on OLED screen. 
 
 ![](./images/microbit-Smart-Health-Kit-case-03-08.png)
+
 Judge the value of the variable "i", if it's over 29, program to turn on the fan; or to turn off. 
+
 ![](./images/microbit-Smart-Health-Kit-case-03-09.png)
 
 Link: [https://makecode.microbit.org/_7WLC6kVYXh9z](https://makecode.microbit.org/_7WLC6kVYXh9z)
