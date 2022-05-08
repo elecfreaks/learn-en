@@ -1,6 +1,7 @@
-# Nezha Expansion Board
+# Nezha Expansion Board(EF05043)
 
 ## Introduction
+---
 Nezha is an expanstion board for micro:bit with multuple functions available. It equips with four servos connections, four motors connections and seven sensors connections. All of the connections are required with RJ11 connectors that are fool-proofing and easy to plug. It is also compatible to Lego and Fischertechnik bricks and is available to get them connected with the electric modules,  thus it allows students to easily create their own amazing micro:bit projects. 
 
 ![](./images/03444_01.png)
@@ -37,10 +38,10 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/03444_06.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ## Ways of Operation
-
+---
 ### TT Motor
 
 ![](./images/03444_07.png)
@@ -57,7 +58,7 @@ Link: [https://makecode.microbit.org/_8g40hhK9rLvW](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_8g40hhK9rLvW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 ### Result
 Press button A to drive both motors; press button B to stop the motor connecting to M1; press both A&B to stop both motors. 
 
@@ -78,7 +79,7 @@ Link: [https://makecode.microbit.org/_L8rfzu3ELEyg](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_L8rfzu3ELEyg" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 ### Result
 Press button A to drive the 180° servo to 0°; press button B to drive the 360° servo to 360°; press button A&B to continuously drive the servo at the speed of  100%.
 
