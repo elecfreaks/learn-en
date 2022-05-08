@@ -1,4 +1,4 @@
-# OCTOPUS Gesture Sensor PAJ7620U2
+# OCTOPUS Gesture Sensor PAJ7620U2(EF04078)
 
 ## Introduction
 ---
@@ -6,14 +6,14 @@ OCTOPUS Gesture Sensor is PAJ7620U2 that integrates gesture recognition function
 
  ![](./images/AVBdYeR.jpg)
 
-- ## Characteristics
+## Characteristics
+---
 
-  ------
-
-  The 3-pins ports is easy to plug and play.
+The 3-pins ports is easy to plug and play.
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04078
@@ -33,8 +33,6 @@ Size|23.48mm×31.28mm
 ## Quick to Start
 ---
 ### Materials used and connection diagram
-
-
 
 Take sensor:bit for example
 
@@ -60,7 +58,7 @@ Links:[https://makecode.microbit.org/_2tdKR1cuxba3](https://makecode.microbit.or
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2tdKR1cuxba3" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The direction of the arrow displaying on the micro:bit changes with the different gestures of your hands.   
@@ -68,9 +66,7 @@ You can also download the links below:
 ![](./images/ef04078_07.gif)
 
 ## Relevant Cases
-
-------
+---
 
 ## Technique Files
-
 ---
