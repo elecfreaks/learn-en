@@ -1,4 +1,4 @@
-# Octopus Active Buzzer Brick OBAB02
+# Octopus Active Buzzer Brick OBAB02(EF04030)
 
 ## Introduction
 ---
@@ -12,6 +12,7 @@ Octopus Active Buzzer Brick is based on an active buzzer with a constant volume 
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04030
@@ -52,7 +53,7 @@ Links: [https://makecode.microbit.org/_3KMCFREjmbYx](https://makecode.microbit.o
 You can also download the links below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3KMCFREjmbYx" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The buzzer gives off a continuous beeping sound.
