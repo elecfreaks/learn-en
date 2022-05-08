@@ -3,7 +3,7 @@
 
 
 ## Preface
-
+---
 This page gives the guidance information and learning references regarding XGO. 
 
 The contents shall be updated in accordance with the possible updates of the products in the future, feel free to get us in touch through services@elecfreaks.com with any of your ideas. 
@@ -11,13 +11,13 @@ The contents shall be updated in accordance with the possible updates of the pro
 
 
 ## Introduction
-
+---
 micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial intelligence education for teenagers. It supports omni-movement and is able to perform as a real pet dog. Students are able to get a good understanding of AI technology from the learning of the mechanism, the electronic knowledge, programming and the AI while playing it. 
 
 
 
 ## Picture(s)
-
+---
 
 
 ![](./images/microbit-xgo-robot-kit-16.png)
@@ -25,7 +25,7 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 
 
 ## Characteristics
-
+---
 
 
 - In desktop size, XGO is as small as a book, kids can enjoy it even on the desk.
@@ -37,6 +37,7 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 
 
 ## Parameters
+---
 
 | Name                  | micro:bit XGO Robot Kit                 |
 | :-------------------- | :-------------------------------------- |
@@ -55,13 +56,13 @@ micro:bit XGO robot is an AI dog robot with 12 DOFs designed for the artificial 
 
 
 ## Packing List
-
+---
 ![](./images/microbit-xgo-robot-kit-square-27.png)
 
 
 
 ## Preparation
-
+---
 ### Start the XGO
 
 Put the XGO in the prone position in case of any stuck problems happening on the joints, press the button on the back of the XGO, the ring light on the swtich will be turned on, and XGO stands up gradually. 
@@ -93,7 +94,7 @@ When the battery runs out of the power, the ring light woud flash and the XGO ge
 
 
 ## FAQ
-
+---
 ## Relevant File
 
 
