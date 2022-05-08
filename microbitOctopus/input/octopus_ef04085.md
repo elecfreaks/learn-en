@@ -1,12 +1,12 @@
-# Analog Rotation Brick
+# Analog Rotation Brick(EF04085)
 
 ## Introduction
 ---
 Octopus analog rotation brick is a 10K potentiometer module. Rotating the knob to change its resistance can realize voltage division, and can provide analog signals to the analog input IO ports of micro-controller. This module has a 3-wire anti-reverse connector, which makes it easy to connect a GVS cable. 
 
 ## Characteristics
-​       Adopting 3 pins cable with anti-plug function.
-
+---
+- Adopting 3 pins cable with anti-plug function.
 - No screwdriver need, the resistor can be adjusted with hand.
 - Compact design.
 
