@@ -1,31 +1,26 @@
-# Push Button Module
+# Push Button Module(EF05017)
 
 ## Introduction
-The Push button module is able to detect your press action.
+---
 
+The Push button module is able to detect your press action.
 
 ![](./images/05017_01.png)
 
 ## Characteristic
-
 ---
 
 - Designed in RJ11 connections, easy to plug.
 
 ## Specification
-
 ---
 
 Item | Parameter 
 :-: | :-: 
 SKU|EF05017
 Connection|RJ11
-接口类型|数字输出
-工作电压|3.3V
-
-
-
-
+Connections type|Digit output
+Power|3.3V
 
 
 
@@ -36,12 +31,9 @@ Connection|RJ11
 ![](./images/05017_02.png)
 
 ## Quick to Start
-
 ---
 
 ### Materials Required and Diagram
-
----
 
 - Connect the Push-button module to J1 port in the Nezha expansion board as the picture shows.
 
@@ -49,7 +41,6 @@ Connection|RJ11
 ![](./images/05017_03.png)
 
 ## MakeCode Programming
-
 ---
 
 ### Step 1
@@ -62,7 +53,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05001_05.png)
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -77,13 +68,12 @@ Link: [https://makecode.microbit.org/_7bYWKYccY73R](https://makecode.microbit.or
 You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_7bYWKYccY73R" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - The icons display on the micro:bit accordingly with the order given by pressing button A or B or A+B. 
 
 ## Python Programming 
-
 ---
 
 ### Step 1
@@ -123,10 +113,9 @@ while True:
 
 ### Result
 - The icons display on the micro:bit accordingly with the order given by pressing button A or B or A+B.
-## Relevant File
 
+## Relevant File
 ---
 
 ## Technique File
-
 ---
