@@ -1,4 +1,5 @@
-# Classroom:bit 
+# Classroom:bit(CR00003)
+
 ## Introduction
 ---
 Classroom:bit is a breakout board for micro:bit, it has extended the IO ports on micro:bit in the form of GVS, through which they are availble to connect with all octopus sensors in 3v, such as the LED light, the light sensor, the servos and etc., the buzzer and noise sensor are also loaded on it. The classroom:bit and micro:bit v1.5 has all functions that you can find in micro:bit v2.0.
