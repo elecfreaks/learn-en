@@ -1,4 +1,4 @@
-# Octopus PM2.5 module
+# Octopus PM2.5 module(EF04090)
 
 ## Introduction
 ---
@@ -16,6 +16,7 @@ PM2.5 Electronic brick is one of the modules in OCTOPUS series to test the PM2.5
 
 ## Parameter
 ---
+
 |         Item          |       Parameter        |
 | :-------------------: | :--------------------: |
 |         Name          | PM2.5 Electronic brick |
@@ -58,7 +59,7 @@ With standard 3PIN electronic brick interfaces, "S" is the output pin for 3.3V P
 The output interfaces are used for 3.3V serial signal.
 
 ## Quick Start
-
+---
 ### Hardware Connection
  Connect PM2.5 electronic brick module to P1 port on micro:bit with a micro:bit expansion board.
 ![](./images/icDTCQO.png)
@@ -86,3 +87,4 @@ The complete program is below: [https://makecode.microbit.org/_4TvKWEihahzh](htt
  The value of PM2.5 is scrolling displaying on the 5x5 screen with μg/m3 as a unit.
 
 ## FAQ
+---
