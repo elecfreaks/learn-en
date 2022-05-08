@@ -1,4 +1,4 @@
-# Joystick:bit V2(EF03423)
+# Joystick:bit V2(EF08231)
 
 ## Introduction
 ---
@@ -6,7 +6,7 @@ Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction jo
 
 ![](./images/joystick_v2_01.png)
 
-Note：There are two versions of Joystick bit V2
+***Note：*** There are two versions of Joystick bit V2
 
 ### Joystick bit V2：
 
@@ -68,9 +68,6 @@ It connects to the P16 port on the micro:bit
  C、D、E&F connect to the P12、P13、P14 and P15 ports on the micro:bit accordingly.
 
 
-
-
----
 ### Installment
 
 Install two pieces AAA batteries and insert the micro:bit. 
@@ -99,7 +96,7 @@ You may also download it directly below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YUaM2rdcFFYx" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ## Result
-
+---
 After downloading, turn on the power switch and you will hear the system tone.
 
 Push any one button on the Joysitick bit, it vibrates once.
@@ -115,7 +112,7 @@ You may also download it directly below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DHgcRfb6oJp5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ## Result
-
+---
 It plays tones through the handle and the buttons.
 
 ## Project 2: Direction indicator
@@ -129,7 +126,7 @@ You may also download it directly below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YVdggwifHWEm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ## Result
-
+---
 The direction of the arrow on the micro:bit is controlled by the handle.
 
 ## Project 3: LED Controller
@@ -143,11 +140,11 @@ You may also download it directly below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_KPMW36Pq0aLm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ## Result 
-
+---
 The on/ff status for each LED on the micro:bit is controlled by the handle.
 
 ## Below are cases of remote control:
-
+---
 [Remote control cutebot ](https://www.elecfreaks.com/learn-cn/microbitKit/smart_cutebot/cutebot_case13.html)
 
 [Remote control TPBot](https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPBot_tianpeng_case_14.html)
