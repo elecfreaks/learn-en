@@ -1,7 +1,7 @@
-# Octopus ADKeypad
+# Octopus ADKeypad(EF04017)
 
 ## Introduction
-
+---
 
 - This keyboard uses an analog input to read the five key state with one IO port. 
 - It can achieve many amazing interactive projects.
@@ -9,11 +9,13 @@
  ![](./images/hgyC8t8.jpg)
 
 ## Characteristics
+---
 - The 3-pins ports is easy to plug and play..
 - It can work with micro:bit in 3V. 
 
 ## Specifications
 ---
+
 Item | Parameter 
 :-: | :-: 
 SKU|EF04017
@@ -52,7 +54,7 @@ Links:[https://makecode.microbit.org/_dqjTtAM5sfmy](https://makecode.microbit.or
 You can also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_dqjTtAM5sfmy" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 - Press different buttons on the ADKeypad, different graphs show on the micro:bit.
