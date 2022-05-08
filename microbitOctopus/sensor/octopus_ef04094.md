@@ -1,15 +1,14 @@
-# Octopus Water level Sensor
+# Octopus Water level Sensor(EF04094)
 
 ## Introduction
 ---
-
 Octopus Water level Sensor is the water level electric brick in our Octopus series, the basic design is from the Octopus electric bricks and the setting of its outlook, the PCB fixing hole and the connectors are the same. 
 
 Octopus Water level electric brick is a simple, easy-to-use, high performance with reasonable prices sensor, the water level is detected by the exposed parallel wires and the water volume.
 
 It can convert the water volume to analog signal easily and the output value can be recognized by micro:bit and thus make the water level alarm happen.
 
-Notice: The components above the MAX water level are not waterproof, please do not put them in the water.
+***Notice:*** The components above the MAX water level are not waterproof, please do not put them in the water.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/sensor/images/04094_00.jpg)
 
@@ -57,3 +56,4 @@ You can also download it directly:
 The current value of water level is showing on the micro:bit.
 
 ## FAQ
+---
