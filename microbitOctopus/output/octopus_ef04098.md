@@ -1,4 +1,4 @@
-# Rainbow LED Strip and GVS Connector -10 LEDs
+# Rainbow LED Strip and GVS Connector -10 LEDs(EF04098)
 
 ## Introduction
 ---
@@ -42,7 +42,7 @@
  ![](./images/04098_5.png)
 
 ### Add Package
----
+
 Click "Advanced" in MakeCode to check more choices.
 
  ![](./images/smtcNoB.png)
@@ -51,17 +51,17 @@ Click "Extensions", and search "`neopixel`" in the dialogue box to download the 
 
 
 ### Programme as the Picture Shows
----
+
   ![](./images/04098_3.png)
 
 ### Reference
----
+
 Links: [https://makecode.microbit.org/_bfECLKegkYbR](https://makecode.microbit.org/_bfECLKegkYbR)
 
 You can also download it directly: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_bfECLKegkYbR" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Results
 
