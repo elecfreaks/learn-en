@@ -1,13 +1,13 @@
 # Case 32: Gesture Recognition Ring LEDs
 
 ## Introduction
-
+---
 This is an interesting lighting device that uses gesture recognition sensors to recognize human gesture commands and control the color of the light.
 
 ![](./images/case_32_01.png)
 
 ## Quick Start 
-
+---
 
 
 ### Materials Required
@@ -23,7 +23,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 
@@ -64,7 +64,7 @@ Video link: [https://youtu.be/hq1rtbGvAwU](https://youtu.be/hq1rtbGvAwU)
 
 
 ## MakeCode Programming 
-
+---
 
 
 
@@ -83,7 +83,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/case_03_09.png)
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -102,7 +102,7 @@ Link: [https://makecode.microbit.org/_f3sDCoEzXfa8](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_f3sDCoEzXfa8" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The lights color is able to be changed by hands gesture. 
