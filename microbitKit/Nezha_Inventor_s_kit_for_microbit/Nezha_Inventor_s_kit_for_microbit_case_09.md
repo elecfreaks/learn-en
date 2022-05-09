@@ -1,13 +1,13 @@
 # Case 09: Invading Detection Device
 
 ## Introduction
-
+---
 This is an intrusion detection device. When the ultrasonic sensor detects that someone is approaching, it will automatically turn on a red light and alarm through the buzzer on the micro:bit. If the ultrasonic sensor does not detect anyone, it will automatically turn on green light.
 
 ![](./images/case_09_01.png)
 
 ## Quick Start
-
+---
 
 
 ### Materials Required
@@ -66,7 +66,7 @@ Video Reference: [https://youtu.be/jw9_wlNIiHw](https://youtu.be/jw9_wlNIiHw)
 
 
 ## MakeCode Programming
-
+---
 
 
 
@@ -80,7 +80,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_01_11.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -95,7 +95,7 @@ Link：[https://makecode.microbit.org/_2zrE6AKRHbqW](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2zrE6AKRHbqW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 While the sonar:bit detects the object, the red LED lights up and the buzzer alarms. 
