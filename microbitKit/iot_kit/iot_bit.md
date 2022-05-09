@@ -9,9 +9,8 @@
 
 ![](./images/iot_bit_01.jpg)
 
-### Features
+## Features
 ---
-
 - Intergrated ESP12F WiFi、RTC and passive buzzer module
 - Extended most IO ports by GVS
 - Silk-screen indication onboard main components
@@ -23,7 +22,7 @@
 ---
 
 ### Size & Installation 
----
+
 
 - Product size：71mm x 63mm x 23mm
 - PCB thickness：1.5mm
@@ -32,7 +31,7 @@
  ![](./images/iot_bit_02.png)
 
 ### Parameters
----
+
 
  |Items|Parameters|Remarks|
  |:-:|:-:|:-:|
@@ -51,11 +50,11 @@
  |Net weight|30.00g|Without packing|
 
 ### Pin interface drawing
----
+
 ![](./images/iot_bit_03.png)
 
 ### Introduction of main module
----
+
 
  ![](./images/iot_bit_04.png)
 
@@ -65,7 +64,7 @@
 - Coding：Makecode/Micropython/JavaScript/
 
 ### Makecode block
----
+
 
 - Coding developed by Microsoft and mainly publiced by micro:bit offical.
 
@@ -74,7 +73,7 @@
 ![](./images/iot_bit_05.png) 
 
 ### JavaScript
----
+
 
 - Click on `JavaScript` of the `makecode` for `JavaScript` coding.
 
@@ -83,7 +82,7 @@
 ![](./images/iot_bit_06.png)
 
 ### MicroPython 
----
+
 
 - Using `MU` for advanced coding method`MicroPython` 
 
@@ -110,14 +109,14 @@
 ![](./images/iot_bit_10.gif)
 
 ### Coding  
----
+
 #### Coding Platform ####
----
+
 [https://makecode.microbit.org](https://makecode.microbit.org)
 
 
 #### Add codebase ####
----
+
 
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -128,11 +127,11 @@
  ![](./images/iot_bit_12.jpg)
 
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 
 #### How to drive the buzzer ####
----
+
 
 - There is on-board buzzer on the IOT:bit as below picture. Let the buzzer be connected to the PO of the micro:bit to play music by the `music` of the makecode.
 
@@ -148,7 +147,7 @@ Note：If you get a warning telling you some packages will be removed because of
 
 
 #### How to use RTC ####
----
+
 
 - There is on-board DS1307RTC timing on the IOT:bit as below picture. RTC timing need a CR1220 button cell for lasting power supply. We need the RTC timing keep accuracy in the event of a power outage. 
 
@@ -156,7 +155,6 @@ Note：If you get a warning telling you some packages will be removed because of
 ![](./images/iot_bit_16.jpg)
 ![](./images/iot_bit_17.png)
 
----
 
 - Press button A to set the time to the set time. On start with RTC function and the minutes be displayed on the 5*5 allay.
 
@@ -167,7 +165,7 @@ Note：If you get a warning telling you some packages will be removed because of
 - Program link：[https://makecode.microbit.org/_e9d3vW96bPe2](https://makecode.microbit.org/_e9d3vW96bPe2)
 
 #### How to use the internet function ####
----
+
 
 - The most important function of IOT:bit is WIKI. The onboard `ESP-12F`WIFI module can connect WIFI and send information. To use port for communication with the micro:bit and the pin `RX-P8`，`TX-P12` is special for IoT.
 - Using thingspeak as cloud to coding and data uploding.[thingspeak guidebook]()
@@ -183,13 +181,13 @@ Note：If you get a warning telling you some packages will be removed because of
 
 - Program link：[https://makecode.microbit.org/_JAXAmmHq4FhW](https://makecode.microbit.org/_JAXAmmHq4FhW)
 
-####Codebase for other sensors
+#### Codebase for other sensors
 
 -IoT:bit also supports the other ELECFREAKS sensors can the new Octopus blocks are added in the package.
  ![](./images/iot_bit_22.png)
 
 ### Down load code ###
----
+
 - Let your micro:bit be connected to one side of the USB, the other side to your computer.（Inserting on the expansion board may cause the micro:bit connection to be abnormal or damaged.）
 
   ![](./images/iot_bit_23.jpg)
@@ -203,10 +201,10 @@ Note：If you get a warning telling you some packages will be removed because of
  ![](./images/iot_bit_25.png)
 
 ### Documents 
----
+
 #### FAQ
 
-####Question: After installing the button cells, why can't I get the correct data for RTC ? 
+#### Question: After installing the button cells, why can't I get the correct data for RTC ? 
 
 Solution: The nominal voltage for CR1220 button cells is 3V, while some of the cells in the market may have a higher voltage than 3V. The high voltage will make abnormal operation of the RTC happen, to solve this, you can use the used cells or discharge the brand new cells by yourself.
 
