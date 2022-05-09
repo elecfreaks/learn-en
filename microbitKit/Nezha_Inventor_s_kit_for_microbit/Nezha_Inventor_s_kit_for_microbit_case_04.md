@@ -1,13 +1,13 @@
 # Case 04: Mini Table Lamps
 
 ## Introduction
-
+---
 Use micro:bit to make a mini desk lamp, and control the LED light to turn on or off through a crash sensor.
 
 ![](./images/case_04_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Reuqired
 
@@ -65,7 +65,7 @@ Video reference:[https://youtu.be/BBP1Nx6t090](https://youtu.be/BBP1Nx6t090)
 
 
 ## MakeCode Programming
-
+---
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
@@ -90,7 +90,7 @@ Link：[https://makecode.microbit.org/_J9Lc271kpHiD](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_J9Lc271kpHiD" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The crash sensor controlls the on/off of the LED. 
