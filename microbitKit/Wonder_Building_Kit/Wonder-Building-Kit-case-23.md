@@ -1,19 +1,21 @@
 # Case 23: The Locomotive
+
 ## Purpose
+---
 Make a locomotive.
  
 ![](./images/Wonder-Building-Kit-case-23-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/Wonder-Building-Kit-step-case-23-01.png)
 
 ## Bricks build-up
-
+---
 ![](./images/Wonder-Building-Kit-step-case-23-02.png)
 
 ![](./images/Wonder-Building-Kit-step-case-23-03.png)
@@ -79,10 +81,11 @@ Make a locomotive.
 ![](./images/Wonder-Building-Kit-step-case-23-33.png)
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
