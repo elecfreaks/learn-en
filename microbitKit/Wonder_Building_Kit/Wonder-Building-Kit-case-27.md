@@ -1,19 +1,21 @@
 # Case 27: The Smart Garbage Can
+
 ## Purpose
+---
 Make a smart garbage can.
  
 ![](./images/Wonder-Building-Kit-case-27-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/Wonder-Building-Kit-step-case-27-01.png)
 
 ## Bricks build-up
-
+---
 
 ![](./images/Wonder-Building-Kit-step-case-27-02.png)
 
@@ -76,10 +78,11 @@ Make a smart garbage can.
 ![](./images/Wonder-Building-Kit-step-case-27-31.png)
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
