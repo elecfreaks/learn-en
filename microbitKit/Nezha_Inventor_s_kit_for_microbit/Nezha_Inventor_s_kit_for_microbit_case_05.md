@@ -1,13 +1,13 @@
 # Case 05: Automatic Dryer
 
 ## Introduction
-
+---
 Put your hands under the air outlet of the automatic hand dryer, it will automatically send out the wind to dehumidify and dry your hands, and then automatically stop the wind and shut down. It can meet the requirements of not using towels to dry hands and preventing cross-infection of diseases. Thus, we can use micro:bit to make an automatic dryer.
 
 ![](./images/case_05_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -68,7 +68,6 @@ Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
 
 
 ## MakeCode Programming
-
 ---
 
 
@@ -103,7 +102,7 @@ Link：[https://makecode.microbit.org/_LTA1RLL1ddfM](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_LTA1RLL1ddfM" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 While there is any object detected by the Sonar:bit, the fan moves automatically. 
