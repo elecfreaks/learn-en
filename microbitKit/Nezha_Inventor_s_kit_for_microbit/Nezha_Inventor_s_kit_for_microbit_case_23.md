@@ -1,13 +1,13 @@
 # case 23 micro:bit Crawlers
 
 ## Introduction
-
+---
 Let the children use the building blocks and micro:bit to make a crawling caterpillar. In this process, children could experience the fun of building blocks and get a preliminary understanding of the ratchet structure.
 
 ![](./images/case_23_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -69,7 +69,7 @@ Connect the servo to S1 and the micro:bit to Nezha expansion board.
 
 
 ## MakeCode Programming
-
+---
 
 ### Step 1
 
@@ -84,7 +84,7 @@ We need to add a package for programming. Click “Extensions” in the bottom o
 
 ![](./images/case_03_09.png)
 
-*Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
 
 
@@ -104,7 +104,7 @@ Link：[https://makecode.microbit.org/_HwoEvqEku9jX](https://makecode.microbit.o
 You may also downoad it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_HwoEvqEku9jX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The crawlers move forward after powering on. 
