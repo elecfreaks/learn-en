@@ -1,15 +1,17 @@
 # Case 14: The Reading Range Guitar
+
 ## Purpose
+---
 To make a guitar that is able to read ranges. 
  
 ![](./images/case-14-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/case-14-02.png)
 
 Video link:
@@ -78,10 +80,11 @@ Video link:
 
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
