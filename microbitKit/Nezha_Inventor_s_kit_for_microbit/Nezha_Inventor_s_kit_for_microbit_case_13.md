@@ -1,14 +1,14 @@
 # Case 13: Lively Music 
 
 ## Introduction 
-
+---
 We can adjust the frequency of the buzzer sound through the potentiometer. Try to create unique music by turning the potentiometer!
 
 ![](./images/case_13_01.png)
 
 
 ## Quick to Start 
-
+---
 
 ### Mterials 
 
@@ -61,7 +61,7 @@ Video reference for building:[https://youtu.be/G0hycQ2rxCk](https://youtu.be/G0h
 
 
 ## MakeCode Programming. 
-
+---
 
 
 ### Step 1
@@ -75,10 +75,9 @@ We need add a package for programming. Click "Extensions" in the bottom of the m
 
 ![](./images/case_01_11.png)
 
-Note: If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu. 
+***Note:*** If you met a tip indicating it might be deleted due to incompatibility, you may continue as it indicates or create a new project in the menu. 
 
 ### Step 2
----
 
 ### Programme 
 
@@ -91,7 +90,7 @@ Link: [https://makecode.microbit.org/_Fp5c7g7XjRMg](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Fp5c7g7XjRMg" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The tones could be adjusted via the trimpot. 
