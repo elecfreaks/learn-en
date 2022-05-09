@@ -77,7 +77,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_01_11.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 ### Code as below:
