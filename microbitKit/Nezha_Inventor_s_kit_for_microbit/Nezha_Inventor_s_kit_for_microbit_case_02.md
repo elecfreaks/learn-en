@@ -1,13 +1,13 @@
 # Case 02: Flower-watering Prompter
 
 ## Introduction
-
+---
 Some plants can make people live healthier. For example, a pot of green dill in a room of 8-10 square meters is equivalent to an air purifier, which can effectively absorb harmful gases such as formaldehyde, benzene and trichloroethylene in the air. Thus, we can make a simple watering device to help us take care of plants.
 
 ![](./images/case_02_01.png)
 
 ## Quick Start
-
+---
 ### Materials Required 
 
 Nezha expansion board × 1
@@ -67,7 +67,7 @@ Video reference:[https://youtu.be/YxEKEoDB6FQ](https://youtu.be/YxEKEoDB6FQ)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -94,7 +94,7 @@ Link：[https://makecode.microbit.org/_2FgMYuLiUeE8](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2FgMYuLiUeE8" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The red LED lights on for reminding of watering if the soil moisture sensors gets a low value from the earth, or the green LED lights on. 
