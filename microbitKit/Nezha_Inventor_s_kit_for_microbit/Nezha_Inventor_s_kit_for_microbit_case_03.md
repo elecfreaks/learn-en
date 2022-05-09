@@ -1,13 +1,13 @@
 # Case 03: Automatic Gate
 
 ## Introduction
-
+---
 A simple automatic sensor door. When the ultrasonic sensor detects that a person is approaching, the micro:bit controls the servo to automatically open the door. When no person is approaching, the micro:bit controls the servo to automatically close the door.
 
 ![](./images/case_03_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -68,7 +68,7 @@ Video reference: [https://youtu.be/nOh7YCmcotA](https://youtu.be/nOh7YCmcotA)
 
 
 ## MakeCode Programming
-
+---
 
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
@@ -98,7 +98,7 @@ Link：[https://makecode.microbit.org/_VqieaTVyeUXx](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_VqieaTVyeUXx" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 While the ultrasonic sound sensor detects any object, the gate opens automatically.
