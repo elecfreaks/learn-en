@@ -1,7 +1,7 @@
 # Case 17: Alarm Device
 
 ## Introduction 
-
+---
 This is an alarm device. Press button A to make the red LED light on and flash, and the buzzer will be activated. Press button A again to cancel the alarm.
 
 
@@ -10,7 +10,7 @@ This is an alarm device. Press button A to make the red LED light on and flash, 
 
 
 ## Quick to Start 
-
+---
 
 ### Materials
 
@@ -59,7 +59,7 @@ Video link:[https://youtu.be/bYN6-6PskHQ](https://youtu.be/bYN6-6PskHQ)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -75,7 +75,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -91,7 +91,7 @@ Link: [https://makecode.microbit.org/_A4CaHvTuJ7br](https://makecode.microbit.or
 You may also downoad it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_A4CaHvTuJ7br" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 Press button A to alarm and the red LED flashes; press it again to stop the alarming and the LED turns off. 
