@@ -1,13 +1,13 @@
 # Case 01: Traffic Lights
 
 ## Introduction
-
+---
 In our daily life, many traffic accidents should have been avoided. These traffic accidents are often caused by people not observing the traffic rules, thus, we must understand the traffic rules. For example, the common traffic lights in our lives, red light means not passing, yellow light means warning, and green light means permission to pass. Let's make a traffic light controlled by the micro:bit.
 
 ![](./images/case_01_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -66,13 +66,8 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 
 
 
-
-
-
-
-
 ## Makecode Programming
-
+---
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 
@@ -96,7 +91,6 @@ Link：[https://makecode.microbit.org/_M6RiKA642WPP](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_M6RiKA642WPP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
 ### Result
 The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then. 
