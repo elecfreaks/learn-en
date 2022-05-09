@@ -1,15 +1,17 @@
 # Case 09: Automatic Doors
+
 ## Purpose
+---
 To make an automatic door. 
  
 ![](./images/case-09-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/case-09-02.png)
 
 Video link:
@@ -65,10 +67,11 @@ Video link:
 ![](./images/step-case-09-22.png)
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
