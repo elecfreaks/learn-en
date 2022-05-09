@@ -1,13 +1,13 @@
 # Case 33: Color-controlled Lights
 
 ## Introduction
-
+---
 Recognize the color through the color recognition sensor, and control the rainbow LED to light up the in the same color.
 
 ![](./images/case_33_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -22,7 +22,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 
@@ -96,7 +96,7 @@ Link: [https://makecode.microbit.org/_CoKVCRc3wJJJ](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_CoKVCRc3wJJJ" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 After powering on, the the lights turn on with the color detected from the color sensor.
