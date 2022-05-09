@@ -1,13 +1,13 @@
 # Case 07: Smart Lamps 
 
 ## Introduction
-
+---
 Use the light intensity of the micro:bit to make a smart light, which automatically turns on or off the LED light according to the light level.
 
 ![](./images/case_07_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -54,7 +54,7 @@ Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -67,7 +67,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_01_11.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -82,7 +82,7 @@ Link：[https://makecode.microbit.org/_haMDD2EftPLV](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_haMDD2EftPLV" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 
