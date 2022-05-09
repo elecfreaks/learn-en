@@ -1,18 +1,20 @@
-# Case 21: The Spider Walker  
+# Case 21: The Spider Walker
+
 ## Purpose
+---
 Make a spider walker.
  
 ![](./images/Wonder-Building-Kit-case-21-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/Wonder-Building-Kit-step-case-21-01.png)
 ## Bricks build-up
-
+---
 
 ![](./images/Wonder-Building-Kit-step-case-21-02.png)
 
@@ -59,10 +61,11 @@ Make a spider walker.
 ![](./images/Wonder-Building-Kit-step-case-21-23.png)
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
