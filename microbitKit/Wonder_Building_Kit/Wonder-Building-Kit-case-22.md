@@ -1,19 +1,21 @@
-# Case 22: The Helicopter 
+# Case 22: The Helicopter
+
 ## Purpose
+---
 Make a helicopter.
  
 ![](./images/Wonder-Building-Kit-case-22-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/Wonder-Building-Kit-step-case-22-01.png)
 
 ## Bricks build-up
-
+---
 ![](./images/Wonder-Building-Kit-step-case-22-02.png)
 
 ![](./images/Wonder-Building-Kit-step-case-22-03.png)
@@ -105,10 +107,11 @@ Make a helicopter.
 ![](./images/Wonder-Building-Kit-step-case-22-46.png)
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
