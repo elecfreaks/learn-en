@@ -1,13 +1,13 @@
 # Case 29: The Dazzling Car
 
 ## Introduction
-
+---
 This is a simple car. I installed a cool rainbow light ring on the car, and we can display different lighting effects through this light ring.
 
 ![](./images/case_29_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -24,7 +24,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 
@@ -87,7 +87,7 @@ Link: [https://youtu.be/Am1ZEq1CqnY](https://youtu.be/Am1ZEq1CqnY)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -104,7 +104,7 @@ For programming, we need to add a package, click "Extensions" at the bottom of t
 ![](./images/case_03_09.png)
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -121,7 +121,7 @@ Link: [https://makecode.microbit.org/_JtKg7ffF1YK7](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fzaisgJfKKKj" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 After powering on, press button A to drive the car foward and the LEDs light up in red and blue, press button B to stop the car and the LEDs light off. 
