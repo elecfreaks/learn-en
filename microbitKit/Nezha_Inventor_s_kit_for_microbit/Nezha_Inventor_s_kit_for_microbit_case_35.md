@@ -1,13 +1,13 @@
 # case 35 Color Recognition Car
 
 ## Introduction
-
+---
 A color recognition sensor is installed on the car. We can use the color recognition sensor to identify the color blocks that the car passes along the way and display it through the rainbow LED on the car.
 
 ![](./images/case_35_01.png)
 
 ## Quick Start
-
+---
 
 
 ### Materials Required 
@@ -25,7 +25,7 @@ Rainbow LED ring  × 1
 
 Bricks × N
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 
@@ -103,7 +103,7 @@ Link: [https://youtu.be/2VBr3sEPMIg](https://youtu.be/2VBr3sEPMIg)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -120,7 +120,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ![](./images/case_03_09.png)
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -137,7 +137,7 @@ Link: [https://makecode.microbit.org/_fzaisgJfKKKj](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fzaisgJfKKKj" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 After powering on, the lights on the car turn on with the color detected from the color sensor. 
