@@ -1,13 +1,13 @@
 # Case 12: Obstacles Avoidance Car
 
 ## Introduction
-
+---
 This is an obstacle avoidance car. It detects whether there are obstacles in front of it through the ultrasonic sensor on the front of the car, the car automatically turns when it detects obstacles to avoid collisions.
 
 ![](./images/case_12_01.png)
 
 ## Quick Start
-
+---
 
 
 ### Materials Required
@@ -85,7 +85,7 @@ Video reference: [https://youtu.be/k8eaTQSVsfk](https://youtu.be/k8eaTQSVsfk)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -102,7 +102,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_03_09.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -117,7 +117,7 @@ Link：[https://makecode.microbit.org/_MyUJpP6L9YPo](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MyUJpP6L9YPo" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The car drives and avoids the obstacles automatically. 
