@@ -1,13 +1,13 @@
 # Case 30: Adjustable lights
 
 ## Introduction
-
+---
 This is an adjustable LED light. We can adjust the brightness of the light through the potentiometer, so that the light is at our most comfortable brightness.
 
 ![](./images/case_30_01.png)
 
 ## Quick Start 
-
+---
 
 ### Materials Required
 
@@ -21,7 +21,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-Tips: Purchase Interactive coding accessories pack here. 
+***Tips:*** Purchase Interactive coding accessories pack here. 
 
 
 ### Connection Diagram 
@@ -57,7 +57,7 @@ Video link: [https://youtu.be/IDo75YvbOB8](https://youtu.be/IDo75YvbOB8)
 
 
 ## MakeCode Programming 
-
+---
 
 
 
@@ -76,7 +76,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/case_03_09.png)
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -96,7 +96,7 @@ Link: [https://makecode.microbit.org/_9zD1etLWh36q](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9zD1etLWh36q" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result 
 After powering on, the luminance level is able to be adjusted by the trimpot.
