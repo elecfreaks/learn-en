@@ -1,13 +1,13 @@
 # case 21 An Oscillating Fan
 
 ## Introduction
-
+---
 Combine the motor and the servo to make a common head-shaking fan in daily life, and control the fan head-shaking function and turn it on and off by pressing the button.
 
 ![](./images/case_21_01.png)
 
 ## Quick Start
-
+---
 ### Materials Required
 
 Nezha expansion board × 1
@@ -72,7 +72,7 @@ Video:[https://youtu.be/Ysg-t4QNmo8](https://youtu.be/Ysg-t4QNmo8)
 
 
 ## MakeCode Programming
-
+---
 ### Step 1
 Click “Advanced” in the MakeCode drawer to see more choices.
 
@@ -83,7 +83,7 @@ We need to add a package for programming. Click “Extensions” in the bottom o
 ![](./images/case_03_09.png)
 
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
 
 ### Programme as the picture shows:
@@ -100,7 +100,7 @@ You may also downoad it directly below:
 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_hWzUHCY0yioM" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 
 ### Result
