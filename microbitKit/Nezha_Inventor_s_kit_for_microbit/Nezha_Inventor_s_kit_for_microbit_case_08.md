@@ -1,13 +1,13 @@
 # Case 08: Speed Adjustable Fans
 
 ## Introduction
-
+---
 Use the potentiometer and the motor to make a knob to control the fan, and you can use the knob to control the speed of the fan.
 
 ![](./images/case_08_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -72,7 +72,7 @@ Video reference: [https://youtu.be/1-FaQU7Yj0k](https://youtu.be/1-FaQU7Yj0k)
 
 
 ## MakeCode Programming
-
+---
 
 
 
@@ -90,7 +90,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_03_09.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -105,7 +105,7 @@ Link：[https://makecode.microbit.org/_RK1WTKEMyfit](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RK1WTKEMyfit" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 Adjust the speed of the fan via the potentiometer. 
