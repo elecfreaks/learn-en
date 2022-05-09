@@ -1,13 +1,13 @@
 # Case 06: Temperature-controlled Fan
 
 ## Introduction
-
+---
 If staying in a room under a high temperature with dry air, our noses and throats are prone to dryness, congestion, pain, and sometimes nosebleeds. Also, people will become irritable, lack of concentration, poor accuracy and coordination, and slower reaction speed under such condition. What’s more, the body temperature regulation mechanism temporarily becomes obstructed, and heat accumulation in the body occurs, leading to heat stroke. Thus, we can make a smart temperature-controlled fan, when the temperature is high, the fan will be automatically turned on for heat dissipation and cooling, and when the temperature is low, the fan will be automatically turned off to save energy.
 
 ![](./images/case_06_01.png)
 
 ## Quick Start
-
+---
 
 ### Materials Required
 
@@ -61,7 +61,7 @@ Video reference: [https://youtu.be/shI_D7j6M7o](https://youtu.be/shI_D7j6M7o)
 
 
 ## MakeCode Programming
-
+---
 
 ### Step 1
 
@@ -73,7 +73,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_03_09.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -88,7 +88,7 @@ Link：[https://makecode.microbit.org/_3gkW8U8Vk55v](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3gkW8U8Vk55v" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The fan turns on/off automatically according to the temperature. 
