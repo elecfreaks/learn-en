@@ -1,13 +1,13 @@
 # case 20：Micro:bit Avoiding Bricks
 
 ## Introduction
-
+---
 Let’s use micro:bit to make a game of avoiding bricks. It can control the spots by gravity to avoid the falling bricks. Once it touches the bricks, the game ends. Let's see how it works。
 
 
 
 ## Quick to Start
-
+---
 
 ### Materials 
 
@@ -27,7 +27,7 @@ Connect the micro:bit to Nezha expansion board.
 
 
 ##  MakeCode Programming
-
+---
 
 ## Principle:
 
@@ -46,11 +46,11 @@ The implementation logic is roughly divided into two parts, the small highlight 
 
 
 ## Implementation
-
+---
 Next is the implementation part. We need to use two infinite loops to implement the logic of the small bright spot and the logic of the obstacle respectively. 4 sprites (actually a variable representing the sprite) will be generated, one for the small bright spot, and 3 Obstacle sprites also need 2 variables, x and sudu, x is used to accept the generated random number and set the abscissas of 3 obstacle sprites, sudu is used to control the descending speed of obstacles, open the micro:bit online programming website (https://makecode.microbit.org/)
 
 ## Start programming.
-
+---
 On start
 
 1.Under the variable classification, use the variable module to set 6 variables, namely x, sudu, spirt (representing small bright spots), zhangai1 (representing the leftmost obstacle wizard), zhangai2 (representing the middle obstacle wizard), zhangai3 (representing the rightmost obstacle) Elf)
@@ -72,7 +72,7 @@ On start
 
 
 ## The bright spot part
-
+---
 1.Judge the acceleration in the x direction, if it is over 200, add 1 to the spirt x coordinate and pause for 200ms
 
 2.Judge the acceleration in the x direction, if it is less than -200, subtract 1 from the spirt x coordinate, and pause for 200ms
@@ -80,7 +80,7 @@ On start
 ![](./images/case_20_16.png)
 
 ## Obstacles part
-
+---
 1.The 3 obstacle sprites y coordinate minus 1 each time
 
 2.Judge If spirt touches zhangai1 or spirt touches zhangai2 or spirt touches zhangai3, the game is over when it touches any one among them.
@@ -113,7 +113,7 @@ Link: [https : //makecode.microbit.org/_AF1g8HYYeTjH](https://makecode.microbit.
 You may download it directly here:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AF1g8HYYeTjH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 It can control the spots by gravity to avoid the falling bricks. Once it touches the bricks, the game ends. 
