@@ -1,13 +1,13 @@
 # Case 15: Volume Reminder 
 
 ## Introduction 
-
+---
 This device uses the sound intensity detection on the micro:bit V2 to control the servo to rotate to the corresponding position by detecting the surrounding sound level, so that the pointer connected to the servo fluctuates with the volume.
 
 ![](./images/case_15_01.png)
 
 ## Quick to Start
-
+---
 
 ### Materials 
 
@@ -58,7 +58,7 @@ Video link:[https://youtu.be/sq4fq4W51Ck](https://youtu.be/sq4fq4W51Ck)
 
 
 ## MakeCode Programming 
-
+---
 
 
 ### Step 1
@@ -76,7 +76,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/case_03_09.png)
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -95,7 +95,7 @@ Link: [https://makecode.microbit.org/_JfDgxzJkc72X](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_JfDgxzJkc72X" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The servos drive in accordance with the change of the volume. 
