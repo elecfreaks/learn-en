@@ -1,12 +1,13 @@
 # Case 31: The Rotary Password Door
-## Introduction
 
+## Introduction
+---
 The selected password can be adjusted by the potentiometer and confirmed by the crash sensor. If two consecutive passwords are entered within the correct range, the password door will open. Perhaps we can use this device to make some decryption plots to make the game more interesting.
 
 ![](./images/case_31_01.png)
 
 ## Quick Start 
-
+---
 
 
 ### Materials Required
@@ -26,7 +27,7 @@ OLED display  × 1 （It requires to be purchased as standalones.）
 
 Bricks × n
 
-Tips: Purchase Interactive coding accessories pack here. 
+***Tips:*** Purchase Interactive coding accessories pack here. 
 
 
 
@@ -72,7 +73,7 @@ Video link: [https://youtu.be/eniQAfqXym0](https://youtu.be/eniQAfqXym0)
 
 
 ## MakeCode Programming 
-
+---
 
 
 ### Step 1
@@ -89,7 +90,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/case_03_09.png)
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -109,7 +110,7 @@ Link: [https://makecode.microbit.org/_Hc8CCTAUFXv9](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Hc8CCTAUFXv9" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 Adjust the numbers by rotating the trimpot, press the crash sensor after you choose the numbers ready, the door would open if the two passwords are in the correct ranges or the micro:bit displays "x" and the program reruns. 
