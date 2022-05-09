@@ -1,13 +1,13 @@
 # Case 10: Speed Adjustable Car
 
 ## Introduction
-
+---
 This is an adjustable speed car, we can control the speed of the it through the potentiometer installed at the back side.
 
 ![](./images/case_10_01.png)
 
 ## Quick Start
-
+---
 
 
 ### Materials Required
@@ -82,7 +82,7 @@ Video reference: [https://youtu.be/bVa5-wrcoeA](https://youtu.be/bVa5-wrcoeA)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -99,7 +99,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_03_09.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -114,7 +114,7 @@ Link：[https://makecode.microbit.org/_cTDgmegXA5ip](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cTDgmegXA5ip" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The speed of the car could be adjusted by the potentiometer.
