@@ -1,7 +1,7 @@
 # case 22 Micro:bit Helix
 
 ## Introduction
-
+---
 ![](./images/case_22_01.png)
 
  In this article, let’s learn how to draw a helix with micro:bit. Press the button A to draw a helix on the LED screen, and press button B to eliminate the helix as the same way:
@@ -9,7 +9,7 @@
 ![](./images/case_22_02.gif)
 
 ## Principle
-
+---
 1. Draw a line of n units and turn left with 90 degrees.
 
 2.  Draw a line of n units and turn left with 90 degrees.
@@ -23,7 +23,7 @@ Steps 1 and 2 here can be controlled by a loop block in twice, then use a loop i
 In addition, we also need to draw and clear graphics. The principle is also very simple. We only need to adjust the brightness of the brush. When drawing, the brightness is 128. When clearing the graphics, set the brightness to 0, and then the brush follows the same route. Go again and the graphics will be cleared.
 
 ## Add the extensions:
-
+---
 1.Go to MakeCode editor:[ https://makecode.microbit.org/ ]( https://makecode.microbit.org/ )to create a new project.
 
 2.Click “Advanced” to see more choices and click “Extensions”.
@@ -39,7 +39,7 @@ In addition, we also need to draw and clear graphics. The principle is also very
 ![](./images/case_22_05.png)
 
 ## Code
-
+---
 Draw a Helix function
 
 1.Create a function and name it as Helix
@@ -71,7 +71,7 @@ Button response event
 ![](./images/case_22_07.png)
 
 ## Code
-
+---
 ![](./images/case_22_08.png)
 
 Link:[https://makecode.microbit.org/_0z4Xuh0rshP1](https://makecode.microbit.org/_0z4Xuh0rshP1) 
@@ -79,9 +79,9 @@ Link:[https://makecode.microbit.org/_0z4Xuh0rshP1](https://makecode.microbit.org
 You may download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0z4Xuh0rshP1" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
-Note:
+
+***Note:***
 
 You may have noticed a strange movement of the final spiral in the result. This is because of the LED dot matrix screen. If it exceeds the LED dot matrix, it will be processed in a loop, that is, if it has reached the edge of the screen, go upward movement will be processed as the cursor moves to the bottom of the screen, and then moves up, and at the same time we add a right turn, so when the cursor moves to the bottom, it moves to the right by n steps.
 
