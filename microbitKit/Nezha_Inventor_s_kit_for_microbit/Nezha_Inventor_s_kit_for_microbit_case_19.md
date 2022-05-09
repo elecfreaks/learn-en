@@ -1,13 +1,13 @@
 # case 19：The Automatic Laundry Rack
 
 ## Introduction
-
+---
 When people are not at home, if it suddenly rains, we will be able to go home to pick up the clothes, and the clothes will get wet. Thus, we can use soil moisture sensor and servos to make a simple automatic drying rack. When the soil moisture sensor detects rain, it controls the servo to automatically retract the clothes rod to keep the clothes from getting wet. When the soil moisture sensor does not detect rain, it automatically extends the clothes rod to dry the clothes.
 
 ![](./images/case_19_01.png)
 
 ## Quick to Start
-
+---
 ### Materials 
 
 Nezha expansion board × 1
@@ -81,7 +81,7 @@ Video reference: [https://youtu.be/t2mYccra8Vw](https://youtu.be/t2mYccra8Vw)
 
 
 ## MakeCode Programming
-
+---
 
 
 ### Step 1
@@ -100,7 +100,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ![](./images/case_03_09.png)
 
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 
 
@@ -121,7 +121,7 @@ Link：[https://makecode.microbit.org/_2Ub6zkdT8RbY](https://makecode.microbit.o
 You may also downoad it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2Ub6zkdT8RbY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 While rainning, the detected value from the soil moisture sensor is over the setting point, the laundry rack folds back in case of the clothes getting wet; while the sun comes out, the the detected value from the soil moisture sensor is below the setting point, and the the laundry rack stretches out to dry the clothes. 
