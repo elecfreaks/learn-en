@@ -79,7 +79,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ![](./images/case_03_09.png)
 
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
