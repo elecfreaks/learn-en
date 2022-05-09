@@ -1,13 +1,13 @@
 # Case 16: Memory Test 
 
 ## Introduction 
-
+---
 This is a memory testing device. The red and green lights on the device will light up randomly. After all the light instructions are displayed, you need to press the corresponding buttons according to the order of the lights, (A stands for red, B stands for green) , If in the correct order, the micro:bit displays "√", otherwise the micro:bit displays a sad face.
 
 ![](./images/case_16_01.png)
 
 ## Quick to Start
-
+---
 ### Materials 
 
 Nezha expansion board × 1
@@ -54,7 +54,7 @@ Video link:[https://youtu.be/ie4sO5qNvfM](https://youtu.be/ie4sO5qNvfM)
 
 
 ## MakeCode Programming 
-
+---
 
 
 ### Step 1
@@ -70,7 +70,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 
 
-Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu. 
 
 ### Step 2
 
@@ -87,7 +87,7 @@ Link: [https://makecode.microbit.org/_RXyWcdDkYWm3](https://makecode.microbit.or
 You may also downoad it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RXyWcdDkYWm3" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The red and green LEDs light on at random, press button A while the red lights on; press button B while the green lights on, if you press them at the right sequence(A for red and B for green ), the micro:bit display a "√" or it displays a sad face. 
