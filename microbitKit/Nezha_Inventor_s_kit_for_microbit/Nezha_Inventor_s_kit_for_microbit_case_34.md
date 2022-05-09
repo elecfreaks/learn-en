@@ -1,13 +1,13 @@
 # Case 34: Gesture Recognition Car
 
 ## Introduction
-
+---
 This is a simple car. We can install gesture recognition sensors on the car to control the car’s driving route based on gestures.
 
 ![](./images/case_34_01.png)
 
 ## Quick Start
-
+---
 ### Materials Required
 
 Nezha expansion board × 1
@@ -20,7 +20,7 @@ Gesture sensor × 1
 
 Bricks × n
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 
@@ -84,7 +84,7 @@ link: [https://youtu.be/ib-xX0MS41U](https://youtu.be/ib-xX0MS41U)
 
 
 ## MakeCode Programming
-
+---
 
 ### Step 1
 
@@ -99,7 +99,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_03_09.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -116,7 +116,7 @@ Link: [https://makecode.microbit.org/_WkPER99xMP8e](https://makecode.microbit.or
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WkPER99xMP8e" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 After powering on, the car moves along with the indicated gestures. 
