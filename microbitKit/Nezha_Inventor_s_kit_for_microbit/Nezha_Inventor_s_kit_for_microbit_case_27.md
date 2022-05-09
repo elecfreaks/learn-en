@@ -1,13 +1,13 @@
 # Case 27: The Distance Indicator
 
 ## Introduction 
-
+---
 This is a distance detection device. In order to prevent the spread of the epidemic, people should maintain a certain social distance in public. This device can display the distance between the carrier and the person in front of it on the screen.
 
 ![](./images/case_27_01.png)
 
 ## Quick Start 
-
+---
 
 
 ### Materials Required
@@ -54,7 +54,7 @@ Video link: [https://youtu.be/0HgP_YVgNJU](https://youtu.be/0HgP_YVgNJU)
 
 
 ## MakeCode Programming 
-
+---
 
 
 ### Step 1
@@ -71,7 +71,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/case_03_09.png)
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -90,7 +90,7 @@ Link: [https://makecode.microbit.org/_Vb69KzLR3Dhe](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Vb69KzLR3Dhe" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 After powering on, the detected distance displays on the micro:bit. 
