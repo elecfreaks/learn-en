@@ -1,19 +1,21 @@
 # Case 28:The Wiper
+
 ## Purpose
+---
 Make a wiper.
  
 ![](./images/Wonder-Building-Kit-case-28-01.png)
 
 ## Link: 
-
+---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
 ## Materials Required
-
+---
 ![](./images/Wonder-Building-Kit-step-case-28-01.png)
 
 ## Bricks build-up
-
+---
 ![](./images/Wonder-Building-Kit-step-case-28-02.png)
 
 ![](./images/Wonder-Building-Kit-step-case-28-03.png)
@@ -49,10 +51,11 @@ Make a wiper.
 ![](./images/Wonder-Building-Kit-step-case-28-18.png)
 
 ## Software Platform
-
+---
 [MakeCode](https://makecode.microbit.org/)
 
 ## Coding
+---
 ### Add extensions
 Click "Advanced" in the MakeCode to see more choices.
  
