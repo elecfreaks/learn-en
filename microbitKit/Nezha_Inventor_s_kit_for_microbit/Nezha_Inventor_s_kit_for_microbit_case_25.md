@@ -1,13 +1,13 @@
 # Case 25: Colors of the Emotions
 
 ## Introduction
-
+---
 This is an emotional micro:bit. It will show a smile to the color that it likes, and it will also express sadness or anger at the color it doesn't like. Let’s find out the favorite color of the small micro:bit.
 
 ![](./images/case_25_01.png)
 
 ## Quick Start 
-
+---
 
 
 ### Materials Required
@@ -56,7 +56,7 @@ Video link: [https://youtu.be/5xkxc6J6AnI](https://youtu.be/5xkxc6J6AnI)
 
 
 ## MakeCode Programming 
-
+---
 
 
 
@@ -76,7 +76,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 ![](./images/case_03_09.png)
 
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -94,7 +94,7 @@ Link: [https://makecode.microbit.org/_KMwAWW7dh84P](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_KMwAWW7dh84P" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 After powering on, the micro:bit displays different emotions in accordance with the colors detected by the sensor. 
