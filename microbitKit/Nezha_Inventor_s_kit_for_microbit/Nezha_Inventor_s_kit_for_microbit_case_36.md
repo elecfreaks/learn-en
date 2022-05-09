@@ -1,13 +1,13 @@
 # Case 36: Color Recognition Password Door
 
 ## Introduction 
-
+---
 This is a unique code door because it uses colors as the password. The code door will only open when the color cards are placed in the correct order.
 
 ![](./images/case_36_01.png)
 
 ## Quick Start 
-
+---
 
 ### Materials Required
 
@@ -24,7 +24,7 @@ Crash sensor  × 1
 
 Bricks × n
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 
@@ -70,7 +70,7 @@ Video link: [https://youtu.be/WiSpnc5fPbA](https://youtu.be/WiSpnc5fPbA)
 
 
 ## MakeCode Programming 
-
+---
 
 
 ### Step 1
@@ -87,7 +87,7 @@ We need to add a package for programming. Click "Extensions" in the bottom of th
 
 ![](./images/case_03_09.png)
 
-Note: If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Note:*** If you met a tip indicating the codebase might be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -105,7 +105,7 @@ Link: [https://makecode.microbit.org/_3xJgWP2ig48r](https://makecode.microbit.or
 You may download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3xJgWP2ig48r" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 Sending the passwords via the colors, press the crash sensor to confirm after you choose the colors ready, the door would open if the two passwords are correct or the micro:bit displays "x" and the program reruns. 
