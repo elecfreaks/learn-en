@@ -1,13 +1,13 @@
 # Case 11: Line-tracking Car
 
 ## Introduction
-
+---
 This is a line tracking car, we can use black electrical tape to paste a track on the white plane, and then make the car drive according to the preset trajectory.
 
 ![](./images/case_11_01.png)
 
 ## Quick Start
-
+---
 ### Materials Required
 
 Nezha expansion board × 1
@@ -83,7 +83,7 @@ Video reference: [https://youtu.be/N2w01pGaj30](https://youtu.be/N2w01pGaj30)
 
 
 ## MakeCode Programming
-
+---
 
 
 
@@ -101,7 +101,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/case_03_09.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
 
@@ -117,7 +117,7 @@ Link：[https://makecode.microbit.org/_MbaX4mTEmHmf](https://makecode.microbit.o
 You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MbaX4mTEmHmf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 The car drives along with the black line. 
