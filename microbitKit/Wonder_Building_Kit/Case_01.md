@@ -69,6 +69,6 @@ Search with Wukong in the dialogue box to download it.
 
 ### Program
  
-
+![](./images/case-01-05.png)
 Link:[https://makecode.microbit.org/_K6mFyJ16ofCj](https://makecode.microbit.org/_K6mFyJ16ofCj)
 
