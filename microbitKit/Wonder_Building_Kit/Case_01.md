@@ -70,5 +70,5 @@ Search with Wukong in the dialogue box to download it.
 ### Program
  
 
-Link:[https://makecode.microbit.org/_8iVYPXex5h1o](https://makecode.microbit.org/_8iVYPXex5h1o)
+Link:[https://makecode.microbit.org/_K6mFyJ16ofCj](https://makecode.microbit.org/_K6mFyJ16ofCj)
 
