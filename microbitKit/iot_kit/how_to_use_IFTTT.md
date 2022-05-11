@@ -17,9 +17,10 @@ Log in IFTTT. If you don't have an account, please register one first.
  
 
 ## Step 2: IFTTT Webhooks Setting
-
-Create an Applet.
 ---
+
+### Create an Applet.
+
 ![](./images/case_ifttt_04.png)
 
 Click on "this". 
@@ -71,7 +72,7 @@ Here's the setting of connection with IFTTT:
 
  ![](./images/case_ifttt_16.png)
 
-Note:
+***Note:***
 URL is the link of web request, which has to include a Private Key provided by IFTTT.
 Content type must be JSON, because the expected format od IFTTT Maker Channel is JSON.
 Within Body, you can invoke any data in Channel. This is the data that is going to be sent to IFTTT with the format as follow: {"value1":"%%channel_138112_field_1%%"}
@@ -80,7 +81,9 @@ For more details about ThingHTTP App, please refer to https:[//ww2.mathworks.cn/
  ![](./images/case_ifttt_17.png)
 
 For more details about React APP, please refer to https://ww2.mathworks.cn/help/thingspeak/react-app.html.
-### Step 4: Test
+
+## Step 4: Test
+---
 Till this step, you have already completed all of settings. Now let's test it! If the temperature has not arrived 30 degrees yet, you can hold micro:bit with your hands to improve its temperature.
  
 ![](./images/case_ifttt_18.png)
