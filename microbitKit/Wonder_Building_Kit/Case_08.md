@@ -125,5 +125,5 @@ For the robot arm:
 
 ![](./images/case-08-06.png)
 
-Link:[https://makecode.microbit.org/_Wh1gkFXdph36](https://makecode.microbit.org/_Wh1gkFXdph36)
+Link:[https://makecode.microbit.org/_92hgiPE9Kdec](https://makecode.microbit.org/_92hgiPE9Kdec)
 
