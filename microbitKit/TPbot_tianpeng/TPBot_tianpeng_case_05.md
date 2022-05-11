@@ -34,7 +34,7 @@
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-##Sample
+### Sample
 - Set to move forward at the speed of 100%. 
 - Judge if the current light intensity is below the set point, if yes, set the headlights in white; or in black. 
 
@@ -46,7 +46,7 @@
 - You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4Wm85b3K4ikU" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
@@ -54,16 +54,13 @@
 - Power up to set the TPBot driving forward and turning on/off the headlights automatically while it goes into the dark/bright area. 
 
 ## Exploration
-
 ---
 
 
 ## FAQ
-
 ---
 
 
 ## Relevant File
-
 ---
 
