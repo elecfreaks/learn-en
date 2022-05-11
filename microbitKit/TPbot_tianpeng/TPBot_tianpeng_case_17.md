@@ -14,26 +14,22 @@
 
 
 ## Hardware connection
-
+---
 Connect gesture sensor to IIC port on TPBot. 
 
 ![](./images/TPBot_tianpeng_case_17_03.png)
 
 
-
-
 ## Software
+---
 
-  ---
-
-  [MicroSoftmakecode](https://makecode.microbit.org/#)
+ [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
-  ## Programming
+## Programming
+---
 
-  ---
-
-  Click "Advanced" to see more choices in the MakeCode drawer. 
+Click "Advanced" to see more choices in the MakeCode drawer. 
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
@@ -46,7 +42,7 @@ Connect gesture sensor to IIC port on TPBot.
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
 
-## Sample
+### Sample
 
 -  Drag the show icon brick into on start. 
 - Detect the hands gesture through the gesture sensor, set the car to move forward at the speed of 40% for 1s while detecting your hand waving upward.
@@ -61,7 +57,7 @@ Connect gesture sensor to IIC port on TPBot.
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_PqAPVDY7hDRR" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
@@ -69,12 +65,10 @@ Connect gesture sensor to IIC port on TPBot.
 - Face your hands onto the gesture sensor, control TPBot's movement with your hands gesture. 
 
 ## Exploration
-
 ---
 
 
 ## FAQ
-
 ---
 
 
@@ -83,6 +77,5 @@ Q: While operating this case, why the car might not work properly?
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again. 
 
 ## Relevant File
-
 ---
 
