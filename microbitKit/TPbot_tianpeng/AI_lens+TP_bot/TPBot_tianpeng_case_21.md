@@ -52,6 +52,7 @@ Connect the AI Lens to the IIC port on TPBot.
 ![](./images/TPBot_tianpeng_case_21_07.png)
 
 - In forever brick, get an image from the AI lens and adjust TPBot's headlights' color by the color recognized in the lens. 
+
 ![](./images/TPBot_tianpeng_case_21_08.png)
 
 - Complete Code:
