@@ -5,7 +5,6 @@
 - Build a face-tracking TPBot with the Smart AI Lens.
 
 ## Materials required
-
 ---
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
@@ -21,20 +20,18 @@
 
 
 ## Hardware Connections
-
+---
 Connect the AI Lens to the IIC port on TPBot. 
 
 ![](./images/TPBot_tianpeng_case_20_03.png)
 
 ## Software 
-
 ---
 
 [MicroSoft MakeCode](https://makecode.microbit.org/#)
 
 
 ## MakeCode Programming
-
 ---
 
 
@@ -52,7 +49,7 @@ Connect the AI Lens to the IIC port on TPBot.
 
 
 
-##Sample Code
+### Sample Code
 
 - Initialize the AI lens kit in the On start brick and switch its function to face recognition. 
 
@@ -74,13 +71,13 @@ Connect the AI Lens to the IIC port on TPBot.
 - You may also download it directly here:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_i4aLd1MvADLU" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
---
----
+
 
 
 ## Python Programming
 ---
 Add TPBot extension: [https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPbot-python.html](https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPbot-python.html)
+
 Add AI Lens extension: [https://www.elecfreaks.com/learn-cn/microbitplanetX/ai/Plant-X-EF05035-python.html](https://www.elecfreaks.com/learn-cn/microbitplanetX/ai/Plant-X-EF05035-python.html)
 
 ### Code
@@ -111,19 +108,15 @@ while True:
         tp.set_motors_speed(0,0)
 ```
 
-
----
 ## Result
 ---
 The TPBot changes its heading direction in accordance with the face the AI Lens detects. 
 
 ## Exporation
-
 ---
 
 
 ## FAQ
-
 ---
 
 Q: TPBot doesn't work with the sample code. 
@@ -132,6 +125,5 @@ Q: The AI Lens is not working,  and it does not go to the function page with the
 A: Please try replacing with new batteries. 
 
 ## Relevant File
-
 ---
 
