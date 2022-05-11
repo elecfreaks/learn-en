@@ -9,13 +9,7 @@
 
 - 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
 
-
-
 ![](./images/TPBot_tianpeng_case_01_01.png)
-
-
-
-
 
 ## Software
 ---
@@ -34,7 +28,7 @@
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-##Sample
+### Sample
 - Set an icon on the micro:bit display. 
 - Save the variable as the distance detected from the TPBot to its front car in the forever brick, judge if the the distance is between 10 and 20(exl. 10&20), if yes, set the speed of both wheels in 0; if the distance is below 10, set the speed of both wheels in -30%; or set the speed both in 30%. 
 
@@ -46,7 +40,7 @@
 - You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9ugK1pVyPE8M" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
@@ -54,18 +48,15 @@
 Power up to show an icon on the micro:bit display and the TPBot keeps a distance to its front car.  It goes slower if the distance detected was close or it goes forward if the distance detected was far; and it stops if the distance detected was between the set interval value. 
 
 ## Exploration
-
 ---
 
 
 ## FAQ
-
 ---
 
 Q: The car does not work with the code in the wiki.     
 A: It should be the batteries that are lack of power, please try to fix it by adding the value of the speed in the code. 
 
 ## Relevant File
-
 ---
 
