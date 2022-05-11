@@ -34,7 +34,7 @@
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-##Sample A
+### Sample A
 - The LED headlights are in black while on start, and the micro:bit shows an icon.
 - Press button A to make the LED headlights show red. 
 - Press button B to make the LED headlights show blue. 
@@ -50,7 +50,7 @@
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0RM5AJgos7C5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
@@ -60,7 +60,7 @@
 - Press button B to make the LED headlights show blue. 
 - Press button A+B to make the LED headlights show green. 
 
-##Sample B 
+### Sample B 
 - While on start, set the micro:bit showing an icon and the LED headlights in red for 2 seconds and then turning off. 
 
 ![](./images/TPBot_tianpeng_case_02_05.png)
@@ -71,7 +71,7 @@
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_P5cJ7oV1664J" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
