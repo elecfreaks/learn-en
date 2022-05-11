@@ -1,12 +1,12 @@
 # The first part: Upload the data collected by IoT kit to the Thingspeak IoT platform.
----
+
 ThingSpeak can deal with HTTP request, save and process data. This platform has function as open application, real-time data collection, location data, data processing, visualization, device status information and plug-in. It can integrate many hardwares and software platforms like Arduino, Raspberry Pi, ioBridge/RealTime.io、Electic lmp, mobile & internet application, social network and MATLAB data processing. It also porvide hosted service apart from open source edition.
 
 Thingspeak link: [thingspeak](https://thingspeak.com/)
 
-### Thingspeak Registration
- 
-- Head to thingspeak website, click on Get Started For Free and in create MathWorks Account package.
+## Thingspeak Registration
+---
+Head to thingspeak website, click on Get Started For Free and in create MathWorks Account package.
 
 ![](./images/case_ts_01.png)
 
@@ -14,7 +14,7 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 
 ![](./images/case_ts_02.png)
 
--Confirm the email address, click it as the sign in account to continue.
+- Confirm the email address, click it as the sign in account to continue.
 
 ![](./images/case_ts_03.png)
 
@@ -23,7 +23,7 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 ![](./images/case_ts_04.png)
  
 - Then set your own user ID and password(Note: both Captital and lower case words are required)，then click on continue to go on.
-- 
+
 ![](./images/case_ts_05.png)
 
 - Then, Sign-up successful!
@@ -32,8 +32,8 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 
 ![](./images/case_ts_06.png)
 
-##Thingspeak guide:
-
+## Thingspeak guide:
+---
 - Here we will upload luminous intensity for testing. 
 
 - Click on “MY Channels” and click on **New Channel** for your new project.
@@ -55,8 +55,8 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 ![](./images/case_ts_10.png)
 
 ## Coding
-
 ---
+
 ### Connection diagram:
 - Connect the iot:bit to the micro:bit.
 - 
@@ -71,7 +71,7 @@ Thingspeak link: [thingspeak](https://thingspeak.com/)
 
 ![](./images/iot_bit_12.jpg)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 #### Step 2
 
@@ -104,7 +104,6 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 #### Result
----
 
 Uploading the random data to the thingspeak continuously. 
 
@@ -113,9 +112,9 @@ You can check all datas on the thingspeak.
 ![](./images/case_ts_13.png)
 
 
-### Thingspeak Add visulization
-
----Click the visulization button to choose the three choices: [stopwatch],[Numeric Display],[Threshold indicator light].
+## Thingspeak Add visulization
+---
+- Click the visulization button to choose the three choices: [stopwatch],[Numeric Display],[Threshold indicator light].
 
 ![](./images/case_ts_14.png)
 
