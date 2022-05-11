@@ -69,5 +69,5 @@ Search with Wukong in the dialogue box to download it.
  
 ![](./images/case-03-05.png)
 
-Link:[https://makecode.microbit.org/_RxjRuPiKR8gJ](https://makecode.microbit.org/_RxjRuPiKR8gJ)
+Link:[https://makecode.microbit.org/_FFibega47Hwy](https://makecode.microbit.org/_FFibega47Hwy)
 
