@@ -60,6 +60,7 @@ The car move forward with the servo rotating.
 ## FAQ
 ---
 Q: The car cannot move with the code in this case? 
+
 A: It might be a lack power of the battery, please add the value of the parameter for the speed of the car and test it. 
 
 ##  Revelant File 
