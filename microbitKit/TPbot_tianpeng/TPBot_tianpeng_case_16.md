@@ -9,12 +9,11 @@
 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
 
 
-
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
 ## Hardware connection
-
+---
 Connect rainbow led to port 1 on TPBot. 
 
 
@@ -24,15 +23,13 @@ Connect rainbow led to port 1 on TPBot.
 
 
 ## Software
-
-  ---
+---
 
   [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
-  ## Programming
-
-  ---
+## Programming
+---
 
   Click "Advanced" to see more choices in the MakeCode drawer. 
 
@@ -46,7 +43,7 @@ Connect rainbow led to port 1 on TPBot.
 
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
-## Sample
+### Sample
 
 - In on start brick, initialize the led strip and has it connected to J1 port, set TPBot move forward at the speed of 50%. 
 -  Save the variable "i" as 1 while pressing button A and set it as 0 while pressing button B. 
@@ -63,19 +60,16 @@ Connect rainbow led to port 1 on TPBot.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_TvrRaMJLKPWr" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
----
 ## Conclusion 
 ---
 
 - The TPBot moves forward after powering on, press button A on the micro:bit to turn on the LED cycling with red and blue, press button B to turn it off. 
 
 ## Exploration
-
 ---
 
 
 ## FAQ
-
 ---
 
 Q: While operating this case, why the car might not work properly?
@@ -83,6 +77,5 @@ Q: While operating this case, why the car might not work properly?
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again. 
 
 ## Relevant File
-
 ---
 
