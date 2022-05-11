@@ -120,8 +120,11 @@ If the yellow card is recognized, the TPBot lights on in yellow.
 ## FAQ
 ---
 Q: TPBot doesn't work with the sample code. 
+
 A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries. 
+
 Q: The AI Lens is not working,  and it does not go to the function page with the sample code. 
+
 A: Please try replacing with new batteries. 
 
 ## Relevant File
