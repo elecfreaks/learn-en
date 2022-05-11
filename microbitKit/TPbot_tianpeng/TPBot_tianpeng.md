@@ -1,23 +1,23 @@
-# 1. TPBot Introduction 
+# TPBot Introduction 
 
-## 1.1 Introduction
+## Introduction
 ---
 
 - TP Bot is a smart coding car for micro:bit. It can be regarded as a toy for its preset functions that do not need a micro:bit; it can also be used as a teaching aid at the same time, you can code it via the micro:bit or make extensions for the other modules and the Lego bricks to develop children’s imagination and creativity. 
 
 
 
-## 1.2 Picture
+## Picture
 ---
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
-## 1.3 Parameter
+## Parameter
 ---
 
 ![](./images/TPBot_tianpeng_02.png)
 
-## 1.4 Purchasing Link
+## Purchasing Link
 ---
 
 - 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
@@ -31,7 +31,7 @@
 
 ![](./images/TPBot_tianpeng_05.png)
 
-Note: The connection to servos shall be inserted vertically with the Ground wire in the bottom. 
+***Note:*** The connection to servos shall be inserted vertically with the Ground wire in the bottom. 
 
 ## User Guide
 ---
