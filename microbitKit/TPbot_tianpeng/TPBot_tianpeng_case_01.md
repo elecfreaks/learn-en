@@ -34,7 +34,8 @@
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-##Sample A
+### Sample A
+---
 - Drag the brick of setting the speed in both 100 for both wheels of TPBot into the "On Start". 
 
 ![](./images/TPBot_tianpeng_case_01_04.png)
@@ -45,13 +46,13 @@
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0r5C5L029L9m" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
 - TPBot keeps moving forward. 
 
-##Sample B
+### Sample B
 - Drag and set the brick of moving forward at the speed of 100 and lasting for 3 seconds into the "On Start". 
 
 ![](./images/TPBot_tianpeng_case_01_05.png)
@@ -62,14 +63,14 @@
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_XXH3yP66oRRp" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
 
 - TPBot moves forward at full speed for 3 seconds and then stops. 
 
-##Sample C
+### Sample C
 - Drag and set the brick of moving forward at the speed of 100 into the brick of "while button A being pressed", then set to pause for 2000ms, and drag the stops immediately brick as the pic says. 
 
 ![](./images/TPBot_tianpeng_case_01_06.png)
@@ -80,7 +81,7 @@
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6i4awR07MA7E" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
