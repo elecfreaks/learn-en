@@ -53,6 +53,7 @@ Let the 180° servo be connected to `P10`.
 ### Step 2
 
 Snap the `servo write` block into the `on start`, write in `0` to turn the servo to 0 deg for shuting the valve.
+
 ![](./images/case_04_02.png)
 
 ### Step 3
