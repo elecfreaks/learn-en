@@ -1,12 +1,12 @@
 #  The fourth part: Guidance of KidsIoT
 ---
-- ）KidsIoT is a platform for IoT(Internet of Things) produced by Elecfreaks with only three minutues to get connected, it can achieve a remote control to the micro:bit. (Currently in English version only)
+- KidsIoT is a platform for IoT(Internet of Things) produced by Elecfreaks with only three minutues to get connected, it can achieve a remote control to the micro:bit. (Currently in English version only)
  link: [KidsIoT Cloud Platform: https://www.kidsiot.cn/](https://www.kidsiot.cn/)
 
 ![](./images/kidsiot_01.jpg)
 
 ## Registration
-
+---
 - Sign up in the website to get a new account. 
 
 ![](./images/kidsiot_02.jpg)
@@ -28,7 +28,7 @@
 ![](./images/kidsiot_06.jpg)
 
 ## Guidance of the KidsIoT
-
+---
 - Go to the log in interface by clicking Sign in. 
 
 ![](./images/kidsiot_07.jpg)
@@ -77,7 +77,7 @@
 
 ![](./images/kidsiot_13.jpg)
 
-***Note：If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
+***Note：*** If you get a warning indicating some packages will be removed because of incompatibility issues, you can follow the prompts or create a new project in the menu.
 
 
 
@@ -93,20 +93,19 @@ Connect to Kids'IoT platform, User Token(Currently miswritting as ID) is the onl
 
 Topic is the only indentification code and you have to appoint the updload device when connecting. The device number(Topic) will be in sequential order.
 
-- - - - -
 
 ![](./images/kidsiot_17.jpg)
 
 Upload an integer to KidsIoT and it shows here. 
 
 ![](./images/kidsiot_18.jpg)
-- - - - -
+
 
 ![](./images/kidsiot_19.jpg)
 
 Judge if the conection status is successful, "Ture" for success, "False" for failure. 
 You can edit the reconnection system to ensure the stable connection.
-- - - - -
+
 
 ![](./images/kidsiot_20.jpg)
 
@@ -125,7 +124,7 @@ You can also revise the code with the below page:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4pCRr0DKYh58" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### Result
----
+
 Connect WIFI when on start. 
 Continuously judge if the WIFI is connected successfully, if yes, a big icon will be shown or it continues connecting. 
 Continuously judge if the connection to KidsIoT is ready, if yes, a small icon will be shown or it continues connecting.
