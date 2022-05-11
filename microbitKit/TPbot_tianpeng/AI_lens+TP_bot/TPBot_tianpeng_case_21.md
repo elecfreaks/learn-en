@@ -5,7 +5,6 @@
 - Using Smart AI Lens to recognize the color and display it on the head lights of TPBot. 
 
 ## Materials required
-
 ---
 
 - 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
@@ -16,25 +15,19 @@
 
 ![](./images/TPBot_tianpeng_case_20_02.png)
 
-
-
-
-
 ## Hardware Connections
-
+---
 Connect the AI Lens to the IIC port on TPBot. 
 
 ![](./images/TPBot_tianpeng_case_20_03.png)
 
 ## Software 
-
 ---
 
 [MicroSoft MakeCode](https://makecode.microbit.org/#)
 
 
 ## MakeCode Programming
-
 ---
 
 
@@ -52,7 +45,7 @@ Connect the AI Lens to the IIC port on TPBot.
 
 
 
-##Sample Code
+### Sample Code
 
 - Initialize the AI lens kit in the On start brick and switch its function to color recognition, then show an icon. 
 
@@ -73,13 +66,12 @@ Connect the AI Lens to the IIC port on TPBot.
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_aAsAR1Tfj8kk" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
---
----
-
 
 ## Python Programming
 ---
+
 Add TPBot extension: [https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPbot-python.html](https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPbot-python.html)
+
 Add AI Lens extension: [https://www.elecfreaks.com/learn-cn/microbitplanetX/ai/Plant-X-EF05035-python.html](https://www.elecfreaks.com/learn-cn/microbitplanetX/ai/Plant-X-EF05035-python.html)
 
 ### Code
@@ -111,8 +103,6 @@ while True:
         tp.set_car_light(255, 255, 0)     
 ```
 
-
----
 ## Result
 ---
 The TPBot drives forward,
