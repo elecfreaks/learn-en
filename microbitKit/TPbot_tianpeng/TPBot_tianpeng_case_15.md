@@ -10,12 +10,11 @@
 - 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
 
 
-
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
 ## Hardware connection
-
+---
 Connect potentiometer to port 1 on TPBot. 
 
 
@@ -24,14 +23,12 @@ Connect potentiometer to port 1 on TPBot.
 
 
 ## Software
-
 ---
 
 [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
 ## Programming
-
 ---
 
 Click "Advanced" to see more choices in the MakeCode drawer. 
@@ -46,7 +43,8 @@ Click "Advanced" to see more choices in the MakeCode drawer.
 
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
-##Sample
+### Sample
+
 - Drag the show icon brick into on start. 
 - In forever brick, map the returned value of the potentiometer from 0~1023 to 0~100, and set the mapping value as the speed for the car to move forward. 
 
@@ -59,9 +57,7 @@ Click "Advanced" to see more choices in the MakeCode drawer.
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_ArRM71PD6de0" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
 
----
 ## Conclusion
 ---
 
