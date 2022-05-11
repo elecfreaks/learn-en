@@ -48,7 +48,7 @@ Let the onboard buzzer be connected to `P0`.
 
 ![](./images/iot_bit_12.jpg)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2
 
@@ -57,6 +57,7 @@ Get value from `P1` and assignment it to `IR` block uner `forever`, to judge if 
 If the `IR` parameter is equal to `1`, get the ultrasonic returned value again and assignment to the `ultrasonic` variable. 
 
 If the `ultrasonic` variable is lower than 30, play a `ba ding` to warning. 
+
 ![](./images/case_05_02.png)
 
 
@@ -71,8 +72,9 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ### Result
----
+
 It will play a remind sound when detecting creatures approching in a near distance.
+
 ## Think
 ---
 
