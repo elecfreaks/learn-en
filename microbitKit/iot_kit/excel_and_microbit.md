@@ -11,7 +11,7 @@ For this purpose, we will do with the below three steps:
 
 ![](./images/case_excel_01.jpg)
 
-### The Experiment-from micro:bit to Excel ##
+### The Experiment-from micro:bit to Excel
 
 ### The first step: programming the micro:bit
 
@@ -23,7 +23,6 @@ All you have to do is, go to [www.makecode.com](http://www.makecode.com/), selec
 The program we’ll write for this experiment will simply collect data from two sensors that we can easily play with – acceleration and light level, and send a sampling of the sensors over the serial communication port every 100ms.
 
 ![](./images/case_excel_02.png)
----
 
 ### The second step:download the program to the micro:bit
 
