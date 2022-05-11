@@ -58,12 +58,15 @@ Once you do that, you should see a stream of data that looks something like this
  ![](./images/case_excel_05.jpg)
 
 3.If it passes from the terminal simulator, go to "device manager"-choose "port", find "USB serial device".
+
 ![](./images/case_excel_10.jpg)
 
 Right click the mouse to find propertities to choose the port setting, change the first data to "115200".
+
 ![](./images/case_excel_11.jpg)
 
 Click "Advanced", set the "COM port" to "1" or "2", click to confirm the setting in turns.
+
 ![](./images/case_excel_12.jpg)
 
 **The incoming data flow - light level and acceleration**
@@ -127,12 +130,15 @@ This is what it looks like:
 The fifth step: Revise VBA code
 
 Click"view"to choose "macro".
+
 ![](./images/case_excel_13.jpg)
 
 Choose"StartBtn-click" to"edit".
+
 ![](./images/case_excel_14.jpg)
 
 Revise the value of "COM" to the former port value, here the example is "2" in this code.
+
 ![](./images/case_excel_15.jpg)
 
 Clict to save the Excel in the right upper corner and reopen it.
@@ -140,6 +146,7 @@ Clict to save the Excel in the right upper corner and reopen it.
 **The end result - incoming data is visualized live!**
 
 All you have to do now is click “Start” and see the data coming in and being charted live! 
+
 ![](./images/case_excel_07.jpg)
 
 
