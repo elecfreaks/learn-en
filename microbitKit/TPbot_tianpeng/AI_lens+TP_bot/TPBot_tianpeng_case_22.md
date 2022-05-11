@@ -20,7 +20,7 @@
 
 
 ## Hardware Connections
-
+---
 Connect the AI Lens to the IIC port on TPBot. 
 
 ![](./images/TPBot_tianpeng_case_20_03.png)
@@ -48,13 +48,14 @@ Connect the AI Lens to the IIC port on TPBot.
 
 
 
-##Sample Code
+### Sample Code
 
 - Initialize the AI lens kit in the On start brick and switch its function to balls recognition. 
 
 ![](./images/TPBot_tianpeng_case_21_07.png)
 
 - In forever brick, get an image from the AI lens and adjust TPBot's movement by the balls recognized in the lens. 
+
 ![](./images/TPBot_tianpeng_case_22_08.png)
 
 - Complete code:
@@ -69,13 +70,12 @@ Connect the AI Lens to the IIC port on TPBot.
 - You may also download it directly here:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_TY634U7x5RaH" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
---
----
 
 
 ## Python Programming
 ---
 Add TPBot extension: [https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPbot-python.html](https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPbot-python.html)
+
 Add AI Lens extension: [https://www.elecfreaks.com/learn-cn/microbitplanetX/ai/Plant-X-EF05035-python.html](https://www.elecfreaks.com/learn-cn/microbitplanetX/ai/Plant-X-EF05035-python.html)
 
 ### Code
@@ -107,8 +107,6 @@ while True:
         tp.set_motors_speed(0,0)
 ```
 
-
----
 ## Result
 ---
 The TPBot moves with the ball and it stops while walking in the right front of the ball. 
