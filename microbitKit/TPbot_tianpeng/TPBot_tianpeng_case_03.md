@@ -34,7 +34,7 @@
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-##Sample
+### Sample
 - Judge the status of the line-tracking sensors: if the black was detected on the left, set the speed of the left wheel in 0 and the right in 40; if the black was detected on the right, set the speed of the left wheel in 40 and the right in 0. 
 
 
@@ -46,7 +46,7 @@
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4WML7wLL5DDJ" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
