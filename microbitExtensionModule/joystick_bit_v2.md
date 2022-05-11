@@ -48,6 +48,10 @@ Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction jo
 ![](./images/joystick_v2_05.png)
 
  X and Y connect to the P1 and P2 port on the micro:bit accordingly.
+ 
+ ![](./images/joystick_v2_16.png)
+ 
+ The coordinate information of X&Y
 
 ### Buzzer
 
