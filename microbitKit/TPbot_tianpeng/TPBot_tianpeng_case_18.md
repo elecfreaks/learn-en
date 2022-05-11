@@ -5,32 +5,29 @@
 - The rainbow LED changes in accordance with the color of the cards and it executes  the defined functions accordingly(move forward,;change the color of the headlights at random; obstacles avoidance; line-following)
 
 ## Material
-
+---
 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
 
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
 ## Hardware connection
-
+---
 Connect rainbow led to port 1 and color sensor to IIC port on TPBot. 
 
 ![](./images/TPBot_tianpeng_case_18_03.png)
 
 
-
 ## Software
+---
 
-  ---
-
-  [MicroSoftmakecode](https://makecode.microbit.org/#)
+ [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 
 ## Programming
+---
 
-  ---
-
-  Click "Advanced" to see more choices in the MakeCode drawer. 
+Click "Advanced" to see more choices in the MakeCode drawer. 
 
 ![](./images/TPBot_tianpeng_case_01_02.png)
 
@@ -42,7 +39,7 @@ Connect rainbow led to port 1 and color sensor to IIC port on TPBot.
 
 ![](./images/TPBot_tianpeng_case_15_03.png)
 
-## Sample
+### Sample
 
 - In on start brick, drag the show icon brick into it and initialize the led strip and has it connected to J1 port.
 
@@ -80,11 +77,9 @@ Code：
 - You may also download it directly below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YrH0rDiLJEKg" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
---
----
+
 ## Conclusion
 ---
-
 
 - Place the cards in different color in the front of the gesture sensor to activate different functions:
 - White card: Rainbow LED lights on in white and TPBot moves forward. 
@@ -94,12 +89,9 @@ Code：
 - Blue card: Rainbow LED lights on in blue and TPBot stops moving.
 
 ## Exploration
-
 ---
 
-
 ## FAQ
-
 ---
 
 Q: While operating this case, why the car might not work properly?
@@ -107,6 +99,5 @@ Q: While operating this case, why the car might not work properly?
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again. 
 
 ## Relevant File
-
 ---
 
