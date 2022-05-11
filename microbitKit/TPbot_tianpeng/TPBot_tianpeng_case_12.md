@@ -44,6 +44,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DYDT9ibh9V1E" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### Receiving Part
+
 - Set the micro:bit showing a set icon and the radio group as 1. 
 - Save the received number as the variable. 
 - Judge if the variable is 1, if yes, set the TPBot turning left at the speed of 30%; if the variable is 2, set the TPBot turning right at the speed of 30%; if the variable is 3, set the TPBot moving forward at the speed of 30%.
