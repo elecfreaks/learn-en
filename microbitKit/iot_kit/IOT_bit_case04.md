@@ -16,7 +16,7 @@
 ---
 
 ### What is the automatic irrigation detection 
----
+
 
 - automatic irrigation detection An automated irrigation system refers to the operation of the system with no or just a minimum of manual intervention beside the surveillance. Almost every system (drip, sprinkler, surface) can be automated with help of timers, sensors or computers or mechanical appliances. It makes the irrigation process more efficient and workers can concentrate on other important farming tasks. On the other hand, such a system can be expensive and very complex in its design and may needs experts to plan and implement it.
 
@@ -48,7 +48,7 @@ Let the 180° servo be connected to `P10`.
 
 ![](./images/iot_bit_12.jpg)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2
 
@@ -87,7 +87,7 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ### Result
----
+
 
 ## Think
 ---
