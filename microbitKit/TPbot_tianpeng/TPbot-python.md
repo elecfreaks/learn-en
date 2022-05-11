@@ -1,9 +1,8 @@
 # TPBot Samples for Python
 
+
+## Add Python File
 ---
-
-
-### Add Python File
 Download to unzip it: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
 Go to  [Python editor](https://python.microbit.org/v/2.0)
 
@@ -17,8 +16,8 @@ We need to add TPBot.py for programming. Click "Load/Save" and then click "Show 
 
 ![](./images/TPbot-py-04.png)
 
-### Samples
-
+## Samples
+---
 ### Sample 1: Drive the car at a full speed. 
 
 ```
@@ -109,9 +108,7 @@ while True:
 - The servo connecting to S1 continues driving back and forth. 
 
 ## Relevant Case
-
 ---
 
 ## Technique File
-
 ---
