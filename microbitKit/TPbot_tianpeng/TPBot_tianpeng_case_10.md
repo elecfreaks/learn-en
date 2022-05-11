@@ -9,13 +9,7 @@
 
 - 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
 
-
-
 ![](./images/TPBot_tianpeng_case_01_01.png)
-
-
-
-
 
 ## Software
 ---
@@ -34,7 +28,7 @@
 
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
-##Sample
+### Sample
 - Set an icon on the micro:bit display and the headlights in white. 
 - Judge if the black line was detected in the forever brick, if yes, set the TPBot reversing for one second at the speed of 30% and then turning left for 0.5 second at the same speed; or it moves forward at the speed of 30%. 
 
@@ -46,7 +40,7 @@
 - You may also download it directly below: 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_dtPhXL3XxTJC" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Conclusion
 ---
@@ -54,18 +48,15 @@
 - Power up to show an icon on the micro:bit display and set the TPBot moving forward with headlights in white.  If the black line was detected, it reverses and then turns left to keep moving. 
 
 ## Exploration
-
 ---
 
 
 ## FAQ
-
 ---
 Q: The car does not work with the code in the wiki.     
 A: It should be the batteries that are lack of power, please try to fix it by adding the value of the speed in the code. 
 
 
 ## Relevant File
-
 ---
 
