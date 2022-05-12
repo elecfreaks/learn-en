@@ -98,5 +98,5 @@ For the aerial ladder truck:
 
 ![](./images/case-18-06.png)
 
-Link:[https://makecode.microbit.org/_V004ujT5wJ9j](https://makecode.microbit.org/_V004ujT5wJ9j)
+Link:[https://makecode.microbit.org/_2vYd4UPpWf24](https://makecode.microbit.org/_2vYd4UPpWf24)
 
