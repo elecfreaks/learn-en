@@ -35,7 +35,7 @@
 
 ## User Guide
 ---
-- TPBot is available to operate even without the micro:bit, here are the instructions: 
+- TPBot is available to operate even without the micro:bit, here are the instructions:
 - Press the power button to enter into its standby mode, here lights on the power indicator and the LEDs in breathing green. 
 
 ![](./images/TPBot_tianpeng_06.png)
