@@ -56,16 +56,10 @@
 ## Components
 ---
 TPBot Smart Car * 1
-
 Sticker(s) * 1
-
 Map * 1
-
 Manual book * 1
-
 Batteries * 4
-
-
 
 ## FAQ
 ---
