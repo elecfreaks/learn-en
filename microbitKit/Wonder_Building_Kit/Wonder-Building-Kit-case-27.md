@@ -102,5 +102,5 @@ Search with IOT:bit in the dialogue box to download it.
 ![](./images/Wonder-Building-Kit-case-27-05.png)
 
 
-Link:[https://makecode.microbit.org/_V6t23odpKY3r](https://makecode.microbit.org/_V6t23odpKY3r)
+Link:[https://makecode.microbit.org/_XeMXzj7z3JFx](https://makecode.microbit.org/_XeMXzj7z3JFx)
 
