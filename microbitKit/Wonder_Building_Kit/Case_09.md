@@ -89,7 +89,7 @@ Search with Wukong in the dialogue box to download it.
 
 ### Program
  
-![](./images)
+![](./images/case-09-03.png)
 
 Link:[https://makecode.microbit.org/_eUPf4XEudVKY](https://makecode.microbit.org/_eUPf4XEudVKY)
 
