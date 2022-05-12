@@ -98,5 +98,5 @@ For the forklift:
 
 ![](./images/case-12-06.png)
 
-Link:[https://makecode.microbit.org/_1vCDgiCWbYgt](https://makecode.microbit.org/_1vCDgiCWbYgt)
+Link:[https://makecode.microbit.org/_UoAP69ArTfyT](https://makecode.microbit.org/_UoAP69ArTfyT)
 
