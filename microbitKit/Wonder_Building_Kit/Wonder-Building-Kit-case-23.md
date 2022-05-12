@@ -103,5 +103,5 @@ Search with Wukong in the dialogue box to download it.
  
 ![](./images/Wonder-Building-Kit-case-23-04.png)
 
-Link:[https://makecode.microbit.org/_U4iDok1b91Hh](https://makecode.microbit.org/_U4iDok1b91Hh)
+Link:[https://makecode.microbit.org/_5WjDde1jAF6R](https://makecode.microbit.org/_5WjDde1jAF6R)
 
