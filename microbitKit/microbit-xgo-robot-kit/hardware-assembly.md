@@ -236,7 +236,7 @@ Set the height of XGO
 
 ![](./images/microbit-xgo-robot-kit-square-28.png)
 
-Link: [XGO](https://makecode.microbit.org/_Wvs0jcekAXp5)
+Link: [XGO](https://makecode.microbit.org/#editor)
 
 You can also download it directly below:
 
@@ -244,7 +244,7 @@ You can also download it directly below:
 
 
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_i4k5K6HYMcjc" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RMzAaoT6x8s0" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
 
 ##  FAQ
 ---
