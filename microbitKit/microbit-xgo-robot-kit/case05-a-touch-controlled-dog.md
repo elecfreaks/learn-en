@@ -54,11 +54,11 @@ Add the XGO extensions.
 
 ![](./images/microbit-xgot-robot-kit-case01-out-of-the-square-05.png)
 
-Link: [A Touch-controlled Dog](https://makecode.microbit.org/_DH5Y9KYpe6MK)
+Link: [A Touch-controlled Dog](https://makecode.microbit.org/_DPCdXybUs7me)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DH5Y9KYpe6MK" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DPCdXybUs7me" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
 
 ## FAQ
 ---

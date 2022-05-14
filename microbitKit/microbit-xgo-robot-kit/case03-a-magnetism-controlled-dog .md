@@ -56,11 +56,11 @@ Add the XGO extensions.
 
 
 
-Link: [A Magnetism-controlled Dog ](https://makecode.microbit.org/_fWpHxYiXf5fK)
+Link: [A Magnetism-controlled Dog ](https://makecode.microbit.org/_HrsEd5bKE04f)
 
 You can also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fWpHxYiXf5fK" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_HrsEd5bKE04f" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div> 
 
 
 
