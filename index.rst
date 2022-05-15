@@ -8,6 +8,13 @@ Welcome to micro:bit WIKI
 
 .. toctree::
    :maxdepth: 2
+   :caption:  Go To Store
+
+   Go To Store <https://www.elecfreaks.com>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: micro:bit
 
    heard/index
    microbitKit/Starter_Kit/index
@@ -36,13 +43,44 @@ Welcome to micro:bit WIKI
    microbitKit/smart_health_kit/index
    microbitKit/microbit-xgo-robot-kit/index
    microbitKit/straw-manipulator/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: pico:ed
+ 
+
+   pico-ed/index
+
+.. toctree::
+   :maxdepth: 3
+   :caption: sensor
+ 
    microbitOctopus/input/index
    microbitOctopus/output/index
    microbitOctopus/sensor/index
    microbitplanetX/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Expansion board
+
    microbitExtensionModule/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: RetroArcade
+
    RetroArcadeforEducation/index
-   pico-ed/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Bitboard
+
    Bitboard_Kit/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: arduino
+   
    Arduino-3-in-1-box/index
    
