@@ -16,3 +16,4 @@ xgo robot kit(EF08268)
     case04-a-sound-controlled-dog .md
     case05-a-touch-controlled-dog.md
     case06-Use-Joystick-bit-to-Control-the-XGO.md
+    case07-remote-control-XGO-with-the-app.md
