@@ -69,7 +69,8 @@ Assemble our watch kit directly just like the picture below.
 
 ## FAQ  
 ---  
-Q: Sometimes the temperature is obviously under 20 degrees, why the displayed  number is much higher? 
+Q: Sometimes the temperature is obviously under 20 degrees, why the displayed  number is much higher?  
+
 A: Because the temperature obtained by micro:bit is the temperature of main chip, instead of environment temperature. When micro:bit runs for a long time, the chip will be heated significantly.
 
 
