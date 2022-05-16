@@ -6,7 +6,7 @@
 
 
 
-### Goals
+## Goals
 ---
 
 ![](./images/IduYkyz.gif)
@@ -18,7 +18,7 @@
  
            
     
-### Materials
+## Materials
 ---
 - 1 x ADKeypad
 - 1 x Battery Pack
@@ -28,7 +28,7 @@
 - 1 x Mini Servo
 
 
-### Step 1 – Choose a cat
+## Hardware Step 1 – Choose a cat
 ---
 
 ![](./images/ujaWK5w.jpg)
@@ -38,7 +38,7 @@
 
 
 ### Step 2 – Connect electronic parts
----
+
 
 ![](./images/cTOOFfU.jpg)
 
@@ -51,7 +51,6 @@ Connect the following on the breakout board
 *The colours of the jumper wires don’t actually affect how the electronics work. But it is good practice to follow a colour convention so that you can easily identify where which cables are attached to.*
 
 ### Step 3 – Join up electronics to cardboard
----
 
 ![](./images/6nlQFM9.png)
 
@@ -61,7 +60,7 @@ Connect the following on the breakout board
 
 
 ### Step 4 – Code Microbit
----
+
 
 ![](./images/HINCWOv.png)
 
@@ -71,7 +70,7 @@ Connect the following on the breakout board
 
 
 
-### Cool stuff!
+## Cool stuff!
 ---
 
 Now you’ve brought your cat to life. Think of a variety of movements for your cat. Enjoy and add them on to the cat!
