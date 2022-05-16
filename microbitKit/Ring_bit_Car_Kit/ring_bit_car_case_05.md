@@ -30,7 +30,7 @@
 
 ![](./images/1Wq2Mov.jpg)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2
 
