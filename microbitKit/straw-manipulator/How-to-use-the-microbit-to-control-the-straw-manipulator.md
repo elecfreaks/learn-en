@@ -1,4 +1,4 @@
-# How to Make A micro:bit Manipulator with Straws(EF08270)
+# How to Make A micro:bit Manipulator with Straws
 
 
 
