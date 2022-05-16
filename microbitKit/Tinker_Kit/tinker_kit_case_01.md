@@ -52,7 +52,7 @@ Search for "tinker kit" and click on it to download this package.
 
 ![](./images/gvuN2rQ.png)
 
-***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
+Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
 
 
 ### Step 4
