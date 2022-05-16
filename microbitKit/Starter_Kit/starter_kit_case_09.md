@@ -41,7 +41,7 @@ The working principle of passive buzzer is: When square wave signal passes throu
 
 ![](./images/kNHyjjl.jpg)
 
-Note: In this experiment, we use passive buzzer only.
+****Note:**** In this experiment, we use passive buzzer only.
 
 ### Transistor
 
