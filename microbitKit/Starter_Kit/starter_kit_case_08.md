@@ -32,7 +32,7 @@ Servo is a set of automatic control system, which consists of DC motor, reductio
 
 ![](./images/btuF5m0.jpg)
 
-Note: Micro:bit official has loaded servo control code into bricks. When using Makecode to program, you don’t have to take some complex information (e.g. the width of impulse) into consideration.
+****Note:**** Micro:bit official has loaded servo control code into bricks. When using Makecode to program, you don’t have to take some complex information (e.g. the width of impulse) into consideration.
 
 Servo has many categories. However, all of servos have three cables connected externally. These cables usually have three different colors( brown, red, orange ) to differentiate each other. (Different servos brand may have different cable colors.) The brown cable is for connecting GND, red cable is for positive power cable and orange cable is for signal cable.  
 
