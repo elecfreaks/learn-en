@@ -73,8 +73,7 @@ Connect small LED to P0, servo ro P1, crash sensor to P2 and battaries pack to m
   
 ![](./images/qIxyiCc.jpg)
 
-
-### Please note the swith of basic:bit should at P0.
+Please note the swith of basic:bit should at P0.
 
 
 
