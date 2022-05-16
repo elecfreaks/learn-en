@@ -54,7 +54,7 @@ To program for robit, we have to add a package. Find **Add Package** in the bott
 
 ![](./images/ISZ6w26.png)  
 
-Note: If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
+***Note:*** If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
 ### Step 2  
 
@@ -64,7 +64,7 @@ Then create a forever loop and make variable item increase by 5 during each circ
 
 ![](./images/UG17sXN.png)  
 
-**Note:** Picture below is the detailed code explain of LED.  
+***Note:*** Picture below is the detailed code explain of LED.  
 
 ![](./images/fojUByb.png)  
  
@@ -95,7 +95,7 @@ How to make the color change swiftly instead of smooth change?
 ## FAQ  
 ---  
 
-**Q: How to change RGB flash speed?**  
+Q: How to change RGB flash speed?  
 
 A: Renew the change rate of the variable item.  
 
