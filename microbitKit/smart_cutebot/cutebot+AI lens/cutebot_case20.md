@@ -5,7 +5,6 @@
 - Use the Cutebot and AI Lens to achieve the one button to learn function. 
 
 ## Materials required
-
 ---
 
 - 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
@@ -14,12 +13,11 @@
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-  *Note: The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).*
+***Note:*** The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 
 ## Connections:
-
 ---
 
 ### Steps to install the lithium battery pack: 
@@ -56,16 +54,14 @@ Connect the RJ11 cable with the AI Lens and the other end in Dupont connection t
 
 ![](./images/cutebot-step-10.png)
 
-*Tips: the bricks holder here is flexible to be adjusted, we may manually adjust the angles of the AI lens to meet the requirements of the functions that you want to achieve.*
+***Tips:*** the bricks holder here is flexible to be adjusted, we may manually adjust the angles of the AI lens to meet the requirements of the functions that you want to achieve.
 
 ## Software Platform:
-
 ---
 
 [MicroSoft MakeCode](https://makecode.microbit.org/#)
 
 ## Programming
-
 ---
 
 ### Step 1
@@ -83,7 +79,7 @@ We need to add a package for programming the AI lens kit. Click “Extensions”
 
 ![](./images/cutebot-pk-12.png)
 
-*Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.*
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
 ###  Step 2
 
@@ -115,7 +111,7 @@ You may also download it directly below:
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_eoJAsHgdx4tr" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
----
+
 
 ## Result
 ---
@@ -124,13 +120,10 @@ You may also download it directly below:
 
 
 ## Exploration
-
 ---
 
 ## FAQ
-
 ---
 
 ## Relevant Files 
-
 ---
