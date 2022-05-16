@@ -54,9 +54,7 @@ Welcome to micro:bit WIKI
    :maxdepth: 2
    :caption: sensor
  
-   microbitOctopus/input/index
-   microbitOctopus/output/index
-   microbitOctopus/sensor/index
+   microbitOctopus/index
    microbitplanetX/index
 
 .. toctree::
