@@ -10,7 +10,7 @@
 ## Materials
 ---
 
-- 1 x Smart home Kit]
+- 1 x Smart home Kit
 - 1 x tank
 
 ## Background
