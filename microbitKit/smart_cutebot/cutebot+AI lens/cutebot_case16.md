@@ -5,21 +5,21 @@
 - Use the Cutebot and the AI lens to achieve the line tracking function. 
 
 ## Materials required
-
 ---
+
 - 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
 - 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-  *Note: The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).*
+***Note:*** The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 
 ## Connections:
-
 ---
+
 ### Steps to install the lithium battery pack: 
 
 ![](./images/cutebot-step-01.png)
@@ -49,6 +49,7 @@ Steps of build-up:
 
 
 ### Connections of the AI Lens: 
+
 Connect the RJ11 cable with the AI Lens and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
 
 ![](./images/cutebot-step-10.png)
@@ -60,8 +61,8 @@ Connect the RJ11 cable with the AI Lens and the other end in Dupont connection t
 [MicroSoft MakeCode](https://makecode.microbit.org/#)
 
 ## Programming
-
 ---
+
 ### Step 1
 - Click “Advanced” in the drawer to see more choices.
 
@@ -75,7 +76,7 @@ Connect the RJ11 cable with the AI Lens and the other end in Dupont connection t
 
 ![](./images/cutebot-pk-12.png)
 
-*Note: If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.*
+***Note:*** If you met a tip indicating that the codebase will be deleted due to incompatibility, you may continue as the tips say or build a new project in the menu.
 
 ###  Step 2
 
@@ -99,7 +100,7 @@ You may also download it directly below:
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_APW2Ps3hAU9L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
----
+
 
 ## Result 
 ---
