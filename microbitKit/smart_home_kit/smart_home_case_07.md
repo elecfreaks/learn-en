@@ -92,7 +92,7 @@ Connect the Rainbow LED to the P2 port of the expansion board.
 
 ![](./images/OY706rv.png)
 
-***Note：*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in the item menu bar.
+***Note:*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in the item menu bar.
 
 ### Step 2
 
