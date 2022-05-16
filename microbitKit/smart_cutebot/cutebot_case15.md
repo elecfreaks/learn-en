@@ -22,7 +22,7 @@
 
 ![](./images/cutebot-pk-11.png)
 
-Note: If you met a tip indicating the codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
+***Note:*** If you met a tip indicating the codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
 
 ### Step 2
 
@@ -41,7 +41,7 @@ You can also download it directly below:
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_3xCUWo1iMc5Y" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
----
+
 
 ## Result
 ---
@@ -52,5 +52,6 @@ You can also download it directly below:
 
 ## FAQ
 ---
+
 ## Relevant Files
 ---
