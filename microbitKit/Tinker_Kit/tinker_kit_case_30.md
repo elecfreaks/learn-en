@@ -6,7 +6,7 @@
 
 
 
-### Goals
+## Goals
 ---
 
  1. Assemble a reaction time tester.
@@ -14,14 +14,14 @@
 
  
               
-### Materials
+## Materials
 ---
 - 1 x Tinker Kit (or OLED display)
 - 1 x Brain
 - 1 x You
 
 
-### Step 1 – Input/Output
+## Hardware Step 1 – Input/Output
 ---
 
 ![](./images/iEF8mjS.jpg)
@@ -37,7 +37,7 @@
 
 
 ### Step 2 – File Transfer
----
+
 
 ![](./images/GTOykBX.png)
 
@@ -53,7 +53,7 @@
 
 
 ### Step 3 – Loading Screens
----
+
 
 ![](./images/a673xL0.png)
 
@@ -66,7 +66,7 @@
 
 
 ### Step 4 – Code the Game
----
+
 
 ![](./images/FFzB46b.png)
 
@@ -79,7 +79,7 @@
 
 
 ### Step 5 – A Little More Logic
----
+
 
 ![](./images/brOmadg.png)
 
@@ -90,7 +90,7 @@
 ![](./images/siPzaXf.jpg)
 
 
-### Bonus loading effects:
+## Bonus loading effects:
 ---
 
 - This one utilizes the light sensor and the LED to start the game.
