@@ -100,12 +100,12 @@ You also could directly download program by visiting website as below:
 ## Result
 ---
 
-- You have created a intruder detector!
+You have created a intruder detector!
 
 ## Think
 ---
 
-- What can you do more with the smart home kit? 
+What can you do more with the smart home kit? 
 
 ## Questions
 ---
