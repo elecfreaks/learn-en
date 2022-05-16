@@ -6,7 +6,7 @@
 
 
 
-### Goals
+## Goals
 ---
 ![](./images/rcEn7ay.jpg)
 
@@ -15,7 +15,7 @@
  2. Setting up alerts for any intruders or unlocked doors!
 
            
-### Required Materials
+## Required Materials
 ---
 - 2 x micro:bit
 - 1 x Breakout Board
@@ -23,7 +23,7 @@
 - 1 x Buzzer
 
 
-### Step 1 – Setting Up!
+## Step 1 – Setting Up!
 ---
 
 ![](./images/MszANln.jpg)
@@ -35,7 +35,7 @@
 
 
 ### Step 2 – Code away!
----
+
 
 ![](./images/lCXgiQs.png)
 
@@ -44,7 +44,7 @@
 
 
 ### Step 3 – Almost there!
----
+
 
 ![](./images/27It2Px.png)
 
