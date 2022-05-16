@@ -25,7 +25,7 @@
 
 ![](./images/cutebot-pk-11.png)
 
-Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
+***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ### Step 2
 
@@ -52,7 +52,7 @@ You can also download it directly below:
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_h0KKu8aR5hgW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
----
+
 
 ## Result
 ---
@@ -63,9 +63,7 @@ You can also download it directly below:
 - Why should the detected value be over 2cm ?
 
 ## FAQ
-
-------
+---
 
 ## Relevant Files
-
 ---
