@@ -1,7 +1,6 @@
 # Introduction
 
-## Introduction    
----
+
 motor:bit smart car kit is a tailor-made smart car for micro:bit and motor:bit. This kit includes a micro:bit, motor:bit, sonar:bit and 2 line tracking modules. You can use this kit to DIY a micro:bit two-wheel smart car.
 
 
@@ -44,9 +43,11 @@ Size of Finished Product|146mm x 124mm x 71mm
 ### Components  
 
 ### Assembly Overview  
+
 ![](./images/yeShOQZ.jpg)
 
 ### Finished Product  
+
 ![](./images/jfltEih.jpg)
 
 ![](./images/AuBmsFz.jpg)
