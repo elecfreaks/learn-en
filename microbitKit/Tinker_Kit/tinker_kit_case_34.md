@@ -5,7 +5,7 @@
 
 
 ### Pre-coding:
----
+
 - Get hold of a Micro:bit Tinker Kit
 - Download the Mu editor
 [Mu editor](https://codewith.mu/)
@@ -16,12 +16,12 @@
 ---
 ![](./images/gXqhVI7.jpg)
 
-**Pin Layout**
+### Pin Layout
 
 - Buzzer: Pin0
 - ADKeypad: Pin2
 
-**Small note about the ADKeypad**
+### Small note about the ADKeypad
 
 
 The ADKeypad returns an analog signal when its buttons are pressed. Each button pressed would return a unique integer value ranging from 0 (meaning 0V) to 1023 (meaning 3V). 
@@ -33,19 +33,21 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 
 ## Project 02: Smart Light
 ---
+
 ![](./images/qIQKK4y.jpg)
 
-**Pin Layout**
+### Pin Layout
 
 - PIR Sensor: Pin0
-- LED: Pin1
+- LED: Pin1  
+
 ![](./images/7Dgi7Wt.png)
 
 ## Project 03: Electro-Theremin
 ---
 ![](./images/Njalhk0.jpg)
 
-**Pin Layout**
+### Pin Layout
 
 - Buzzer: Pin0
 - Potentiometer: Pin1
@@ -57,7 +59,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 ---
 ![](./images/gWAmEhW.jpg)
 
-**Pin Layout**
+### Pin Layout
 
 - Crash Sensor: Pin0
 - LED: Pin8
@@ -70,9 +72,10 @@ Feel free to test out the values that your ADKeypad might return when pressed an
  
 ## Project 05: Plant Monitoring Device
 ---
+
 ![](./images/JBmCc6A.jpg)       
  
-**Pin Layout**
+### Pin Layout
 
 - Buzzer: Pin0
 - Soil Moisture Sensor: Pin1
@@ -83,7 +86,7 @@ Feel free to test out the values that your ADKeypad might return when pressed an
 ![](./images/guZyD53.png)
 
 
-### Get Creative!
+## Get Creative!
 ---
 Mix and match the component in the Tinker Kit to create your own projects.
 
