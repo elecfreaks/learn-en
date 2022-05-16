@@ -86,4 +86,4 @@ Or you can download from the page below.
 
 ### Step 4 – Success!    
 
-Voilà! You have created a fish feeding machine!     
+Success! You have created a fish feeding machine!     
