@@ -13,7 +13,7 @@
 ---
 - Bluetooth® is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[3]) from fixed and mobile devices, and building personal area networks (PANs). We can use Bluettoth to connect multiple devices which resolves the difficulty of simultanuous data transmission.
 
-- [Bittysoftware](http://www.bittysoftware.com/index.html)provides mobile apps and tools for devices like BBC micro:bit.
+- [Bittysoftware](http://www.bittysoftware.com/index.html) provides mobile apps and tools for devices like BBC micro:bit.
 
 ### Bluetooth event
 
@@ -46,7 +46,7 @@ The D-Pad control handle table as below:
 ![](./images/ZvHqv7T.png)
 
 
-**Note：** It is need other software to connect bluetooth because limit in IOS.
+***Note:*** It is need other software to connect bluetooth because limit in IOS.
 
 Please refer to 《How to Use Bluetooth IOS system》
 
@@ -112,7 +112,7 @@ As below picture, enter in handle mode.
 
 Have fun!!!
 
-**Note：** bitty controller operation[micro:bit foundation](http://www.bittysoftware.com/apps/bitty_controller.html)
+***Note:*** bitty controller operation[micro:bit foundation](http://www.bittysoftware.com/apps/bitty_controller.html)
 
 ### Program
 
@@ -121,8 +121,8 @@ Program link: [https://makecode.microbit.org/_csTEMLE3vgmr](https://makecode.mic
 Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_csTEMLE3vgmr" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
-**Note：** When the speed design is too low, it may affect the motor rotation.
+
+***Note:*** When the speed design is too low, it may affect the motor rotation.
 
 ## Result
 ---
