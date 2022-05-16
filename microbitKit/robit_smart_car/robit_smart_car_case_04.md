@@ -53,7 +53,7 @@ To program for robit, we have to add a package. Find **Add Package** in the bott
 
 ![](./images/ISZ6w26.png)
 
-**Note:**
+***Note:***
 If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menue.
 
 ### Step 2
@@ -70,7 +70,7 @@ If item is beyond 700, then turn off LED light.
 
 ![](./images/PWwcz3X.png)
 
-**Note:** The picture below gives a detailed code explain to LED.
+***Note:*** The picture below gives a detailed code explain to LED.
 
 ![](./images/zRcMbG1.png)
 
@@ -83,7 +83,7 @@ You can see the whole program from the link here: [https://makecode.microbit.org
 Or you can download it from the page below. 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Dyu4j2A4F23c" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ### Result
 
