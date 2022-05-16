@@ -42,8 +42,8 @@
 ---
 ### Hardware Connection 
 
+First, insert this module to the baseboard of the Ring:bit car V2.  
 
-- First, insert this module to the baseboard of the Ring:bit car V2.
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_04.gif)
 
 Then, screw up the screws.
