@@ -23,7 +23,7 @@ Click **Add Package** and then search for **ringbit** so that you can add ring:b
 
 Initialize the pins of left and right servos. By default, connect the left servo to P1 and the right servo to P2.   
 
-**Note: The direction of left or right all depends on the driver's view.**  
+***Note:*** The direction of left or right all depends on the driver's view.  
 
 ### move forward  
 ![](./images/QLVHllr.png)  
