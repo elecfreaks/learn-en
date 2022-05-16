@@ -61,6 +61,7 @@
 
 ## FAQ
 ---
+
 ***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ## Relevant Files
