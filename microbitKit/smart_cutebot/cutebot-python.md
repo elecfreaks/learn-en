@@ -145,7 +145,7 @@ while(True):
 - The servo connecting to S1 continues driving back and forth. 
 
 ## FAQ
-
+---
 About the reported error:
 
  |ValueError|Error content|
