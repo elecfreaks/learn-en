@@ -6,7 +6,7 @@
 
 
 
-### Goals
+## Goals
 ---
 ![](./images/L56NjeQ.jpg)
 
@@ -19,7 +19,7 @@
 
             
     
-### Materials
+## Materials
 ---
 - 3 5x25cm pieces of cardboard
 - 2 25x2.5cm pieces of cardboard
@@ -36,7 +36,7 @@
 - Superglue
 
 
-### Hardware Step 1 – Creating the slots
+## Hardware Step 1 – Creating the slots
 ---
 
 ![](./images/Q3tDRhB.jpg)
@@ -73,7 +73,7 @@
 11. Paste the two pieces of 2.5x25cm pieces of cardboard on to the edges of A.
 
 ### Step 2 – Creating the front piece
----
+
 
 ![](./images/9tkKICy.jpg)
 
@@ -91,7 +91,7 @@
 6. Using a ruler, press in the side of the door to make it easier to bend outwards
 
 ### Step 3 – Creating the side piece
----
+
 
 ![](./images/9Icgz5E.jpg)
 
@@ -105,7 +105,7 @@
 
 
 ### Step 4 – Setting up the electronics
----
+
 
 ![](./images/90FlPQV.jpg)
 
@@ -128,7 +128,6 @@
 
  
 ### Step 5 – Putting it altogether
----
 
 ![](./images/yfmxLC4.jpg)
 
@@ -151,14 +150,14 @@
 
 
 ### Step 6 – Powering the microbit and ultrasound
----
+
 
 1. Attach the ground and 5V wires of the ultrasound to a 4.5V to 5V power supply
 2. Power the microbit in parallel to the ultrasound using the same power supply.
 3. If a different power supply is used, attach the ground wire of the microbit in parallel to the ground from the same 5V power supply. (Sharing of the ground wire)
 
 
-### Software Step 1 – Calibrating the ultrasound 
+## Software Step 1 – Calibrating the ultrasound 
 ---
 
 ![](./images/OxqQe38.png)
@@ -180,7 +179,7 @@
 *Do make sure that the ultrasound is placed neatly vertically and is not obstructed by anything*.
 
 ### Step 2 – Sum of the value of the coins
----
+
 
 ![](./images/tCtEjj1.png)
 
@@ -196,7 +195,7 @@
 
 
 
-### Good job!!!
+## Good job!!!
 ---
 
 Hopefully, you had fun building the coin sorting machine. Now, think of ways to further develop the project… maybe add a function to see if the machine is full? Either way, enjoy ^ ^
