@@ -7,8 +7,8 @@ Retro Arcade for Education(EF08247)
     :maxdepth: 2
     :numbered: 2
     
-   RETRO.md 
-   RETRO_case_01.md
-   RETRO_case_02.md
-   RETRO_case_03.md
+    RETRO.md 
+    RETRO_case_01.md
+    RETRO_case_02.md
+    RETRO_case_03.md
  
