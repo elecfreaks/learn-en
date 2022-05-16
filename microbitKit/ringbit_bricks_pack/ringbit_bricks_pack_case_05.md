@@ -100,10 +100,7 @@ In order to programme for the Ring:bit Bricks Pack, we need to add an extension.
 ![](./images/Ringbit_Bricks_Pack_case_en_05_04.png)
 
 
-
-
-
-Note: If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
+***Note:*** If you met a tip indicating codebase will be deleted due to incompatibility, you may continue as the tips tell or build a new project. 
 
 ### Step 2
 
