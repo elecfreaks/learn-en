@@ -32,7 +32,7 @@ Self-lock switch normally means switch with built-in mechanical lock function. P
 
 ![](./images/hareBrE.jpg)
 
-Note: This kind of self-lock switch contains two groups of double-throw switch. In this experiment, we use a group only. So we cut down the common footer of a group.
+****Note:**** This kind of self-lock switch contains two groups of double-throw switch. In this experiment, we use a group only. So we cut down the common footer of a group.
 
 ## Experimental Procedure
 ---
