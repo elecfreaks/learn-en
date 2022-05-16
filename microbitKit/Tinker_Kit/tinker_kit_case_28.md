@@ -7,7 +7,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 
 
-### Goals
+## Goals
 ---
 
 ![](./images/m79il8J.png)
@@ -19,7 +19,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
  
            
     
-### Materials
+## Materials
 ---
 - 1 x Krazy Kar Shell
 - 2 x Continuous Servos
@@ -30,7 +30,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 - 1 x micro:bit
 - 1 x Battery Pack
 
-### Step 1 – Shell it! 
+## Hardware Step 1 – Shell it! 
 ---
 
 ![](./images/Dm0im8u.png)
@@ -40,7 +40,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 - You should be able to slot the top shell (one with 5 holes) into the bottom shell now.
 
 ### Step 2 – Put in the Innards.
----
+
 
 ![](./images/QFPRafF.png)
 
@@ -52,7 +52,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 
 ### Step 3 – On to the Outside!
----
+
 
 ![](./images/jcbfc8r.png)
 
@@ -62,7 +62,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 
 ### Step 4 – Upgrade the micro:bit
----
+
 
 ![](./images/FCBt2rx.png)
 
@@ -80,7 +80,7 @@ Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 
 ### Step 5 – On to the Outside!
----
+
 
 ![](./images/36e1m2j.jpg)
 
