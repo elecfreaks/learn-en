@@ -7,7 +7,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 
 
 
-### Goals
+## Goals
 ---
 
 ![](./images/YOYd2Bm.png)
@@ -20,7 +20,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 
             
     
-### Materials
+## Materials
 ---
 - 2 x micro:Bits
 - 4 x Crocodile Clips
@@ -28,7 +28,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 
 
 
-### Step 0 – Preview
+## Step 0 – Preview
 ---
 - We will be writing two sets of code: one for the sending micro:Bit and another for the receiving micro:Bit
 - In order for the receiver to know which signal is being sent, we will adjust the length of time between when the signal turns “on” and “off”
@@ -36,7 +36,7 @@ This tutorial was written by Anahita from the University of California at Berkel
 
 
 ### Step 1 – Crocodile Clips
----
+
 
 ![](./images/b7We5ZR.png)
 
@@ -51,7 +51,7 @@ Connect:
 
 
 ### Step 2 – Sender: button A
----
+
 
 ![](./images/6nlQFM9.png)
 
@@ -68,7 +68,7 @@ We want a signal to be sent when the A button is pressed. Let’s make this one 
 8. Add another pause for 50 ms just to give it some time
 
 ### Step 3 – Sender: Button B
----
+
 
 ![](./images/gtjlrr9.png)
 
@@ -81,7 +81,6 @@ We want a “dash” signal to be sent when the B button is pressed.
 
 
 ### Step 4 – Receiver: detecting the signal
----
 
 ![](./images/z13lhzA.png)
 
@@ -100,7 +99,6 @@ We want to record the duration of time between whenever the signal is received a
 
  
 ### Step 5 – Receiver: displaying the signal
----
 
 ![](./images/Z4yzOpc.png)
 
@@ -116,7 +114,7 @@ We want to display the correct signal on the screen.
 
 
 
-### Done!
+## Done!
 ---
 
 Make sure to flash the code to the respective micro:bits and test it out! It should display the same signal on both screen when you press a button.
