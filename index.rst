@@ -46,13 +46,12 @@ Welcome to micro:bit WIKI
 
 .. toctree::
    :maxdepth: 2
-   :caption: pico:ed
- 
+   :caption: PICO
 
    pico-ed/index
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: sensor
  
    microbitOctopus/input/index
