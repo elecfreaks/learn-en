@@ -51,7 +51,7 @@ As above picture, connect the dual patrol module to P13、P14 of robit with 3 pi
 
 ![](./images/CyQSlJk.png)
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2
 
@@ -80,7 +80,7 @@ If you don't want to type these code by yourself, you can directly download the 
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_gTCFqyau8Uud" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
-**Note：** The items can absorb the infrared ray default ro black lines.
+***Note:*** The items can absorb the infrared ray default ro black lines.
 
 ## Result
 ---
