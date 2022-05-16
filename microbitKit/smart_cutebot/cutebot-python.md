@@ -16,7 +16,7 @@ We need to add Cutebot.py for programming. Click "Load/Save" and then click "Sho
 ![](./images/cutebot-py-04.png)
 
 ## API
-
+---
 `CUTEBOT(object)`
 
 Create an object.
