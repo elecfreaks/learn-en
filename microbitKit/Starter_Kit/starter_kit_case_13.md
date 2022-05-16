@@ -86,7 +86,7 @@ You can also download the links directly:
 ## Result
 ---
 Rotate the whole device, you can see the Rainbow LED Ring always point at the same direction. 
-Note: Every time you start to use the compass (for example, if you have just turned the micro:bit on), the micro:bit will start to calibrate compass (adjust itself). It will ask you to draw a circle by tilting the micro:bit. If you are calibrating or using the compass near metal, it might confuse the micro:bit.
+***Note:*** Every time you start to use the compass (for example, if you have just turned the micro:bit on), the micro:bit will start to calibrate compass (adjust itself). It will ask you to draw a circle by tilting the micro:bit. If you are calibrating or using the compass near metal, it might confuse the micro:bit.
 
 ![](./images/HI0MDIB.gif)
 
