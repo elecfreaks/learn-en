@@ -85,7 +85,7 @@
 
 ## Relevant Files
 ---
-Scratch official connection files: https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)
+Scratch official connection files: [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)
 
 Scratch official website: [https://scratch.mit.edu](https://scratch.mit.edu)
 
