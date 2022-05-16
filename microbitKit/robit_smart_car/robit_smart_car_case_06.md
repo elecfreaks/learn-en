@@ -11,8 +11,9 @@
 - 1 x Infrared controller
 
 ## Background
-### Light sensor
 ---
+### Light sensor
+
 Infrared controller is a widely used communication and control method. It is widely used in household appliances, industrial control and intelligent instrument systems because its simple structure, low power consumption, strong anti-interference ability, high reliability and low cost. The universal infrared remote control system consists of two parts: transmitting and receiving. The encoding/decoding dedicated integrated circuit chip is used for control operations.
 
 Robit has an infrared remote control system with transmitting terminal and reciever.
@@ -44,7 +45,7 @@ We need a new package for coding to infrared module. Click on “Add Package” 
 ![](./images/ISZ6w26.png)
 
 
-Note：If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
+***Note:*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 ### Step 2
 
@@ -80,7 +81,7 @@ Program link: [https://makecode.microbit.org/_L9oPJWXxEJKh](https://makecode.mic
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_L9oPJWXxEJKh" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
----
+
 
 ## Result
 ---
