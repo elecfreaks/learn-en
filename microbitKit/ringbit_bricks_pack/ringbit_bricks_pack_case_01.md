@@ -156,5 +156,7 @@ When power on, the red LED lights on for 3 seconds, then the yellow led in 1 sec
 ## Relevant File
 ---
 On December 10th, 1868, the first signal light was born in the square of the London House of Parliament. It was designed and manufactured by the British mechanic De Hart. The lamp post is 7 meters high with a red and green lantern hanging there --Gas traffic signal light (the color of the light is controlled manually by the police on duty), this is the first signal light in the street. Unfortunately, the gas traffic light suddenly exploded killing a police officer on duty on the lamp's twenty-third birth day. The city's traffic lights have been banned since then.
+
 It was not until 1914 that the city of Cleveland took the lead in restoring traffic lights (electrical signals).
+
 In 1918, The traffic policeman William Potts from Detroit invented the first signal light consisting of red, green and yellow.
