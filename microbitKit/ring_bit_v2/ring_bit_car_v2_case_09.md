@@ -30,7 +30,7 @@
 
 ## Software
 ---
-[makecode](https://makecode.microbit.org/#)Online block coding[https://makecode.microbit.org/#](https://makecode.microbit.org/#)
+[makecode](https://makecode.microbit.org/#) Online block coding [https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
 ## Coding
 ---
