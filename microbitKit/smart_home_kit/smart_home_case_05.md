@@ -60,7 +60,7 @@ We need to add a new codebase for programming of smart home. Finding “Add Pack
 
 ![](./images/QR2s7LD.png)
 
-Note：If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
+***Note：*** If there is a hint says some codebase will be deleted because of incompatibility. Don't worry. You could go ahead as the hint or build a new item in item menu bar.
 
 ### Step 2
 
