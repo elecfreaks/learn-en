@@ -66,7 +66,8 @@ Choose the servos and set the angles/speed:
 
 
 
-### Samples
+## Samples
+---
 ### Sample 1: Drive the car at a full speed. 
 ```
 from microbit import *
