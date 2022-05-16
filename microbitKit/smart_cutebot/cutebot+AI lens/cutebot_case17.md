@@ -12,7 +12,7 @@
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-  ***Note:*** The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
+***Note:*** The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 
