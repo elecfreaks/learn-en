@@ -46,7 +46,7 @@ Connect your components according to the picture below:
 
 ![](./images/LAPXCJp.jpg)
 
-Note: There are two cables led out by the ring. One is DI and the other is DO. We should connect DI.
+***Note:*** There are two cables led out by the ring. One is DI and the other is DO. We should connect DI.
 After connection, we can see:
 
 ![](./images/lUdmz6q.jpg) 
