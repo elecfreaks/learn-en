@@ -1,7 +1,7 @@
 # Add Package for Cutebot
 
 ## Purpose
-- - - - -
+---
 - A new package is required if you want to use the expansion bricks for Cutebot.
 - Steps for adding package are list below.
 
@@ -30,39 +30,30 @@
 
 - This brick helps to adjust the speed of both wheels.
 
----
-
 ![](./images/cutebot-pk-4.png)
 
 - This brick helps the car to move at its full speed.
-
----
 
 ![](./images/cutebot-pk-5.png)
 
 - This brick helps the car to reverse at its full speed.
 
----
 ![](./images/cutebot-pk-6.png)
 
 - This brick helps the car to turn left at its full speed.
 
----
 ![](./images/cutebot-pk-7.png)
 
 - This brick helps the car to turn right at its full speed.
 
----
 ![](./images/cutebot-pk-10.png)
 
 - This brick helps to detect the line-tracking status for the line-tracking modules.
 
----
 ![](./images/cutebot-pk-9.png)
 
 - This brick helps to detect the distance for the ultrasonic sensor.
 
----
 ![](./images/cutebot-pk-8.png)
 
 - This brick helps to control the color of the RGB lights on both sides.
@@ -70,6 +61,7 @@
 
 ## FAQ
 ---
-Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
+***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
+
 ## Relevant Files
 ---
