@@ -15,8 +15,7 @@
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
-
-------
+---
 
 ### Step 1
 
@@ -32,7 +31,7 @@
 - 
 ![](./images/case_13_01.png)
 
-Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
+***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ### Step 2: Joystick:bit Programming
 
@@ -44,7 +43,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 ![](./images/case_13_02.png)
 
-#### Programming
+### Programming
 
 Links: [https://makecode.microbit.org/_cVWKfb09E5st](https://makecode.microbit.org/_cVWKfb09E5st)
 
@@ -65,7 +64,7 @@ You can also download it directly below:
 
 ![](./images/case_12_02.png)
 
-#### Programming
+### Programming
 
 Links: [https://makecode.microbit.org/_WDpVxaeTXdLT](https://makecode.microbit.org/_WDpVxaeTXdLT)
 
@@ -81,13 +80,10 @@ You can also download it directly below:
 - The rocker controls the movement of the Cutebot.
 
 ## Exploration
-
-------
+---
 
 ## FAQ
-
-------
+---
 
 ## Relevant Files
-
 ---
