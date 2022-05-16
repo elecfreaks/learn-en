@@ -7,7 +7,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 
 
 
-### Goals
+## Goals
 ---
 
 ![](./images/pkEku1R.jpg)
@@ -18,7 +18,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 
  
               
-### Materials
+## Materials
 ---
 - 1 x Shoot Em Up Box
 - 1 x Light Sensor
@@ -28,7 +28,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 - 1 x micro:bit
 - 3 x AAA batteries
 
-### Step 1 – Put your town in order! 
+## Hardware Step 1 – Put your town in order! 
 ---
 
 ![](./images/cxAVaIH.jpg)
@@ -42,7 +42,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 - Thread the servo’s wires into the hole and out the box at the front.
 
 ### Step 2 – Attach your ring:bit
----
+
 
 ![](./images/IvxKim4.jpg)
 
@@ -58,7 +58,7 @@ This here is the formula to get your own tabletop shooter arcade working in good
 - Switch the left switch to P2 and the right switch to OFF. We’ll turn it on after we’ve coded the micro:bit.
 
 ### Step 3 – Connect all the parts!!
----
+
 
 ![](./images/BwWywZd.jpg)
 
@@ -69,14 +69,13 @@ This here is the formula to get your own tabletop shooter arcade working in good
 
 
 ### Step 4 – Code it up!
----
 
 ![](./images/ZJtL5s2.png)
 
 
 
 ### Step 5 – The real challenge – calibration.
----
+
 
 ![](./images/L7jsEBr.png)
 
@@ -89,7 +88,7 @@ Calibrate your dragon to make sure it’s flying back and forth in the sky and n
 
 
 ### Step 6 – Calibration Part 2
----
+
 
 ![](./images/MQQNOFH.jpg)
 
@@ -104,7 +103,7 @@ On to the light sensor. We’ve got to capture the current light levels and when
 
 
 ### Step 7 – Putting it all together.
----
+
 
 ![](./images/S74dBUC.png)
 
@@ -115,7 +114,7 @@ Now we want to be able to stop the dragon when it gets hit and also score points
 -  Also – add in more blocks so when the dragon gets hit it increases a score variable.
 
 
-### Cool stuff!
+## Cool stuff!
 ---
 
 You’ve killed the dragon. Now what? Add extra mountains, make it more challenging. Or write your own story, and see what you can do with your magical micro:bit!
