@@ -7,7 +7,7 @@
 
 
 
-### Goals
+## Goals
 ---
 ![](./images/vqMWfnf.jpg)
 
@@ -16,7 +16,7 @@
  3. Add a lock down counter in case an intruder tries to guess your password
 
            
-### Required Materials
+## Required Materials
 ---
 - 1 x Breakout board
 - 1 x micro:bit
@@ -32,7 +32,7 @@
 - 1 x small Metal Hinge
 
 
-### Step 1 – Interfacing the Keypad
+## Hardware Step 1 – Interfacing the Keypad
 ---
 
 ![](./images/uRCXgx1.jpg)
@@ -48,7 +48,7 @@
 
 
 ### Step 2 – Wire it Up
----
+
 
 ![](./images/52Ven7Z.jpg)
 
@@ -65,7 +65,7 @@
 
 
 ### Step 3 – Coding the micro:bit
----
+
 
 On start we have to:
 
@@ -105,7 +105,7 @@ Now we need to set up the micro:bit to detect the key presses!
 
 
 ### Step 4 – Build it!
----
+
 1. Using a laser cutter cut out 18.5cm by 28cm of 3mm acrylic
 2. If you do not have acrylic you can use cardboard instead
 3. Cut out slots for the OLED as well as the keypad wires
@@ -118,7 +118,7 @@ Now we need to set up the micro:bit to detect the key presses!
 ![](./images/gyFKK63.jpg)
 
 ### Step 5 – Demo Time!
----
+
 ![](./images/PQCmICX.jpg)
 
 ![](./images/7ocL6rB.jpg)
