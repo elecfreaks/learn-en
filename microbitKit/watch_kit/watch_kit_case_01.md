@@ -87,7 +87,7 @@ Plug the LED ring into power:bit like the picture below.
 
 ## FAQ  
 ---  
-Q: Why the pointing direction is not fixed every time when we use it?
+Q: Why the pointing direction is not fixed every time when we use it?  
 A: The compass direction is just an approximate direction. It is relative to the result of compass calibration. 
 
 ## Relative Readings   
