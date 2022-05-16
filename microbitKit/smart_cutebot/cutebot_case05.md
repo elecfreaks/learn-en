@@ -23,11 +23,12 @@
 
 ![](./images/cutebot-pk-11.png)
 
-Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
+***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ### Step 2
 
 - Set go straight at full speed in `On start`. 
+
 ![](./images/case_05_01.png)
 
 ### Step 3
@@ -47,7 +48,7 @@ You can also download it directly below:
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:https://makecode.microbit.org/_eybE8UXKx9hm" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin">
 </iframe>
 </div>  
----
+
 
 ## Result
 ---
@@ -58,9 +59,7 @@ You can also download it directly below:
 - How to program to make the lights turn on in different colors when going into the darkness in different time? (The value of RGB helps to set the color)
 
 ## FAQ
-
-------
+---
 
 ## Relevant Files
-
 ---
