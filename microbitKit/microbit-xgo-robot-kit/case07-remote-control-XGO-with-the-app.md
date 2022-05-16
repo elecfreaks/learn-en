@@ -1,14 +1,16 @@
 # Case 07: Remote Control XGO with the APP
 
 ## Purpose
+---
 Remote control the XGO with the app. 
 
 ## Materials 
-1 × micro:bit XGO Robot Kit 
-
+---
+1 × micro:bit XGO Robot Kit  
 1 × Smart Phone
 
 ## Hardware Connection
+---
 ### Download XGO APP
 For Android users, search with "XGO" in Google Play; for IOS users, search with "XGO" in the IOS APP Store, after downloading, open it and you will see the interface below: 
 
@@ -26,6 +28,7 @@ Following the tips, shake your phone and the bluetooth will connect automaticall
 ![xgo app蓝牙打开界面](./images/microbit-xgo-robot-kit-08-7.png)
 
 ## Control
+---
 There are four ways to control the XGO which include the **performance mode**, the **overall mode**, the **single-leg control** and the **servo control**. 
 
 The  **performance mode** has all the preset commands which could control xgo with a low DOFs and a high operability. 
@@ -43,6 +46,7 @@ Both the **single-leg control** and the **servo control** are able to control sm
 ![xgo app蓝牙打开界面](./images/microbit-xgo-robot-kit-08-11.png)
 
 ## Project
+---
 This project uses XGO App in the  **overall mode** to make the XGO go forward/backward/right/left, you can see the reference video here. 
 
 ![xgo app蓝牙打开界面](./images/microbit-xgo-robot-kit-08-12.gif)
