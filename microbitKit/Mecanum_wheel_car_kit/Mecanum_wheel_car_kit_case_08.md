@@ -6,24 +6,20 @@
 - Build a Wonder Rugged Kit that can search for light.
 
 ## Materials
-
-------
+---
 
 - micro:bit Wonder Rugged Kit
 
 ## Background Knowledge
-
-------
+---
 
 ## Software
-
-------
+---
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Program
-
-------
+---
 
 ### Step 1
 
@@ -74,12 +70,12 @@ You can also download it directly:
 The car spins itself if no light being detected, or it goes straight towards the light. 
 
 ## Exploration
+---
+
 If we want the farther away the car is from the light source, the faster it is; and the closer it is to the light source, the slower it is, how to programme? 
 
 ## FAQ
-
-------
+---
 
 ## Relevant Files
-
 ---
