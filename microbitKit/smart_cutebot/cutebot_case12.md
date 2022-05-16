@@ -11,14 +11,12 @@
 - 1 x [micro:bit](https://www.elecfreaks.com/microbit_edu.html)
 
 ## Software Platform 
-
-------
+---
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
-
-------
+---
 
 ### Step 1
 
@@ -30,7 +28,7 @@
 
 ![](./images/cutebot-pk-11.png)
 
-Note: If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
+***Note:*** If you met a tip indicating incompatibility of the codebase, you can continue with the tips or build a new project there.
 
 ### Step 2: Remote Control Programming
 
@@ -41,7 +39,7 @@ Note: If you met a tip indicating incompatibility of the codebase, you can conti
 
 ![](./images/case_12_01.png)
 
-#### Programming
+### Programming
 
 Links: [https://makecode.microbit.org/_Pv01m2ehfcKT](https://makecode.microbit.org/_Pv01m2ehfcKT)
 
@@ -62,7 +60,7 @@ You can also download it directly below:
 
 ![](./images/case_12_02.png)
 
-#### Programming
+### Programming
 
 Links: [https://makecode.microbit.org/_VYxbiCVtE962](https://makecode.microbit.org/_VYxbiCVtE962)
 
@@ -80,10 +78,9 @@ You can also download it directly below:
 
 ## Exploration
 ---
-## FAQ
 
-------
+## FAQ
+---
 
 ## Relevant Files
-
 ---
