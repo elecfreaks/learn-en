@@ -48,8 +48,8 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9A0XzETTzA54" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
----
+### Conclusion
+
 
 - Power up the TPBot to move forward and it stops immediately with the headlights flashing three times if an obstacle was detected, then it reverses and turns left to keep moving forward with the headlights in green. 
 
