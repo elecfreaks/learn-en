@@ -5,7 +5,7 @@ Planet X Sensors
 
 .. toctree::
     :maxdepth: 2
-    :numbered: 2
+    :numbered: 3
     
     ai/index
     Plant_X_EF05001.md
