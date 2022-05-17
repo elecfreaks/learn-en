@@ -29,7 +29,6 @@ Link: [https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-
 
 Smart Agricultural Carton Model
 
-Link: []()
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-02.png)
 
