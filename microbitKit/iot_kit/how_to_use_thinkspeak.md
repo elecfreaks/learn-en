@@ -81,7 +81,7 @@ Snap into the `connect wifi` block，write in your wifi name and the key.
 
 ![](./images/case_ts_11.png)
 
-***Note：The 8266 module can't support the 5G, please conenct it to 2.4G***
+***Note：*** The 8266 module can't support the 5G, please conenct it to 2.4G
 
 #### Step 3
 
