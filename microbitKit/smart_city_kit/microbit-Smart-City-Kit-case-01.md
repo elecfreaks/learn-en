@@ -3,7 +3,7 @@
 
 
 ##  Introduction
-
+---
 There are many ways to travel in cities, and the subway has gradually become the preferred means of transportation for people because of its fast, convenient, and comfortable features. Subway are mostly constructed in the underground. Strong rainstorms are very likely to cause rainwater intrusion accidents at subway entrances and exits, the water accumulation in the stations may trap people, damage the equipment, affect the normal operation of the subway. Therefore, we can design a water backflow prevention device, when it detects the water level exceeds the threshold, the waterproof baffle is automatically raised to prevent rainwater from backflow.
 
 ## Function
@@ -50,7 +50,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ![](./images/microbit-Smart-City-Kit-case-01-06.png)
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 
 ## Program 
