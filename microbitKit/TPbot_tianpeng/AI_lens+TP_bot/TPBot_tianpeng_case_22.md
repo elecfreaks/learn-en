@@ -107,8 +107,8 @@ while True:
         tp.set_motors_speed(0,0)
 ```
 
-## Result
----
+### Result
+
 The TPBot moves with the ball and it stops while walking in the right front of the ball. 
 
 
@@ -118,12 +118,9 @@ The TPBot moves with the ball and it stops while walking in the right front of t
 
 ## FAQ
 ---
-Q: TPBot doesn't work with the sample code. 
-
-A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries. 
-
-Q: The AI Lens is not working,  and it does not go to the function page with the sample code. 
-
+Q: TPBot doesn't work with the sample code.   
+A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries.   
+Q: The AI Lens is not working,  and it does not go to the function page with the sample code.   
 A: Please try replacing with new batteries. 
 
 ## Relevant File
