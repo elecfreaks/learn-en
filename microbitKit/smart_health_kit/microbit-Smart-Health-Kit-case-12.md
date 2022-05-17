@@ -6,11 +6,11 @@
 
  The harm of noise:
 
--Severely affect central nervous system function, causing nervous system weakness and nervous system function disorders, such as long-term noise can cause insomnia, dreaminess, poor rest and sleep conditions, or poor rest and sleep quality, and deep sleep shortened phase, prolonged light sleep phase, or neurological headache, migraine, dreaminess and other clinical symptoms and manifestations.
+Severely affect central nervous system function, causing nervous system weakness and nervous system function disorders, such as long-term noise can cause insomnia, dreaminess, poor rest and sleep conditions, or poor rest and sleep quality, and deep sleep shortened phase, prolonged light sleep phase, or neurological headache, migraine, dreaminess and other clinical symptoms and manifestations.
 
--Symptoms of insufficiency of blood supply to the heart. Long-term exposure to noise can cause coronary artery ischemia and transient vasospasm, resulting in chest tightness, shortness of breath, palpitations, and precordial discomfort.
+Symptoms of insufficiency of blood supply to the heart. Long-term exposure to noise can cause coronary artery ischemia and transient vasospasm, resulting in chest tightness, shortness of breath, palpitations, and precordial discomfort.
 
--Noise can also cause irreversible damage to the ear canal and auditory system, such as neurological tinnitus or even neurological deafness.
+Noise can also cause irreversible damage to the ear canal and auditory system, such as neurological tinnitus or even neurological deafness.
 
 ## Function
 ---
@@ -47,7 +47,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
 
