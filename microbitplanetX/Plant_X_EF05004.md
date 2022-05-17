@@ -58,7 +58,7 @@ We need to add a package for programming, . Click "Extensions" in the bottom of 
 
 ![](./images/05004_06.png)
 
-Note: A delay of 3 seconds is required from detecting the temperature to the moisture while using the DHT11 temperature and moisture sensor. 
+***Note:*** A delay of 3 seconds is required from detecting the temperature to the moisture while using the DHT11 temperature and moisture sensor. 
 
 ### Link
 Link: [https://makecode.microbit.org/_00JcaH7D5066](https://makecode.microbit.org/_00JcaH7D5066)
