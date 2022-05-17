@@ -38,7 +38,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 ![](./images/microbit-Smart-Health-Kit-case-01-05.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program 
 
