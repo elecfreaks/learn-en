@@ -26,8 +26,11 @@ Power:bit button cell board is a micro expansion board in the smallest size equi
 |Size|42x52mm|
 |Net weight|10.7g|
 
-### Exterior dimension
+## Exterior dimension
+---
+
 ![](./images/BQCpLVu.png)
+
 ## Diagram for Pins
 ---
 
