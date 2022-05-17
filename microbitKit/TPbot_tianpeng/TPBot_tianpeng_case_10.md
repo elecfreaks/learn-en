@@ -42,8 +42,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_dtPhXL3XxTJC" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
----
+### Conclusion
 
 - Power up to show an icon on the micro:bit display and set the TPBot moving forward with headlights in white.  If the black line was detected, it reverses and then turns left to keep moving. 
 
