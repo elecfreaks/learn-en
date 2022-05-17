@@ -42,8 +42,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_by81v67kf8Ef" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
----
+### Conclusion
 
 - Power up to set the TPBot going around in circles or moving forward if the detected light intensity is over the set point. 
 
