@@ -42,8 +42,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9ugK1pVyPE8M" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
----
+### Conclusion
 
 Power up to show an icon on the micro:bit display and the TPBot keeps a distance to its front car.  It goes slower if the distance detected was close or it goes forward if the distance detected was far; and it stops if the distance detected was between the set interval value. 
 
