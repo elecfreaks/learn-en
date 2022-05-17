@@ -21,7 +21,6 @@ Pins Definition|S-Sigal V-VCC G-GND
 Working Voltage|3V
 Size|38x27mm
 
-Size：
 
 ## Outlook and Dimension
 ---
