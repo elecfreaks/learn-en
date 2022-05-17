@@ -1,6 +1,6 @@
 # Hardware Assembly
 
-### Step 1
+Step 1
 
 - Connect the micro:bit with the Ring:bit V2 with the shorter screws. 
 
@@ -9,7 +9,7 @@
 
 
 
-### Step 2
+Step 2
 
 - Fix the 7-hole bricks with the XGO with the longer screws. 
 
@@ -18,21 +18,21 @@
 
 ![](./images/microbit-xgo-robot-kit-19.png)
 
-### Step 3
+Step 3
 
 - Fix the Ring:bit V2 on the 7-hole bricks with the shaft pins. 
 
 
 ![](./images/microbit-xgo-robot-kit-20.png)
 
-### Step 4
+Step 4
 
 -  Connect the Dupont cables with the Ring:bit V2(Note to connect in the right connections: G for black, blue for port 1 and yellow for port 2)
 
 
 ![](./images/microbit-xgo-robot-kit-21.png)
 
-### Step 5
+Step 5
 
 - Connect the micro:bit with the computer through USB cables. 
 
@@ -42,7 +42,8 @@
 
 
 ## Programming
---
+---
+
 The program platform here we use for XGO is [Makecode](https://makecode.microbit.org/#) in the graphical programming, you can choose to program in Python or JaveScript too. 
 
 
@@ -51,7 +52,8 @@ The program platform here we use for XGO is [Makecode](https://makecode.microbit
 
 ## Add XGO Package
 ---
-### Steps
+
+Steps
 
 - Create a new project, click Advanced in the drawer to see more choices. 
 
@@ -232,8 +234,8 @@ Set the height of XGO
 
 
 
-### Project Samples
-
+## Project Samples
+---
 ![](./images/microbit-xgo-robot-kit-square-28.png)
 
 Link: [XGO](https://https://makecode.microbit.org/_Rs2MPv5uebYd)
