@@ -130,8 +130,7 @@ while True:
    
 ```
 
-## Result
----
+### Result
 
 The TPBot acts as the cards indicate, if the card contains moving forward signal, it drives forward; if it is turning left signal, the TPBot turns left and goes forward; if it is turning right signal, the TPBot turns right and goes forward; if it is stop signal, the TPBot stops moving. 
 
@@ -142,12 +141,9 @@ The TPBot acts as the cards indicate, if the card contains moving forward signal
 ## FAQ
 ---
 
-Q: TPBot doesn't work with the sample code. 
-
-A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries. 
-
-Q: The AI Lens is not working,  and it does not go to the function page with the sample code. 
-
+Q: TPBot doesn't work with the sample code.  
+A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries.  
+Q: The AI Lens is not working,  and it does not go to the function page with the sample code.  
 A: Please try replacing with new batteries. 
 
 ## Relevant File
