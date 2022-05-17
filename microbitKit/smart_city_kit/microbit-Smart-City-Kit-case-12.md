@@ -7,13 +7,15 @@
 - After installing the bulglar alarm device in shops, program to send alarms if someone breaks into the shops. 
 
 ##  Function
+---
 
 - Detect the magnet from the magnetic(compass) function on the micro:bit,  if the magnet goes far from the micro:bit, program to send alarms and light on the LED. 
 
 ## Products Link
 ---
 - 1 x [microbit Smart City Kit]()
-Note: A piece of magnet requires in this project.
+
+***Note:*** A piece of magnet requires in this project.
 
 ## Picture
 ---
@@ -40,7 +42,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program
 
