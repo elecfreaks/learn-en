@@ -9,6 +9,7 @@
 ![](./images/microbit-Smart-Agriculture-Kit-01-01.png)
 
 ## Components List
+---
 
 Modules|Qty.|Note
 :-:|:-:|:-:
