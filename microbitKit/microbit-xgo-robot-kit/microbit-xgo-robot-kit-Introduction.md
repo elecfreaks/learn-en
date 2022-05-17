@@ -95,9 +95,9 @@ When the battery runs out of the power, the ring light woud flash and the XGO ge
 
 ## FAQ
 ---
+
 ## Relevant File
-
-
+---
 
 About more info for micro:bit, please visit: https://www.microbit.org/
 
