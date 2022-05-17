@@ -60,8 +60,7 @@ Connect rainbow led to port 1 on TPBot.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_TvrRaMJLKPWr" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
-## Conclusion 
----
+### Conclusion 
 
 - The TPBot moves forward after powering on, press button A on the micro:bit to turn on the LED cycling with red and blue, press button B to turn it off. 
 
