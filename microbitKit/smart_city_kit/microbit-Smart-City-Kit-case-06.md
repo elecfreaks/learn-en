@@ -7,6 +7,7 @@
 - A travelling plan is mostly made in holidays, it's a good choice but it could be concerned if we get our pets stayed at home in that period, if we could make a foods feeder for the pets during our holidays, it would be much helpful.  
 
 ## Functions
+---
 
 - Detect if there is any pet in the front of the feeder through the ultrasonic sound sensor, if yes, program to open the lid of the feeder and add food automatically. 
 
