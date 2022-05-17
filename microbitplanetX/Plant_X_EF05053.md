@@ -53,7 +53,7 @@ Press the learn button to learn the map background and the line following path(t
 
 ④Keep moving back and forth until the fill light of the line probe stops flashing, and the learning is completed.
 
-Note: The height of the line tracking probe from the ground should be among 8mm and 16mm.
+***Note:*** The height of the line tracking probe from the ground should be among 8mm and 16mm.
 
 After the learning, the two learn indicators will be off. When the probe detects the track, the corresponding probe indicator light will be on. When the learn fails, the hollow circle and solid circle LEDs flash rapidly at the same time, and the fill light RGB light goes out.
 
