@@ -41,7 +41,8 @@ Dimension | 90mm X 74mm
 Net Weight | 46g
 
 
-### Dimension
+## Dimension
+---
 
 ![](./images/DHJWwCU.png)
 
