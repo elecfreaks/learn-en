@@ -70,7 +70,7 @@ Step 3: Put the models on the baseboard
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-10.png)
 
-Tip: Please can glue the models with the double-sided tapes. 
+***Tip:*** Please can glue the models with the double-sided tapes. 
 
 ## Hardware Connections 
 ---
