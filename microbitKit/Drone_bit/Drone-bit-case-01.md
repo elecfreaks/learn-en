@@ -24,14 +24,14 @@ For programming, we need to add a package: click “Extensions” at the bottom 
 
 ![](./images/Drone-bit-case-01-02.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
 ## Program
 ---
 
 ![](./images/Drone-bit-case-01-03.png)
 
-Notice: It is suggested to pause for 2 seconds or longer after triggering the take-off command to make sure the operator run away from the drones in case of any hurting accidents.  
+***Notice:*** It is suggested to pause for 2 seconds or longer after triggering the take-off command to make sure the operator run away from the drones in case of any hurting accidents.  
 
 Link: [https://makecode.microbit.org/_cu82jPKtwa2E](https://makecode.microbit.org/_cu82jPKtwa2E)
 
@@ -47,5 +47,5 @@ You can also download it directly:
 
 ## FAQ
 ---
-Notice: For better locating of the drones, a complicated groud is prefered. If the groud is in single color, the drones might not locate them well. 
+***Notice:*** For better locating of the drones, a complicated groud is prefered. If the groud is in single color, the drones might not locate them well. 
 
