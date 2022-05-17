@@ -139,7 +139,7 @@ Link: [https://makecode.microbit.org/_2Ys7uE8F7Dr8](https://makecode.microbit.or
 
 ## FAQ
 ---
-### Q: How to judge if the current IoT:bit supports MQTT? 
+Q: How to judge if the current IoT:bit supports MQTT? 
 A: Please refer to the version number printed on the back of the IoT:bit, only V1.6 supports MQTT, V1.4 and the former are not availble for MQTT.
 
 ![](./images/IOT_HiveMQ_27.png)
