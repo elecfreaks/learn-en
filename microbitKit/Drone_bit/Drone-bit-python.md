@@ -1,7 +1,7 @@
 # Drone:bit-Python Sample
 
 ## Add Python File
-
+---
 For programming the Drone:bit with Python, we can use the existed extension[EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip), we only need to use the function and revise the parameters to achive the goals. 
 
 Download the package and upzip it: [EF_Produce_MicroPython-master](https://github.com/elecfreaks/EF_Produce_MicroPython/archive/refs/heads/master.zip)
@@ -24,6 +24,7 @@ Dronebit.py is added successfully.
 ![](./images/Drone-bit-py-04.png)
 
 ## API
+---
 
 `DRONE(object)`
 
@@ -114,6 +115,8 @@ Execute the move commands.
 
 
 ## Samples Code
+---
+
 ```
 from microbit import *
 from Dronebit import *
