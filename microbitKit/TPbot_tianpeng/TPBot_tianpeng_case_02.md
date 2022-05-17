@@ -53,7 +53,7 @@
 
 
 ## Conclusion
----
+
 
 - Control the colour of the headlights with the buttons. 
 - Press button A to make the LED headlights show red. 
@@ -74,7 +74,6 @@
 
 
 ## Conclusion
----
 
 - The micro:bit displays an icon while on start and the LED headlights of the TPBot show white for 2 seconds and then turn off. 
 
