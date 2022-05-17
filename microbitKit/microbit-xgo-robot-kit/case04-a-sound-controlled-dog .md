@@ -12,7 +12,7 @@ Program to control the movement of XGO through the sound level.
 ---
 1 × micro:bit XGO Robot Kit 
 
-***Note:*** A micro:bit V2.0 and above is required in this project*.
+***Note:*** A micro:bit V2.0 and above is required in this project.
 
 
 
