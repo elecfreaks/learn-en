@@ -201,11 +201,11 @@
 
  ![](./images/iot_bit_25.png)
 
-### Documents 
-
+## Documents 
+---
 #### FAQ
 
-#### Question: After installing the button cells, why can't I get the correct data for RTC ? 
+Question: After installing the button cells, why can't I get the correct data for RTC ? 
 
 Solution: The nominal voltage for CR1220 button cells is 3V, while some of the cells in the market may have a higher voltage than 3V. The high voltage will make abnormal operation of the RTC happen, to solve this, you can use the used cells or discharge the brand new cells by yourself.
 
