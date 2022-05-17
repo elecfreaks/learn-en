@@ -703,23 +703,20 @@ Or you can download it from the page below:
 ### Result
 
 
-When the distance between mBot car and the wall is beyond 50cm, the buzzer will alarm in 4 beats and the motors will run in full speed. 
-
-When the distance is less than 50cm but beyond 10cm, the buzzer will alarm in 1/2 beat and the motors will run in half speed. 
-
+When the distance between mBot car and the wall is beyond 50cm, the buzzer will alarm in 4 beats and the motors will run in full speed.  
+When the distance is less than 50cm but beyond 10cm, the buzzer will alarm in 1/2 beat and the motors will run in half speed.  
 When the distance is less than 10cm, the buzzer will keep alarming and the motor will stop running. 
 
 
-### Think 
-
+## Think 
+---
 
 Why we have to judge if the distance is 0 during parking? 
 
 
-### FAQ
+## FAQ
+---
 
-
-**Q:** Why it can't avoid obstacles after turning on micro:bit 5x5 dot screen?
-
-**A:** The LED dot matrix display will seriously slow down the running speed of the program, causing the car to detect obstacles more slowly. To make the program run smoothly, it is recommended to disable the 5x5 display.  
+Q: Why it can't avoid obstacles after turning on micro:bit 5x5 dot screen?  
+A: The LED dot matrix display will seriously slow down the running speed of the program, causing the car to detect obstacles more slowly. To make the program run smoothly, it is recommended to disable the 5x5 display.  
 
