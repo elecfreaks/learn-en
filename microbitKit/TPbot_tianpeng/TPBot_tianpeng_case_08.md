@@ -44,8 +44,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Jda4MkM8gCsf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
----
+### Conclusion
 
 - Power up to show a set icon on the micro:bit and the TPBot moves forward and doesn't stop until the black line is detected by both sensors.  
 
