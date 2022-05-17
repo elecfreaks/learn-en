@@ -49,7 +49,7 @@ Stability|Stable and durable
 
 ### Reference
 
-Links: https://makecode.microbit.org/_XsgKbLhb54MP](https://makecode.microbit.org/_XsgKbLhb54MP)
+Links: [https://makecode.microbit.org/_XsgKbLhb54MP](https://makecode.microbit.org/_XsgKbLhb54MP)
 
 You can also download the links below:
 
