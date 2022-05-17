@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- The rainbow LED changes in accordance with the color of the cards and it executes  the defined functions accordingly(move forward,;change the color of the headlights at random; obstacles avoidance; line-following)
+- The rainbow LED changes in accordance with the color of the cards and it executes  the defined functions accordingly(move forward;change the color of the headlights at random; obstacles avoidance; line-following)
 
 ## Material
 ---
@@ -78,8 +78,8 @@ Code：
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YrH0rDiLJEKg" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
-## Conclusion
----
+### Conclusion
+
 
 - Place the cards in different color in the front of the gesture sensor to activate different functions: 
 - White card: Rainbow LED lights on in white and TPBot moves forward.  
