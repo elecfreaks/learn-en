@@ -9,7 +9,7 @@
 ## Required materials 
 ---
 
-- 1 x IOT:kit https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
+- 1 x IOT:kit [https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
 
 
 ## Background
