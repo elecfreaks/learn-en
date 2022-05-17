@@ -11,8 +11,8 @@ For this purpose, we will do with the below three steps:
 
 ![](./images/case_excel_01.jpg)
 
-### The Experiment-from micro:bit to Excel
-
+## The Experiment-from micro:bit to Excel
+---
 ### The first step: programming the micro:bit
 
 Programming the micro:bit is the easiest thing you’ll ever do. Microsoft actually has a web-based development environment ready for you (Microsoft is one of the founding partners of the micro:bit).
