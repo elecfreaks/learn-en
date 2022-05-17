@@ -66,7 +66,7 @@ Drone:bit, take you to a new height!
 
 ## Installation 
 ---
-Note the directions of the propellers and positions before installation. 
+***Note:*** the directions of the propellers and positions before installation. 
 
 ![](./images/Drone-bit-04.png)
 
@@ -103,14 +103,14 @@ After powering on, the Drone goes to self checking mode, the two blue LEDs would
 
 ![](./images/Drone-bit-10.png)
 
--  Four lights flashing in turn: Fail to connect with the micro:bit or the remote controller. 
-- Four lights always on: Normal working
-- The front and back two lights flash quickly: Low battery
-- Only red lights flash: Self-checking failed
+Four lights flashing in turn: Fail to connect with the micro:bit or the remote controller.   
+Four lights always on: Normal working  
+The front and back two lights flash quickly: Low battery  
+Only red lights flash: Self-checking failed
 
 ## FAQ
 ---
-Notice: For better locating of the drones, a complicated groud is prefered. If the groud is in single color, the drones might not locate them well. 
+***Notice:*** For better locating of the drones, a complicated groud is prefered. If the groud is in single color, the drones might not locate them well. 
 
 ## Relevant Files
 ---
