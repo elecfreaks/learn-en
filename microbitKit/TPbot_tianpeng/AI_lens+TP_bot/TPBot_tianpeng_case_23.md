@@ -108,8 +108,8 @@ while True:
         tp.set_motors_speed(0,0)
 ```
 
-## Result
----
+### Result
+
 The TPBot changes its heading direction in accordance with the face the AI Lens detects. 
 
 ## Exporation
@@ -118,13 +118,9 @@ The TPBot changes its heading direction in accordance with the face the AI Lens 
 
 ## FAQ
 ---
-
-Q: TPBot doesn't work with the sample code. 
-
-A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries. 
-
-Q: The AI Lens is not working,  and it does not go to the function page with the sample code. 
-
+Q: TPBot doesn't work with the sample code.  
+A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries.   
+Q: The AI Lens is not working,  and it does not go to the function page with the sample code.   
 A: Please try replacing with new batteries. 
 
 ## Relevant File
