@@ -197,6 +197,7 @@
 - Then copy your documents to the micro:bit. 
 
 - Now, here is your observing time!
+
 ![](./images/iot_bit_24.jpg)
 
  ![](./images/iot_bit_25.png)
