@@ -7,6 +7,7 @@
 - There are water dispensers on the roadside in cities, you only need to turn on the switch and it will flow out the drinking water. These devices can facilitate the citizens' drinking water demands in outdoors, thus we can make an automatic drinking device that can automatically flow out and drink without pressing the switch.
 
 ## Function
+---
 
 -  Detect if there is anyone in the front of the ultrasonic sound sensor, if yes, proram to drive the servo to open the switch. 
 
