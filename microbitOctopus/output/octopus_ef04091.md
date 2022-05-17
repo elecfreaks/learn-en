@@ -22,7 +22,7 @@ Name|Octopus Single RGB Rainbow LED
 Version|V1.2
 SKU|EF04091
 Working Voltage|DC 3.3~5.5V
-Working Temperature|-40~+85摄氏度
+Working Temperature|-40~+85℃
 Size|27x19mm
 NW|2.4g
 
@@ -48,7 +48,7 @@ We need to add a package for programming. Click "Add Package" on the bottom of t
 ![](./images/meteyoR.png)
 
 Programme to use accelerometer to control the color of LED. 
-Links: [[https://makecode.microbit.org/_Fu0g597xD85g](https://makecode.microbit.org/_Fu0g597xD85g)](https://makecode.microbit.org/40248-92205-21488-21926)
+Links: [https://makecode.microbit.org/_Fu0g597xD85g](https://makecode.microbit.org/_Fu0g597xD85g) [https://makecode.microbit.org/40248-92205-21488-21926](https://makecode.microbit.org/40248-92205-21488-21926)
 
 You can also download the links below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:40248-92205-21488-21926" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
