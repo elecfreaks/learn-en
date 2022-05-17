@@ -61,7 +61,8 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 
 ![](./images/Bitboard_Kit_09.png)
 
-### Operation steps
+## Operation steps
+---
 1.Connect the Bitboard with the computer through the USB cable. 
 
 ![](./images/Bitboard_Kit_03.png)
