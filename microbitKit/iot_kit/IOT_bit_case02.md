@@ -9,7 +9,7 @@
 ## Required materials 
 ---
 
-- 1 x IOT:kit https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
+- 1 x IOT:kit [https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
 
 
 ## Background
@@ -68,6 +68,7 @@ Snap the `clear OLED display`, `show string` and `show number` blocks into the `
 Display string: `Time:`for current hours and minutes.
 
 Then, snap into the `insert newline`. 
+
 ![](./images/case_02_03.png)
 
 
