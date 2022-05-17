@@ -38,7 +38,7 @@ Working Voltage|3.3V
 
 ![](./images/05031_03.png)
 
-Note: A preheating for 3 minutes after powering on is required before using.
+***Note:*** A preheating for 3 minutes after powering on is required before using.
 
 ## MakeCode Programming
 ---
