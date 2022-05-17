@@ -40,6 +40,7 @@ Name this task. Here we call it "microbit_temperature_alarm".
 ![](./images/case_ifttt_08.png)
 
 Once we have completed trigger setting, click on "that". 
+
 ![](./images/case_ifttt_09.png)
 
 Search for "email". 
@@ -47,9 +48,11 @@ Search for "email".
 ![](./images/case_ifttt_10.png)
 
 Fill in your email contents and pay attention to the format showed, among which {{}} allows us to extract datas with the same name from Web Request and then forward it to the email.
+
 ![](./images/case_ifttt_11.png)
 
 Completed. 
+
 ![](./images/case_ifttt_12.png)
 
 ![](./images/case_ifttt_22.png)
@@ -88,9 +91,11 @@ Till this step, you have already completed all of settings. Now let's test it! I
  
 ![](./images/case_ifttt_18.png)
 
-We can see from the data of Thingspeak channel that the temperature has surpassed 30m degrees. 
- ![](./images/case_ifttt_19.png)
+We can see from the data of Thingspeak channel that the temperature has surpassed 30m degrees.
 
-Check your email box and see if you have received an email from IFTTT! 
+![](./images/case_ifttt_19.png)
+
+Check your email box and see if you have received an email from IFTTT!
+
 ![](./images/case_ifttt_20.png)
 
