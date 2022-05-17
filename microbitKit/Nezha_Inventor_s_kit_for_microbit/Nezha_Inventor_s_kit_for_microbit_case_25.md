@@ -21,7 +21,7 @@ Color sensor  × 1
 
 Bricks × n
 
-Tips:[Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
 
 
 ### Connection Diagram 
