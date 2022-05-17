@@ -9,6 +9,7 @@
 ![](./images/microbit-Smart-City-Kit-01-01.png)
 
 ## Components List
+---
 
 Modules|Qty.|Note
 :-:|:-:|:-:
