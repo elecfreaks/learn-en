@@ -47,8 +47,7 @@ Connect the 360 degrees servo to servo 1 port on TPBot. (Servos are not included
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_664VpuAVMcCa" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
-## Conclusion
----
+### Conclusion
 
 The car move forward with the servo rotating. 
 
