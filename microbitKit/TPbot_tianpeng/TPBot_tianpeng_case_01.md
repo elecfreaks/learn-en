@@ -35,7 +35,7 @@
 ![](./images/TPBot_tianpeng_case_01_03.png)
 
 ### Sample A
----
+
 - Drag the brick of setting the speed in both 100 for both wheels of TPBot into the "On Start". 
 
 ![](./images/TPBot_tianpeng_case_01_04.png)
@@ -49,7 +49,7 @@
 
 
 ## Conclusion
----
+
 - TPBot keeps moving forward. 
 
 ### Sample B
@@ -66,7 +66,7 @@
 
 
 ## Conclusion
----
+
 
 - TPBot moves forward at full speed for 3 seconds and then stops. 
 
@@ -84,7 +84,7 @@
 
 
 ## Conclusion
----
+
 
 - While button A being pressed, TPBot moves forward at the full speed for two seconds and then stops. 
 
