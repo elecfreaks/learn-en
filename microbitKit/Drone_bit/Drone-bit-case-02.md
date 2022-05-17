@@ -25,7 +25,7 @@ For programming, we need to add a package: click “Extensions” at the bottom 
 
 ![](./images/Drone-bit-case-01-02.png)
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu.
 
 ## Program
 
@@ -33,7 +33,7 @@ Notice: If you met a tip indicating that some codebases would be deleted due to 
 
 ![](./images/Drone-bit-case-02-03.png)
 
-Notice: It is suggested to pause for 2 seconds or longer after triggering the take-off command to make sure the operator run away from the drones in case of any hurting accidents.  
+***Notice:*** It is suggested to pause for 2 seconds or longer after triggering the take-off command to make sure the operator run away from the drones in case of any hurting accidents.  
 
 Link: [https://makecode.microbit.org/_fdy88DiaVX9X](https://makecode.microbit.org/_fdy88DiaVX9X)
 
