@@ -52,7 +52,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0RM5AJgos7C5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
+### Conclusion
 
 
 - Control the colour of the headlights with the buttons. 
@@ -73,7 +73,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_P5cJ7oV1664J" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
+### Conclusion
 
 - The micro:bit displays an icon while on start and the LED headlights of the TPBot show white for 2 seconds and then turn off. 
 
