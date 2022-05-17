@@ -3,11 +3,11 @@
 ![](./images/microbit-Smart-Agriculture-Kit-13-01.png)
 
 ##  Introduction
-
+---
 To build a smart farm with the Smart Agriculture Kit and the Carton models. 
 
 ##  Functions
-
+---
 
 - Auto-irrigation: Control the movement of the servos with the level of the soil moisture. 
     Reference: [Auto Irrigation in Farmlands](https://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-01.html)
@@ -20,7 +20,7 @@ To build a smart farm with the Smart Agriculture Kit and the Carton models.
 
 
 ## Materials Required
-
+---
 Smart Agriculture Kit
 
 Link: [https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
@@ -36,7 +36,7 @@ Link: []()
 Double-sided tapes: Fix the sensors and the postion of the models. 
 
 ## Assembly
-
+---
 Step 1: Take out the cardboards and splice the baseboard. 
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-03.png)
@@ -74,7 +74,7 @@ Step 3: Put the models on the baseboard
 Tip: Please can glue the models with the double-sided tapes. 
 
 ## Hardware Connections 
-
+---
 Connect the soil moisture sensor to P1 on IoT:bit; 
 the 180 degrees servo to P2; 
 the DHT 11 to P3;
@@ -88,6 +88,7 @@ and the OLED display to IIC on Iot:bit.
 ![](./images/microbit-Smart-Agriculture-Kit-13-11.png)
 
 ## Add Extensions
+---
 Click the "Advanced" in the MakeCode drawer to see more choices. 
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-04.png)
@@ -105,7 +106,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-05.png)
 
 ## Programming
-
+---
 Initialize the OLED screen and disable the LED functions on the micro:bit, initialize the rainbow LED. 
 
 ![](./images/microbit-Smart-Agriculture-Kit-13-12.png)
@@ -135,6 +136,7 @@ Reference link: [https://makecode.microbit.org/_eYRf5hcaDEeR](https://makecode.m
 </div>  
 
 ##  Result
+---
 The values of the soil moisture, the temperature and humidity of the farmland, the water level and the water temperature shall be displayed on the OLED screen. 
 If the value of the soil moisture is below the threshold, the device would turn on the water valve for irrigating; or it's in the close status to save water. 
 If there is any one getting closer, the rainbow LED lights on in red for warning; or it light on in green. 
