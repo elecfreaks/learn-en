@@ -23,8 +23,8 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 
 ![](./images/vfejZke.png)
 
-### Dimension
-
+## Dimension
+---
 ![](./images/4SpGBG6.png)
 
 
