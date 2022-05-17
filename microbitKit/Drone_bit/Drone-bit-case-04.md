@@ -59,10 +59,10 @@ You can also download it directly:
 
 ## Result
 ---
-- Turn on the Joystick:bit V2 and the drone, you can send commands via Joystick:bit V2 after its vibration. 
-- Each command is only working after the Joystick:bit V2 gets vibrated.
-- The flying directions could be controlled by the stick. 
-- Press button to fly the drone and button B to give landing command. 
-- Press button C to make the drone rotate left in 90 degrees and button F to rotate right in 90 degrees. 
-- Press button D to add the altitude and E to lower it. 
+Turn on the Joystick:bit V2 and the drone, you can send commands via Joystick:bit V2 after its vibration.  
+Each command is only working after the Joystick:bit V2 gets vibrated.  
+The flying directions could be controlled by the stick.   
+Press button to fly the drone and button B to give landing command.  
+Press button C to make the drone rotate left in 90 degrees and button F to rotate right in 90 degrees.   
+Press button D to add the altitude and E to lower it. 
 
