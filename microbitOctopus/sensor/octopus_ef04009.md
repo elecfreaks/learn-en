@@ -3,6 +3,7 @@
 ## Introduction
 ---
 This is a simple infrared receiver sensor,and mainly receives infrared signal through HS0038 infrared diode. HS0038 is particularly sensitive to the infrared signal, and it can receive the infrared signal very swiftly. 
+
 ![](./images/04009_01.png)
 
 ## Characteristics 
