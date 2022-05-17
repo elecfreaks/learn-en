@@ -8,6 +8,7 @@
 The human activities have changed a lot on the living environment of birds, the birds are not easy to find places to rest and food in cities, therefore, we could make a bird nest for them to live. 
 
 ## Function
+---
 
 Control the lighting of LEDs in different colors from the tilted status of the micro:bit to remind people of protecting the nests. 
 
