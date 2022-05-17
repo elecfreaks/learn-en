@@ -8,6 +8,7 @@
 
 
 ##  Function 
+---
 
 - Light on the lamps if there are people on the basketball courts and turn off the lamps if there is no one there. 
 
@@ -40,7 +41,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program
 
