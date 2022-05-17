@@ -21,7 +21,6 @@ Working Voltage|3V
 Size|38x27mm
 
 
-Size：
 
 ## Outlook and Dimension
 ---
