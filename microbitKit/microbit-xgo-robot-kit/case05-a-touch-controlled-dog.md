@@ -12,7 +12,7 @@ Program to control the rotation of XGO through the touch logo on the micro:bit a
 ---
 1 × micro:bit XGO Robot Kit 
 
-***Note:*** A micro:bit V2.0 and above is required in this project*.
+***Note:*** A micro:bit V2.0 and above is required in this project.
 
 
 
