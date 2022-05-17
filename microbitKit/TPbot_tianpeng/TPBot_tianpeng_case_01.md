@@ -14,9 +14,6 @@
 ![](./images/TPBot_tianpeng_case_01_01.png)
 
 
-
-
-
 ## Software
 ---
 [MicroSoftmakecode](https://makecode.microbit.org/#)
@@ -48,7 +45,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0r5C5L029L9m" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
+### Conclusion
 
 - TPBot keeps moving forward. 
 
@@ -65,7 +62,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_XXH3yP66oRRp" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
+### Conclusion
 
 
 - TPBot moves forward at full speed for 3 seconds and then stops. 
@@ -83,7 +80,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_6i4awR07MA7E" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-## Conclusion
+### Conclusion
 
 
 - While button A being pressed, TPBot moves forward at the full speed for two seconds and then stops. 
