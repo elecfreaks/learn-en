@@ -36,7 +36,9 @@
 
 ![](./images/retro-case-06-02.png)
 
-### Program
+## Program
+---
+
 - Link: [https://makecode.com/_H8tLp7FY8a8i](https://makecode.com/_H8tLp7FY8a8i)
 
  
@@ -47,11 +49,8 @@
 <div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---codeembed#pub:_esMgCi9RYh0F" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 
----
-
-
-
 ## Downloading Program 
+---
 
 After programming, connect the computer with the Retro via the USB cable.
 
