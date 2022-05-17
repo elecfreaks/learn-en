@@ -104,8 +104,8 @@ while True:
         tp.set_car_light(255, 255, 0)     
 ```
 
-## Result
----
+### Result
+
 The TPBot drives forward,
 If the blue card is recognized, the TPBot lights on in blue;
 If the red card is recognized, the TPBot lights on in red;
@@ -119,12 +119,9 @@ If the yellow card is recognized, the TPBot lights on in yellow.
 
 ## FAQ
 ---
-Q: TPBot doesn't work with the sample code. 
-
-A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries. 
-
-Q: The AI Lens is not working,  and it does not go to the function page with the sample code. 
-
+Q: TPBot doesn't work with the sample code.  
+A: It is probably due to the lack of battery power, please try adding the speed of the TPBot or replacing with new batteries.   
+Q: The AI Lens is not working,  and it does not go to the function page with the sample code.   
 A: Please try replacing with new batteries. 
 
 ## Relevant File
