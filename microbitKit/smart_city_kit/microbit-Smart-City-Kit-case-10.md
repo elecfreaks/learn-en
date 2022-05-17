@@ -8,7 +8,7 @@
 
 
 ##  Function 
-
+---
 - Press the button to activate the auto-timer for lighting on the equivalent traffic lights. 
 
 ## Products Link
@@ -40,7 +40,7 @@ For programming, we need to add a package: click "Extensions" at the bottom of t
 
 
 
-Notice: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ## Program
 
