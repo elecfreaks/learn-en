@@ -80,7 +80,6 @@ Code：
 
 ### Conclusion
 
-
 - Place the cards in different color in the front of the gesture sensor to activate different functions: 
 - White card: Rainbow LED lights on in white and TPBot moves forward.  
 - Red card: Rainbow LED lights on in red and TPBot stops moving with the headlights changing the colors at random.  
@@ -93,8 +92,8 @@ Code：
 
 ## FAQ
 ---
-
-Q: While operating this case, why the car might not work properly? 
+ 
+Q: While operating this case, why the car might not work properly?  
 A: It might be the low power of the batteries, please try adding the value of TPBot's speed and test again. 
 
 ## Relevant File
