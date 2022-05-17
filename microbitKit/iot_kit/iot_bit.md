@@ -110,7 +110,7 @@
 
 ### Coding  
 
-#### Coding Platform ####
+#### Coding Platform 
 
 [https://makecode.microbit.org](https://makecode.microbit.org)
 
@@ -130,7 +130,7 @@
 ***Note：*** If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Project file menu.
 
 
-#### How to drive the buzzer ####
+#### How to drive the buzzer
 
 
 - There is on-board buzzer on the IOT:bit as below picture. Let the buzzer be connected to the PO of the micro:bit to play music by the `music` of the makecode.
@@ -146,7 +146,7 @@
 - Program link：[https://makecode.microbit.org/_4j6PCeV087AW](https://makecode.microbit.org/_4j6PCeV087AW)
 
 
-#### How to use RTC ####
+#### How to use RTC
 
 
 - There is on-board DS1307RTC timing on the IOT:bit as below picture. RTC timing need a CR1220 button cell for lasting power supply. We need the RTC timing keep accuracy in the event of a power outage. 
@@ -164,7 +164,7 @@
 
 - Program link：[https://makecode.microbit.org/_e9d3vW96bPe2](https://makecode.microbit.org/_e9d3vW96bPe2)
 
-#### How to use the internet function ####
+#### How to use the internet function
 
 
 - The most important function of IOT:bit is WIKI. The onboard `ESP-12F`WIFI module can connect WIFI and send information. To use port for communication with the micro:bit and the pin `RX-P8`，`TX-P12` is special for IoT.
@@ -183,10 +183,11 @@
 
 #### Codebase for other sensors
 
--IoT:bit also supports the other ELECFREAKS sensors can the new Octopus blocks are added in the package.
+- IoT:bit also supports the other ELECFREAKS sensors can the new Octopus blocks are added in the package.
+
  ![](./images/iot_bit_22.png)
 
-### Down load code ###
+### Down load code
 
 - Let your micro:bit be connected to one side of the USB, the other side to your computer.（Inserting on the expansion board may cause the micro:bit connection to be abnormal or damaged.）
 
@@ -211,15 +212,14 @@ Solution: The nominal voltage for CR1220 button cells is 3V, while some of the c
  ![](./images/iot_bit_27.jpg)
  ![](./images/iot_bit_28.JPG)
 
-
 Cells Discharge Steps
-
 1. Connect the pins of the LED as the picture shows(Make sure the positive and negative anodes connect in the right way)
 
 ![](./images/iot_bit_29.JPG)
 
 2. The LED lights up after connection, the button cells in 3.4V would come down to 3V after around 10 seconds.
- ![](./images/iot_bit_30.JPG)
+
+![](./images/iot_bit_30.JPG)
 
 
 3. Detect the cells voltage with a multimeter and it works well after deducing the voltage to about 3V.
