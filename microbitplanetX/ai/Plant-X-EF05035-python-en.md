@@ -19,7 +19,8 @@ For programming, we need to add the file of AILens.py. Click Load/Save first and
 
 ![](./images/05001_10.png)
 
-### API
+## API
+---
 
 | API | Description |
 | :------------: | :-----------: |
@@ -167,7 +168,9 @@ Object(s) ID：ID
 Confidence coefficient of the learnt object：confidence
 
 
-### Samples
+## Samples
+---
+
 ### Sample 1: Characteristics learn
 ```
 from microbit import *
