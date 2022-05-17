@@ -58,8 +58,7 @@
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_CAMF0t8rYT0j" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
-## Conclusion
----
+### Conclusion
 
 - Power up to show a set icon on the micro:bit, after pressing button A, it turns left; after pressing button B, it turns right; after pressing button A+B, it moves forward. 
 
