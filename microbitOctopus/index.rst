@@ -1,6 +1,6 @@
-电子积木
-=========
-电子积木
+Octopus Sensors
+====================
+Octopus Sensors
 
 
 .. toctree::
