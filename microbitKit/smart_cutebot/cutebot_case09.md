@@ -65,5 +65,9 @@ You can also download it directly below:
 ## FAQ
 ---
 
+Q: After connecting the Sonar:bit, the Cutebot doesn't work. 
+
+A: Please have a check on the connections of the Sonar:bit, make sure that you connect to the SR04 connection rather than the IIC. 
+
 ## Relevant Files
 ---
