@@ -44,7 +44,7 @@ Connect the components as the pictures suggest:
 
 ![](./images/picoed-starterkit-case11-3.png)
 
-Note: The light leads to two sets of wires, one for DI, the other for DO, and here we should connect the DI.
+***Note:*** The light leads to two sets of wires, one for DI, the other for DO, and here we should connect the DI.
 
 
 
