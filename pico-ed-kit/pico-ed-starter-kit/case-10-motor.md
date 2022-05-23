@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case10-1.png)
 
 ## Introduction
-
+---
 A motor is a device that converts electrical energy into kinetic energy according to the laws of electromagnetic induction. In this lesson we will use a switch to control the start and stop of a motor.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -33,7 +33,7 @@ A motor is a device that converts electrical energy into kinetic energy accordin
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### Motor
 
 A motor is a device that converts electrical energy into kinetic energy according to the laws of electromagnetic induction. There are many different types of motors, in this case we are using a DC motor. When a DC voltage is applied to both ends of the motor, the motor rotates, and the higher the voltage is, the faster it rotates.
@@ -57,7 +57,7 @@ For this project, we are using alligator clips to connect our motors.
 ![](./images/picoed-starterkit-case10-5.png)
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect the components as the pictures suggest: 
@@ -71,7 +71,7 @@ The schematic diagram is as follows:
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -174,16 +174,17 @@ while True:
         motor.value = False
 ```
 ## Result
+---
  Push once to start the motor and push again to stop it. 
 
-Note: Pico:ed has a low supply voltage of only 3V, the motor may not start when the button is pressed, in this case, please poke the fan of the motor to make the motor rotate normally.
+***Note:*** Pico:ed has a low supply voltage of only 3V, the motor may not start when the button is pressed, in this case, please poke the fan of the motor to make the motor rotate normally.
 
 ## Exploration
-
+---
 How to design the circuit and program if we use the trimpot to control the speed of the motor?
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
