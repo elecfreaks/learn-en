@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case08-1.png)
 
 ## Introduction
-
+---
 A servo is an actuator for position (angle) servoing and is suitable for control systems where the angle needs to be constantly changing and can be maintained. In this lesson we will use Pico:ed to control the servo to rotate through the range of travel.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -23,7 +23,7 @@ A servo is an actuator for position (angle) servoing and is suitable for control
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### Servo
 
 The servo consists of an automatic control system consisting of a DC motor, a reduction gear set, a potentiometer and a control circuit. The angle of rotation of the output shaft is specified by sending a signal. Servos generally have a maximum rotation angle (e.g. 180 degrees). The main difference with a normal DC motor is that a DC motor turns in a circle, a servo can only turn within a certain angle and not in a circle (a digital servo can be switched between servo and motor mode without this problem). A normal DC motor cannot give back information about the angle of rotation, whereas a servo can. The use of a servo is also different, as a DC motor is generally used to turn a whole circle for power, while a servo is used to control the rotation of an object by a certain angle, such as a robot joint. The servo system of a servo is controlled by variable width pulses and the control line is used to transmit the pulses. The parameters of the pulses are minimum, maximum and frequency. In general, the reference signal of the servo is 20 ms in period and 1.5 ms in width, and the position defined by this reference signal is the intermediate position. The servo has a maximum rotation angle and the middle position is defined as the exact same amount from this position to the maximum angle as the minimum angle. The most important point is that the maximum rotation angle may be different for different servos, but the pulse width at its mid position is a certain amount, that is 1.5ms.
@@ -35,7 +35,7 @@ There are many sizes of servos, but all have three external wires, distinguished
 ![](./images/picoed-starterkit-case08-3.png)
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect the components as the pictures suggest: 
@@ -47,7 +47,7 @@ Connect the components as the pictures suggest:
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -146,15 +146,15 @@ while True:
         time.sleep(0.05)
 ```
 ## Result
-
+---
 The servo rotates among (0,180) degrees back and forth. 
 
 ## Exploration
-
+---
 How to program to make a pointer thermometer with a TMP36 sensor and a servo?
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
