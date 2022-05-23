@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case01-1.png)
 
 ## Introduction 
-
+---
 LED lights are used widely in urban construction with a wide range of applications such as traffic lights at intersections, shop billboards, park signage lighting, shopping mall lighting and more. In this lesson, we will control the 2 LEDs to make an alternative flashing with the Pico:ed. 
 
 ## Components List
-
+---
 ### Hardware: 
 
 1 × Pico:ed
@@ -26,7 +26,7 @@ N* Dupont Cables
 
 
 ## Main Components
-
+---
 ### Breadboard Adapter
 
 The breadboard adapter allows all the pins of the Pico:ed to be led out on the breadboard, making it easy to create simple circuits there.
@@ -68,20 +68,19 @@ Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-
 
 ### Sample Code:
 
-```
 
-# Import the modules that we need: 
+Import the modules that we need: 
 import board
 import digitalio
 import time
 
-# Set the connencted pins and their directions of the LEDs
+Set the connencted pins and their directions of the LEDs
 led_0 = digitalio.DigitalInOut(board.P0_A0)
 led_1 = digitalio.DigitalInOut(board.P1_A1)
 led_0.direction = digitalio.Direction.OUTPUT
 led_1.direction = digitalio.Direction.OUTPUT
 
-# Set the 2 LEDs turn on and off. 
+Set the 2 LEDs turn on and off. 
 while True:
     led_0.value = True
     led_1.value = False
@@ -90,7 +89,7 @@ while True:
     led_1.value = True
     time.sleep(1)
 
-```
+
 
 ### Details of the Code: 
 
@@ -165,16 +164,17 @@ while True:
     led_0.value = False  # 0
     led_1.value = True  # 1
     time.sleep(1)
-```
+
 ## Results
+---
 The 2 LEDs light on alternately and if this is not the case, please check your applications. 
 
 ## Exploration
-
+---
 How to simulate the traffic lights with 3 LEDs? 
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
