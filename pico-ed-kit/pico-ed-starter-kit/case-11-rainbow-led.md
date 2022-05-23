@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case11-1.png)
 
 ## Introduction
-
+---
 The Rainbow LED is based on the ws2812b bead. Its obvious feature is the single IO control with infinite cascade. In this lesson, we will use Pico:ed to drive the it to achieve a colourful effect.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -23,7 +23,7 @@ The Rainbow LED is based on the ws2812b bead. Its obvious feature is the single 
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### Rainbow LED
 
 ![](./images/picoed-starterkit-case11-2.png)
@@ -35,7 +35,7 @@ The digital protocol adopts communication method of single line goes to zero. Af
 LED has advantages of low voltage drive, energy-saving and environment protect, wide scattering angle, good consistency, ultra-long life, etc.. To integrate control circuit onto LED, the circuit will become more simple, easier to install and have smaller volume.
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect the components as the pictures suggest: 
@@ -51,7 +51,7 @@ Note: The light leads to two sets of wires, one for DI, the other for DO, and he
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -159,15 +159,15 @@ while True:
     time.sleep(0.1)
 ```
 ## Result
-
+---
 The Rainbow LED lights on in a colorful way. 
 
 ## Exploration
-
+---
 How to make a blink rainbow LED just like a blinking eye? 
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
