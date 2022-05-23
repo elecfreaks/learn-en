@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case07-1.png)
 
 ## Introduction
-
+---
 A temperature sensor is a sensor that senses temperature and converts it into a usable output signal. Temperature sensors are a central part of temperature measuring instruments and there is a wide variety of them. In this lesson we will learn about the analog temperature sensor TMP36 and read out its value and display it on the LED screen of the Pico:ed.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -23,14 +23,14 @@ A temperature sensor is a sensor that senses temperature and converts it into a 
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### TMP36
 
 The TMP36 is an analog temperature sensor whose output voltage is linearly related to temperature, the higher the temperature is, the higher the output voltage will be.
 
 ![](./images/picoed-starterkit-case07-2.png)
 
-Note: 
+***Note:*** 
 
 When we see TMP36 chip with the text side, the leftmost pin of the chip is VCC, the middle pin is Vout and the rightmost pin is GND. Never connect the chip backwards, otherwise it could cause damage to the device.
 
@@ -46,7 +46,7 @@ From the above diagram, the temperature can be calculated by the formula:
 Temperature (°C) = (output voltage (mV) - 500 ) / 10
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect the components as the pictures suggest: 
@@ -58,7 +58,7 @@ Connect the components as the pictures suggest:
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -150,15 +150,15 @@ while True:
    picoed.display.scroll(temperature_value)
 ```
 ## Result
-
+---
 The current temperature value displays on the Pico:ed. 
 
 ## Exploration
-
+---
 How to display the value of the temperature in Fahrenheit degree?
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
