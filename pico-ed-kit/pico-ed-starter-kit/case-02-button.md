@@ -62,23 +62,23 @@ Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-
 ### Sample Code:
 
 ```python
-Import the modules that we need: 
+# Import the modules that we need: 
 import board
 import digitalio
 import time
 
-Set the connencted pins and their directions of the LEDs
+# Set the connencted pins and their directions of the LEDs
 led_0 = digitalio.DigitalInOut(board.P0_A0)
 led_1 = digitalio.DigitalInOut(board.P1_A1)
 led_0.direction = digitalio.Direction.OUTPUT
 led_1.direction = digitalio.Direction.OUTPUT
 
-Set the connected pins of the button and pull it up. 
+# Set the connected pins of the button and pull it up. 
 button = digitalio.DigitalInOut(board.P2_A2)
 button.direction = digitalio.Direction.INPUT
 button.pull = digitalio.Pull.UP
 
-Set to change the status of the LEDs with the status of the button. 
+# Set to change the status of the LEDs with the status of the button. 
 while True:
     if button.value == False:
         led_0.value = True
