@@ -158,12 +158,16 @@ while True:
         time.sleep(0.01)
 ```
 ## Result
+---
 Rotate the trimpot and the output voltage of the trimpot displays as a wavy line on the Pico:ed 7 * 17 screen.
 
 ## Exploration
+---
 If we want to change the light level of the LEDs with the trimpot, how can we design the circuit and program? 
 
 ## FAQ
-## For more information, please visit: 
+---
 
+## For more information, please visit: 
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
