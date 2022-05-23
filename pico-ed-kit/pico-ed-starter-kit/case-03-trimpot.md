@@ -3,10 +3,11 @@
 ![](./images/picoed-starterkit-case03-1.png)
 
 ## Introduction
+---
 A trimpot is an adjustable electronic component. It consists of a resistor body and a rotating or sliding system. When a voltage is applied between the two fixed contacts of the resistor body, the position of the contacts on the resistor body is changed by the turning or sliding system, and a voltage is obtained between the moving contacts and the fixed contacts in relation to the position of the moving contacts. It is mostly used as a voltage divider, in which case the potentiometer is a four-terminal element. In the following lesson we will read the output voltage of the trimpot and display it as a wavy line on the Pico:ed 7 * 17 screen.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -22,7 +23,7 @@ A trimpot is an adjustable electronic component. It consists of a resistor body 
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### Trimpot
 
 A trimpot is an adjustable electronic component. It consists of a resistor body and a rotating or sliding system. When a voltage is applied between the two fixed contacts of the resistor body, the position of the contacts on the resistor body is changed by the turning or sliding system, and a voltage is obtained between the moving contacts and the fixed contacts in relation to the position of the moving contacts. It is mostly used as a voltage divider.
@@ -30,6 +31,7 @@ A trimpot is an adjustable electronic component. It consists of a resistor body 
 ![](./images/picoed-starterkit-case03-2.png)
 
 ## Hardware Connection
+---
 Connect the components as the pictures suggest: 
 
 ![](./images/picoed-starterkit-case03-3.png)
@@ -39,7 +41,7 @@ This is the picture after finishing the connection:
 Rotate the trimpot and the output voltage will vary among 0V and 3V as the button is rotated.
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
