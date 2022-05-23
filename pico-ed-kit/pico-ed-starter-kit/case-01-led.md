@@ -53,8 +53,8 @@ A resistor is a component used to control current. It limits the current in the 
 
 Would you like to identify the resistance value by its colour ring? You can read this article: How to Identify Color Circle Resistance Value
 
-### Hardware Connection
-
+## Hardware Connection
+---
 Connect all your components as the pictures describe: 
 
 1. Connect the shorter pins of the LED with the GND. 
