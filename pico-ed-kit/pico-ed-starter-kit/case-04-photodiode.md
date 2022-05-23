@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case04-1.png)
 
 ## Introduction
-
+---
 A photodiode is a resistor made of a semiconductor material whose conductivity varies with the intensity of light. This property is used to make photodiodes of different shapes and light-receiving areas. The stronger the light is, the lower the resistance will be. Light-controlled switches usually use a photodiode as the core component. Photodiodes are used in a wide range of industries such as toys, lamps and cameras. In this lesson we are going to display different information on Pico:ed according to the intensity of light received by the photodiode.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -25,7 +25,7 @@ A photodiode is a resistor made of a semiconductor material whose conductivity v
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### Photodiode
 
 Photodiodes are special resistors made of semiconductor materials such as CdS or CdSe, whose working principle is based on the internal photoelectric effect. The stronger the light is, the lower the resistance value will be. As the light intensity rises, the resistance value decreases rapidly and the bright resistance value can be as small as 1KΩ or less. Photodiodes are very sensitive to light, and when they are not illuminated, they are highly resistive, with a dark resistance of up to 1.5MΩ in general.
@@ -33,7 +33,7 @@ Photodiodes are special resistors made of semiconductor materials such as CdS or
 ![](./images/picoed-starterkit-case04-2.png)
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect the components as the pictures suggest: 
@@ -46,7 +46,7 @@ Connect the components as the pictures suggest:
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -96,12 +96,15 @@ while True:
         picoed.display.scroll("Bright")
 ```
 ## Result
+---
 When the lights are on, the LED screen on Pico:ed shows "Bright", and when the lights are off, "Dark" is displayed on the screen.
 
 ## Exploration
+---
 If we want to use a photodiode to control the on and off of an LED, how do we design the circuit and program it
+
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
