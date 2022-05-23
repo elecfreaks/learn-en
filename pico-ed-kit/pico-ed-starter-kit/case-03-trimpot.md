@@ -30,8 +30,10 @@ A trimpot is an adjustable electronic component. It consists of a resistor body 
 
 ![](./images/picoed-starterkit-case03-2.png)
 
-## Hardware Connection
+## Steps
 ---
+### Hardware Connection
+
 Connect the components as the pictures suggest: 
 
 ![](./images/picoed-starterkit-case03-3.png)
