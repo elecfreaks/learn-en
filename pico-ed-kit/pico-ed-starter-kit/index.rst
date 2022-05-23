@@ -8,7 +8,6 @@ Pico:ed Starter Kit
     :numbered: 2
     
     preparation-for-coding.md
-    information-about-the-kit.md
     case-01-led.md
     case-02-button.md
     case-03-trimpot.md
