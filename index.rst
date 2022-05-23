@@ -49,6 +49,7 @@ Welcome to micro:bit WIKI
    :caption: PICO
 
    pico-ed/index
+   pico-ed-kit/pico-ed-starter-kit/index
 
 .. toctree::
    :maxdepth: 2
