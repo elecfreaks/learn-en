@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case06-1.png)
 
 ## Introduction
-
+---
 A self-locking switch is a common type of push button switch. When we press the switch button for the first time, the switch circuit is connected and remains in this state, i.e. self-locking. When the switch button is pressed again, the switch is disconnected and the switch button pops out at the same time. In this lesson, we will use a self-lock switch to control the lighting and turning off of an LED.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -27,17 +27,17 @@ A self-locking switch is a common type of push button switch. When we press the 
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### Self-lock Switch
 
 A self-lock switch generally means that the switch comes with a mechanical locking function, so that when you press it, the button will not fully jump up after you release it, it is in a locked state and needs to be pressed again before it is unlocked to fully jump up. It is then called a self-lock switch. This is the type of switch used in the early days of direct powering televisions and monitors.
 
 ![](./images/picoed-starterkit-case06-2.png)
 
-Note: This self-lock switch contains two sets of knife double-throw switches, only one of which was used in this test, the common pin of one of the sets was cut off.
+***Note:*** This self-lock switch contains two sets of knife double-throw switches, only one of which was used in this test, the common pin of one of the sets was cut off.
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect the components as the pictures suggest: 
@@ -50,7 +50,7 @@ Connect the components as the pictures suggest:
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -145,15 +145,15 @@ while True:
     led.value = locking.value
 ```
 ## Result
-
+---
 Press the button once to light the LED on and press again to light it off. 
 
 ## Exploration
-
+---
 How to use two self-lock switches to realize the function of the stair light?
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
