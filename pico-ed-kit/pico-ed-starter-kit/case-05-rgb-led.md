@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case05-1.png)
 
 ## Introduction
-
+---
 The RGB LED is a type of LED light, It is capable of emitting light in three different colours - red, green and blue. We are going to program the RGB LED to change among red, green and blue gradually in this lesson. 
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -25,7 +25,7 @@ The RGB LED is a type of LED light, It is capable of emitting light in three dif
 N* Dupont Cables
 
 ## Main Components
-
+---
 ### RGB LED
 
 As we all know, the three primary colours of light are red, green and blue, and by combining these three colours in different combinations, all the colours can be synthesised. Similarly, RGB LEDs can be used in different combinations of brightness to create a myriad of colours.
@@ -37,7 +37,7 @@ As we all know, the three primary colours of light are red, green and blue, and 
 There are two types of tri-colour LEDs, common cathode and common anode: common cathode RGB LEDs are connected to GND; common anode RGB LEDs are connected to VCC; In this lesson, we use common cathode tri-colour LEDs.
 
 ## Steps
-
+---
 ### Hardware Connection
 
 1. Connect the RGB signal pins of the leds to the P0, P1 and P2 ports of the breakout board correspondingly, and connect a 100Ω resistor.
@@ -49,7 +49,7 @@ There are two types of tri-colour LEDs, common cathode and common anode: common 
 This is the picture after finishing the connections: 
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
@@ -178,14 +178,15 @@ while True:
     time.sleep(0.1)
 ```
 ## Result
+---
 Press button A, the LED turns red; B for green; A+B for blue.
 
 ## Exploration
-
+---
 If we want it to light in cyan, magenta, and yellow, how to design and program?
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
