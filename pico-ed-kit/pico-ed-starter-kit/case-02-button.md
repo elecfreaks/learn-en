@@ -3,11 +3,11 @@
 ![](./images/picoed-starterkit-case02-1.png)
 
 ## Introduction 
-
+---
 The Momentary push-button switches are electronic components that are used in daily life mainly to connect and disconnect circuits. In the previous lesson we have learnt how to use Pico:ed to control 2 LEDs flashing alternately. Here we will use a momentary push button switch to control the flashing of the 2 LEDs. When we press the button, the 2 LEDs will blink alternately; release the button, the LEDs will stop blinking.
 
 ## Components List
-
+---
 ### Hardware
 
 1 × Pico:ed
@@ -28,7 +28,7 @@ N* Dupont Cables
 
 
 ## Main Components
-
+---
 ### Momentary Push Button
 
 This is a common component used to control electronic devices. It is mostly used to connect or disconnect control circuits to enable the control of motors or other electronic devices. The momentary push-button switch is usually kept open. When it is pressed, the circuit is switched on; when it is popped up, it jumps back to the unconnected state.
@@ -40,7 +40,7 @@ The momentary push button switch has 4 pins which can be divided into 2 groups, 
 ![](./images/picoed-starterkit-case02-3.png)
 
 ## Steps
-
+---
 ### Hardware Connection
 
 Connect your components according to the following pictures: 
@@ -56,29 +56,29 @@ The picture shows the project after getting the compoents connected:
 ![](./images/picoed-starterkit-case02-4.png)
 
 ## Programming
-
+---
 Program Preparation: [Prpgramming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 
 ### Sample Code:
 
 ```python
-# Import the modules that we need: 
+Import the modules that we need: 
 import board
 import digitalio
 import time
 
-# Set the connencted pins and their directions of the LEDs
+Set the connencted pins and their directions of the LEDs
 led_0 = digitalio.DigitalInOut(board.P0_A0)
 led_1 = digitalio.DigitalInOut(board.P1_A1)
 led_0.direction = digitalio.Direction.OUTPUT
 led_1.direction = digitalio.Direction.OUTPUT
 
-# Set the connected pins of the button and pull it up. 
+Set the connected pins of the button and pull it up. 
 button = digitalio.DigitalInOut(board.P2_A2)
 button.direction = digitalio.Direction.INPUT
 button.pull = digitalio.Pull.UP
 
-# Set to change the status of the LEDs with the status of the button. 
+Set to change the status of the LEDs with the status of the button. 
 while True:
     if button.value == False:
         led_0.value = True
@@ -171,16 +171,16 @@ while True:
         time.sleep(1)
 ```
 ## Result
-
+---
 Press the button and the two LEDs flash alternately; release the button and they will trun off, if this is not the case, please check your applications. 
 
 
 ## Exploration
-
+---
 How to program to light on in red while pressing the button and light on in green after releasing it? 
 
 ## FAQ
-
+---
 ## For more information, please visit: 
-
+---
 [ELECFREAKS WIKI](https://www.elecfreaks.com/learn-en/)
