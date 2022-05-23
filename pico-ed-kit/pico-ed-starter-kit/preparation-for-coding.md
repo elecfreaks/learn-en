@@ -1,5 +1,5 @@
-## Preparation for Coding
----
+# Preparation for Coding
+
 Please visit the relevant assembly steps of the coding software: [Download and install the programming software](https://www.yuque.com/elecfreaks-learn/picoed/ggnxx2)
 
 Please visist the firmware assembly steps of Pico:ed: [Firmware Installation Steps](https://www.yuque.com/elecfreaks-learn/picoed/pw6wvm)
