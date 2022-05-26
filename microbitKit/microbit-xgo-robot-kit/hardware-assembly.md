@@ -81,7 +81,7 @@ Steps
 ![](./images/microbit-xgo-robot-kit-13.png)
 
 Note: If you do not get corresponding results by searching for XGO, you can enter：https://github.com/elecfreaks/pxt-xgo
-
+![](./images/microbit-xgo-robot-kit-23.png)
 
 
 
