@@ -6,6 +6,7 @@ Pico:ed Starter Kit
 .. toctree::
     :maxdepth: 2
     :numbered: 2
+    
     information-about-the-kit.md
     preparation-for-coding.md
     case-01-led.md
