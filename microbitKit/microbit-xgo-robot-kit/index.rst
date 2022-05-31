@@ -10,6 +10,7 @@ xgo robot kit(EF08268)
 
     microbit-xgo-robot-kit-Introduction.md
     hardware-assembly.md
+    calibrate-xgo-with-the-standards.md
     case01-run-in-square -routine.md
     case02-a-light-controlled-dog.md
     case03-a-magnetism-controlled-dog .md
@@ -17,3 +18,4 @@ xgo robot kit(EF08268)
     case05-a-touch-controlled-dog.md
     case06-Use-Joystick-bit-to-Control-the-XGO.md
     case07-remote-control-XGO-with-the-app.md
+    
