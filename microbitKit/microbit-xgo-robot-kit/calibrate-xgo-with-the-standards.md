@@ -7,7 +7,7 @@ Hello, you may find that XGO could deviate from the standard movements we have s
 
 
 ## Method A: Use XGO APP 
-
+---
 1. Open the software, connect it with XGO through the bluetooth, click the setting on the right upper side and select “run this project as a developer”. 
 
 
@@ -66,7 +66,7 @@ Complete the calibration in APP, and XGO would be calibrated to its intial statu
 
 
 ## Method B: Use the Driver Board to Calibrate
-
+---
 Remove the back cover with a hexagonal wrench, and then dial the calibration dial to the ON position. If it is already in the ON position, dial it back and then dial it to the ON position,the servo stops working.
 
 ![](./images/xgo-008.png)
