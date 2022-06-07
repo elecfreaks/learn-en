@@ -39,7 +39,7 @@ Photodiodes are special resistors made of semiconductor materials such as CdS or
 Connect the components as the pictures suggest: 
 
 1. Connect the photodiode with P0. 
-2. Connect a 10Ω resistor in series with a photodiode
+2. Connect a 10kΩ resistor in series with a photodiode
 
 ![](./images/picoed-starterkit-case04-3.png)
 
