@@ -15,7 +15,7 @@ Photocell is a kind of special resistor based on internal photoelectric effect. 
 - 1 x micro:bit Breadboard Adapter
 - 1 x Transparent Breadboard - 83 * 55 mm
 - 1 x Photocell
-- 1 x 10Ω Resistors
+- 1 x 10k Resistors
 - n x Breadborad jumper wire 65pcs pack
 
 ****Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit Starter Kit.****
