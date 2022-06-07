@@ -10,7 +10,7 @@ The kit provides some basic electronic components such as LEDS, buttons, buzzers
 
 ## The Kits Include
 ---
-![](./images/starter_kit_02.png)
+![](./images/picoed-pico-ed-starterkit-about.png)
 
 ## FAQ
 ---
