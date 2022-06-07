@@ -8,7 +8,7 @@ Micro:bit Starter kit can help you enter a wonderful of electronic world.
 
 ## Components
 ---
-![](./images/NJPB9qt.jpg)
+![](./images/Micro-bit-Starter-Kit-01.png)
 
 ## FAQ
 ---
