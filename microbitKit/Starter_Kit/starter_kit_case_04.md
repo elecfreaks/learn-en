@@ -15,7 +15,7 @@ Photocell is a kind of special resistor based on internal photoelectric effect. 
 - 1 x micro:bit Breadboard Adapter
 - 1 x Transparent Breadboard - 83 * 55 mm
 - 1 x Photocell
-- 1 x 10k Resistors
+- 1 x 10kΩ Resistors
 - n x Breadborad jumper wire 65pcs pack
 
 ****Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit Starter Kit.****
@@ -36,7 +36,7 @@ Photocell is a kind of special resistor made of semi-conductor materials like Cd
 Connect your components according to the picture below: 
 
 - 1.Connect the Photocell to P0 port.
-- 2.Connect the 10Ω resistor with the Photocell in parallel.
+- 2.Connect the 10kΩ resistor with the Photocell in parallel.
 
 ![](./images/FtQDhiS.jpg)
 
