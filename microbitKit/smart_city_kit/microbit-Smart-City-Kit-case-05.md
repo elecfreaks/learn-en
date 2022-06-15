@@ -1,4 +1,4 @@
-# Case 05: Temp.&Moisture Dectecion in the Library
+# Case 05: Temp.&Moisture Detection in the Library
 
 
 ##  Introduction
