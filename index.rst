@@ -81,4 +81,5 @@ Welcome to micro:bit WIKI
    :caption: arduino
    
    Arduino-3-in-1-box/index
+   neza-a-kit/36-in-1-neza-a-inventor-s-kit-for-arduino/index
    
