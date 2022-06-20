@@ -43,16 +43,11 @@ Make a handheld mechanical claw with [NezhaA Inventor's Kit](https://www.elecfre
 ![](./images/neza-a-step-12-28.png)
 ![](./images/neza-a-step-12-29.png)
 ![](./images/neza-a-step-12-30.png)
-## 硬件连接图
-将[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的M1端口，将[两颗按钮](https://www.elecfreaks.com/planetx-button.html)安装在[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)盒的J1端口。
-![](./images/neza-a-case-12-03.png)
-## 编写程序
-### 准备编程环境
-编程环境准备步骤：请参考：[Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
-下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的库文件和依赖库文件后，还需要导入[两颗按钮](https://www.elecfreaks.com/planetx-button.html)模块的库文件：[PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
-下载并导入[哪吒A主控盒](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html)的接口定义文件：[RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
 
-### 示例程序：
+## Hardware Connections
+
+Connect the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port and the[two buttons](https://www.elecfreaks.com/planetx-button.html) to J1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
+![](./images/neza-a-case-07-03.png)
 
 ## Programming
 
