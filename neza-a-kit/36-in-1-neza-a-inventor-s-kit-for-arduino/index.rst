@@ -19,5 +19,5 @@
     Case-09-The-Crawl-Robot.md
     Case-10-The-Mechanical-Crawler.md
     Case-11-A-Simple-Fan.md
-    
+    Case-12-A-Handheld-Mechanical-Claw.md
     
