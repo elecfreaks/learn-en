@@ -39,6 +39,11 @@ Video link:
 
 ![](./images/step-case-02-08.png)
 
+## Hardware Connection
+
+将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1，M2接口，将[双路巡线传感器](https://www.elecfreaks.com/octopus-2-channel-tracking-module.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1和P2端口.
+
+![](./images/Wonder-Building-Kit-case-02-06.png)
 
 
 ## Software Platform
