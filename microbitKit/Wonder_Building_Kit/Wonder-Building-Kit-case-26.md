@@ -73,6 +73,12 @@ Make a corsair.
 
 ![](./images/Wonder-Building-Kit-step-case-26-29.png)
 
+## Hardware Connection
+
+将一个[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S1接口.
+
+![](./images/Wonder-Building-Kit-case-26-06.png)
+
 ## Software Platform
 ---
 [MakeCode](https://makecode.microbit.org/)
