@@ -77,6 +77,11 @@ Video link:
 
 ![](./images/step-case-14-28.png)
 
+## Hardware Connection
+
+将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1接口.
+
+![](./images/Wonder-Building-Kit-case-14-06.png)
 
 
 ## Software Platform
