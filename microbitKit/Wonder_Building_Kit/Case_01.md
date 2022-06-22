@@ -48,8 +48,11 @@ Video link:
 ![](./images/step-case-01-12.png)
 
 
+## Hardware Connection
 
+将两个电机分别连接到悟空扩展板的M1，M2接口.
 
+![](./images/Wonder-Building-Kit-case-01-06.png)
 
 ## Software Platform
 ---
