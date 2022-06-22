@@ -77,6 +77,12 @@ Make a smart garbage can.
 
 ![](./images/Wonder-Building-Kit-step-case-27-31.png)
 
+## Hardware Connection
+
+将一个[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S1接口，将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P0接口.
+
+![](./images/Wonder-Building-Kit-case-27-06.png)
+
 ## Software Platform
 ---
 [MakeCode](https://makecode.microbit.org/)
