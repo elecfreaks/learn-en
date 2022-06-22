@@ -106,6 +106,12 @@ Make a helicopter.
 
 ![](./images/Wonder-Building-Kit-step-case-22-46.png)
 
+## Hardware Connection
+
+将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M2接口.
+
+![](./images/Wonder-Building-Kit-case-22-06.png)
+
 ## Software Platform
 ---
 [MakeCode](https://makecode.microbit.org/)
