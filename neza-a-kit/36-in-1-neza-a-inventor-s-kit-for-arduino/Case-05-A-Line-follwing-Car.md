@@ -1,16 +1,21 @@
 # Case 05:  A Line-follwing Car
+
 ## Purpose
+---
 Make a line-following car with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html).
+
 ![](./images/neza-a-case-05-01.png)
 
 ## Purchse
-
+---
  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
 ## Materials Required
-
+---
 ![](./images/neza-a-case-05-02.png)
+
 ## Assembly Steps
+---
 ![](./images/neza-a-step-05-01.png)
 ![](./images/neza-a-step-05-02.png)
 ![](./images/neza-a-step-05-03.png)
@@ -52,11 +57,11 @@ Make a line-following car with [NezhaA Inventor's Kit](https://www.elecfreaks.co
 ![](./images/neza-a-step-05-39.png)
 
 ## Hardware Connections
-
+---
 Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 port and the [line-tracking sensor](https://www.elecfreaks.com/planetx-tracking.html) on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). ![](./images/neza-a-case-05-03.png)
 
 ## Programming
-
+---
 ### Prepare the programming
 
 Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
