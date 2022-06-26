@@ -90,6 +90,5 @@ void loop() {
 Control the rubber band through this rubber band launcher. 
 ![](./images/neza-a-case-01-05.gif)
 
-```{note}
-The angle of the servo that controls the launch needs to be adjusted according to the number of rubber bands. Using too many rubber bands will cause excessive tension and damage the servos. It is recommended that no more than three rubber bands be used for launching.
-```
+***Note*** The angle of the servo that controls the launch needs to be adjusted according to the number of rubber bands. Using too many rubber bands will cause excessive tension and damage the servos. It is recommended that no more than three rubber bands be used for launching.
+
