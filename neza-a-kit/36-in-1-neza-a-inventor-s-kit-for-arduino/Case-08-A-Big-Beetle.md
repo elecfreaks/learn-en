@@ -1,17 +1,21 @@
 # Case 08: A Big Beetle
+
 ## Purpose
+---
 Make a big beetle with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html).
 
 ![](./images/neza-a-case-08-01.png)
 
 ## Purchse
-
+---
  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
 ## Materials Required
-
+---
 ![](./images/neza-a-case-08-02.png)
+
 ## Assembly Steps
+---
 ![](./images/neza-a-step-08-01.png)
 ![](./images/neza-a-step-08-02.png)
 ![](./images/neza-a-step-08-03.png)
@@ -78,13 +82,13 @@ Make a big beetle with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfr
 
 
 ## Hardware Connections
-
+---
 Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 port,  the [ultrasonic sound sensor](https://www.elecfreaks.com/planetx-ultrasonic.html) to J1 port and  the [line-tracking sensor](https://www.elecfreaks.com/planetx-tracking.html) on J2 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
 
 ![](./images/neza-a-case-08-03.png)
 
 ## Programming
-
+---
 ### Prepare the programming
 
 Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
