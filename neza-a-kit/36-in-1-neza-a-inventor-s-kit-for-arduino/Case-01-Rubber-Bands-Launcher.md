@@ -64,7 +64,7 @@ Import the libraries and the subsidiary libraries of [Nezha-A master box](https:
 Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip)
 
 ### Sample Code: 
-```python
+```
 #include <PlanetXButton.h>
 #include <NezhaA.h>
 #include <RJPins.h>
