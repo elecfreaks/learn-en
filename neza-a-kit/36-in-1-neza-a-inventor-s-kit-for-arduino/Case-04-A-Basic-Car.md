@@ -1,16 +1,21 @@
 # Case 04: A Basic Car
+
 ## Purpose
+---
 Make a basic car with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html).
+
 ![](./images/neza-a-case-04-01.png)
 
 ## Purchse
-
+---
  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
 ## Materials Required
-
+---
 ![](./images/neza-a-case-04-02.png)
+
 ## Assembly Steps
+---
 ![](./images/neza-a-step-04-01.png)
 ![](./images/neza-a-step-04-02.png)
 ![](./images/neza-a-step-04-03.png)
@@ -46,11 +51,11 @@ Make a basic car with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfre
 ![](./images/neza-a-step-04-33.png)
 
 ## Hardware Connections
-
+---
 Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). ![](./images/neza-a-case-04-03.png)
 
 ## Programming
-
+---
 ### Prepare the programming
 
 Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
