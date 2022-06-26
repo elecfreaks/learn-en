@@ -1,18 +1,21 @@
 # Case 12: A Handheld Mechanical Claw
-## Purpose
 
+## Purpose
+---
 Make a handheld mechanical claw with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html).
 
 ![](./images/neza-a-case-12-01.png)
 
 ## Purchse
-
+---
  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
 ## Materials Required
-
+---
 ![](./images/neza-a-case-12-02.png)
+
 ## Assembly Steps
+---
 ![](./images/neza-a-step-12-01.png)
 ![](./images/neza-a-step-12-02.png)
 ![](./images/neza-a-step-12-03.png)
@@ -45,12 +48,12 @@ Make a handheld mechanical claw with [NezhaA Inventor's Kit](https://www.elecfre
 ![](./images/neza-a-step-12-30.png)
 
 ## Hardware Connections
-
+---
 Connect the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port and the[two buttons](https://www.elecfreaks.com/planetx-button.html) to J1 port on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
 ![](./images/neza-a-case-07-03.png)
 
 ## Programming
-
+---
 ### Prepare the programming
 
 Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
