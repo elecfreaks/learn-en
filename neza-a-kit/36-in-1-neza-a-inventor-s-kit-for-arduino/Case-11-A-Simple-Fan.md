@@ -56,8 +56,7 @@ Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://w
 Import the libraries and the subsidiary libraries of [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) and then import the libraries of the [two buttons](https://www.elecfreaks.com/planetx-button.html):[PlanetXButton-main.zip](https://github.com/elecfreaks/PlanetXButton/archive/refs/heads/main.zip)
 Download and import the self-defined library connections for [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html): [RJPins-main.zip](https://github.com/elecfreaks/RJPins/archive/refs/heads/main.zip) 
 
-## Sample Code:
----
+### Sample Code:
 ```
 // Language ArduinoC
 #include <RJPins.h>
