@@ -1,14 +1,20 @@
 # Case 02: Helicopter 
+
 ## Purpose
+---
 Make a helocopter with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html). 
 ![](./images/neza-a-case-02-01.png)
 
 ## Purchase 
+---
  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
 
 ## Materials Required
+---
 ![](./images/neza-a-case-02-02.png)
+
 ## Assembly Steps
+---
 ![](./images/neza-a-step-02-01.png)
 ![](./images/neza-a-step-02-02.png)
 ![](./images/neza-a-step-02-03.png)
@@ -40,11 +46,14 @@ Make a helocopter with [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfr
 ![](./images/neza-a-step-02-29.png)
 ![](./images/neza-a-step-02-30.png)
 ![](./images/neza-a-step-02-31.png)
+
 ## Hardware Connections
+---
 Connect [Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 on [Nezha-A master box](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html). 
 ![](./images/neza-a-case-02-03.png)
 
 ## Programming
+---
 ### Prepare the programming
 
 Steps for preparation please refer to: [Arduino 3 in 1 Breakout Board](https://www.elecfreaks.com/learn-en/Arduino-3-in-1-box/Arduino-3-in-1-box.html)
@@ -69,4 +78,5 @@ void loop() {
 
 ### Result
 After powering on, the propeller starts driving. 
+
 ![](./images/neza-a-case-02-04.gif)
