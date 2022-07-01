@@ -108,7 +108,7 @@ Make a helicopter.
 
 ## Hardware Connection
 
-将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M2接口.
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M2 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-22-06.png)
 
@@ -137,3 +137,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_2zv14dduY6D7](https://makecode.microbit.org/_2zv14dduY6D7)
 
+### Result
+
+When button A is pressed, the micro:bit displays a heart pattern and the helicopter propeller starts to rotate; when button B is pressed, the micro:bit screen is cleared and the helicopter propeller stops rotating.
