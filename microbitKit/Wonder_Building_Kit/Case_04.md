@@ -6,7 +6,7 @@ To make an obstacle-avoidance car.
  
 ![](./images/case-04-01.png)
 
-## Link: 
+## Link
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
@@ -37,9 +37,15 @@ Video link:
 
 ![](./images/step-case-04-08.png)
 
+## Installation Mthods of Hardwares
+
+Install the sonar:bit with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-sonar-bit-1.png)
+
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1，M2接口，将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1端口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1, M2, and the [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-04-06.png)
 
@@ -70,3 +76,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_7K4bgpCKv2WJ](https://makecode.microbit.org/_7K4bgpCKv2WJ)
 
+## Result
+
+While on start, the car moves forward at the full speed and it turns right if it detects any obstacles within the scope of 20cm, and then it keeps moving forward. 
