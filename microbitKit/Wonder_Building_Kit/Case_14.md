@@ -77,6 +77,12 @@ Video link:
 
 ![](./images/step-case-14-28.png)
 
+## Installation Mthods of Hardwares
+
+Install the sonar:bit with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-sonar-bit-4.png.png)
+
 ## Hardware Connection
 
 Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
