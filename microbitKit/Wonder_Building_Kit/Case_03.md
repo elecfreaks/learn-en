@@ -6,7 +6,7 @@ To make a gyroscope baseboard.
  
 ![](./images/case-03-01.png)
 
-## Link: 
+## Link
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
@@ -50,7 +50,7 @@ Video link:
 
 ## Hardware Connection
 
-将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1接口.
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-03-06.png)
 
@@ -75,4 +75,9 @@ Search with Wukong in the dialogue box to download it.
 ![](./images/case-03-05.png)
 
 Link:[https://makecode.microbit.org/_FFibega47Hwy](https://makecode.microbit.org/_FFibega47Hwy)
+
+### Result
+
+Press the button B and the motor connecting to M1 starts driving, put the gyroscope base on the swirling yellow connectors, when the accelerate speed meets the standard, release your hands and it will not fall off; press button A to stop driving the motor.   
+
 
