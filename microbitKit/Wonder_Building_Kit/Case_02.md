@@ -39,6 +39,12 @@ Video link:
 
 ![](./images/step-case-02-08.png)
 
+## Installation Mthods of Hardwares
+
+Install the dual-line tracking sensor with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-line-following.png)
+
 ## Hardware Connection
 
 Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [dual line-following](https://www.elecfreaks.com/octopus-2-channel-tracking-module.html) sensor to P1 and P2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
