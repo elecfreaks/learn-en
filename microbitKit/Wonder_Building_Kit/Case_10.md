@@ -6,7 +6,7 @@ To make a boating car.
  
 ![](./images/case-10-01.png)
 
-## Link: 
+## Link 
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
