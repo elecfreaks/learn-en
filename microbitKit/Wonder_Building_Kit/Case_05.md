@@ -6,7 +6,7 @@ To make a rotary chair project.
  
 ![](./images/case-05-01.png)
 
-## Link: 
+## Link
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
@@ -73,7 +73,7 @@ Video link:
 
 ## Hardware Connection
 
-将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M2接口.
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M2 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-05-06.png)
 
@@ -101,3 +101,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_cYPE670Rz5cc](https://makecode.microbit.org/_cYPE670Rz5cc)
 
+### Result
+
+Press button A to start the rotary chairs and press button B to stop it. 
