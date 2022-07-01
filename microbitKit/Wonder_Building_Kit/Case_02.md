@@ -41,7 +41,7 @@ Video link:
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1，M2接口，将[双路巡线传感器](https://www.elecfreaks.com/octopus-2-channel-tracking-module.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1和P2端口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [dual line-following](https://www.elecfreaks.com/octopus-2-channel-tracking-module.html) sensor to P1 and P2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-02-06.png)
 
@@ -68,3 +68,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_azffEJVztHiW](https://makecode.microbit.org/_azffEJVztHiW)
 
+### Result
+
+The car moves along with the maps at a uniform speed, it will keep its speed and directions if it deviates from the black line until it goes back. 
