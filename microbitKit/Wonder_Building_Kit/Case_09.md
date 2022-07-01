@@ -66,9 +66,15 @@ Video link:
 
 ![](./images/step-case-09-22.png)
 
+## Installation Mthods of Hardwares
+
+Install the sonar:bit with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-sonar-bit-3.png)
+
 ## Hardware Connection
 
-将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1接口，将[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S0端口.
+Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 and the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-09-06.png)
 
@@ -99,3 +105,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_eUPf4XEudVKY](https://makecode.microbit.org/_eUPf4XEudVKY)
 
+### Result
+
+When the ultrasonic sensor detects someone passing by, it will display √ on the micro:bit and control the servo to open the door and close it automatically after 5 seconds, if the ultrasonic sensor does not detect anyone, it will keep displaying × on the micro:bit and the door is closed.
