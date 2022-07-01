@@ -79,7 +79,7 @@ Make a top emitter.
 
 ## Hardware Connection
 
-将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1接口，将一个[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S1接口.
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1, and the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-24-06.png)
 
@@ -108,3 +108,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_Vw1agAfMAccF](https://makecode.microbit.org/_Vw1agAfMAccF)
 
+### Result
+
+Place the gyro in the acceleration position, when the button A is pressed (long press) , the bottom baffle will support the small gyro on the baffle to accelerate the rotation; release the A button, the bottom baffle will move to the right, and the gyro falls off, then the motor will stop rotating.
