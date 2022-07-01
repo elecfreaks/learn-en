@@ -45,7 +45,7 @@ Make a drawing machine.
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1、M2接口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-31-06.png)
 
@@ -75,3 +75,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_KRcLTWaab2sk](https://makecode.microbit.org/_KRcLTWaab2sk)
 
+### Result
+
+Use the leather band to fix the pen on the gray double bolt parts, the drawing machine is placed on a piece of white paper, when the button A is pressed, the drawing machine begins to draw. By adjusting the speed of the motor M1 and motor M2, you can draw different patterns; when the button B is pressed, the drawing machine stops.
