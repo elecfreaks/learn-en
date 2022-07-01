@@ -79,7 +79,7 @@ Video link:
 
 ## Hardware Connection
 
-将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1接口.
+Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-14-06.png)
 
@@ -111,3 +111,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_1YvYtE8RM8oL](https://makecode.microbit.org/_1YvYtE8RM8oL)
 
+### Result
+
+By detecting the value of the distance between the ultrasonic sensor and the baffle only, the buzzer is controlled to emit different tones.
