@@ -58,7 +58,7 @@ Video link:
 
 ## Hardware Connection
 
-将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1端口.
+Connect a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-07-06.png)
 
@@ -91,3 +91,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_hueHXycJJgv1](https://makecode.microbit.org/_hueHXycJJgv1)
 
+### Result
+
+When the ultrasonic sensor detects the ball goes through the basket, it will be counted, and the value will be displayed on the micro:bit. (The principle of ultrasonic counting in this case requires to be tested according to the actual construction of the basket, it is the detection of ultrasonic sensors to the ball basket with the fixed distance value, and by judging this fixed distance value, the score plus one, so as to achieve the purpose of counting. (Ultrasonic sensor counting may have deviations, inaccurate, belonging to the normal situation of not detecting the small ball.
