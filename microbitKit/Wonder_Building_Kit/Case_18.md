@@ -66,7 +66,7 @@ Video link:
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1，M2接口，将[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S0端口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-18-06.png)
 
@@ -104,3 +104,6 @@ For the aerial ladder truck:
 
 Link:[https://makecode.microbit.org/_2vYd4UPpWf24](https://makecode.microbit.org/_2vYd4UPpWf24)
 
+### Result
+
+Use the handle to control the ladder truck, the up and down, left and right directions of the rocker are to control the forward and backward, the left and right movement of the ladder truck, the C and D buttons are to control the lift of the ladder truck. 
