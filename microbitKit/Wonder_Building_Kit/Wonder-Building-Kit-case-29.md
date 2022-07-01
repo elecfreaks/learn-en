@@ -99,7 +99,7 @@ Make a stone thrower.
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1、M2接口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-29-06.png)
 
@@ -128,3 +128,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_K6oek8JP8bgf](https://makecode.microbit.org/_K6oek8JP8bgf)
 
+### Result
+
+When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the stone thrower performs a stone throwing action; when button B is continuously pressed, the stone thrower moves forward; release button B and the stone thrower stops.
