@@ -70,7 +70,7 @@ Make an egg beater.
 
 ## Hardware Connection
 
-将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1接口.
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-25-06.png)
 
@@ -99,3 +99,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_UHqVom5dM35P](https://makecode.microbit.org/_UHqVom5dM35P)
 
+### Result
+
+When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the egg beater starts rotating, and when button B is pressed, it stops rotating.
