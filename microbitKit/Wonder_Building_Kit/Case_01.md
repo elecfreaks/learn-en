@@ -6,7 +6,7 @@ To make a motorcycle with the Wonder Building kit.
  
 ![](./images/case-01-01.png)
 
-## Link: 
+## Link 
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
@@ -50,7 +50,7 @@ Video link:
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1，M2接口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-01-06.png)
 
@@ -75,4 +75,8 @@ Search with Wukong in the dialogue box to download it.
 ![](./images/case-01-05.png)
 
 Link:[https://makecode.microbit.org/_K6mFyJ16ofCj](https://makecode.microbit.org/_K6mFyJ16ofCj)
+
+### Result
+While button A being pressed, the motorcycle moves forward and it reverses if button B is pressed, while pressing button A+B, it stops driving. 
+
 
