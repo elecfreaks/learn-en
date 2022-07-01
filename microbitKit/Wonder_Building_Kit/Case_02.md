@@ -6,7 +6,7 @@ To make a line following car.
  
 ![](./images/case-02-01.png)
 
-## Link: 
+## Link
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 
