@@ -97,7 +97,7 @@ Video link:
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1，M2接口，将[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S1端口，将[水位传感器](https://www.elecfreaks.com/octopus-water-level-sensor.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P1端口
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the [water level sensor](https://www.elecfreaks.com/octopus-water-level-sensor.html) to P1 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-20-06.png)
 
@@ -126,3 +126,8 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_diR3FMErAfWF](https://makecode.microbit.org/_diR3FMErAfWF)
 
+### Result
+
+when button A is pressed, the two windows open outward and the airer extends outward.
+When button B is pressed, the airer retracts inward and the two windows close inward.
+When button A is pressed, the two windows open outward and the airer extends outward, the water level sensor will detect the current rain value, and when the rain value is greater than 10, the airer will automatically retract and the two windows will automatically close.
