@@ -90,3 +90,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_hHDAH6Fz6YCb](https://makecode.microbit.org/_hHDAH6Fz6YCb)
 
+### Result
+
+When button A is pressed, the four Rainbow LEDs of the Wukong breakout board will light up. Pressing button A again, the color will change; and when button B is pressed, all LEDs are off. 
