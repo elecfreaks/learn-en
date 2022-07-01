@@ -75,7 +75,7 @@ Make a corsair.
 
 ## Hardware Connection
 
-将一个[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S1接口.
+Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-26-06.png)
 
@@ -104,3 +104,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_VrPehd4athgo](https://makecode.microbit.org/_VrPehd4athgo)
 
+### Result
+
+When the micro:bit is powering on, it displays a heart icon. When button A is pressed, the corsair begins to swing; when button B is pressed for the second time, the swing amplitude increases, the third time press the A button amplitude and the swing goes to the maximum, the fourth time press the A button, swing amplitude has change; when the button B is pressed, the swing amplitude begins to decrease, when repeatedly pressed B button in three times, it stopped swinging.
