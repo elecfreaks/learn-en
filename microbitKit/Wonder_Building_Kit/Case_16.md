@@ -73,7 +73,7 @@ Video link:
 
 ## Hardware Connection
 
-将一个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1接口.
+Connect a [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html).
 
 ![](./images/Wonder-Building-Kit-case-16-06.png)
 
@@ -102,3 +102,6 @@ Search with Wukong in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_18WVrTE5LTzb](https://makecode.microbit.org/_18WVrTE5LTzb)
 
+### Result
+
+When button A is pressed, the sweeper moves forward and starts sweeping, when button B is pressed, the sweeper stops moving and ends sweeping.
