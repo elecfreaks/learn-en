@@ -95,6 +95,12 @@ Video link:
 
 ![](./images/step-case-20-37.png)
 
+## Installation Mthods of Hardwares
+
+Install the water level sensor with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-water-level-sensor.png)
+
 ## Hardware Connection
 
 Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the [water level sensor](https://www.elecfreaks.com/octopus-water-level-sensor.html) to P1 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
