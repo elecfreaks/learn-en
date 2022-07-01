@@ -77,9 +77,15 @@ Make a smart garbage can.
 
 ![](./images/Wonder-Building-Kit-step-case-27-31.png)
 
+## Installation Mthods of Hardwares
+
+Install the sonar:bit with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-sonar-bit-6.png)
+
 ## Hardware Connection
 
-将一个[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S1接口，将[超声波传感器](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的P0接口.
+Connect a [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and a [sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html) to P0 port on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-27-06.png)
 
@@ -110,3 +116,6 @@ Search with IOT:bit in the dialogue box to download it.
 
 Link:[https://makecode.microbit.org/_XeMXzj7z3JFx](https://makecode.microbit.org/_XeMXzj7z3JFx)
 
+### Result
+
+When the micro:bit is powering on, it displays a heart icon, then the lid will automatically open when the ultrasonic sensor detects someone approaching, and it will automatically close after three seconds.
