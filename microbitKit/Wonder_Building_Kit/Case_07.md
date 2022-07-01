@@ -55,6 +55,11 @@ Video link:
 
 ![](./images/step-case-07-17.png)
 
+## Installation Mthods of Hardwares
+
+Install the sonar:bit with the bricks. 
+
+![](./images/Wonder-Building-Kit-step-sonar-bit-2.png)
 
 ## Hardware Connection
 
