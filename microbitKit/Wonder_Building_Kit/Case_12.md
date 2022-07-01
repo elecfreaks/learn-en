@@ -6,7 +6,7 @@ To make a forklift.
  
 ![](./images/case-12-01.png)
 
-## Link: 
+## Link 
 ---
 [micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
 [Joystick bit](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
@@ -68,7 +68,7 @@ Video link:
 
 ## Hardware Connection
 
-将两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的M1、M2接口，将[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[悟空扩展板](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)的S0接口.
+Connect two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2, the [servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S0 ports on [Wukong breakout board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html). 
 
 ![](./images/Wonder-Building-Kit-case-12-06.png)
 
@@ -105,3 +105,6 @@ For the forklift:
 
 Link:[https://makecode.microbit.org/_UoAP69ArTfyT](https://makecode.microbit.org/_UoAP69ArTfyT)
 
+### Result
+
+Use the handle to control the forklift, the up and down, left and right directions of the handle rocker are to control the forward and backward, the left and right movement of the forklift, D button to control the raisin of the forklift, C button to control the lowering of it.
