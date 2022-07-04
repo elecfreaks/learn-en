@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- Use the Cutebot and the AI lens to achieve the line tracking function. 
+- Use the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) and the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the line tracking function. 
 
 ## Materials required
 ---
@@ -13,7 +13,7 @@
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-***Note:*** The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
+***Note:*** The [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) works with [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 
@@ -50,7 +50,7 @@ Steps of build-up:
 
 ### Connections of the AI Lens: 
 
-Connect the RJ11 cable with the AI Lens and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
+Connect the RJ11 cable with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
 
 ![](./images/cutebot-step-10.png)
 
@@ -68,11 +68,11 @@ Connect the RJ11 cable with the AI Lens and the other end in Dupont connection t
 
 ![](./images/cutebot-pk-1.png)
 
-- We need to add a package for programming. Click “Extensions” in the bottom of the drawer and search with “cutebot” in the dialogue box to download it.
+- We need to add a package for programming. Click “Extensions” in the bottom of the drawer and search with `Cutebot` in the dialogue box to download it.
 
   ![](./images/cutebot-pk-11.png)
 
-- We need to add a package for programming the AI lens kit. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-PlanetX-AI” in the dialogue box to download it.
+- We need to add a package for programming the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit. Click “Extensions” in the bottom of the drawer and search with “PlanetX-AI” in the dialogue box to download it.
 
 ![](./images/cutebot-pk-12.png)
 
@@ -80,11 +80,11 @@ Connect the RJ11 cable with the AI Lens and the other end in Dupont connection t
 
 ###  Step 2
 
-- In the “on start” brick, initialize the AI lens and switch the function to the line tracking mode, set the micro:bit to display the appointed icon.
+- In the “on start” brick, initialize the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and switch the function to the line tracking mode, set the micro:bit to display the appointed icon.
 
 ![](./images/case-16-01.png)
 
-- In the “forever” brick, set to get one image form the AI lens and judge the deviation direction of the line on the image. If it deviates to the left side, it means the car deviates to the right, we should set the speed of the left wheel at the speed of 10% and the right at 40% to make the car turn left and go to the right way; if the line deviates to the right side, it means the car deviates to the left side, now we should set the speed of the right wheel at the speed of 10% and the left at 40% to make the car turn right and go to the right way; or we may set the speed of both wheels at 20% and the car moves forward with the line. 
+- In the “forever” brick, set to get one image form the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and judge the deviation direction of the line on the image. If it deviates to the left side, it means the car deviates to the right, we should set the speed of the left wheel at the speed of 10% and the right at 40% to make the car turn left and go to the right way; if the line deviates to the right side, it means the car deviates to the left side, now we should set the speed of the right wheel at the speed of 10% and the left at 40% to make the car turn right and go to the right way; or we may set the speed of both wheels at 20% and the car moves forward with the line. 
 
 ![](./images/case-16-02.png)
 
@@ -104,7 +104,7 @@ You may also download it directly below:
 
 ## Result 
 ---
-- The Cutebot car moves along with the black line.
+- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) car moves along with the black line.
 
 ![](./images/case-16-04.gif)
 

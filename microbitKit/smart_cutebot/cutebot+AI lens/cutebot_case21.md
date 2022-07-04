@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- Use the Cutebot and AI Lens to achieve the face tracking function. 
+- Use the Cutebot and [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to achieve the face tracking function. 
 
 ## Materials required
 ---
@@ -13,7 +13,7 @@
 
 - 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
-***Note:*** The AI Lens kit works with Cutebot V3.0 only(You can see the version number printed on the baseboard).
+***Note:*** The [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit works with [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) V3.0 only(You can see the version number printed on the baseboard).
 
 
 ![](./images/cutebot-16-04.png)
@@ -51,11 +51,11 @@ Steps of build-up:
 
 ### Connections of the AI Lens: 
 
-Connect the RJ11 cable with the AI Lens and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
+Connect the RJ11 cable with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
 
 ![](./images/cutebot-step-10.png)
 
-***Tips:*** the bricks holder here is flexible to be adjusted, we may manually adjust the angles of the AI lens to meet the requirements of the functions that you want to achieve.
+***Tips:*** the bricks holder here is flexible to be adjusted, we may manually adjust the angles of the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to meet the requirements of the functions that you want to achieve.
 
 ## Software Platform:
 ---
@@ -76,7 +76,7 @@ Click “Advanced” in the drawer to see more choices.
 ![](./images/cutebot-pk-11.png)
 
 
-We need to add a package for programming the AI lens kit. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-PlanetX-AI” in the dialogue box to download it.
+We need to add a package for programming the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-PlanetX-AI” in the dialogue box to download it.
 
 ![](./images/cutebot-pk-12.png)
 
@@ -84,11 +84,11 @@ We need to add a package for programming the AI lens kit. Click “Extensions”
 
 ###  Step 2
 
-- In the on start brick, initialize the AI Lens and switch to face recognition function. 
+- In the on start brick, initialize the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and switch to face recognition function. 
 
 ![](./images/case-21-01.png)
 
-- In the “forever” brick, set to get one image form the AI lens. If a face is on the image, set the LED screen to display √; or set to display ×. 
+- In the “forever” brick, set to get one image form the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html). If a face is on the image, set the LED screen to display √; or set to display ×. 
 
 ![](./images/case-21-02.png)
 
@@ -108,7 +108,7 @@ You may also download it directly below:
 
 ## Result
 ---
-- If the AI Lens recognizes the face(s), the LED screen displays √; or it displays ×. 
+- If the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) recognizes the face(s), the LED screen displays √; or it displays ×. 
 
 
 
