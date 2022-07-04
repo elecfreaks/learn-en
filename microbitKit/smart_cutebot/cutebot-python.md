@@ -107,7 +107,7 @@ while(True):
         dis.set_motors_speed(50, 50)
 ```
 ### Result
-- The Cutebot turns its direction once it detects any obstacle ahead of it. 
+- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns its direction once it detects any obstacle ahead of it. 
 
 ### Sample 4: Line-tracking 
 ```

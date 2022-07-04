@@ -1,11 +1,11 @@
-# Introduction to Cutebot
+# Introduction to  Cutebot
 
 ## Introduction
 ---
 
-ELECFREAKS Cutebot is a rear-drive smart car driven by dual high speed motors. 
+ELECFREAKS  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) is a rear-drive smart car driven by dual high speed motors. 
 
-There are many on-board equipments on the Cutebot including ultrasonic sensor and distance sensor, two RGB LED headlights and clearance lamps on the bottom, two line-tracking probes, an active buzzer as the horn and so on! Let's drive your first smart car!
+There are many on-board equipments on the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) including ultrasonic sensor and distance sensor, two RGB LED headlights and clearance lamps on the bottom, two line-tracking probes, an active buzzer as the horn and so on! Let's drive your first smart car!
 
 ## Characteristics
 ---
@@ -34,7 +34,7 @@ There are many on-board equipments on the Cutebot including ultrasonic sensor an
 
 ## Main Modules Introduction
 ---
-Ultrasonic connection and micro:bit IIC port are placed in the front part of the Cutebot.
+Ultrasonic connection and micro:bit IIC port are placed in the front part of the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
 ![](./images/cutebot_01_02.jpg)
 
@@ -44,7 +44,7 @@ Two full color RGB lights controlled by the expansion board are placed on both s
 ![](./images/cutebot_01_03.jpg)
 
 
-An expansion board for 3x AA batteries is placed in the right above part of the Cutebot.
+An expansion board for 3x AA batteries is placed in the right above part of the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
 ![](./images/cutebot_01_04.jpg)
 
@@ -52,7 +52,7 @@ The IIC port and Servo Port(S1, S2), P1,P2 IO connections are equipped in the ba
 
 ![](./images/cutebot_01_05.jpg)
 
-The infrared probes connecting to P16 port of the micro:bit are placed on the tail part of the Cutebot.
+The infrared probes connecting to P16 port of the micro:bit are placed on the tail part of the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
 ![](./images/cutebot_01_06.jpg)
 
@@ -70,18 +70,18 @@ The two line-tracking probes connecting to P13&P14 on the micro:bit are used to 
 ![](./images/cutebot_01_09.jpg)
 
 
-A universal wheel is placed in the front bottom of the Cutebot, an all-direction drive can be realized by the different speed of the left and right wheels. 
+A universal wheel is placed in the front bottom of the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html), an all-direction drive can be realized by the different speed of the left and right wheels. 
 
 ![](./images/cutebot_01_10.jpg)
 
 
-The two full color  Rainbow LEDs programmed by  Rainbow LED connecting to P15 on the micro:bit are placed on both bottom side of the Cutebot and can be used as the clearance lamps or others.
+The two full color  Rainbow LEDs programmed by  Rainbow LED connecting to P15 on the micro:bit are placed on both bottom side of the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) and can be used as the clearance lamps or others.
 
 ![](./images/cutebot_01_11.jpg)
 ## Components list
 ---
 
-- 1 x Cutebot car
+- 1 x  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) car
 - 1 x Battery Holder
 - 1 x HC-SR04 Ultrasonic Sensor
 - 1 x Line-tracking Map

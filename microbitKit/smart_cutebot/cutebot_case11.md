@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- Use another micro:bit as a remote control for your Cutebot.
+- Use another micro:bit as a remote control for your [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 - Both micro:bit needs to be programmed.
 
 ## Materials 
@@ -24,7 +24,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+- A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -50,7 +50,7 @@ You can also download it directly below:
 </iframe>
 </div>  
 
-### Step 3: Cutebot Programming
+### Step 3: [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) Programming
 
 - Drag "show icon" brick into the `On start` brick and set the "radio set group" to `1`. Items must be the same with the remote control for the correct match.
 - Drag three "if" bricks into the `on radio received` brick and judge if the received number is `1`,  `2` or `3`.
@@ -73,9 +73,9 @@ You can also download it directly below:
 
 ## Result
 ---
-- When button A+B being pressed on the remote control, the Cutebot goes straight.
-- When button A being pressed on the remote control, the Cutebot turns left.
-- When button B being pressed on the remote control, the Cutebot turns right.
+- When button A+B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) goes straight.
+- When button A being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns left.
+- When button B being pressed on the remote control, the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turns right.
 
 ## Exploration
 ---

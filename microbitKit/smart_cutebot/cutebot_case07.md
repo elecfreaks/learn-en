@@ -1,8 +1,7 @@
 # Case 07: Fall-arrest Cutebot
-
 ## Purpose
 ---
-- The Cutebot reverses quickly when detecting the edge of a table and goes forward after making a turn.
+- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
 
 ## Materials 
 ---
@@ -19,7 +18,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+- A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -53,7 +52,7 @@ You can also download it directly below:
 
 ## Result
 ---
-- The Cutebot reverses quickly when detecting the edge of a table and goes forward after making a turn.
+- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) reverses quickly when detecting the edge of a table and goes forward after making a turn.
 
 ## Exploration
 ---

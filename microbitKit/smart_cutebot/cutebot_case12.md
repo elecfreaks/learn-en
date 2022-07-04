@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- Use the accelerometer in another micro:bit to remote control the Cutebot for the direction and speed.
+- Use the accelerometer in another micro:bit to remote control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) for the direction and speed.
 - Both of the micro:bit need to be programmed.
 
 ## Materials 
@@ -24,7 +24,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+- A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -50,7 +50,7 @@ You can also download it directly below:
 </iframe>
 </div>  
 
-### Step 3: Cutebot Programming
+### Step 3: [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) Programming
 
 -  Set the "radio set group" to `1` in the `On start` brick. Items must be the same with the remote control for the correct match.
 - Drag two "if" bricks into the `on radio received` brick and judge if the radio revived value `name` is `x` or `y`
@@ -73,8 +73,8 @@ You can also download it directly below:
 
 ## Result
 ---
-- The moving direction of the Cutebot is controlled by the tilt degree of the micro:bit. 
-- The tilt angle of the controlling micro:bit controls the speed of the Cutebot.
+- The moving direction of the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) is controlled by the tilt degree of the micro:bit. 
+- The tilt angle of the controlling micro:bit controls the speed of the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 
 ## Exploration
 ---

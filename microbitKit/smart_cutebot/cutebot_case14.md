@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- Use an infrared remote control to give orders to the Cutebot. 
+- Use an infrared remote control to give orders to the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html). 
 
 ## Materials
 ---
@@ -19,7 +19,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with "Cutebot“ in the dialogue box to download it. 
+- We need to add a package for programming, click "Extensions" on the bottom of the drawer and search with `Cutebot` in the dialogue box to download it. 
 
 ![](./images/cutebot-pk-11.png)
 

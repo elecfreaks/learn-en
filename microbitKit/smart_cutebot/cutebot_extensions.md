@@ -2,7 +2,7 @@
 
 ## Purpose
 ---
-- A new package is required if you want to use the expansion bricks for Cutebot.
+- A new package is required if you want to use the expansion bricks for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
 - Steps for adding package are list below.
 
 ### Step 1

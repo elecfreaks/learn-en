@@ -1,8 +1,8 @@
 # Case 03: Dance in Figure-of-eight
 ## Purpose
 ---
-- Make your Cutebot move in the figure-of-eight.
-- Cutebot is a car with three wheels and the direction is adjusted by the different speed of the left and right wheels.
+- Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move in the figure-of-eight.
+-  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) is a car with three wheels and the direction is adjusted by the different speed of the left and right wheels.
 
 ## Materials 
 ---
@@ -20,7 +20,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for Cutebot programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+- A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -53,11 +53,11 @@ You can also download it directly below:
 
 ## Result
 ---
-- The Cutebot moves in the "figure-of-eight".
+- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)moves in the "figure-of-eight".
 
 ## Exploration
 ---
-- How to program if we want to make the Cutebot move in a square shape?
+- How to program if we want to make the  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move in a square shape?
 
 ## FAQ
 ---
