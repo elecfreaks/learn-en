@@ -6,7 +6,7 @@
 
 ## Materials 
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart- [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
 
 ## Software Platform 
 ---
