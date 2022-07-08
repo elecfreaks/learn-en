@@ -50,4 +50,3 @@ Octopus Sensor
     octopus_ef04060.md
     octopus_ef04104.md
     octopus_ef04105.md
-
