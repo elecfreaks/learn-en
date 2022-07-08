@@ -49,7 +49,7 @@ Notice: If you met a tip indicating that some codebases would be deleted due to 
 
 ###  Write Data via the RFID
 
-![](./images/05047_06.png)
+![](./images/04105_06.png)
 
 Reference link: [https://makecode.microbit.org/_19ePfj3idL1h](https://makecode.microbit.org/_19ePfj3idL1h)
 
@@ -62,7 +62,7 @@ After poweing on, put the electronic tag underneath the RFID, and the RFID shall
 
 ### RFID Reads Data
 
-![](./images/05047_07.png)
+![](./images/04105_07.png)
 
 Reference link: [https://makecode.microbit.org/_fXU8hWYc9Lhu](https://makecode.microbit.org/_fXU8hWYc9Lhu)
 
