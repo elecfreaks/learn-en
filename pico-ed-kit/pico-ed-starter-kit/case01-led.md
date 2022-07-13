@@ -1,6 +1,8 @@
-## Introduction
 
+# LED
 ![](./images/case0101.png)
+
+## Introduction
 
 LED lights are an important part of urban construction, such as traffic lights at traffic intersections, billboards in stores, park sign lights, shopping mall corridor lights, etc., and their applications are very extensive. In this lesson, we will use [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to control 2 LED lights to achieve the alternate blinking effect.
 ## Components List:
