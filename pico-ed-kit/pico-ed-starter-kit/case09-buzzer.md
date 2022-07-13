@@ -1,6 +1,10 @@
-## Introduction
+
+# Case 09:Buzzer
+
 
 ![](./images/case0901.png)
+
+## Introduction
 
 Buzzer is an integrated electronic sounder, widely used in computers, printers, copiers, alarms, electronic toys, automotive electronic equipment, telephones, timers and other electronic products as sounding devices. In this lesson, we use the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to drive the buzzer, making it sound different syllables, like a siren.
 ## Components List:
