@@ -1,6 +1,8 @@
-## Introduction
+# Case 02:button
 
 ![](./images/case0201.png)
+
+## Introduction
 
 Momentary pushbutton switches are ubiquitous electronic components used in daily life to connect and disconnect electrical circuits. In the previous lesson, we learned how to use [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to control 2 LED lights to blink alternately. In this lesson, we will use a momentary push button switch to control the blinking of the 2 LED lights. When we press the button, the 2 LED lights will flash alternately; when we release the button, the LED lights will stop flashing.
 ## Components List:
