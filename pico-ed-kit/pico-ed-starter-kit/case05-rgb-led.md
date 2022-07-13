@@ -1,6 +1,8 @@
-## Introduction
+Case 05:RGB-LED
 
 ![](./images/case0501.png)
+
+## Introduction
 
 RGB LED is a kind of LED that can emit light in three different colors: red, green and blue. In this lesson, we are going to make RGB LED shifts its light among the three different colors gradually.
 ## Components List:
