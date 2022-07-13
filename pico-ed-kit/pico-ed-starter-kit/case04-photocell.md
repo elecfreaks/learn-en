@@ -1,4 +1,4 @@
-Case 04:Photocell
+# Case 04:Photocell
 
 ![](./images/case0401.png)
 
