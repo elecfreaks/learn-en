@@ -1,6 +1,8 @@
-## Introduction
+Case 04:Photocell
 
 ![](./images/case0401.png)
+
+## Introduction
 
 Photocell is a kind of special resistor based on semiconductor materials. Its electrical conductivity varies with light intensity. Using this feature, photodiodes of different shapes and light-receiving areas are made. The stronger the light, the lower the resistance value, and the light-controlled switch usually uses a photodiode as the core component. Photodiodes are widely used in toys, lamps, cameras, and other industries. In this lesson, we will display different information on [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) depending on the light intensity received by the photodiode.
 
