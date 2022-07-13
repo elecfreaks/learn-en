@@ -1,4 +1,4 @@
-# Case 04:Self-Lock Switch
+# Case 06:Self-Lock Switch
 
 
 ![](./images/case0601.png)
