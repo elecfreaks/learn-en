@@ -9,6 +9,8 @@ Pico:ed Starter Kit(EF08272)
     :maxdepth: 2
     :numbered: 2
     
+    package-introduction.md
+    programming-preparation.md
     case01-led.md
     case02-button.md
     case03-trimpot.md
