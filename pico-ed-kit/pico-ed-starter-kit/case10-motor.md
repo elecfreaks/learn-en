@@ -1,6 +1,8 @@
-## Introduction
+# Case 10:Motor
 
 ![](./images/case1001.png)
+
+## Introduction
 
 The motor is a kind of device which can transfer electric energy into kinetic energy according to the law of electromagnetic induction. In this lesson, we are going to use a switch to control the start and stop of a motor.
 ## Components List:
