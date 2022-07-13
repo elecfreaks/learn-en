@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 ![](./images/starter-kit.png)
 
