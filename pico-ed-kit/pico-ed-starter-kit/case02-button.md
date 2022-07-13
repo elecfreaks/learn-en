@@ -1,4 +1,4 @@
-# Case 02:button
+# Case 02:Button
 
 ![](./images/case0201.png)
 
