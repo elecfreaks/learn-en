@@ -23,7 +23,7 @@ Once added successfully you can start programming, it is recommended to click on
 ## Installation Steps of the Firmware
 ---
 
-Download the firmware of Pico:ed: [adafruit-circuitpython-elecfreaks_picoed-en_US-7.3.0-beta.2.uf2](https://downloads.circuitpython.org/bin/elecfreaks_picoed/en_US/adafruit-circuitpython-elecfreaks_picoed-en_US-7.3.0-beta.2.uf2)
+Download the firmware of Pico:ed: [elecfreaks-circuitpython-elecfreaks_picoed-en_US-7.3.0-ef.1-dirty20220712.uf2](https://github.com/elecfreaks/circuitpython_picoed/releases/download/v1.1.0/elecfreaks-circuitpython-elecfreaks_picoed-en_US-7.3.0-ef.1-dirty20220712.uf2)
 
 After downloading, press the BOOTSEL button to download. 
 
@@ -50,23 +50,3 @@ Now, you can start programming in code.py in CIRCUITPY.
 
 
 
-## Add Pico:ed Library
----
-Open the link to download the library of pico:ed and unzip it: [circuitpython_picoed-main.zip](https://github.com/elecfreaks/circuitpython_picoed/archive/refs/heads/main.zip)
-
-![](./images/pico-ed-V2-python-11.png)
-
-Open circuitpython_picoed-main, copy the file folder of picked in the lib in CIRCUITPY. 
-
-
-![](./images/pico-ed-V2-python-12.png)
-
-## FAQ：
----
-### How to get the newest firmware?
-
-1. Open the link of the official circuitpython and go to the downloading page for Pico:ed with the latest version: [https://circuitpython.org/board/elecfreaks_picoed/](https://circuitpython.org/board/elecfreaks_picoed/).
-
-2. Click to see more selections and choose the equivalent language to download.
-
-![](./images/pico-ed-V2-python-10.png)
