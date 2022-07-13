@@ -11,7 +11,8 @@ Welcome to micro:bit WIKI
    :caption:  Go To Store
 
    Go To Store <https://www.elecfreaks.com>
-
+      中文资料 <https://www.elecfreaks.com/learn-cn>
+   
 .. toctree::
    :maxdepth: 2
    :caption: micro:bit
