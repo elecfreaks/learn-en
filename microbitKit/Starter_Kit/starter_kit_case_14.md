@@ -5,7 +5,7 @@
 ## Introduction
 
 ---
-In our blog micro:bit Experiment 04: Photocell — Elecfreaks mirco: bit Starter Kit Course”, we had connected a photocell externally to sense the light. Actually, micro:bit has integrated a light detection device internally. Today we are going to use the internal light sensor to do an experiment. We will light a rainbow LED ring when the light in the outer environment is comparatively dark.
+In our blog micro:bit Experiment 04: Photocell — Elecfreaks mirco: bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  Course”, we had connected a photocell externally to sense the light. Actually, micro:bit has integrated a light detection device internally. Today we are going to use the internal light sensor to do an experiment. We will light a rainbow LED ring when the light in the outer environment is comparatively dark.
 
 ## Component List
 
@@ -19,7 +19,7 @@ In our blog micro:bit Experiment 04: Photocell — Elecfreaks mirco: bit Starter
 - 1 x 8 RGB LED RainbowLED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
-****Tips: If you want all components above, you may need Elecfreaks micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 

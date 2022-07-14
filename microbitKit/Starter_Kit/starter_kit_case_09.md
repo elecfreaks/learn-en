@@ -4,11 +4,11 @@
 
 ## Introduction
 
----
+
 Buzzer is a kind of electronic sound receiver with integrated structure. It is widely used as a voice device in electronic products like computers, printers, copying machines, alarm apparatus, electronic toys, auto electronic devices, telephones, etc..In this experiment, we are going to use micro:bit to drive buzzer and make its sound circulate between high frequency and low frequency just like alarm song. And we will present its sound frequency on micro:bit  with bar chart format.
 
 ## Components List:
----
+
 ### Hardware:
 - 1 x micro:bit Board
 - 1 x Micro-B USB Cable
@@ -19,13 +19,13 @@ Buzzer is a kind of electronic sound receiver with integrated structure. It is w
 - 1 x 100 Ohm Resistors
 - 1 x Breadborad Jumper Wire 65pcs Pack
 
-****Tips: If you want all components above, you will need Elecfreaks micro:bit Starter Kit.****
+***Tips: If you want all components above, you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Component Introduction
 
----
+
 ### Buzzer
 
 Buzzer is a kind of voice device. It is made of vibration and resonance device. According to the difference of control method, we can divide buzzer into active type and passive type.
@@ -55,7 +55,7 @@ If we input PWM signal produced by micro:bit into buzzer directly, the buzzer wi
 
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 Connect your components according to the picture below: 
 
@@ -90,18 +90,18 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_DdPPjDCdmM1a" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 The sound sent out by buzzer changes between high frequency and low frequency. And we can see the bar chart of frequency on the micro:bit.
 
 ![](./images/2AJXtVY.gif)
 
 
 ## Exploration
----
+
 If we want to make a high temperature alarming device with a temperature sensor and a buzzer, then how can we design circuit and program? 
 
 ## FAQ
----
+
 
 
 

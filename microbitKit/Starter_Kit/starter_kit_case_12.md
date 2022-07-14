@@ -3,11 +3,11 @@
  ![](./images/5RJ1KJn.jpg)  
 
 ## Introduction
----
+
 micro:bit has integrated multiple sensors including accelerometer. Today, we are going to use accelerometer to make a level device and display the inclination on RainbowLED ring in bar chart format.
 
 ## Component List
----
+
 ### Hardware:
 
 - 1 x micro:bit Board
@@ -17,12 +17,12 @@ micro:bit has integrated multiple sensors including accelerometer. Today, we are
 - 1 x 8 RGB RainbowLED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
-****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Component Introduction
----
+
 ### **Accelerometer**
 
 There is an accelerometer on your micro:bit which detects the speed change of micro:bit. It converts analog information into digital form that can be used in micro:bit programs. Output is in milli-g. The device will also detect a small number of standard actions, e.g. shake, tilt and free-fall.
@@ -34,7 +34,7 @@ The corresponding X, Y, Z axle direction of accelerometer are showed below:
 ![](./images/FQ6zBkH.jpg) 
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 Connect your components according to the picture below: 
 
@@ -84,18 +84,18 @@ You can also download the links directly:
 
 
 ## Result
----
+
 The RGB LED ring lights on in different color with the movement of the micro:bit.
 
 ![](./images/iq9Hxs0.gif)
 
 
 ## Exploration
----
+
 If we want to set 4 of the LEDs to light on in turns, how can we design the circuit and program?
 
 ## FAQ
----
+
 
 
 

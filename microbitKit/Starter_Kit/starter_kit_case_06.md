@@ -3,12 +3,12 @@
  ![](./images/ogadD6b.jpg)  
 
 ## Introduction
----
+
 Self-lock switch is a kind of common button switch. When we press the button for the first time, the switch is connected and remains that status, which is called “self-lock”. When we press the button for the second time, the switch is disconnected. At the same time, the button will bounce back to its initial place. In this experiment, we are going to use self-lock switch to control LED light.
 
 ## Component List
 
----
+
 ### Hardware：
 - 1 x micro:bit Board
 - 1 x Micro-B USB Cable
@@ -19,13 +19,13 @@ Self-lock switch is a kind of common button switch. When we press the button for
 - 1 x 100 Ohm Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-****Tips: If you want all components above, you may need Elecfreaks micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Components Introduction
 
----
+
 ### Self-lock Switch
 
 Self-lock switch normally means switch with built-in mechanical lock function. Press down the switch and then release, it will not fully bounce up because it is locked. You have to press it again, then it will be unlocked and fully bounce up. This is the so-called Self-lock Switch. It is widely used to earlier televisions and monitors with function of directly completely power off.
@@ -35,7 +35,7 @@ Self-lock switch normally means switch with built-in mechanical lock function. P
 ****Note:**** This kind of self-lock switch contains two groups of double-throw switch. In this experiment, we use a group only. So we cut down the common footer of a group.
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 Connect them as the picture shows:
 
@@ -78,18 +78,18 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Dhy5i9KVeLAK" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 Press down self-lock switch, LED lights on; press again, LED lights off. 
 
 ![](./images/sCMwXXf.gif)
 
 
 ## Exploration
----
+
 Usually stair light uses double-throw switch to realize this function. We can turn on the light upstairs and turn off it downstairs. Vice versa. Suppose if we want to use 2 self-lock switch to realize stair light function, then how to design circuit and program? 
 
 ## FAQ
----
+
 
 
 

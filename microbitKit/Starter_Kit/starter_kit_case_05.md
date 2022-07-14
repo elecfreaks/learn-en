@@ -3,11 +3,11 @@
  ![](./images/mEAx3Tx.jpg)  
 
 ## Introduction:
----
+
 RGB LED is a kind of LED that can emit light in three different colors: red, green and blue. In this experiment, we are going to make RGB LED  shifts its light among the three different colors gradually.
 
 ## Components List:
----
+
 ### Hardware:
 - 1 x micro:bit Board
 - 1 x Micro-B USB Cable
@@ -17,12 +17,12 @@ RGB LED is a kind of LED that can emit light in three different colors: red, gre
 - 3 x 100 Ohm Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-**Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit Starter Kit.**
+**Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .**
 
 ![](./images/W4tseua.jpg)
 
 ## Major Components Introduction
----
+
 ### RGB LED
 
 RGB LED is a kind of LED that has integrated red LED, green LED, and blue LED into a component. We all knows that the three primary colors of light are red, green, and blue. With different groups of the three color lights, we can create all colors of the world. Similarly, if we use RGB LED to group lights with different brightness, then it can form various colors.  
@@ -33,7 +33,7 @@ RGB LED is a kind of LED that has integrated red LED, green LED, and blue LED in
 RGB LED can be divided into 2 types: common anode and common cathode. In common-cathode RGB LED, its common port usually connects GND, while in common-anode RGB LED, its common port connects VCC. In this experiment, we choose common-cathode RGB LED.
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 
 Connect your components according to the picture below: 
@@ -70,7 +70,7 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Th3Vum76F4Tr" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 Press button A, LED turns red. 
 Press button B, LED turns green. 
 Press button A+B, LED turns blue.
@@ -79,8 +79,8 @@ Press button A+B, LED turns blue.
 
 
 ## Exploration
----
+
 If we want to use RGB LED to emit cyan light, magenta light, yellow light, then how to design circuit and program? 
 
 ## FAQ
----
+

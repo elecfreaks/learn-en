@@ -4,12 +4,12 @@
 
 ## Introduction:
 
----
+
 LED has wide applications. Most signal lights we saw in our daily life use LED as its major light source. In today’s experiment, we are going to use Micro:bit to make 2 LED beads twinkle alternatively.
 
 ## Components List:
 
----
+
 ### Hardware:
 
 - 1 x Micro:bit Board
@@ -20,12 +20,12 @@ LED has wide applications. Most signal lights we saw in our daily life use LED a
 - 2 x 100 Ohm Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Components Introduction
----
+
 ### Micro:bit Breadboard Adapter
 
 Micro: bit Breadboard Adapter can extend all pins of Micro: bit , so that we can create simple circuit on breadboard.
@@ -54,7 +54,7 @@ Want to know resistor value by color circles? You can read this article:
 [How to Identify Color Circle Resistance Value](https://www.elecfreaks.com/9158.html).
 
 ## Experimental Procedure
----
+
 
 ### Hardware Connection
 
@@ -96,18 +96,18 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_LybdqfauX3TR" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 You can see the  2 LEDs flashing alternatively. If not, you need to go back and check your operations.
 
 ![](./images/xvYjvaQ.gif)
 
 
 ## Exploration
----
+
 If we want to control 4 LEDs and make them illuminated in turns, how can we design the circuit and code?  Welcome to have a further discussion with us!
 
 ## FAQ
----
+
      
 
 

@@ -4,12 +4,12 @@
 
 ## Introduction
 
----
+
 Temperature sensor is a kind of sensor that can detect temperature and transfer it into output data. Temperature sensor is the core component of temperature gauges and instruments with multiple categories. In this experiment, we are going to learn analog temperature sensor--TMP36 and display its data on micro:bit.
 
 ## Components List
 
----
+
 ### Hardware:
 - 1 x micro:bit Board
 - 1 x Micro-B USB Cable
@@ -18,12 +18,12 @@ Temperature sensor is a kind of sensor that can detect temperature and transfer 
 - 1 x TMP36 Temperature Sensor
 - n x Breadborad Jumper Wire 65pcs Pack
 
-****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Components Introduction
----
+
 ### TMP36
 
 TMP36 is a kind of analog temperature sensor. Its output voltage and temperature forms a linear relationship. That means higher temperature will have bigger output voltage.
@@ -45,7 +45,7 @@ We can know from the above chart that the temperature formula is:
 Temperature（℃）=(Output Voltage（mV）-500)/10
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 Connect your components according to the picture below:
 
@@ -81,17 +81,17 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_AKuYFoDsLJ7D" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 The current temperature is showing on the micro:bit.
 
 ![](./images/b0w5PkN.gif)
 
 
 ## Exploration
----
+
 
 ## FAQ
----
+
 
 
 

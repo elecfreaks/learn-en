@@ -3,11 +3,11 @@
  ![](./images/MwngMAi.jpg)
 
 ## Introduction:
----
+
 Photocell is a kind of special resistor based on internal photoelectric effect. Its value of resistance is opposite to the brightness of the light, the brighter of the light is,  the lower of the value of the resistance will be. Usually photocell is the core component of a photoswitch. In the following experiment, we are going to use photocell to control the brightness of 5*5 LED screen on micro:bit.
 
 ## Components List:
----
+
 ### Hardware:
 
 - 1 x micro:bit Board
@@ -18,12 +18,12 @@ Photocell is a kind of special resistor based on internal photoelectric effect. 
 - 1 x 10kΩ Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-****Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit Starter Kit.****
+***Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Components Introduction
----
+
 ### Photocell
 
 Photocell is a kind of special resistor made of semi-conductor materials like Cds or CdSe based on internal photoelectric effect. The brighter of the light is,  the lower of the value of the resistance will be. with the intensity of light increasing, its resistant value decreased sharply, and the minimum light resistant value can drop down to below 1KΩ. Photocell is very sensitive to light. When there is no light, its resistant value arrives to its maximum and its dark resistant value usually can reach 1.5MΩ at max.
@@ -31,7 +31,7 @@ Photocell is a kind of special resistor made of semi-conductor materials like Cd
 ![](./images/jS03zGQ.jpg)
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 Connect your components according to the picture below: 
 
@@ -71,16 +71,16 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_3tFFoPhLF7hX" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 Turn on the light, the LED screen on micro:bit shows nothing. Turn off light, the LED screen displays an icon.
 
 ![](./images/1Xu4lBR.gif)
 
 
 ## Elploration
----
+
 If we want to use photocell to control a LED,  how to design circuit and program? 
 
 ## FAQ
----
+
 

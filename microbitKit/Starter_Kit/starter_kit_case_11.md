@@ -3,12 +3,12 @@
  ![](./images/F2gbRrO.jpg)   
 
 ## Introduction
----
+
 8 RGB Rainbow LED Ring is based on ws2812b bead. Its biggest characteristic is single IO control and infinite cascade connection. In this experiment, we are going to use micro:bit to drive 8 RGB Rainbow LED Ring and realize rainbow color gradual change.
 
 ## Component List
 
----
+
 ### Hardware:
 
 - 1 x micro:bit Board
@@ -18,13 +18,13 @@
 - 1 x 8 RGB Rainbow LED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
-****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Component Introduction
 
----
+
 ### **8 RGB Rainbow LED Ring**
 
 ![](./images/NnNcXY9.jpg)
@@ -37,7 +37,7 @@ LED has advantages of low voltage drive, energy-saving and environment protect, 
 
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 
 Connect your components according to the picture below: 
@@ -88,18 +88,18 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_LybdqfauX3TR" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 We can see the light of 8 RGB Rainbow LED Ring is rotating with rainbow color.
 
 ![](./images/23vhDKK.gif)
 
 
 ## Exploration
----
+
 Imagine the ring is a big eye, in order to make it twinkle, then how to design circuit and program? 
 
 ## FAQ
----
+
 
 
 

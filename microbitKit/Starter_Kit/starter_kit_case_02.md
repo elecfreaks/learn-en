@@ -3,11 +3,11 @@
  ![](./images/SVbSfPB.jpg)
 
 ## Introduction:
----
+
 In our previous experiment , we have learned how to use Micro:bit to control 2 LEDs and make them twinkle alternatively. This time we are going to use a button to control LED flash. That means when we press down the button,the 2 LEDs flash in turns; when release the button, the LEDs stop flashing.
 
 ## Components List:
----
+
 ### Hardware:
 - 1 x Micro:bit Board
 - 1 x Micro-B USB Cable
@@ -18,12 +18,12 @@ In our previous experiment , we have learned how to use Micro:bit to control 2 L
 - 1 x Momentary Pushbutton Switch
 - n x Breadborad jumper wire 65pcs pack
 
-****Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit Starter Kit.****
+***Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit  [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Components Introduction
----
+
 ### Momentary Pushbutton Switch
 
 This is a common component for controlling electronic devices. It is mostly used to connect or cut off the control circuit, it can achieve the control for motors or other electronic equipments.
@@ -38,7 +38,7 @@ Momentary Pushbutton Switch has 4 pins which can be divided into 2 groups: pin 1
 
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 
 Connect your components according to the picture below: 
@@ -81,15 +81,15 @@ You can also download the links directly:
 
 
 ## Result
----
+
 When the button is pressed, you can see the  2 LEDs flashing alternatively; When the button is released, they would stop flashing. If not, you need to go back and check your operations.
 
 ![](./images/7w5yp6z.gif)
 
 
 ## Exploration
----
+
 If we want to light  on the red LED when press the button and light on the green LED when release the button,  how can we program? 
 
 ## FAQ
----
+

@@ -8,7 +8,7 @@ Do you know compass? I believe most of you have played it ever. Today I am going
 
 ## Component List
 
----
+
 ### Hardware:
 
 - 1 x micro:bit Board
@@ -18,12 +18,12 @@ Do you know compass? I believe most of you have played it ever. Today I am going
 - 1 x 8 RGB Rainbow LED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
-****Tips: If you want all components above, you may need Elecfreaks Micro:bit Starter Kit.****
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
 
 ![](./images/W4tseua.jpg)
 
 ## Major Component Introduction
----
+
 ### **Compass**
 
 Here, compass in reality is a magnetometer. The magnetometer is a separate chip that provides magnetic field strength sensing. A software algorithm in the standard runtime uses the on board accelerometer to turn these readings into a board orientation independent compass reading. The compass must be calibrated before use, and the calibration process is automatically initiated by the runtime software. This device is connected to the application processor via the I2C bus.
@@ -31,7 +31,7 @@ Here, compass in reality is a magnetometer. The magnetometer is a separate chip 
 ![](./images/jWLNeqO.jpg) 
 
 ## Experimental Procedure
----
+
 ### Hardware Connection
 Connect your components according to the picture below: 
 
@@ -84,7 +84,7 @@ You can also download the links directly:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_L88UK5VdmR9A" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 Rotate the whole device, you can see the Rainbow LED Ring always point at the same direction. 
 ***Note:*** Every time you start to use the compass (for example, if you have just turned the micro:bit on), the micro:bit will start to calibrate compass (adjust itself). It will ask you to draw a circle by tilting the micro:bit. If you are calibrating or using the compass near metal, it might confuse the micro:bit.
 
@@ -93,10 +93,10 @@ Rotate the whole device, you can see the Rainbow LED Ring always point at the sa
 
 
 ## Exploration
----
+
 If this experiment does not use Rainbow LED Ring but use the arrow displayed on micro:bit as indicator, then how to design circuit and program? 
 
 ## FAQ
----
+
 
 
