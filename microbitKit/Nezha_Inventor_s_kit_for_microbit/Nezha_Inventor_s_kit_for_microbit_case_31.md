@@ -1,13 +1,13 @@
 # Case 31: The Rotary Password Door
 
 ## Introduction
----
+
 The selected password can be adjusted by the potentiometer and confirmed by the crash sensor. If two consecutive passwords are entered within the correct range, the password door will open. Perhaps we can use this device to make some decryption plots to make the game more interesting.
 
 ![](./images/case_31_01.png)
 
 ## Quick Start 
----
+
 
 
 ### Materials Required
@@ -27,7 +27,7 @@ OLED display  × 1 （It requires to be purchased as standalones.）
 
 Bricks × n
 
-***Tips:*** Purchase Interactive coding accessories pack here. 
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -73,7 +73,7 @@ Video link: [https://youtu.be/eniQAfqXym0](https://youtu.be/eniQAfqXym0)
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1

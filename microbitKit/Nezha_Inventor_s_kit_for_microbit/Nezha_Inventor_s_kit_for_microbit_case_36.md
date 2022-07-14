@@ -1,13 +1,13 @@
 # Case 36: Color Recognition Password Door
 
 ## Introduction 
----
+
 This is a unique code door because it uses colors as the password. The code door will only open when the color cards are placed in the correct order.
 
 ![](./images/case_36_01.png)
 
 ## Quick Start 
----
+
 
 ### Materials Required
 
@@ -24,7 +24,7 @@ Crash sensor  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -70,7 +70,7 @@ Video link: [https://youtu.be/WiSpnc5fPbA](https://youtu.be/WiSpnc5fPbA)
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1

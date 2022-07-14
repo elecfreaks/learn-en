@@ -1,13 +1,13 @@
 # Case 07: Smart Lamps 
 
 ## Introduction
----
+
 Use the light intensity of the micro:bit to make a smart light, which automatically turns on or off the LED light according to the light level.
 
 ![](./images/case_07_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -19,7 +19,7 @@ LED-yellow × 1
 
 RJ11 wires × 1
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram
 
@@ -54,7 +54,7 @@ Video reference: [https://youtu.be/oDzSJMKisO8](https://youtu.be/oDzSJMKisO8)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

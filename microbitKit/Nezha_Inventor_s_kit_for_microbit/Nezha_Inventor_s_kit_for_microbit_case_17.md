@@ -1,7 +1,7 @@
 # Case 17: Alarm Device
 
 ## Introduction 
----
+
 This is an alarm device. Press button A to make the red LED light on and flash, and the buzzer will be activated. Press button A again to cancel the alarm.
 
 
@@ -10,7 +10,7 @@ This is an alarm device. Press button A to make the red LED light on and flash, 
 
 
 ## Quick to Start 
----
+
 
 ### Materials
 
@@ -24,7 +24,7 @@ RJ11 wires × 1
 
 Bricks × n
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 
 ### Connection Diagram
@@ -59,7 +59,7 @@ Video link:[https://youtu.be/bYN6-6PskHQ](https://youtu.be/bYN6-6PskHQ)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

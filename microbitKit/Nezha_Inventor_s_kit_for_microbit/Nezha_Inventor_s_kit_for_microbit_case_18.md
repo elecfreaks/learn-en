@@ -1,13 +1,13 @@
 # Case 18: Music Box
 
 ## Introduction
----
+
 This is a music box. We can control the buzzer on the micro:bit to emit different melody by pressing the button A on the micro:bit.
 
 
 
 ## Quick to Start
----
+
 
 ### Materials 
 
@@ -15,7 +15,7 @@ Nezha expansion board × 1
 
 micro:bit × 1
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram
 
@@ -27,7 +27,7 @@ Insert the micro:bit to Nezha expansion board.
 
 
 ## MakeCode Programming
----
+
 
 
 

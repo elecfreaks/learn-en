@@ -1,13 +1,13 @@
 # Case 10: Speed Adjustable Car
 
 ## Introduction
----
+
 This is an adjustable speed car, we can control the speed of the it through the potentiometer installed at the back side.
 
 ![](./images/case_10_01.png)
 
 ## Quick Start
----
+
 
 
 ### Materials Required
@@ -23,6 +23,7 @@ Motors × 2
 
 RJ11 wires × 1
 
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 Connect the potentiometer to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
@@ -82,7 +83,7 @@ Video reference: [https://youtu.be/bVa5-wrcoeA](https://youtu.be/bVa5-wrcoeA)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

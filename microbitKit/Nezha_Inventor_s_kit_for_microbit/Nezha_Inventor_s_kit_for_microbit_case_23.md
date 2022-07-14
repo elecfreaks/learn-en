@@ -1,13 +1,13 @@
 # case 23 micro:bit Crawlers
 
 ## Introduction
----
+
 Let the children use the building blocks and micro:bit to make a crawling caterpillar. In this process, children could experience the fun of building blocks and get a preliminary understanding of the ratchet structure.
 
 ![](./images/case_23_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -19,7 +19,7 @@ micro:bit V2 × 1
 
 Bricks × n
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram
 
@@ -69,7 +69,7 @@ Connect the servo to S1 and the micro:bit to Nezha expansion board.
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 

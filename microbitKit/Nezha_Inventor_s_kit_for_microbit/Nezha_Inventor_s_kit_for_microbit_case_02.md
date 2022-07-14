@@ -1,13 +1,13 @@
 # Case 02: Flower-watering Prompter
 
 ## Introduction
----
+
 Some plants can make people live healthier. For example, a pot of green dill in a room of 8-10 square meters is equivalent to an air purifier, which can effectively absorb harmful gases such as formaldehyde, benzene and trichloroethylene in the air. Thus, we can make a simple watering device to help us take care of plants.
 
 ![](./images/case_02_01.png)
 
 ## Quick Start
----
+
 ### Materials Required 
 
 Nezha expansion board × 1
@@ -22,7 +22,7 @@ Soil moisture sensor × 1
 
 RJ11 wires × 3
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 
 
@@ -67,7 +67,7 @@ Video reference:[https://youtu.be/YxEKEoDB6FQ](https://youtu.be/YxEKEoDB6FQ)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

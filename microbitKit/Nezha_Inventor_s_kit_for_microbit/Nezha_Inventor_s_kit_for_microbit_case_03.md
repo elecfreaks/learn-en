@@ -1,13 +1,13 @@
 # Case 03: Automatic Gate
 
 ## Introduction
----
+
 A simple automatic sensor door. When the ultrasonic sensor detects that a person is approaching, the micro:bit controls the servo to automatically open the door. When no person is approaching, the micro:bit controls the servo to automatically close the door.
 
 ![](./images/case_03_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -20,7 +20,7 @@ micro:bit × 1
 Sonar:bit  × 1
 
 RJ11 wire × 1
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram
 
@@ -68,7 +68,7 @@ Video reference: [https://youtu.be/nOh7YCmcotA](https://youtu.be/nOh7YCmcotA)
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.

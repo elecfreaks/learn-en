@@ -1,14 +1,14 @@
 # Case 13: Lively Music 
 
 ## Introduction 
----
+
 We can adjust the frequency of the buzzer sound through the potentiometer. Try to create unique music by turning the potentiometer!
 
 ![](./images/case_13_01.png)
 
 
 ## Quick to Start 
----
+
 
 ### Mterials 
 
@@ -23,7 +23,7 @@ RJ11 wires × 1
 Bricks × n
 
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -61,7 +61,7 @@ Video reference for building:[https://youtu.be/G0hycQ2rxCk](https://youtu.be/G0h
 
 
 ## MakeCode Programming. 
----
+
 
 
 ### Step 1

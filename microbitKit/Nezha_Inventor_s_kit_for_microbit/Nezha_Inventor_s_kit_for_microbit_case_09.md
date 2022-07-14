@@ -1,13 +1,13 @@
 # Case 09: Invading Detection Device
 
 ## Introduction
----
+
 This is an intrusion detection device. When the ultrasonic sensor detects that someone is approaching, it will automatically turn on a red light and alarm through the buzzer on the micro:bit. If the ultrasonic sensor does not detect anyone, it will automatically turn on green light.
 
 ![](./images/case_09_01.png)
 
 ## Quick Start
----
+
 
 
 ### Materials Required
@@ -24,7 +24,7 @@ Sonar:bit × 1
 
 RJ11 wires × 3
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -66,7 +66,7 @@ Video Reference: [https://youtu.be/jw9_wlNIiHw](https://youtu.be/jw9_wlNIiHw)
 
 
 ## MakeCode Programming
----
+
 
 
 

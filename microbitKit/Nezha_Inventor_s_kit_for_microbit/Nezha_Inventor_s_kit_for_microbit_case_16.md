@@ -1,13 +1,13 @@
 # Case 16: Memory Test 
 
 ## Introduction 
----
+
 This is a memory testing device. The red and green lights on the device will light up randomly. After all the light instructions are displayed, you need to press the corresponding buttons according to the order of the lights, (A stands for red, B stands for green) , If in the correct order, the micro:bit displays "√", otherwise the micro:bit displays a sad face.
 
 ![](./images/case_16_01.png)
 
 ## Quick to Start
----
+
 ### Materials 
 
 Nezha expansion board × 1
@@ -22,7 +22,7 @@ RJ11 wires × 2
 
 Bricks × n
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram
 
@@ -54,7 +54,7 @@ Video link:[https://youtu.be/ie4sO5qNvfM](https://youtu.be/ie4sO5qNvfM)
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1

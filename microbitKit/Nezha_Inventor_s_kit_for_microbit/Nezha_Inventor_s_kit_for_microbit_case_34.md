@@ -1,13 +1,13 @@
 # Case 34: Gesture Recognition Car
 
 ## Introduction
----
+
 This is a simple car. We can install gesture recognition sensors on the car to control the car’s driving route based on gestures.
 
 ![](./images/case_34_01.png)
 
 ## Quick Start
----
+
 ### Materials Required
 
 Nezha expansion board × 1
@@ -20,7 +20,7 @@ Gesture sensor × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -84,7 +84,7 @@ link: [https://youtu.be/ib-xX0MS41U](https://youtu.be/ib-xX0MS41U)
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 

@@ -1,13 +1,13 @@
 # Case 12: Obstacles Avoidance Car
 
 ## Introduction
----
+
 This is an obstacle avoidance car. It detects whether there are obstacles in front of it through the ultrasonic sensor on the front of the car, the car automatically turns when it detects obstacles to avoid collisions.
 
 ![](./images/case_12_01.png)
 
 ## Quick Start
----
+
 
 
 ### Materials Required
@@ -23,7 +23,7 @@ Motors × 2
 
 RJ11 wires × 1
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -85,7 +85,7 @@ Video reference: [https://youtu.be/k8eaTQSVsfk](https://youtu.be/k8eaTQSVsfk)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

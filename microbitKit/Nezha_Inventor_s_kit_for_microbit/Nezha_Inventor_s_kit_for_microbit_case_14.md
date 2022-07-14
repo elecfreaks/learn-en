@@ -1,14 +1,14 @@
 # Case 14:  Guess the tones
 
 ## Introduction 
----
+
 This is a gaming device. It displays a smiley face and plays a beep when it is turned on. Press the button A to select the corresponding number, and press the button B to confirm. If the confirmed number is the same as the prompt sound, the micro:bit displays √; if not, it displays ×.
 
 ![](./images/case_14_01.png)
 
 
 ## Quick to Start 
----
+
 
 ### Materials 
 
@@ -16,6 +16,7 @@ Nezha expansion board × 1
 
 micro:bit × 1
 
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram
 
@@ -27,7 +28,7 @@ Connect the micro:bit to Nezha expansion board as the picture shows.
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1

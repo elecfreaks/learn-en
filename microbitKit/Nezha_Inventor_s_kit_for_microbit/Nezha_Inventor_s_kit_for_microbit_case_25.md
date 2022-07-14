@@ -1,13 +1,13 @@
 # Case 25: Colors of the Emotions
 
 ## Introduction
----
+
 This is an emotional micro:bit. It will show a smile to the color that it likes, and it will also express sadness or anger at the color it doesn't like. Let’s find out the favorite color of the small micro:bit.
 
 ![](./images/case_25_01.png)
 
 ## Quick Start 
----
+
 
 
 ### Materials Required
@@ -21,7 +21,9 @@ Color sensor  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
+
+
 
 
 ### Connection Diagram 
@@ -56,7 +58,7 @@ Video link: [https://youtu.be/5xkxc6J6AnI](https://youtu.be/5xkxc6J6AnI)
 
 
 ## MakeCode Programming 
----
+
 
 
 

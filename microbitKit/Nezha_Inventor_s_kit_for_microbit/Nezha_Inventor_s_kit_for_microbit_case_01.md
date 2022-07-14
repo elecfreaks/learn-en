@@ -1,13 +1,13 @@
-# Case 01: Traffic Lights
+# Case 37: Traffic Lights
 
 ## Introduction
----
+
 In our daily life, many traffic accidents should have been avoided. These traffic accidents are often caused by people not observing the traffic rules, thus, we must understand the traffic rules. For example, the common traffic lights in our lives, red light means not passing, yellow light means warning, and green light means permission to pass. Let's make a traffic light controlled by the micro:bit.
 
 ![](./images/case_01_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -23,7 +23,7 @@ LED-yellow × 1
 
 RJ11 wires × 3
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -67,7 +67,7 @@ Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
 
 
 ## Makecode Programming
----
+
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 

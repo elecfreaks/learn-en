@@ -1,13 +1,13 @@
 # Case 11: Line-tracking Car
 
 ## Introduction
----
+
 This is a line tracking car, we can use black electrical tape to paste a track on the white plane, and then make the car drive according to the preset trajectory.
 
 ![](./images/case_11_01.png)
 
 ## Quick Start
----
+
 ### Materials Required
 
 Nezha expansion board × 1
@@ -20,7 +20,7 @@ Motors × 2
 
 RJ11 wires × 1
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
@@ -83,7 +83,7 @@ Video reference: [https://youtu.be/N2w01pGaj30](https://youtu.be/N2w01pGaj30)
 
 
 ## MakeCode Programming
----
+
 
 
 

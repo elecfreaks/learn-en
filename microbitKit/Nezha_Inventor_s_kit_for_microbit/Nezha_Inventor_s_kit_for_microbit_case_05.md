@@ -1,13 +1,13 @@
 # Case 05: Automatic Dryer
 
 ## Introduction
----
+
 Put your hands under the air outlet of the automatic hand dryer, it will automatically send out the wind to dehumidify and dry your hands, and then automatically stop the wind and shut down. It can meet the requirements of not using towels to dry hands and preventing cross-infection of diseases. Thus, we can use micro:bit to make an automatic dryer.
 
 ![](./images/case_05_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -20,7 +20,7 @@ Sonar:bit × 1
 Motor × 1
 
 RJ11 wires × 1
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -68,7 +68,7 @@ Video reference: [https://youtu.be/5kB0bYEsJ1c](https://youtu.be/5kB0bYEsJ1c)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

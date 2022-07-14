@@ -1,13 +1,13 @@
 # Case 08: Speed Adjustable Fans
 
 ## Introduction
----
+
 Use the potentiometer and the motor to make a knob to control the fan, and you can use the knob to control the speed of the fan.
 
 ![](./images/case_08_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -22,7 +22,7 @@ Motor × 1
 RJ11 wire × 1
 
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 
 ### Connection Diagram 
@@ -72,7 +72,7 @@ Video reference: [https://youtu.be/1-FaQU7Yj0k](https://youtu.be/1-FaQU7Yj0k)
 
 
 ## MakeCode Programming
----
+
 
 
 

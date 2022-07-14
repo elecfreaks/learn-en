@@ -1,13 +1,13 @@
 # Case 26: The Volume Indicator
 
 ## Introduction
----
+
 This is a sound warning device. As we all know, noise pollution seriously affects our lives. If we are exposed to a certain decibel noise for a long time, our physical and mental state will also be harmed. Thus, we can make a noise detection device. Different decibel values light up different colors of lights to remind people to keep quiet.
 
 ![](./images/case_28_01.png)
 
 ## Quick Start 
----
+
 
 
 ### Materials Required
@@ -21,8 +21,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -61,7 +60,7 @@ Video link: [https://youtu.be/4tFv6rWx8uM](https://youtu.be/4tFv6rWx8uM)
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1

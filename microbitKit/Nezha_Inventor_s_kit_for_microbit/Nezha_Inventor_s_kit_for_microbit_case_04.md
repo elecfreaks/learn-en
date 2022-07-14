@@ -1,13 +1,13 @@
 # Case 04: Mini Table Lamps
 
 ## Introduction
----
+
 Use micro:bit to make a mini desk lamp, and control the LED light to turn on or off through a crash sensor.
 
 ![](./images/case_04_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Reuqired
 
@@ -21,7 +21,7 @@ Crash sensor × 1
 
 RJ11 wires × 2
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 
 
@@ -65,7 +65,7 @@ Video reference:[https://youtu.be/BBP1Nx6t090](https://youtu.be/BBP1Nx6t090)
 
 
 ## MakeCode Programming
----
+
 ### Step 1
 Click "Advanced" in the MakeCode to see more choices.
 

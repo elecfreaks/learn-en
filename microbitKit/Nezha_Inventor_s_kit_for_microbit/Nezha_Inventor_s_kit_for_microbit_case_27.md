@@ -1,13 +1,13 @@
 # Case 27: The Distance Indicator
 
 ## Introduction 
----
+
 This is a distance detection device. In order to prevent the spread of the epidemic, people should maintain a certain social distance in public. This device can display the distance between the carrier and the person in front of it on the screen.
 
 ![](./images/case_27_01.png)
 
 ## Quick Start 
----
+
 
 
 ### Materials Required
@@ -21,7 +21,7 @@ sonar sensor  × 1
 
 Bricks × n
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -54,7 +54,7 @@ Video link: [https://youtu.be/0HgP_YVgNJU](https://youtu.be/0HgP_YVgNJU)
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1

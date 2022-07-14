@@ -1,13 +1,13 @@
 # case 21 An Oscillating Fan
 
 ## Introduction
----
+
 Combine the motor and the servo to make a common head-shaking fan in daily life, and control the fan head-shaking function and turn it on and off by pressing the button.
 
 ![](./images/case_21_01.png)
 
 ## Quick Start
----
+
 ### Materials Required
 
 Nezha expansion board × 1
@@ -21,7 +21,7 @@ Motor × 1
 Bricks × n
 
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 
 ### Connection Diagram
@@ -72,7 +72,7 @@ Video:[https://youtu.be/Ysg-t4QNmo8](https://youtu.be/Ysg-t4QNmo8)
 
 
 ## MakeCode Programming
----
+
 ### Step 1
 Click “Advanced” in the MakeCode drawer to see more choices.
 

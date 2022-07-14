@@ -1,13 +1,13 @@
 # Case 06: Temperature-controlled Fan
 
 ## Introduction
----
+
 If staying in a room under a high temperature with dry air, our noses and throats are prone to dryness, congestion, pain, and sometimes nosebleeds. Also, people will become irritable, lack of concentration, poor accuracy and coordination, and slower reaction speed under such condition. What’s more, the body temperature regulation mechanism temporarily becomes obstructed, and heat accumulation in the body occurs, leading to heat stroke. Thus, we can make a smart temperature-controlled fan, when the temperature is high, the fan will be automatically turned on for heat dissipation and cooling, and when the temperature is low, the fan will be automatically turned off to save energy.
 
 ![](./images/case_06_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -16,7 +16,7 @@ Nezha expansion board × 1
 micro:bit × 1
 
 Motor × 1
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -61,7 +61,7 @@ Video reference: [https://youtu.be/shI_D7j6M7o](https://youtu.be/shI_D7j6M7o)
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 

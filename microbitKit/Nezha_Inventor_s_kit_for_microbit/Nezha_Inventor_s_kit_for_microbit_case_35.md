@@ -1,13 +1,13 @@
 # case 35 Color Recognition Car
 
 ## Introduction
----
+
 A color recognition sensor is installed on the car. We can use the color recognition sensor to identify the color blocks that the car passes along the way and display it through the rainbow LED on the car.
 
 ![](./images/case_35_01.png)
 
 ## Quick Start
----
+
 
 
 ### Materials Required 
@@ -25,10 +25,7 @@ Rainbow LED ring  × 1
 
 Bricks × N
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
-
-
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 ### Connection Diagram
 
@@ -103,7 +100,7 @@ Link: [https://youtu.be/2VBr3sEPMIg](https://youtu.be/2VBr3sEPMIg)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

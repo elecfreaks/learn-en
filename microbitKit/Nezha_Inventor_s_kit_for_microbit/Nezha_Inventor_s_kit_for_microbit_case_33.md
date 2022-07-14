@@ -1,13 +1,13 @@
 # Case 33: Color-controlled Lights
 
 ## Introduction
----
+
 Recognize the color through the color recognition sensor, and control the rainbow LED to light up the in the same color.
 
 ![](./images/case_33_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -22,7 +22,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -63,7 +63,7 @@ Link: [https://youtu.be/I05r5ebvQXY](https://youtu.be/I05r5ebvQXY)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

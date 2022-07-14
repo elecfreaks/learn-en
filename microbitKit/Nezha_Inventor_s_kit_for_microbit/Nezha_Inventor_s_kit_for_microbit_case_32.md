@@ -1,13 +1,13 @@
 # Case 32: Gesture Recognition Ring LEDs
 
 ## Introduction
----
+
 This is an interesting lighting device that uses gesture recognition sensors to recognize human gesture commands and control the color of the light.
 
 ![](./images/case_32_01.png)
 
 ## Quick Start 
----
+
 
 
 ### Materials Required
@@ -23,7 +23,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -64,7 +64,7 @@ Video link: [https://youtu.be/hq1rtbGvAwU](https://youtu.be/hq1rtbGvAwU)
 
 
 ## MakeCode Programming 
----
+
 
 
 

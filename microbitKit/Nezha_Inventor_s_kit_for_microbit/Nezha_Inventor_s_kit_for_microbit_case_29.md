@@ -1,13 +1,13 @@
 # Case 29: The Dazzling Car
 
 ## Introduction
----
+
 This is a simple car. I installed a cool rainbow light ring on the car, and we can display different lighting effects through this light ring.
 
 ![](./images/case_29_01.png)
 
 ## Quick Start
----
+
 
 ### Materials Required
 
@@ -24,7 +24,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -87,7 +87,7 @@ Link: [https://youtu.be/Am1ZEq1CqnY](https://youtu.be/Am1ZEq1CqnY)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

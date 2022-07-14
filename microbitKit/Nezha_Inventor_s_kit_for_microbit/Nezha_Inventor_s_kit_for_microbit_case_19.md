@@ -1,13 +1,13 @@
 # case 19：The Automatic Laundry Rack
 
 ## Introduction
----
+
 When people are not at home, if it suddenly rains, we will be able to go home to pick up the clothes, and the clothes will get wet. Thus, we can use soil moisture sensor and servos to make a simple automatic drying rack. When the soil moisture sensor detects rain, it controls the servo to automatically retract the clothes rod to keep the clothes from getting wet. When the soil moisture sensor does not detect rain, it automatically extends the clothes rod to dry the clothes.
 
 ![](./images/case_19_01.png)
 
 ## Quick to Start
----
+
 ### Materials 
 
 Nezha expansion board × 1
@@ -18,7 +18,7 @@ micro:bit × 1
 
 Bricks × n
 
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connections Diagram
 
@@ -81,7 +81,7 @@ Video reference: [https://youtu.be/t2mYccra8Vw](https://youtu.be/t2mYccra8Vw)
 
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1

@@ -1,13 +1,13 @@
 # Case 30: Adjustable lights
 
 ## Introduction
----
+
 This is an adjustable LED light. We can adjust the brightness of the light through the potentiometer, so that the light is at our most comfortable brightness.
 
 ![](./images/case_30_01.png)
 
 ## Quick Start 
----
+
 
 ### Materials Required
 
@@ -21,7 +21,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-***Tips:*** Purchase Interactive coding accessories pack here. 
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 ### Connection Diagram 
@@ -57,7 +57,7 @@ Video link: [https://youtu.be/IDo75YvbOB8](https://youtu.be/IDo75YvbOB8)
 
 
 ## MakeCode Programming 
----
+
 
 
 

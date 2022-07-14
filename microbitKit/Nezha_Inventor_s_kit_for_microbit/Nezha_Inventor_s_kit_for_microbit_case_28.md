@@ -1,13 +1,13 @@
 # Case 28: The Corridor Lights 
 
 ## Introduction 
----
+
 This is a smart corridor light, which judges whether it needs to be turned on by the sound level and light level. Only when the light is dim and the sound of people walking is detected, the light will be automatically turned on, which saves more energy.
 
 ![](./images/case_28_01.png)
 
 ## Quick Start 
----
+
 
 
 ### Materials Required
@@ -21,7 +21,7 @@ Rainbow LED ring  × 1
 
 Bricks × n
 
-***Tips:*** [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) and [Purchase Interactive coding accessories pack here.](https://www.elecfreaks.com/interactive-coding-accessories-pack.html) if you want all the above components.***
 
 
 
@@ -59,7 +59,7 @@ Video link: [https://youtu.be/9LZHzZaXf8Y](https://youtu.be/9LZHzZaXf8Y)
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 

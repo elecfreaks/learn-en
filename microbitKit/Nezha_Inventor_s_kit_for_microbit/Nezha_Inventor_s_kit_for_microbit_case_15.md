@@ -1,13 +1,13 @@
 # Case 15: Volume Reminder 
 
 ## Introduction 
----
+
 This device uses the sound intensity detection on the micro:bit V2 to control the servo to rotate to the corresponding position by detecting the surrounding sound level, so that the pointer connected to the servo fluctuates with the volume.
 
 ![](./images/case_15_01.png)
 
 ## Quick to Start
----
+
 
 ### Materials 
 
@@ -20,7 +20,7 @@ servo  × 1
 RJ11 wires × 1
 
 Bricks × n
-
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
 ### Connection Diagram 
 
@@ -58,7 +58,7 @@ Video link:[https://youtu.be/sq4fq4W51Ck](https://youtu.be/sq4fq4W51Ck)
 
 
 ## MakeCode Programming 
----
+
 
 
 ### Step 1
