@@ -50,8 +50,11 @@ Welcome to micro:bit WIKI
    :caption: PICO
 
    pico-ed/index
+   pico-regular-libraries/index
    pico-ed-kit/pico-ed-starter-kit/index
    pico-ed-kit/pico-ed-ringbig-car/index
+  
+   
 .. toctree::
    :maxdepth: 2
    :caption: sensor
