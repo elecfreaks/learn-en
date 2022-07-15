@@ -44,3 +44,15 @@
     Nezha_Inventor_s_kit_for_microbit_case_34.md
     Nezha_Inventor_s_kit_for_microbit_case_35.md
     Nezha_Inventor_s_kit_for_microbit_case_36.md
+    Nezha_Inventor_s_kit_for_microbit_case_37.md
+    Nezha_Inventor_s_kit_for_microbit_case_38.md
+    Nezha_Inventor_s_kit_for_microbit_case_39.md
+    Nezha_Inventor_s_kit_for_microbit_case_40.md
+    Nezha_Inventor_s_kit_for_microbit_case_41.md
+    Nezha_Inventor_s_kit_for_microbit_case_42.md
+    Nezha_Inventor_s_kit_for_microbit_case_43.md
+    Nezha_Inventor_s_kit_for_microbit_case_44.md
+    Nezha_Inventor_s_kit_for_microbit_case_45.md
+    Nezha_Inventor_s_kit_for_microbit_case_46.md
+    Nezha_Inventor_s_kit_for_microbit_case_47.md
+    Nezha_Inventor_s_kit_for_microbit_case_48.md
