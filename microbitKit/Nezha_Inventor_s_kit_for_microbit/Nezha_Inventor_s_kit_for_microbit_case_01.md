@@ -1,98 +1,132 @@
-# Case 37: Traffic Lights
+# 机械虾
 
-## Introduction
+## 简介
+使用[哪吒科学套件](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)制作一只机械虾。
 
-In our daily life, many traffic accidents should have been avoided. These traffic accidents are often caused by people not observing the traffic rules, thus, we must understand the traffic rules. For example, the common traffic lights in our lives, red light means not passing, yellow light means warning, and green light means permission to pass. Let's make a traffic light controlled by the micro:bit.
+![](./images/neza-inventor-s-kit-case-37-01.png)
 
-![](./images/case_01_01.png)
-
-## Quick Start
-
-
-### Materials Required
-
-Nezha expansion board × 1
-
-micro:bit × 1
-
-LED-red × 1
-
-LED-green × 1
-
-LED-yellow × 1
-
-RJ11 wires × 3
-
-***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
-
-### Connection Diagram 
-
-Connect the red LED to J1, yellow LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
+## 快速上手
 
 
-![](./images/case_01_03.png)
+### 所需器材
+
+[哪吒科学套件](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+
+### 结构搭建
+
+零件清单
+
+![](./images/neza-inventor-s-kit-case-37-02.png)
+
+如图所示，进行结构搭建：
+
+![](./images/neza-inventor-s-kit-step-37-01.png)
+
+![](./images/neza-inventor-s-kit-step-37-02.png)
+
+![](./images/neza-inventor-s-kit-step-37-03.png)
+
+![](./images/neza-inventor-s-kit-step-37-04.png)
+
+![](./images/neza-inventor-s-kit-step-37-05.png)
+
+![](./images/neza-inventor-s-kit-step-37-06.png)
+
+![](./images/neza-inventor-s-kit-step-37-07.png)
+
+![](./images/neza-inventor-s-kit-step-37-08.png)
+
+![](./images/neza-inventor-s-kit-step-37-09.png)
+
+![](./images/neza-inventor-s-kit-step-37-10.png)
+
+![](./images/neza-inventor-s-kit-step-37-11.png)
+
+![](./images/neza-inventor-s-kit-step-37-12.png)
+
+![](./images/neza-inventor-s-kit-step-37-13.png)
+
+![](./images/neza-inventor-s-kit-step-37-14.png)
+
+![](./images/neza-inventor-s-kit-step-37-15.png)
+
+![](./images/neza-inventor-s-kit-step-37-16.png)
+
+![](./images/neza-inventor-s-kit-step-37-17.png)
+
+![](./images/neza-inventor-s-kit-step-37-18.png)
+
+![](./images/neza-inventor-s-kit-step-37-19.png)
+
+![](./images/neza-inventor-s-kit-step-37-20.png)
+
+![](./images/neza-inventor-s-kit-step-37-21.png)
+
+![](./images/neza-inventor-s-kit-step-37-22.png)
+
+![](./images/neza-inventor-s-kit-step-37-23.png)
+
+![](./images/neza-inventor-s-kit-step-37-24.png)
+
+![](./images/neza-inventor-s-kit-step-37-25.png)
+
+![](./images/neza-inventor-s-kit-step-37-26.png)
+
+![](./images/neza-inventor-s-kit-step-37-27.png)
+
+![](./images/neza-inventor-s-kit-step-37-28.png)
+
+![](./images/neza-inventor-s-kit-step-37-29.png)
+
+![](./images/neza-inventor-s-kit-step-37-30.png)
+
+![](./images/neza-inventor-s-kit-step-37-31.png)
+
+![](./images/neza-inventor-s-kit-step-37-32.png)
+
+![](./images/neza-inventor-s-kit-step-37-33.png)
+
+### 连接示意图
+
+如下图所示，将[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)连接到[哪吒扩展板](https://www.elecfreaks.com/nezha-breakout-board.html)的J1端口、[舵机](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)连接到[哪吒扩展板](https://www.elecfreaks.com/nezha-breakout-board.html)的S1端口，两个[电机](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)分别连接到[哪吒扩展板](https://www.elecfreaks.com/nezha-breakout-board.html)的M1和M4端口。
+
+![](./images/neza-inventor-s-kit-case-37-03.png)
+
+
+## makecode编程
 
 
 
-### Assembly Video
+### 步骤 1
+在MakeCode的代码抽屉中点击“扩展”。
+
+![](./images/neza-inventor-s-kit-case-37-04.png)
+
+为了对[超声波传感器](https://www.elecfreaks.com/planetx-ultrasonic.html)进行编程，我们需要添加一个扩展库。在对话框中输入”PlanetX“，并点击搜索，点击下载这个代码库。
+
+![](./images/neza-inventor-s-kit-case-37-05.png)
+
+为了对[哪吒扩展板](https://www.elecfreaks.com/nezha-breakout-board.html)进行编程，我们需要添加一个扩展库。在对话框中输入”Nezha“，并点击搜索，点击下载这个代码库。
+
+![](./images/neza-inventor-s-kit-case-37-06.png)
+
+*注意：*如果你得到一个提示说一些代码库因为不兼容的原因将被删除，你可以根据提示继续操作，或者在项目菜单栏里面新建一个项目。
+
+### 步骤 2
+### 如图所示编写程序
+
+![](./images/neza-inventor-s-kit-case-37-07.png)
 
 
-Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
+### 参考程序
+请参考程序连接：[https://makecode.microbit.org/_iscUF8CzzYMd](https://makecode.microbit.org/_iscUF8CzzYMd)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TmsDDWLcgcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+你也可以通过以下网页直接下载程序，下载完成后即可开始运行程序。
 
-
-### Assembly Steps
-
-![](./images/case_step_01_01.png)
-
-![](./images/case_step_01_02.png)
-
-![](./images/case_step_01_03.png)
-
-![](./images/case_step_01_04.png)
-
-![](./images/case_step_01_05.png)
-
-![](./images/case_step_01_06.png)
-
-![](./images/case_step_01_07.png)
-
-![](./images/case_step_01_08.png)
-
-![](./images/case_step_01_09.png)
-
-![](./images/case_step_01_10.png)
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_iscUF8CzzYMd" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
+### 结果
 
-## Makecode Programming
+当电源接通后，机械虾向前移动并摆动大鳌，当遇到障碍物时，则自动转向。
 
-### Step 1
-Click "Advanced" in the MakeCode to see more choices.
-
-![](./images/case_01_10.png)
-
-For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it. 
-
-![](./images/case_01_11.png)
-
-***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
-
-### Step 2
-### Code as below:
-
-![](./images/case_01_12.png)
-
-
-### Reference
-Link：[https://makecode.microbit.org/_M6RiKA642WPP](https://makecode.microbit.org/_M6RiKA642WPP)
-
-You may also download it directly below:
-
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_M6RiKA642WPP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
-
-### Result
-The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then. 
-
-![](./images/case-gif-01.gif)

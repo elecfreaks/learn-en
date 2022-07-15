@@ -1,132 +1,98 @@
-# Case 01：The Mechanical Shrimp 
+# Case 37: Traffic Lights
 
 ## Introduction
-Build a mechanical shrimp with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-![](./images/neza-inventor-s-kit-case-37-01.png)
+In our daily life, many traffic accidents should have been avoided. These traffic accidents are often caused by people not observing the traffic rules, thus, we must understand the traffic rules. For example, the common traffic lights in our lives, red light means not passing, yellow light means warning, and green light means permission to pass. Let's make a traffic light controlled by the micro:bit.
 
-## Quick to Start
+![](./images/case_01_01.png)
+
+## Quick Start
 
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+Nezha expansion board × 1
 
-### Assembly
+micro:bit × 1
 
-Components List
+LED-red × 1
 
-![](./images/neza-inventor-s-kit-case-37-02.png)
+LED-green × 1
 
-Build it as the assembly steps suggest: 
+LED-yellow × 1
 
-![](./images/neza-inventor-s-kit-step-37-01.png)
+RJ11 wires × 3
 
-![](./images/neza-inventor-s-kit-step-37-02.png)
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
 
-![](./images/neza-inventor-s-kit-step-37-03.png)
+### Connection Diagram 
 
-![](./images/neza-inventor-s-kit-step-37-04.png)
-
-![](./images/neza-inventor-s-kit-step-37-05.png)
-
-![](./images/neza-inventor-s-kit-step-37-06.png)
-
-![](./images/neza-inventor-s-kit-step-37-07.png)
-
-![](./images/neza-inventor-s-kit-step-37-08.png)
-
-![](./images/neza-inventor-s-kit-step-37-09.png)
-
-![](./images/neza-inventor-s-kit-step-37-10.png)
-
-![](./images/neza-inventor-s-kit-step-37-11.png)
-
-![](./images/neza-inventor-s-kit-step-37-12.png)
-
-![](./images/neza-inventor-s-kit-step-37-13.png)
-
-![](./images/neza-inventor-s-kit-step-37-14.png)
-
-![](./images/neza-inventor-s-kit-step-37-15.png)
-
-![](./images/neza-inventor-s-kit-step-37-16.png)
-
-![](./images/neza-inventor-s-kit-step-37-17.png)
-
-![](./images/neza-inventor-s-kit-step-37-18.png)
-
-![](./images/neza-inventor-s-kit-step-37-19.png)
-
-![](./images/neza-inventor-s-kit-step-37-20.png)
-
-![](./images/neza-inventor-s-kit-step-37-21.png)
-
-![](./images/neza-inventor-s-kit-step-37-22.png)
-
-![](./images/neza-inventor-s-kit-step-37-23.png)
-
-![](./images/neza-inventor-s-kit-step-37-24.png)
-
-![](./images/neza-inventor-s-kit-step-37-25.png)
-
-![](./images/neza-inventor-s-kit-step-37-26.png)
-
-![](./images/neza-inventor-s-kit-step-37-27.png)
-
-![](./images/neza-inventor-s-kit-step-37-28.png)
-
-![](./images/neza-inventor-s-kit-step-37-29.png)
-
-![](./images/neza-inventor-s-kit-step-37-30.png)
-
-![](./images/neza-inventor-s-kit-step-37-31.png)
-
-![](./images/neza-inventor-s-kit-step-37-32.png)
-
-![](./images/neza-inventor-s-kit-step-37-33.png)
-
-### Connection Diagram
-
-Connect the [Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultrasonic.html) to J1, the [geekservo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M4 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
-
-![](./images/neza-inventor-s-kit-case-37-03.png)
+Connect the red LED to J1, yellow LED to J2 and green LED to J3 on the Nezha expansion board as the picture shows.
 
 
-## MakeCode Programming
+![](./images/case_01_03.png)
 
 
+
+### Assembly Video
+
+
+Video reference:[https://youtu.be/TmsDDWLcgcs](https://youtu.be/TmsDDWLcgcs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TmsDDWLcgcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Assembly Steps
+
+![](./images/case_step_01_01.png)
+
+![](./images/case_step_01_02.png)
+
+![](./images/case_step_01_03.png)
+
+![](./images/case_step_01_04.png)
+
+![](./images/case_step_01_05.png)
+
+![](./images/case_step_01_06.png)
+
+![](./images/case_step_01_07.png)
+
+![](./images/case_step_01_08.png)
+
+![](./images/case_step_01_09.png)
+
+![](./images/case_step_01_10.png)
+
+
+
+## Makecode Programming
 
 ### Step 1
-Click "Advanced" in the MakeCode drawer to see more choices.
+Click "Advanced" in the MakeCode to see more choices.
 
-![](./images/neza-inventor-s-kit-case-37-04.png)
+![](./images/case_01_10.png)
 
-For programming the [Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultrasonic.html), we need to add a package. Search with "PlanetX" in the dialogue box and click to download it. 
+For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer and search with "PlanetX" in the dialogue box to download it. 
 
-![](./images/neza-inventor-s-kit-case-37-05.png)
+![](./images/case_01_11.png)
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
-
-![](./images/neza-inventor-s-kit-case-37-06.png)
-
-*Notice*: If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
+***Notice:*** If you met a tip indicating that some codebases would be deleted due to incompatibility, you may continue as the tips say or create a new project in the menu. 
 
 ### Step 2
-### Code as the picture suggests
+### Code as below:
 
-![](./images/neza-inventor-s-kit-case-37-07.png)
+![](./images/case_01_12.png)
 
 
 ### Reference
-Link: [https://makecode.microbit.org/_iscUF8CzzYMd](https://makecode.microbit.org/_iscUF8CzzYMd)
+Link：[https://makecode.microbit.org/_M6RiKA642WPP](https://makecode.microbit.org/_M6RiKA642WPP)
 
-You may also download it directly: 
+You may also download it directly below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_iscUF8CzzYMd" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
-
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_M6RiKA642WPP" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### Result
+The red LED lights on for 5 seconds and then lights off; the yellow LED lights on for 2 seconds and off then; the green LED lights on for 5 seconds and off then. 
 
-After powering on, the mechanical shrimp moves forward and waves the princers, it will turn the directions if there is obstacles  being detected. 
-
+![](./images/case-gif-01.gif)
