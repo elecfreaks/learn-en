@@ -1,25 +1,25 @@
 # case 01 Full speed ahead
 
 ## Our Goal
----
+
 - To make the Ring:bit Car to go ahead and reverse.
 
 ## Requiered Materials
----
-- 1 x Ring:bit Car
+
+- 1 x [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 
 ## Hardware Connect
----
+
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 
 ![](./images/jBVHea8.png)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -62,19 +62,19 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ## Completed!
----
+
 - When button A is pressed, the car will go straight at full speed.
 - When button B is pressed, the car will reverse at full speed.
 ![](./images/wwV0YDe.jpg)
 
 ## Think
----
+
 How can you make your car to stop when button A is pressed ?
 
 ## Questions
----
+
 
 
 ## More Information 
----
+
 

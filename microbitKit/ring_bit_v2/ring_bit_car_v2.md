@@ -2,15 +2,15 @@
 
 ![](./images/zoH1NRm.jpg)
 ## Introduction of Ring:bit car 2
----
 
-The ELECFREAKS Ring:bit Car is a small DIY smart car driven by the BBC micro:bit and the ELECFREAKS Ring:bit. The Ring:bit extends the micro:bit's 3 GPIO ports and allow for different sensors and components to be easily attached to the micro:bit. A basic Ring:bit Car can be easily programmed to run autonomously, with a remote control, and even create rainbow beacons of light. Just add one of the many extensions available and your Ring:bit Car can do even more things like line and light following, obstacle avoiding, drawing and more!
 
-*Please note that the Ring:bit car version 2 has been upgraded. It is diffrent from the Ring:bit car version 1. All related documents refers to the Ring:bit car version 2.*
+The ELECFREAKS [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html) is a small DIY smart car driven by the BBC micro:bit and the ELECFREAKS Ring:bit. The Ring:bit extends the micro:bit's 3 GPIO ports and allow for different sensors and components to be easily attached to the micro:bit. A basic Ring:bit Car can be easily programmed to run autonomously, with a remote control, and even create rainbow beacons of light. Just add one of the many extensions available and your Ring:bit Car can do even more things like line and light following, obstacle avoiding, drawing and more!
+
+*Please note that the [Ring:bit car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html) version 2 has been upgraded. It is diffrent from the Ring:bit car version 1. All related documents refers to the Ring:bit car version 2.*
 *[Information of the Ring:bit car version 1](http://www.elecfreaks.com/learn-cn/microbitKit/Ring_bit_Car_Kit/index.html)*
 
 ## Components list ##
----
+
 
 
 |Components|Numbers|Pictures|

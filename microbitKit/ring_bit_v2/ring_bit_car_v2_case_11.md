@@ -3,7 +3,7 @@
 
 
 ## Purpose
----
+
 
 - Control the ring:bit car via the Joystick:bit. 
 
@@ -11,23 +11,23 @@
 
 
 ## Materials 
----
 
-Ring:bit car V2 × 1
 
-Joystick:bit  × 1
+1 × [Ring:bit car V2](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
+
+1 × [Joystick:bit](https://www.elecfreaks.com/joystick-bit-2-kit-for-micro-bit.html)
 
 
 
 
 ## Software
----
+
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming 
 
----
+
 
 ### Step 1
 
@@ -123,9 +123,9 @@ The Joystick:bit is able to control the movement of the ring:bit car.
 
 
 ## Exploration
----
+
 
 ## FAQ
----
+
 ## Relevant File
----
+

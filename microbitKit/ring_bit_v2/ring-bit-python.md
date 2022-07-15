@@ -2,7 +2,7 @@
 
 
 ## Add Python Documents
----
+
 
 Download and unzip the package: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
 Go to [Python editor](https://python.microbit.org/v/2.0)
@@ -18,7 +18,7 @@ For programming, we need to add the file of Ringbit.py. Click Load/Save first an
 ![](./images/TPbot-py-04.png)
 
 ## Sample Code
----
+
 ### Project 01:  Drive at full speed
 ```
 from microbit import *
@@ -71,7 +71,7 @@ while True:
 - The car runs along with the black line. 
 
 ## Relevant Projects
----
+
 
 ## Technical Files
----
+

@@ -1,16 +1,16 @@
 # case 09 Remote Control by an accelerometer 
 
 ## Our Goal
----
+
 - Use another an accelerometer of the micro:bit to remote control the car.
 
 ## Requiered Materials
----
-- 1 x Ring:bit Car
+
+- 1 x [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 - 2 x micro:bit
 
 ## Background 
----
+
 ### What is wireless ###
 
 - Wireless technology sends message by radio wave because changes of electricity will generate waves. We can use this to load the message to the wave. Variation of electromagnetic field will generate the electricity when the electromagnetic is arrving the receiver. Then, to extract the message from wave by demodulation to send the message.
@@ -24,16 +24,16 @@
  ![](./images/2n6TbVZ.png)  ![](./images/F0frwo6.jpg)
 
 ## Hardware Connect
----
+
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 ![](./images/jBVHea8.png)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#) Online block coding [https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -67,18 +67,18 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ## Result
----
+
 - The Ring:bit car will move as direction of the gyroscope and its speed will as the angle of inclination of the gyroscope.
 
 
 ## Think
----
+
 - 
 
 ## Questions
----
+
 
 
 ## More Information   
----
+
 

@@ -3,13 +3,13 @@
 - Accelerometer arithmetic of the Ring:bit car 
 
 ## Required Materials
----
+
 
 - 1 x Micro:bit
-- 1 x Ring:bit Car
+- 1 x [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 
 ## Background
----
+
 
 - [Micro:bit](http://microbit.org/) is a small coding computer which was given by the BBC. It is specially designed for adolescent programming education and to male programming more easy and interesting.
 
@@ -25,14 +25,14 @@
 
 
 ## Software
----
+
 
 [makecode](https://makecode.microbit.org/#) Online block coding [https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
  ![](./images/cp88kPs.png)
 
 ## Coding
----
+
 ### Step 1：Add Coding Package
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -85,7 +85,7 @@
 
 
 ## Reference Program
----
+
 ### Remote Control Coding
 Program Link：[https://makecode.microbit.org/_AT4PoHKdVi6L](https://makecode.microbit.org/_AT4PoHKdVi6L)
 
@@ -102,6 +102,6 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ## Result 
----
+
 - The Ring:bit car moves as direction of the gyroscope and oblique angle controls its speed.
 - 

@@ -1,7 +1,7 @@
 # Ring:bit Blocks Info
 
 ## Add Packages
----
+
 - The extension of the Ring:bit requires to be added if yuo want to use the Ring:bit blocks. 
 - Following the steps below to add it. 
 
@@ -25,7 +25,7 @@
 
 
 ## Blocks Info
----
+
 
 ![](./images/Ringbit-extension-04.png)
 
@@ -77,7 +77,7 @@ To get the distance detected from the ultrasonic sound sensor.
 
 
 ## Program
----
+
 - Link: [https://makecode.microbit.org/_AgF9MT0sWAF2](https://makecode.microbit.org/_AgF9MT0sWAF2)
 
 - Or to download it directly:
@@ -86,7 +86,7 @@ To get the distance detected from the ultrasonic sound sensor.
 
 
 ## FAQ
----
+
 
 ## Relevant File
----
+

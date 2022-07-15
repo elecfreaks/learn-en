@@ -1,25 +1,25 @@
 # case 02 Make a shape 
 
 ## Our Goal
----
+
 - To make the Ring:bit Car turn at an angle.
 
 ## Requiered Materials
----
-- 1 x Ring:bit Car
+
+- 1 x [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 
 ## Hardware Connect
----
+
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 
 ![](./images/jBVHea8.png)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -58,20 +58,20 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ## Result
----
+
 - The car goes straight and turns right, then goes straight.
 
 
 ![](./images/srKhgfm.jpg)
 
 ## Think
----
+
 - How can you make your car dance?
 
 ## Questions
----
+
 
 
 ## More Information   
----
+
 

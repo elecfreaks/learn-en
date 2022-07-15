@@ -1,24 +1,24 @@
 # case 05 Crazy dance 
 
 ## Our Goal
----
+
 - To make the Ring:bit car to dance in free style. 
 
 ## Requiered Materials
----
-- 1 x Ring:bit Car
+
+- 1 x [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 
 ## Hardware Connect
----
+
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 ![](./images/jBVHea8.png)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -61,19 +61,19 @@ If you don't want to type these code by yourself, you can directly download the 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WrC1kWhizc6E" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 - The car runs at different speed.
 
 ![](./images/j6kX56N.jpg)
 
 ## Think
----
+
 - How do you ensure the car moves at a slower speed constantly?
 
 ## Questions
----
+
 
 
 ## More Information 
----
+
 

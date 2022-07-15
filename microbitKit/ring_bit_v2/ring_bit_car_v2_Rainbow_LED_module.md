@@ -1,14 +1,14 @@
 # Rainbow LED module
 
 ## Introduction
----
-- Ring:bit car V2 light-bar module is the dedicated module designed for Ring:Bit Car V2. It brings you mutiple color with simple assemblling methods.
+
+- [Ring:bit car V2 light-bar module](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html) is the dedicated module designed for [Ring:Bit Car V2](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html). It brings you mutiple color with simple assemblling methods.
 - It comes with 8 Rainbow full color LEDs. You can update it to a car with auto-headlights and rainbow lights.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_01.jpg)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_02.jpg)
 
 ## Features
----
+
 - Input voltage 3V~5V，driving directly by micro:bit.
 
 - Standard 3 line GVS port, occupying only one I/O port.
@@ -18,7 +18,7 @@
 - Each led can be programmed seperately with RGB color.
 
 ## Parameter
----
+
 
  Items | Parameter | Remark 
  :-: | :-: |:-:
@@ -33,13 +33,13 @@
 
 
 ## Dimensions:
----
+
 
  ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_Rainbow_03.png)
 
 ## Quick to Start
 
----
+
 ### Hardware Connection 
 
 First, insert this module to the baseboard of the Ring:bit car V2.  
@@ -77,4 +77,4 @@ You can download it directly below:
 Rainbow lights.
 
 ## FAQ
----
+

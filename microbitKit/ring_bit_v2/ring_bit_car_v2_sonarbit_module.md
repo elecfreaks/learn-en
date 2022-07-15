@@ -1,19 +1,19 @@
 # Sonar:bit
 
 ## Introduction
----
-- Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V.  It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only. 
+
+- [Sonar:bit](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html) is a 3-wire ultrasonic module with the working voltage between 3-5V.  It is available to be used to 3.3V or 5V micro-controller system. With only one 3-wire(GVS) cable, it can work properly. Compared to the normal 4-wire ultrasonic module, it has saved one IO port. The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only. 
 - It can connect to the Ring:bit with an expansion board.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_01.jpg)
 
 ## Characteristics
----
+
 - Input voltage:3V~5V  and can be driven by micro:bit directly.
 - Standard 3-wire GVS connecotr, which occupies 1 IO port only.
 
 ## Parameter
----
+
 
  Item | Parameter | Remark 
  :-: | :-: |:-:
@@ -28,12 +28,12 @@
 
 
 ## Outlook
----
+
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_sonar_02.jpg)
 
 ## Quick to Start
----
+
 ### Hardware Connection
 
 
@@ -71,6 +71,6 @@ You can download it directly below:
 - The value measured by Sonar:bit is showing on the micro:bit.
 
 ## About
----
+
 
 [case 10](http://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/ring_bit_car_v2_case_10.html)

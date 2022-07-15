@@ -1,13 +1,13 @@
 # Ring:bit Car Assembly Step
 
 ## Ring:bit car 2 Components Lists
----
+
 ![](./images/1fAiTvC.jpg)
 
 ![](./images/jTaUtaM.jpg)
 
 ## Assembly Step
----
+
 ### Step-1 ###
 
 - Fisrt, use the tapping screw to fix the servo to the side board.(as below pictures)

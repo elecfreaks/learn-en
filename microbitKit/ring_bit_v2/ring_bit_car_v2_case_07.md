@@ -1,28 +1,28 @@
 # case 07 Turns over Detection 
 
 ## Our Goal
----
+
 
 - Make the car to stop when it turns over.
 
 ## Requiered Materials
----
 
-- 1 x Ring:bit Car
+
+- 1 x [Ring:bit Car](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 
 ## Hardware Connect
----
+
 - Connect the left wheel servo to P1 of the Ring:bit expansion board and the right wheel servo to P2.
 
 ![](./images/jBVHea8.png)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
  
 
 ## Coding
----
+
 ### Step 1
 - Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
@@ -64,22 +64,22 @@ If you don't want to type these code by yourself, you can directly download the 
 
 
 ## Result
----
+
 
 - The car runs normally，when it turns over, it stops.
 
 ![](./images/buZmNej.gif)
 
 ## Think
----
+
 
 - How can you design more funny project using other kits?
 
 
 ## Questions
----
+
 
 
 ## More Information 
----
+
 

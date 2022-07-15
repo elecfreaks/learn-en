@@ -1,28 +1,28 @@
 # Case 10 Smart Crashproof Car
 
 ## Purpose
----
+
 - Make a smart crashproof car with a Sonar:bit. 
 
 ## Materials
----
-- 1 x Ring:bit Car kit
+
+- 1 x [Ring:bit Car kit](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
 - 1 x micro:bit 
-- 1 x Sonar:bit
+- 1 x [Sonar:bit](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html)
 
 
 ## Hardware Connection
----
+
 - Connect the left servo to P1, right servo to P2 and Sonar:bit to P0 of the Ring:bit.
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/case_10_01.png)
 
 ## Software Programming
----
+
 [Microsoft makecode online coding https://makecode.microbit.org/#](https://makecode.microbit.org/#)
 
 ## Software
----
+
 ### Step 1
 - Click "Advanced" in the drawer of MakeCode to see more choices.
 
@@ -61,15 +61,15 @@ You can also download it below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_RTwFcMeA1MMY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result 
----
+
 
 - The Ring:bit car turns left automatically when detecting any obstacle 10cm in front of it.
 
 ## Exploration
----
+
 
 - Question: Why we need to judge if the value is not 0 ?
 - Answer: The detection value is also 0 if beyond the detection scope of Sonar:bit. 
 
 ## FAQ
----
+

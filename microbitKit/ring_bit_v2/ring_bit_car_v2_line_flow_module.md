@@ -1,20 +1,20 @@
 # Line flow module
 
 ## Introduction
----
-- Ring:bit car V2 line following module is a dedicated module designed for the Ring:bit car V2, it is easy to be installed to achieve the line following function for the Ring:bit car V2. 
+
+- [Ring:bit car V2 line following module](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html) is a dedicated module designed for the [Ring:bit car V2](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html), it is easy to be installed to achieve the line following function for the [Ring:bit car V2](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html). 
 - Equipped with double infrared probes, it can detect the distance between 2~12mm accurately that can achieve the function of line following around the circles, the detection of the black lines and the detection of the edge.
 
  ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_01.jpg)![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_02.jpg)
 
 ## Features
----
+
 - The micro:bit can drive it directly with the input voltage of this module in 3V~5V.
 - It only needs one IO port it with standard 3-pin GVS ports.
 - It uses the infrared light to detect with a strong anti-interference capability.
 
 ## Parameter
----
+
 
  Items | Parameter | Notes 
  :-: | :-: |:-:
@@ -29,13 +29,13 @@
 
 
 ## Dimensions:
----
+
 
  ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_03.png)
 
 
 ## Quick to Start
----
+
 ### Hardware Connection  
 
 - The first step is to insert this module to the baseboard of the Ring:bit car V2.
@@ -76,4 +76,4 @@ You can also download the code directly below:
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitKit/ring_bit_v2/images/ring_bit_v2_line_09.gif)
 
 ## FAQ
----
+
