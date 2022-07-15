@@ -9,5 +9,3 @@ Pico Regular Libraries
 
 
     CircuitPython-Regular-Libraries.md
-    pico-cutebot-libraries.md
-    pico-ringbit-libraries.md
