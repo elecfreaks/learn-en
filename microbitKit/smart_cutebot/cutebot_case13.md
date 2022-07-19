@@ -7,7 +7,7 @@
 ## Materials 
 ---
 - 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
-- 1 x [Joystick:bit2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
+- 1 x [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
 
 
 ## Software Platform 
@@ -27,7 +27,7 @@
 
 ![](./images/cutebot-pk-11.png)
 
-- A codebase is required for [Joystick:bit2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html) programming, click “Add Package” at the bottom of the drawer, search `joystic` in the dialogue box and download it.
+- A codebase is required for [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html) programming, click “Add Package” at the bottom of the drawer, search `joystic` in the dialogue box and download it.
 - 
 ![](./images/case_13_01.png)
 
