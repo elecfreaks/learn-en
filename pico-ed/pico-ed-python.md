@@ -34,7 +34,7 @@ Long pressing the download button and connet with the USB cable, release the but
 
 ![](./images/pico-ed-V2-python-06.png)
 
-Send the downloaded firmware to that disk. 
+Copy the downloaded firmware to that disk. 
 
 ![](./images/pico-ed-V2-python-07.png)
 
