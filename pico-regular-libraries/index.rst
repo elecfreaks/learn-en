@@ -8,4 +8,4 @@ Pico Regular Libraries
     :numbered: 2
 
 
-    CircuitPython-Regular-Libraries.md
+    circuitpython-regular-libraries.md
