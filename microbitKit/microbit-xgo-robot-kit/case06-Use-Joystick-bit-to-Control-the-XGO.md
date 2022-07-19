@@ -34,11 +34,11 @@ We use a data cable (USB cable) to connect the computer with the micro:bit
 
 Click Advanced in MakeCode to see more options.
 
-![](C:\Users\29399\Desktop\microbit-xgo-robot-kit（改）\images\microbit-xgo-robot-kit-10.png)
+![](./images/microbit-xgo-robot-kit-10.png)
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, and search for "XGO" in the dialog to download.
 
-![](C:\Users\29399\Desktop\microbit-xgo-robot-kit（改）\images\microbit-xgo-robot-kit-11.png)
+![](./microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
