@@ -1,6 +1,6 @@
-36 IN 1 Nezha Inventor's kit(EF08232)
+48 IN 1 Nezha Inventor's kit(EF08232)
 =====================
-36 IN 1 Nezha Inventor's kit(EF08232)
+48 IN 1 Nezha Inventor's kit(EF08232)
 
 
 .. toctree::
