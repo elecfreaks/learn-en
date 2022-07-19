@@ -23,7 +23,7 @@ Once added successfully you can start programming, it is recommended to click on
 ## Installation Steps of the Firmware
 ---
 
-Download the firmware of Pico:ed: [elecfreaks-circuitpython-elecfreaks_picoed-en_US-7.3.0-ef.1-dirty20220712.uf2](https://github.com/elecfreaks/circuitpython_picoed/releases/download/v1.1.0/elecfreaks-circuitpython-elecfreaks_picoed-en_US-7.3.0-ef.1-dirty20220712.uf2)
+Download the firmware of Pico:ed: [circuitpython-elecfreaks_picoed-en_US-7.3.1.20220719.uf2](https://github.com/elecfreaks/circuitpython_picoed/releases/download/v1.1.0/circuitpython-elecfreaks_picoed-en_US-7.3.1.20220719.uf2)
 
 After downloading, press the BOOTSEL button to download. 
 
