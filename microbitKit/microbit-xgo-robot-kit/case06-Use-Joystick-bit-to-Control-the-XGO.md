@@ -38,7 +38,7 @@ Click Advanced in MakeCode to see more options.
 
 For programming, we need to add a package: click "Extensions" at the bottom of the MakeCode drawer, and search for "XGO" in the dialog to download.
 
-![](./microbit-xgo-robot-kit-11.png)
+![](./images/microbit-xgo-robot-kit-11.png)
 
 ***Note:*** If you encounter a prompt that some codebases will be removed due to incompatibility, you can follow the prompt to continue or create a new project in the menu.
 
