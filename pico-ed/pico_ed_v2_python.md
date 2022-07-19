@@ -1,4 +1,4 @@
-# Programming Environment Preparation for Pico:ed V2
+# Programming Environment Preparation for Pico:ed
 
 ## Download and Install the Software
 ---
