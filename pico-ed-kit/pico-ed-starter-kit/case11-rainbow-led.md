@@ -10,10 +10,15 @@ The 8 RGB Rainbow LED Ring is based on ws2812b lamp beads. Its biggest feature i
 ### Hardware:
 
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 1 x 8 RGB Rainbow LED Ring
+
 n x Breadborad Jumper Wire 65pcs Pack
 
 
