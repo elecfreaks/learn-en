@@ -11,11 +11,17 @@ The temperature sensor is a kind of sensor that can detect temperature and trans
 ### Hardware：
 
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 1 × TMP36 Temperature Sensor
+
 n x Breadborad Jumper Wire 65pcs Pack
+
 
 ![](./images/starter-kit01.png)
 
