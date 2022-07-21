@@ -8,12 +8,19 @@ RGB LED is a kind of LED that can emit light in three different colors: red, gre
 ## Components List:
 ### Hardware:
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) 
+
 1 ×USB Cable
+
 1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 1 × RGB LED
+
 3 × 100 Ohm Resistors
+
 n x Breadboard jumper wire 65pcs pack
+
 
 ![](./images/starter-kit01.png)
 
