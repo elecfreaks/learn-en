@@ -23,9 +23,9 @@ Once added successfully you can start programming, it is recommended to click on
 ## Installation Steps of the Firmware
 ---
 
-Download the Pico:ed firmware **(`compatible with Pico:ed V1 and V2`)** from this link: [Pico:ed Firmware](https://circuitpython.org/board/elecfreaks_picoed/)
+Download the Pico:ed firmware **(`compatible with Pico:ed V1 and V2`)** from this link: [Pico:ed Firmware](https://circuitpython.org/board/elecfreaks_picoed/).
 
-After downloading, press the BOOTSEL button to download. 
+After downloading, press the BOOTSEL button to install or update firmware. 
 
 ![Pico:ed V1 bootsel](./images/pico-ed-V1-bootsel.png) &emsp;&emsp;&emsp;&emsp; ![Pico:ed V2 bootsel](./images/pico-ed-V2-python-05.png)
 
