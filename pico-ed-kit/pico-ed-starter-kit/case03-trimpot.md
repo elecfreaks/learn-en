@@ -10,11 +10,17 @@ Trimpot is an adjustable electronic component. It consists of a resistive body a
 
 ### Hardware:
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 ×Breadboard Adapter
+
 1 ×Transparent Breadboard - 83 * 55 mm
+
 1 × 10KΩ10K Trimpot
+
 n x Breadborad jumper wire 65pcs pack
+
 
 ![](./images/starter-kit01.png)
 
