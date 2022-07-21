@@ -44,6 +44,7 @@ LED has advantages of low voltage drive, energy-saving and environment protect, 
 ### Hardware Connection
 
 Connect your components according to the picture below:
+
 1.Connect the signal wire of the LED ring to the P0 port of the breadboard adapter.
 
 ![](./images/case11.png)
