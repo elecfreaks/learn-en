@@ -7,16 +7,27 @@
 The motor is a kind of device which can transfer electric energy into kinetic energy according to the law of electromagnetic induction. In this lesson, we are going to use a switch to control the start and stop of a motor.
 ## Components List:
 ### Hardware:
+
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 1 × 5V Miniature Motors
-1 ×TIP 120 NPN Transistor
+
+1 × TIP 120 NPN Transistor
+
 1 × 1N4007 Diodes
-1 ×  100 Ohm Resistors
+
+1 × 100 Ohm Resistors
+
 2 × Alligator Clip Wires
+
 1 × self-lock switch
+
 n x Breadboard Jumper Wire 65pcs Pack
 
 
