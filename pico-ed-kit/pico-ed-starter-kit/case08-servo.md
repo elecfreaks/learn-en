@@ -10,11 +10,17 @@ Servo is a position (angle) servo drive, suitable for those control systems that
 ## Components List:
 ### Hardware:
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 1 x TowerPro SG-90 Mini Servo
+
 n x Breadboard Jumper Wire 65pcs Pack
+
 
 ![](./images/starter-kit01.png)
 
