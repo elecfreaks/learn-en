@@ -27,7 +27,7 @@ Download the Pico:ed firmware **(`compatible with Pico:ed V1 and V2`)** from thi
 
 After downloading, press the BOOTSEL button to download. 
 
-![Pico:ed V1 bootsel](./images/pico-ed-V1-bootsel.png) ![Pico:ed V2 bootsel](./images/pico-ed-V2-python-05.png)
+![Pico:ed V1 bootsel](./images/pico-ed-V1-bootsel.png) &emsp;&emsp;&emsp;&emsp; ![Pico:ed V2 bootsel](./images/pico-ed-V2-python-05.png)
 
 
 Long pressing the download button and connet with the USB cable, release the button until you see a disk named RPI-RP2 on the computer. 
