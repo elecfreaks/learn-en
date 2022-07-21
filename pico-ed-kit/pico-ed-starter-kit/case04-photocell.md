@@ -11,12 +11,19 @@ Photocell is a kind of special resistor based on semiconductor materials. Its el
 ### Hardware:
 
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 × Breadboard Adapter
+
 1 x Transparent Breadboard - 83 * 55 mm
+
 1 x Photocell
+
 1 x 10kΩ Resistors
+
 n x Breadborad jumper wire 65pcs pack
+
 
 ![](./images/starter-kit01.png)
 
