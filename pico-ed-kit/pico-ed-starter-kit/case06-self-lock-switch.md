@@ -11,13 +11,21 @@ The self-lock switch is a kind of common button switch. When we press the button
 ### Hardware：
 
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
-1 ×Breadboard Adapter
+
+1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 1 × Self-lock Switch
+
 1 × LED
+
 1 × 100 Ohm Resistors
+
 n x Breadboard jumper wire 65pcs pack
+
 
 ![](./images/starter-kit01.png)
 
