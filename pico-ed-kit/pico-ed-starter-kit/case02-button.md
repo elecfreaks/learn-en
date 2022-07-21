@@ -8,13 +8,21 @@ Momentary pushbutton switches are ubiquitous electronic components used in daily
 ## Components List:
 ### Hardware:
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+
 1 × USB Cable
+
 1 × Breadboard Adapter
+
 1 × Transparent Breadboard - 83 * 55 mm
+
 2 × LED
+
 2 × 100 Ohm Resistors
+
 1 x Momentary Pushbutton Switch
+
 n x Breadboard jumper wire 65pcs pack
+
 
 ![](./images/starter-kit01.png)
 
