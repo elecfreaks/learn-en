@@ -69,6 +69,7 @@ led.direction = digitalio.Direction.OUTPUT
 # Determine whether the A\B button is pressed and the operation performed
 locking = digitalio.DigitalInOut(board.P0_A0)
 locking.direction = digitalio.Direction.INPUT
+locking.switch_to_input(pull=digitalio.Pull.UP)
 
 # Determine the state of the self-locking switch to change the state of the LED light
 while True:
