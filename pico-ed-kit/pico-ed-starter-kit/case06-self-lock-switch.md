@@ -60,16 +60,16 @@ For programming environment preparation, please refer to [Introduction to the pr
 ```python
 # Import the modules that we need
 import board
-import digitalio
+from digitalio import *
 
 # Set the pin and pin orientation of the tricolor LED
-led = digitalio.DigitalInOut(board.P2_A2)
-led.direction = digitalio.Direction.OUTPUT
+led = DigitalInOut(board.P2_A2)
+led.direction = Direction.OUTPUT
 
 # Determine whether the A\B button is pressed and the operation performed
-locking = digitalio.DigitalInOut(board.P0_A0)
-locking.direction = digitalio.Direction.INPUT
-locking.switch_to_input(pull=digitalio.Pull.UP)
+locking = DigitalInOut(board.P0_A0)
+locking.direction = Direction.INPUT
+locking.switch_to_input(pull=Pull.UP)
 
 # Determine the state of the self-locking switch to change the state of the LED light
 while True:
@@ -80,20 +80,20 @@ while True:
 1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
-import digitalio
+from digitalio import *
 ```
 
 2. Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
 ```python
-led = digitalio.DigitalInOut(board.P2_A2)
-led.direction = digitalio.Direction.OUTPUT
+led = DigitalInOut(board.P2_A2)
+led.direction = Direction.OUTPUT
 ```
 
 3. Set the pins used by the breadboard expansion board to connect the self-lock switch and the pin direction.
 ```python
-locking = digitalio.DigitalInOut(board.P0_A0)
-locking.direction = digitalio.Direction.INPUT
-locking.switch_to_input(pull=digitalio.Pull.UP)
+locking = DigitalInOut(board.P0_A0)
+locking.direction = Direction.INPUT
+locking.switch_to_input(pull=Pull.UP)
 ```
 If you are using pins other than P0_A0 and P1_A1, you can enter the following code in the shell window below the Thonny editor and press Enter to view the numbers of other pins.
 ```python
