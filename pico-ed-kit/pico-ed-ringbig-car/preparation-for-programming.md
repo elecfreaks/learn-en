@@ -2,7 +2,7 @@
 
 ## Introduction
 ---
-1. Hello, it's great that you can see here, that means you have assembled the Ring:bit smart car, next we need to write the program in the programming software, just like we need to write in the homework book, we should first download and install the programming software, we recommend the programming software: [Thonny](https:// thonny.org/). 
+1. Hello, it's great that you can see here, that means you have assembled the Ring:bit smart car, next we need to write the program in the programming software, just like we need to write in the homework book, we should first download and install the programming software, we recommend the programming software: [Thonny](https://thonny.org/).
 
    If you have already installed Thonny and selected the correct interpreter, please ignore this step, if not, you can refer to the specific installation steps: [Download and install programming software](https://www.elecfreaks.com/learn-en/pico-ed/pico-ed-python.html). 
 
