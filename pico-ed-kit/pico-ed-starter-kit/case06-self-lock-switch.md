@@ -92,6 +92,7 @@ led.direction = digitalio.Direction.OUTPUT
 ```python
 locking = digitalio.DigitalInOut(board.P0_A0)
 locking.direction = digitalio.Direction.INPUT
+locking.switch_to_input(pull=digitalio.Pull.UP)
 ```
 If you are using pins other than P0_A0 and P1_A1, you can enter the following code in the shell window below the Thonny editor and press Enter to view the numbers of other pins.
 ```python
