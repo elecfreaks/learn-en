@@ -39,7 +39,7 @@ The self-locking switch generally refers to the switch with its own mechanical l
 
 ![](./images/case0602.png)
 
-**Note：**This self-locking switch consists of two sets of pole double throw switches, only one of which is used in this test, so the common pins of one of them are cut off.
+***Note：***This self-locking switch consists of two sets of pole double throw switches, only one of which is used in this test, so the common pins of one of them are cut off.
 
 ## Experimental Procedure
 
