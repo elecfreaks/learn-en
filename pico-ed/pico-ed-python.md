@@ -23,11 +23,11 @@ Once added successfully you can start programming, it is recommended to click on
 ## Installation Steps of the Firmware
 ---
 
-Download the firmware of Pico:ed: [circuitpython-elecfreaks_picoed-en_US-7.3.1.20220719.uf2](https://github.com/elecfreaks/circuitpython_picoed/releases/download/v1.1.0/circuitpython-elecfreaks_picoed-en_US-7.3.1.20220719.uf2)
+Download the Pico:ed firmware **(`compatible with Pico:ed V1 and V2`)** from this link: [Pico:ed Firmware](https://circuitpython.org/board/elecfreaks_picoed/)
 
 After downloading, press the BOOTSEL button to download. 
 
-![](./images/pico-ed-V2-python-05.png)
+![Pico:ed V1 bootsel](./images/pico-ed-V1-bootsel.png) ![Pico:ed V2 bootsel](./images/pico-ed-V2-python-05.png)
 
 
 Long pressing the download button and connet with the USB cable, release the button until you see a disk named RPI-RP2 on the computer. 
