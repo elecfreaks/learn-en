@@ -44,9 +44,9 @@ Momentary push button switches have 4 pins. The 4 pins can be divided into 2 gro
 
 Connect your components according to the picture below:
 
-- 1. Connect the shorter leg with the GND.
-- 2. Connect the longer leg with the P0 and P1 ports through the Resistor.
-- 3. Connect the Momentary Pushbutton to the P2 port.
+1. Connect the shorter leg with the GND.
+2. Connect the longer leg with the P0 and P1 ports through the Resistor.
+3. Connect the Momentary Pushbutton to the P2 port.
 
 ![](./images/case02.png)
 
