@@ -38,6 +38,9 @@ Connect your components according to the picture below:
 
 ![](./images/case03.png)
 
+This is what it looks like after the connection is complete:
+
+![](./images/dianweiqi.png)
 
 Rotate the button of the Trimpot, then the output voltage will vary between 0V and 3V as the button is rotated.
 
