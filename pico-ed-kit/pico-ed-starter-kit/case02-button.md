@@ -50,6 +50,9 @@ Connect your components according to the picture below:
 
 ![](./images/case02.png)
 
+You would see as below after you finish the connection:
+
+![](./anniu.png)
 
 ### Software Programming
 
