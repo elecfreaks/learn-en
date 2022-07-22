@@ -52,7 +52,7 @@ Connect your components according to the picture below:
 
 You would see as below after you finish the connection:
 
-![](./anniu.png)
+![](./images/anniu.png)
 
 ### Software Programming
 
