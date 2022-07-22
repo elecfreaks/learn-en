@@ -44,6 +44,8 @@ Connect your components according to the picture below:
 
 You would see as below after you finish the connection:
 
+![](./images/sanseled.png)
+
 ## Software Programming
 For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 ### Program as the picture shows：
