@@ -53,6 +53,8 @@ Connect them as the picture shows:
 
 You would see as below after you finish the connection:
 
+![](./images/zisuo.png)
+
 ## Software Programming
 For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
 ### Program as the picture shows：
