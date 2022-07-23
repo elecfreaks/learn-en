@@ -33,7 +33,7 @@ n x Breadborad jumper wire 65pcs pack
 
 Photocell is a kind of special resistor made of semi-conductor materials like Cds or CdSe based on the internal photoelectric effect. The brighter the light is, the lower the value of the resistance will be. with the intensity of light increasing, its resistance value decreased sharply, and the minimum light-resistant value can drop down to below 1KΩ. Photocell is very sensitive to light. When there is no light, its resistant value arrives at its maximum and its dark resistant value usually can reach 1.5MΩ at max.
 
-![](./images/case0402.png)
+![](./images/case0403.png)
 
 ### Hardware Connection
 
