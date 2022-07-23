@@ -13,7 +13,7 @@ Detect if there are humans approaching with the sonar:bit, program to open the l
 
 ## Products Link
 ---
-- 1 x [microbit Smart City Kit]()
+- 1 x [microbit Smart City Kit](https://www.elecfreaks.com/micro-bit-smart-city-kit-without-micro-bit-board.html)
 
 ## Picture
 ---

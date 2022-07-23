@@ -14,7 +14,7 @@ Detect the temperature and moisture value from DHT11 sensor and display them on 
 
 ## Products Link
 ---
-- 1 x [microbit Smart City Kit]()
+- 1 x [microbit Smart City Kit](https://www.elecfreaks.com/micro-bit-smart-city-kit-without-micro-bit-board.html)
 
 ## Picture
 ---
