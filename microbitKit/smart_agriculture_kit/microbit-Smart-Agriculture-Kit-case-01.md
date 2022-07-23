@@ -13,7 +13,7 @@
 
 ## Products Link
 ---
-- 1 x [microbit Smart Agriculture Kit]()
+- 1 x [microbit Smart Agriculture Kit](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
 
 ## Picture
 ---
