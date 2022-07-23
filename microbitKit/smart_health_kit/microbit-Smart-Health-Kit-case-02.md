@@ -13,7 +13,7 @@
 
 ## Products Link
 ---
-- 1 x [micro:bit Smart Health Kit]()
+- 1 x [micro:bit Smart Health Kit](https://www.elecfreaks.com/micro-bit-smart-health-kit-without-micro-bit-board.html)
 
 ## Picture
 ---
