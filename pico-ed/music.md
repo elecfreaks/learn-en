@@ -1,4 +1,5 @@
 # Music
+
 ## Attributes
 ### `music`
 The instance of class [Music](#NNZvx) is used to control the on-board buzzer to play melodies.
