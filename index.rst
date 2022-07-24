@@ -53,7 +53,7 @@ Welcome to micro:bit WIKI
    pico-regular-libraries/index
    pico-ed-kit/pico-ed-starter-kit/index
    pico-ed-kit/pico-ed-ringbig-car/index
-  
+   pico-ed-kit/pico-ed-cutebot-kit/index
    
 .. toctree::
    :maxdepth: 2
