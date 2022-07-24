@@ -1,4 +1,5 @@
 # Case 05: Dazzling Lights
+
 ## Introduction
 Make [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-without-pico-ed-board.html) drive forward and display random light colors.
 ## Programming Preparation
