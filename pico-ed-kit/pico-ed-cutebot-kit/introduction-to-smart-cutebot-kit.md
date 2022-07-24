@@ -8,6 +8,7 @@ There are many on-board equipments on the Pico:ed Smart Cutebot including ultras
 - Easy to assemble, only need to install battery pack and ultrasonic sound sensor which are convenient and quick to operate.
 
 ## Technical parameters
+
 | **Technical category** | **Parameters** |
 | --- | --- |
 | Support Voltage | 3.5V — 5V |
