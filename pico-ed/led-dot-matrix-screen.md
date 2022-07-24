@@ -1,8 +1,10 @@
 
+# LED dot-matrix screen
 
 Picoe:ed contains a 17x7 LED dot matrix screen.
 
 ## Attributes
+
 ### `display`
 The instance of class [Display](#okDdW) represents the LED dot screen on board Pico:ed.
 ## Classes
