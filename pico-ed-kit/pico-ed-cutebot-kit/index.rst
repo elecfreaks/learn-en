@@ -8,13 +8,13 @@ Pico:ed CuteBot Kit
     :maxdepth: 2
     :numbered: 2
         
-    Introduction to Smart Cutebot kit.md
-    Preparation for the Programming.md
-    Case 01：Move Forward or Reverse.md
-    case 02：Speed Up Gradually.md
-    case 03：Dance in Figure-of-eight.md
-    case 04：Turn Signals Automatically.md
-    case 05：Dazzling Lights.md
-    case 06：The Line-following Car.md
-    case 07：The Obstacle Avoidance Car.md
-    case 08：IR Remote Control Car.md
+    introduction-to-smart-cutebot-kit.md
+    preparation-for-the-programming.md
+    move-forward-or-reverse.md
+    speed-up-gradually.md
+    dance-in-figure-of-eight.md
+    turn-signals-automatically.md
+    dazzling-lights.md
+    the-line-following-car.md
+    the-obstacle-avoidance-car.md
+    ir-remote-control-car.md
