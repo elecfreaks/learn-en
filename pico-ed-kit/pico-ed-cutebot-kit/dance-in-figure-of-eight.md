@@ -1,4 +1,5 @@
 # Case 03: Dance in Figure-of-eight
+
 ## Introduction
 Make [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-without-pico-ed-board.html) travel along a figure-of-8 track.
 ## Programming Preparation
