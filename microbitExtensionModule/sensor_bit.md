@@ -8,6 +8,11 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 ![](./images/urCCzAZ.jpg)
 
 
+## Products Link
+
+[ELECFREAKS Sensor:bit](https://www.elecfreaks.com/sensor-bit-for-micro-bit-sensorbit.html)
+
+
 ## Features
 ---
 
