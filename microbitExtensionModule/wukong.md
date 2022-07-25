@@ -13,6 +13,11 @@ The base board designs with standard 7x5 square bricks that can adapt perfectly 
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitExtensionModule/images/wukong_01.jpg)
 
+
+## Products Link
+
+[Wukong Breakout Board](https://www.elecfreaks.com/wukong-board-with-lego-holder-for-micro-bit.html)
+
 ## Characteristics
 - - - - -
 
