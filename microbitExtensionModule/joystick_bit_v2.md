@@ -16,6 +16,11 @@ Joystick:bit V2 is a game board based on micro:bit. It contains a 4-direction jo
 
 ![](./images/joystick_v2_03.png)
 
+### Products Link
+
+[Joystick bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
+
+
 
 ## Characteristic:
 ---
