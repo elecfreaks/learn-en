@@ -3,7 +3,7 @@
 ## Introduction
 ---
 
-- IoT:bit is an expansion board based on IoT for micro:bit. It uses ESP8266 as WIFI expansion board and serial port to communicate with micro:bit. It also has extended all available IO port of the micro:bit which is leaded by GVS and you can extent various 3V E-blocks as LED, photosensitive and servo by using it. At the same time, the IOT:bit with an on-board buzzer for outside sound and an on-board RTC clock for timing without power supply. Let's creating your own IoT by makecode!
+- [IoT:bit](https://www.elecfreaks.com/iot-bit-for-micro-bit.html) is an expansion board based on IoT for micro:bit. It uses ESP8266 as WIFI expansion board and serial port to communicate with micro:bit. It also has extended all available IO port of the micro:bit which is leaded by GVS and you can extent various 3V E-blocks as LED, photosensitive and servo by using it. At the same time, the IOT:bit with an on-board buzzer for outside sound and an on-board RTC clock for timing without power supply. Let's creating your own IoT by makecode!
 
  ![](./images/NGKCsKq.jpg)
 
