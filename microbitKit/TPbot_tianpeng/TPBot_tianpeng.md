@@ -20,7 +20,7 @@
 ## Purchasing Link
 ---
 
-- 1 x [TPBot](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18602834185.41.68d15ccfBFHNPy&id=618758535761)
+- 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
 
 ## Connections Diagram
 ---
