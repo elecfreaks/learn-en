@@ -8,6 +8,10 @@ The Wonder Rugged Kit for micro:bit is a car that can move in all directions bas
 
 The mecanum wheels in 8CM diameter make it possible to move in all directions and drift to left or right easily with a wild outlook. The AWD provides continuous strong power and each wheel can be programmed. 
 
+## Products Link
+
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
+
 ## Assembly Video
 ---
 

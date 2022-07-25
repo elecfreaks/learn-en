@@ -1,5 +1,10 @@
 # Wonder Rugged Kit Assembly Steps
 ![](./images/1.jpg)
+
+## Products Link
+
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
+
 ## Assembly video (Chinese voice)
 ---
 

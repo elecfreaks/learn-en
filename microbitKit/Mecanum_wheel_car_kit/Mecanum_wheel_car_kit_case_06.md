@@ -5,12 +5,10 @@
 
 - Build a Wonder Rugged Kit that can avoid obstacles.
 
-## Materials
+## Products Link
 
-------
-
-- micro:bit Wonder Rugged Kit
-- Ultrasonic Sound Sensor
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
+[Sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)
 
 ## Background Knowledge
 

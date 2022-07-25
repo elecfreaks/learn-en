@@ -5,11 +5,9 @@
 
 -  Build a colorful Wonder Rugged Kit with the rainbow LEDs. 
 
-## Materials
+## Products Link
 
-------
-
-- micro:bit Wonder Rugged Kit
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
 
 ## Background Knowledge
 

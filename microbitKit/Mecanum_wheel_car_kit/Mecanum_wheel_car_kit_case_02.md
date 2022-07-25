@@ -4,12 +4,9 @@
 ---
 
 - Programme to make Wonder Rugged Kit drift left or right.
+## Products Link
 
-## Materials
-
-------
-
-- micro:bit Wonder Rugged Kit
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
 
 ## Background Knowledge
 

@@ -5,11 +5,10 @@
 
 - Build a Wonder Rugged Kit that can be controlled by Joystick:bit. 
 
-## Materials
----
+## Products Link
 
-- micro:bit Wonder Rugged Kit
-- Joystick:bit
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
+[Joystick:bit](https://www.elecfreaks.com/joystick-bit-2-kit-for-micro-bit.html)
 
 ## Background Knowledge
 

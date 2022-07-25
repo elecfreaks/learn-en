@@ -5,10 +5,9 @@
 
 - Programme to make Wonder Rugged Kit move forward at full speed or drive laterally. 
 
-## Materials
----
+## Products Link
 
-- micro:bit Wonder Rugged Kit
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
 
 ## Background Knowledge
 ---

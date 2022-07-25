@@ -5,10 +5,9 @@
 
 - Build a Wonder Rugged Kit that can search for light.
 
-## Materials
----
+## Products Link
 
-- micro:bit Wonder Rugged Kit
+[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
 
 ## Background Knowledge
 ---
