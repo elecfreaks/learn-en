@@ -5,6 +5,10 @@
 
 Power:bit button cell board is a micro expansion board in the smallest size equipped  with a buzzer. It can not only supply power to the board but is also equipped with P1, P2,GND and 3V ports by the row needles, which can be used with our acrylic watch straps and boards.
 
+## Products Link 
+
+1 x [EELECFREAKS micro:bit Power:bit](https://www.elecfreaks.com/power-bit-for-micro-bit-powerbit.html)
+
 ## Speciality 
 ---
 
