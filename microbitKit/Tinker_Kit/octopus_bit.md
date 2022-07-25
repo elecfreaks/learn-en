@@ -9,7 +9,7 @@ ELECFREAKS Octopus:bit is a kind of breakout boards for micro:bit. It can lead o
 ## Shipping List
 ---
 
-1 x ELECFREAKS Octopus:bit
+1 x [ELECFREAKS Octopus:bit](https://www.elecfreaks.com/micro-bit-breakout-board-octopus-bit.html)
 
 
 ## Hardware

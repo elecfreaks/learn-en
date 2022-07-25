@@ -5,6 +5,11 @@
 - Make a  Morse Code “Keyboard”/Editor the hard way.
 
 ![](./images/aSEflPU.jpg)
+
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ### Goals
 ---
 - A Morse Code keyboard/Editor made using the C/C++ Micro:bit Runtime

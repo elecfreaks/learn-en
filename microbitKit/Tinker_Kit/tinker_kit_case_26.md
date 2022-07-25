@@ -5,6 +5,9 @@
 - Ever just accumulate a bunch of coins in a jar and now want to sort out the giant mess your past self should have foreseen? No? Just me? Ok well let’s build a coin sorter for fun then, adding on an ultrasound to count the amount you have sorted. Written by Hannah from Raffles Institution during a job attachment.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

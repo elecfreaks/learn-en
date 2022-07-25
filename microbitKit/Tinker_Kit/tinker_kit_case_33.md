@@ -5,6 +5,9 @@
 - Enhancing door security with micro:bit. This tutorial was written by Sean Lew, from the Singapore University of Technology and Design, during his summer internship with us in 2018.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

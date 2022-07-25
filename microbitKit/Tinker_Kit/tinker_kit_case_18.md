@@ -4,6 +4,9 @@
 
 Are your psychomotor skills as bad as mine?
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---
@@ -115,7 +118,7 @@ The lose function is one that we will call when the player presses the wrong key
 Now to start the first LED.  
 We call the function when the file loads. Due to the recursiveness of the function, the game will take care of itself thereafter with minimal effort from us. How is that for effeciency!  
 
-If you don't want to type these code by yourself, you can download the whole program from the link below.  
+If you don't want to type these code by yourself, you can download the whole program from the link below.  
 
 https://makecode.microbit.org/_eeyAFJMcg8z5  
 

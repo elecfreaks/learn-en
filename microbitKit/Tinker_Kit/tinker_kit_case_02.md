@@ -11,10 +11,13 @@ In this project, we are going to create a smart light with ElecFreaks Micro:bit 
 - Make something with Octopus PIR sensor.
 - Make something which is easily to be used in real life.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Materials:    
 ---
-- 1 x BBC micro:bit
+- 1 x BBC micro:bit
 - 1 x Micro USB cable
 - 1 x Breakout board
 - 1 X Octopus PIR sensor Brick
@@ -37,21 +40,21 @@ Plug LED to Pin 1. Make sure the wire colors matches pin colors.
 
 ### Step 2: Pre-coding
 
-We will add a package of code to enable us to use our kit components. Click on “Advanced” in the Code Drawer to see more code section and look at the bottom of the Code Drawer for “Add Package”.
+We will add a package of code to enable us to use our kit components. Click on “Advanced” in the Code Drawer to see more code section and look at the bottom of the Code Drawer for “Add Package”.
 
 ![](./images/EbsfYUB.jpg)
 
-This will open a dialog box. Search for "tinker kit", and then click it to download this package.
+This will open a dialog box. Search for "tinker kit", and then click it to download this package.
 
 ![](./images/Ry7hl2a.png)
 
-Note: If you get a warning telling you some packages will be removed because of incompatibility issues. You have to either follow the prompts or create a new project in the projects file menu.
+Note: If you get a warning telling you some packages will be removed because of incompatibility issues. You have to either follow the prompts or create a new project in the projects file menu.
 
 ### Step 3: Coding
 
 ![](./images/LXlAX9g.jpg)
 
-Click on Tinkercademy inside the Code Drawer to find blocks for the components in your kit.
+Click on Tinkercademy inside the Code Drawer to find blocks for the components in your kit.
 
 ![](./images/LzcSQ8M.jpg)
 

@@ -6,6 +6,10 @@ Make your own little arcade game on the Micro:bit, and admire its 5 by 5 pixelat
 This tutorial was contributed by Josh Ho from Raffles Institution.  
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Step 0 – Pre-build Overview    
 ---    
 

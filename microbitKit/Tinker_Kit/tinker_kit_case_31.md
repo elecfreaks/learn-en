@@ -6,6 +6,9 @@
 This tutorial was written by Anahita from the University of California at Berkeley, during her summer internship in Singapore.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

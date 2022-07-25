@@ -4,6 +4,9 @@
 
 Can you make it through all levels?  
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals  
 ---

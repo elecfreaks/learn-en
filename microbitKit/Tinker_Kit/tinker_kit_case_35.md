@@ -6,6 +6,9 @@
   Created by Mohd Shafiq from NUS.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

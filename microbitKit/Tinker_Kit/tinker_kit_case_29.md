@@ -6,6 +6,9 @@
 This here is the formula to get your own tabletop shooter arcade working in good form!
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

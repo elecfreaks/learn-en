@@ -4,6 +4,10 @@
 
 Do you think your ears are pitch perfect, then try my game. Or even better, create one!
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Goals  
 ---
 

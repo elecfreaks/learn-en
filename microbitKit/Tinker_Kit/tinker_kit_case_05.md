@@ -11,6 +11,9 @@ In this article,we are going to talk about how to use micro:bit with buzzer, OLE
 - Get to know the buzzer, OLED and moisture sensor.
 - Make something with a moisture sensor.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Material Needed:  
 ---
@@ -30,11 +33,11 @@ In this project, we are going to create a plant monitoring which the buzzer will
 A message will always be displaying on the OLED, showing the moisture level.
 
 Firstly, plug in the OLED.
-You are able to plug it into any of the three rows.
+You are able to plug it into any of the three rows.
 
 ![](./images/qOBV7Uf.png)
 
-Connect buzzer to P0. Make sure the color of wire follows the pin color on breakout board.
+Connect buzzer to P0. Make sure the color of wire follows the pin color on breakout board.
 
 ![](./images/ABoiMrD.jpg)
 
@@ -42,7 +45,7 @@ Plug in the moisture sensor to P1.
 
 ![](./images/jgTG7i6.jpg)
 
-Click on Advanced in the Code Drawer to see more code sections.
+Click on Advanced in the Code Drawer to see more code sections.
 We’ll add a package of code to be able to use our kit components.
 Look at the bottom of the Code Drawer for “Add Package” and click it.
 
@@ -52,7 +55,7 @@ At this time, a dialogue box appears. Search "tinker kit" in the box and then cl
 
 ![](./images/G2nV10d.png)
 
-Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.
+Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.
 
 ![](./images/57H4sCe.png)
 ![](./images/DaZC53n.png)
@@ -62,7 +65,7 @@ After that, use blocks under the Tinkercademy section to initialize the OLED.
 ![](./images/xAM8RDr.png)
 
 Since there are only two conditions, we need only one “else-if” statement.
-Micro:bit reads values from moisture sensor continuously. 
+Micro:bit reads values from moisture sensor continuously. 
 When the moisture sensor value is less than 50, this indicates that there is not enough water in the pot. As a result, the buzzer will sound and a message “Water your plant” will be displayed on OLED. Else if the moisture sensor value is larger than 50, the buzzer will be in silence and a message “Your plant is in good condition” will be displayed on OLED.
 
 ![](./images/qy2wheV.png)

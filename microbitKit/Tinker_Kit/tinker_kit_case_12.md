@@ -6,6 +6,10 @@ Do you already have a micro:bit project you’d like to control from afar?
 Partner up with a friend, or grab a spare micro:bit, to make a remote controlled project with 2 micro:bits. (Don’t grab a friend’s micro:bit. Be nice.)
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Goals  
 ---
   

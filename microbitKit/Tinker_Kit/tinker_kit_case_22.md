@@ -5,6 +5,10 @@
 Communicate between two micro:bits using Morse code, fishing line, a servo and a sensor! Why use micro:bit’s radio when this is so much cooler?
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Goals  
 ---
 

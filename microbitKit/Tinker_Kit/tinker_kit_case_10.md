@@ -5,6 +5,10 @@
 Learn to program a simple yet fun game on a 5 by 5 display, using JavaScript! PADDLEBALLSUPERSMASHEM may bear unintentional similarities to other, more graphical, games.  
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Step 0 – Pre Build Overview      
 ---  
 

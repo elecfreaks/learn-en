@@ -9,6 +9,9 @@
 - Make something with ADKeypad.
 - Make something with Buzzer.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Materials
 ---

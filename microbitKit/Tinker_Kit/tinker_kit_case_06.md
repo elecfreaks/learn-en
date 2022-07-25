@@ -5,17 +5,20 @@
 Swiper no swiping!
 Stop burglars with this simple intruder detection system.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Step 0 – Pre-build Overview  
 ---
 
-In this project, we are going to create an intruder detection system which will sound when someone opens the door. The status of the house will be displayed on the OLED.  
+In this project, we are going to create an intruder detection system which will sound when someone opens the door. The status of the house will be displayed on the OLED.  
 
 
 ## Materials:  
 ---
 
-- 1 x BBC micro:bit
+- 1 x BBC micro:bit
 - 1 x Micro USB cable
 - 1 x Breakout board
 - 1 x Crash Sensor
@@ -41,7 +44,7 @@ Insert the micro:bit into the Breakout Board and plug in the micro USB cable.
 
 ![](./images/cvJnbqE.jpg)  
 
-Then connect the buzzer to Pin 0 using the jumper cables. Plug in the OLED as shown in the picture below. You should be able to plug it into any of the three rows.  
+Then connect the buzzer to Pin 0 using the jumper cables. Plug in the OLED as shown in the picture below. You should be able to plug it into any of the three rows.  
 
 ![](./images/3benydL.jpg)  
 
@@ -54,22 +57,22 @@ Plug in the crash sensor to Pin 1. Make sure the colour of the wire follows the 
 
 ![](./images/qPgEmnW.jpg)  
 
-We will add a package of code to enable us to use our kit components. Click on Advanced in the Code Drawer to see more code section and look at the bottom of the Code Drawer for Add Package.  
+We will add a package of code to enable us to use our kit components. Click on Advanced in the Code Drawer to see more code section and look at the bottom of the Code Drawer for Add Package.  
 
 ![](./images/IWhPZeP.png)  
 
-This will open up a dialog box. Search for "tinker kit" and then click it for downloading this package.   
+This will open up a dialog box. Search for "tinker kit" and then click it for downloading this package.   
 
 ![](./images/b0vriWO.png)  
 
-Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.  
+Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.  
 
 
 ### Step 3 – Coding    
 
 ![](./images/OKjXb0c.jpg)  
 
-Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.  
+Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.  
 
 ![](./images/UwHfSVv.jpg)   
 
@@ -89,4 +92,4 @@ Or you can download from the page below.
 
 ### Step 4 – Success!    
 
-Success! You have created a intruder detector!
+Success! You have created a intruder detector!

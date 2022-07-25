@@ -6,6 +6,11 @@
 
 ![](./images/N3HnCBy.jpg)
 
+
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Goals
 ---
 - Assemble the game:bit.

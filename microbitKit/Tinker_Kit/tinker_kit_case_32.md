@@ -6,6 +6,9 @@
 Use the micro:bit to make a robot that squeals when it detects motion, is touched on any of its sensors or when lifted up. Written by Shaun Toh, from the Singapore University of Technology & Design, on his summer internship.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

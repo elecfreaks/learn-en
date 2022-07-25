@@ -5,6 +5,9 @@
 - Use a micro:bit and mini servo to make your very own Maneki-Neko, or Fortune Cat, who waves its hand when you press a button!Designed and written by Tim Ho from the National University of Singapore.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

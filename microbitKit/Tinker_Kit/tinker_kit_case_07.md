@@ -9,8 +9,11 @@ In this course, we will use a ADKeypad to control the motion of a servo to feed 
 
 ![](./images/QO4eC0H.png)     
 
-In this project, we are going to create a fish feeding machine. The movement of the servo will be controlled by the two red buttons on the ADKeypad and the OLED will display a message showing the status of the servo.      
+In this project, we are going to create a fish feeding machine. The movement of the servo will be controlled by the two red buttons on the ADKeypad and the OLED will display a message showing the status of the servo.      
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Materials:     
 ---     
@@ -29,7 +32,7 @@ In this project, we are going to create a fish feeding machine. The movement of 
 
 - Get to know the ADKeypad, OLED and servo
 - Make something with a servo
-- Make something with a OLED 
+- Make something with a OLED 
 
 
 ## How to Make     
@@ -40,38 +43,38 @@ In this project, we are going to create a fish feeding machine. The movement of 
 ![](./images/FNUJhZ3.jpg)  
 ![](./images/BAovMFM.jpg)  
 
-Insert the micro:bit into the Breakout Board and plug in the micro USB cable, then plug in the OLED as shown in the picture above. You should be able to plug it into any of the three rows
+Insert the micro:bit into the Breakout Board and plug in the micro USB cable, then plug in the OLED as shown in the picture above. You should be able to plug it into any of the three rows
 
-Connect the ADKeypad to Pin 0 and the servo to Pin 1. Make sure the colour of the wire matches the colour of the pins on the Breakout Board.
+Connect the ADKeypad to Pin 0 and the servo to Pin 1. Make sure the colour of the wire matches the colour of the pins on the Breakout Board.
 
 ![](./images/FHD6oh8.jpg)
 
 ### Step 2 – Pre-coding  
 
-We will add a package of code to enable us to use our kit components. Click on Advanced in the Code Drawer to see more code section and look at the bottom of the Code Drawer for Add Package.   
+We will add a package of code to enable us to use our kit components. Click on Advanced in the Code Drawer to see more code section and look at the bottom of the Code Drawer for Add Package.   
 
 ![](./images/TF3bfdq.jpg)   
 
-This will open up a dialog box. Search for "tinker kit" and then click it to downloading this package.   
+This will open up a dialog box. Search for "tinker kit" and then click it to downloading this package.   
 
 ![](./images/nOIgk5u.png)   
 
-Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.   
+Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.   
 
 ### Step 3 – Coding     
 
 ![](./images/qLksxfG.jpg)   
 
-Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.   
+Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.   
 
 ![](./images/6CUN5SW.jpg)  
 
-You should always initialize the OLED at the beginning. 64 and 128 represent the height and width of the OLED respectively.   
+You should always initialize the OLED at the beginning. 64 and 128 represent the height and width of the OLED respectively.   
 
 ![](./images/gRJsbmX.jpg)
 
-Since there are only two conditions, we need only one ‘else-if’ statement. 
-If the button A of the ADKeypad is pressed, the servo will turn to angle 70 and the OLED will display "Loading food". 
+Since there are only two conditions, we need only one ‘else-if’ statement. 
+If the button A of the ADKeypad is pressed, the servo will turn to angle 70 and the OLED will display "Loading food". 
 Or else,if button B of the ADKeypad is pressed, the servo will turn to angle 20 and the OLED will display "Feeding the fish".
 You can adjust the servo angle to suit your requirement.
 
@@ -86,4 +89,4 @@ Or you can download from the page below.
 
 ### Step 4 – Success!    
 
-Success! You have created a fish feeding machine!     
+Success! You have created a fish feeding machine!     

@@ -4,6 +4,11 @@
 
 With this machine, the truth will never escape you! As long as you can make your subject hold a moisture sensor for a while.       
 
+
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Step 0 – Pre Build Overview    
 ---  
 

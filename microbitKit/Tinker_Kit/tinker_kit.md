@@ -2,6 +2,10 @@
 ---
 ElecFreaks Micro:bit Tinker Kit is a set of Micro:bit accessory that enables you to connect all kinds of modules easily without a group of messy breadboard wires.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Components
 ---
 Crystal Battery Box - 2 x AAA	x 1

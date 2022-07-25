@@ -6,6 +6,9 @@
 Don’t like instructions? Use your creativity and make a krazy octopus instead.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

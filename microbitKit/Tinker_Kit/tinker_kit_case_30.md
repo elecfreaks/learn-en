@@ -5,6 +5,9 @@
 - Test yourself with this Python-based mini-game for the micro:bit and OLED! Written by Jensen from Raffles Institution.
 
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals
 ---

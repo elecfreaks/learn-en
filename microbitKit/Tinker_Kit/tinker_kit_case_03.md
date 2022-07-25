@@ -8,6 +8,9 @@
 - Learn to use an analog sensor with the micro:bit.
 - Make an electro-theremin!
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Materials  
 ---  

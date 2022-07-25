@@ -2,19 +2,22 @@
 
 Don’t like people sneaking up on you? Here’s just the right micro:bit project for you! In this course, we learn how to make use of the motion sensor, the moisture sensor as well as how they can be coded for.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals:  
 ---  
 
 - Get to know the PIR Sensor Brick and moisture sensor.  
-- Make something with a PIR Sensor Brick.  
+- Make something with a PIR Sensor Brick.  
 - Make something with a Moisture Sensor.  
 
 
 ## Materials:    
 ---  
-  
-- 1 x BBC micro:bit  
+  
+- 1 x BBC micro:bit  
 - 1 x Micro USB cable  
 - 1 x Breakout board  
 - 1 X Mini buzzer  
@@ -43,7 +46,7 @@ Plug in the buzzer to Pin 0 (the pins beside the number ‘0’ on the breakout 
 
 ### Step 3:  
 
-Click on “Advanced” in the code drawer to see more code sections.  
+Click on “Advanced” in the code drawer to see more code sections.  
 To code for our extra kit components (the ADKeyboard and the buzzer), we will need to add a package of code.  
 
 ![](./images/Lb5u8N0.jpg)  

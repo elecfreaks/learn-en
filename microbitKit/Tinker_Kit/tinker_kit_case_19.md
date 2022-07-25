@@ -5,6 +5,10 @@
 Use this spirit level to quickly and easily display the tilt of any object attached!
 Created by Kaitlyn from Raffles Institution.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 ## Goals  
 ---
 

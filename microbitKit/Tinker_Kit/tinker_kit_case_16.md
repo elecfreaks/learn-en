@@ -4,6 +4,9 @@
 
 QUICK MATHS is a game where its all about testing your mental calculation. Too slow, you lose; too fast, you may make mistakes.
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Step 0 – Pre Build Overview  
 ---  

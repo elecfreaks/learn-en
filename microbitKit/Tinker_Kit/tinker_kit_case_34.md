@@ -3,6 +3,9 @@
 ## Getting Started
 ---
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ### Pre-coding:
 

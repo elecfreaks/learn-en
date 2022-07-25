@@ -5,6 +5,10 @@
 Make your very own self-driving micro:bit car!
 (Disclaimer: It’s only “self-driving” inasmuch as a ball rolling down a hill is “self-rolling”.)
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+
 
 ## Goals
 ---
@@ -56,15 +60,15 @@ Note that the colours of common servo cables don’t match the yellow, red, and 
 
 Add the blocks shown to your On Start block.
 What this does? Reset the servos to fixed positions whenever we start!
-The Servo block (coloured red) in MakeCode takes values from 0 to 180. You can find it under Advanced, then Pins.
-For the continuous servos we’re using, a value of 90 is right in the middle. In other words, we’re telling the servo to “stay still”.
+The Servo block (coloured red) in MakeCode takes values from 0 to 180. You can find it under Advanced, then Pins.
+For the continuous servos we’re using, a value of 90 is right in the middle. In other words, we’re telling the servo to “stay still”.
 We display an image to make a visual indication that we’ve downloaded our code into the Micro:bit.
 
 ### Step 3
 
 Let’s make the wheels move! Add the code shown on the right to your Forever block.
-The Digital Write Pin to 0 block is also found under Advanced, Pins.
-What’s happening here? We’re turning one servo clockwise (180), while turning off the other servo. Then, after a short pause, we’re turning off the former servo, and turning the latter servo anti-clockwise (0). Remember, 90 is straight ahead!
+The Digital Write Pin to 0 block is also found under Advanced, Pins.
+What’s happening here? We’re turning one servo clockwise (180), while turning off the other servo. Then, after a short pause, we’re turning off the former servo, and turning the latter servo anti-clockwise (0). Remember, 90 is straight ahead!
 Why do we need to turn off one servo at a time? That’s because of battery power requirements—your micro:bit has trouble in powering both servos at once. If you’re interested, you can explore by using a DC motor with an external power source. Or you can email us to find out more!
 Make sure to check that your motors are facing the right directions—you can change the travel directions of the motors by swapping the 0 and 180 values.
 

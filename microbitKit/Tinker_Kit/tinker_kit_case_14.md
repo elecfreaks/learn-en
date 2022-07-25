@@ -4,6 +4,9 @@
 
 Do you have what it takes to flip the perfect pancake?  
 
+## Products Link
+
+[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
 
 ## Goals  
 ---  
