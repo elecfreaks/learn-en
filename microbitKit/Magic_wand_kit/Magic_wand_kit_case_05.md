@@ -10,6 +10,10 @@
 
 ---
 
+##  Products Link
+---
+
+[Magic Wand Kit](https://www.elecfreaks.com/micro-bit-magic-wand-without-micro-bit.html)
 
 
 ## Background

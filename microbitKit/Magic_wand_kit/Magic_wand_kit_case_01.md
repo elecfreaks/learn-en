@@ -8,6 +8,11 @@
 ## Materials
 ---
 
+##  Products Link
+---
+
+[Magic Wand Kit](https://www.elecfreaks.com/micro-bit-magic-wand-without-micro-bit.html)
+
 ## Background
 ---
 With the sound of footfalls approaching in a quiet and dark gorge, Xiao En and his partners have left their magic school and got here for the first time. Suddenly a pair of red eyes shining in the grass in the front of them, oh, it is a guard of the insects! Let's make a magic wand to expel the insects!

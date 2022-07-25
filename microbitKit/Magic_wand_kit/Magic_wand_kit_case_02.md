@@ -6,7 +6,10 @@
 - To create a magic wand that can send signals to the flying saucer. 
 ## Materials 
 ---
+##  Products Link
+---
 
+[Magic Wand Kit](https://www.elecfreaks.com/micro-bit-magic-wand-without-micro-bit.html)
 
 
 ## Background
