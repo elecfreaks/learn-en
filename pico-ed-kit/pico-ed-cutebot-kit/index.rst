@@ -1,5 +1,5 @@
 
-Pico:ed CuteBot Kit
+Pico:ed CuteBot Kit(EF08275)
 ================================
 Pico:ed CuteBot Kit
 
