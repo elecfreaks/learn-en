@@ -14,6 +14,9 @@ Motor:bit is a motor driving board based on micro:bit. It has integrated a TB661
 - Extend 14-channel IO ports and lead out it by GVS pins. Among it, 6 ports support 3V/5V voltage switch. 
 - With 1 passive buzzer on board. 
 
+## Products Link
+
+[motor:bit](https://www.elecfreaks.com/motor-bit-for-micro-bit-motorbit.html)
 
 ## Parameter
 ---
