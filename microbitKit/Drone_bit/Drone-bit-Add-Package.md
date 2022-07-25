@@ -2,7 +2,7 @@
 
 ## Add extensions
 ---
-The micro:bit Drone:bit extension requires to be added for operation. 
+The micro:bit [Drone:bit Kit](https://www.elecfreaks.com/micro-bit-drone-bit-kit-without-micro-bit-board.html) extension requires to be added for operation. 
 
 ### Steps
 

@@ -7,7 +7,7 @@
 
 ## Products Link
 ---
-- 1 x [Drone:bit]()
+- 1 x [Drone:bit Kit](https://www.elecfreaks.com/micro-bit-drone-bit-kit-without-micro-bit-board.html)
 - 1 x [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-kit-for-micro-bit.html)
 
 ## Picture

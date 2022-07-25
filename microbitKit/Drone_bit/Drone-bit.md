@@ -11,6 +11,10 @@ Drone:bit, take you to a new height!
 
 ![](./images/Drone-bit-01.png)
 
+## Products Link
+---
+
+[Drone:bit Kit](https://www.elecfreaks.com/micro-bit-drone-bit-kit-without-micro-bit-board.html)
 
 ## Picture
 ---

@@ -6,10 +6,8 @@
 - Program to make the drone fly to a preset place and then get back. 
 
 ## Products Link
-
 ---
-
-- 1 x [Drone:bit]()
+- 1 x [Drone:bit Kit](https://www.elecfreaks.com/micro-bit-drone-bit-kit-without-micro-bit-board.html)
 
 ## Picture
 
