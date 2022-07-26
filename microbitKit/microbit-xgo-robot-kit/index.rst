@@ -7,9 +7,10 @@ xgo robot kit(EF08268)
 .. toctree::
     :maxdepth: 2
     :numbered: 2
-
+    
+    start-programming.md
     microbit-xgo-robot-kit-Introduction.md
-    hardware-assembly.md
+    calibrate-xgo-with-the-standards.md
     case01-run-in-square -routine.md
     case02-a-light-controlled-dog.md
     case03-a-magnetism-controlled-dog .md
