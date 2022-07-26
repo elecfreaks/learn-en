@@ -5,13 +5,16 @@ motor:bit smart car kit is a tailor-made smart car for micro:bit and motor:bit. 
 
 
 ## Features  
----
-- Small size with compact structure.  
-- Reserve sensor connectors.  
 
+ Small size with compact structure.  
+ Reserve sensor connectors.  
+
+## Products Link
+
+[ELECFREAKS Motor:bit Acrylic Smart Car Kit](https://www.elecfreaks.com/motor-bit-acrylic-smart-car-kit.html)
 
 ## Parameters
----
+
 
 Item |Parameter
 :-:|:-:
@@ -25,21 +28,21 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 
 ## Dimension  
----
+
 ![](./images/vehvUKJ.jpg)
 
 
 ## Packing List  
----
-- 1 x motor:bit  
-- 1 x Acrylic Smart Car Chassis Kit（include TT motor）  
-- 1 x Line Tracking Module  
-- 1 x Sonar:bit  
-- 1 x micro:bit  
+
+ 1 x motor:bit  
+ 1 x Acrylic Smart Car Chassis Kit（include TT motor）  
+ 1 x Line Tracking Module  
+ 1 x Sonar:bit  
+ 1 x micro:bit  
 
 
 ## Drawings  
----
+
 ### Components  
 
 ### Assembly Overview  
@@ -54,15 +57,15 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 
 ## Documents  
----
-- [Motor:bit Introduction](/motor_bit/) 
-- [Case 01 Fixed Parking](/motor_bit_smart_car_case_01/) 
-- [Case 02 Keep Distance](/motor_bit_smart_car_case_02/) 
-- [Case 03 Line Tracking](/motor_bit_smart_car_case_03/) 
-- [Case 04 Avoid Barrier](/motor_bit_smart_car_case_04/) 
-- [Case 05 Remote Control](/motor_bit_smart_car_case_05/) 
-- [Case 06 Bluetooth Control](/motor_bit_smart_car_case_06/) 
+
+ [Motor:bit Introduction](/motor_bit/) 
+ [Case 01 Fixed Parking](/motor_bit_smart_car_case_01/) 
+ [Case 02 Keep Distance](/motor_bit_smart_car_case_02/) 
+ [Case 03 Line Tracking](/motor_bit_smart_car_case_03/) 
+ [Case 04 Avoid Barrier](/motor_bit_smart_car_case_04/) 
+ [Case 05 Remote Control](/motor_bit_smart_car_case_05/) 
+ [Case 06 Bluetooth Control](/motor_bit_smart_car_case_06/) 
 
 
 ## FAQ  
----
+

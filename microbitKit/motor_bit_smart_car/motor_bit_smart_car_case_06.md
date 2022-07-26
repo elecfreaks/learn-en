@@ -1,19 +1,20 @@
 # case 06 Bluetooth Control
 
 ## Our Goal
----
+
 Control the movement of our motor:bit car via Bluetooth. 
 
 ## Material
----
-- 1 x motor:bit
-- 1 x bitty controller
+
+ 1 x [motor:bit smart car kit](https://www.elecfreaks.com/motor-bit-acrylic-smart-car-kit.html)
+
+ 1 x bitty controller
 
 ## Background Knowledge
----
-- [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[3]) from fixed and mobile devices, and building personal area networks (PANs). We can use Bluettoth to connect multiple devices which resolves the difficulty of simultanuous data transmission. 
 
-- [Bittysoftware](http://www.bittysoftware.com/index.html) provides mobile apps and tools for devices like BBC micro:bit.
+ [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz[3]) from fixed and mobile devices, and building personal area networks (PANs). We can use Bluettoth to connect multiple devices which resolves the difficulty of simultanuous data transmission. 
+
+ [Bittysoftware](http://www.bittysoftware.com/index.html) provides mobile apps and tools for devices like BBC micro:bit.
 
 ### Bluetooth Event
 
@@ -27,12 +28,12 @@ Picture below is an event table for D-pad controlling joystick.
 
 
 ## Software
----
+
 [Microsoft MakeCode](https://makecode.microbit.org/#)
 
 
 ## Operation Steps
----
+
 ### Step 1: APP Download
 
 1. Android Device: Download bitty controller app from Google play.
@@ -43,7 +44,7 @@ Picture below is an event table for D-pad controlling joystick.
 
 ![](./images/LqEfbhE.png)
 
--  Below is the interface of this APP:
+  Below is the interface of this APP:
 
 ![](./images/ZvHqv7T.png)
 
@@ -129,7 +130,7 @@ You can also download it from the page below.
 
 
 ## Result
----
+
 Once Bluetooth paired successfully, micro:bit screen will display a "T". Disconnect the Bluetooth, it will display an "F". 
 
 Press the left top button on the joystick interface, the car will move forward. 
@@ -137,10 +138,10 @@ Press the left or right button in the right side of joystick, the car will rever
 
 
 ## Think 
----
+
 How to write our code if we want to reverse our car or even make it turn left ot right ?
 
 
 ## FAQ
----
+
 

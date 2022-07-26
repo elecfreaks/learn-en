@@ -1,7 +1,7 @@
 # motor:bit Introduction 
 
 ## Introduction
----
+
 
 Motor:bit is a motor driving board based on micro:bit. It has integrated a TB6612 motor driving chip, which is used to drive two motors with maximun 1.2A DC single channel current. It has also integrated 12 GVS ports(for connecting OCTOPUS series of electric bricks) and 1 IIC communication port. These ports allow you to extend with various sensors and electric modules. On the board, P3-P7, P9-P10 are IO ports for directly driving 3.3V devices; P13-P16, P19-P20(IIC port) support 3.3V/5V voltage switch. Sliding the voltage switch onboard, it is available to drive 3.3V or 5V devices. Besides, you can play music with the buzzer on motor:bit. Motor:bit is totally designed for DIYers. You can use it to create your own smart car or more funny projects.
 
@@ -9,30 +9,30 @@ Motor:bit is a motor driving board based on micro:bit. It has integrated a TB661
 
 
 ## Features
----
-- Support 2 DC motors and the max driving current of each single channel is 1.2A.
-- Extend 14-channel IO ports and lead out it by GVS pins. Among it, 6 ports support 3V/5V voltage switch. 
-- With 1 passive buzzer on board. 
+
+ Support 2 DC motors and the max driving current of each single channel is 1.2A.
+ Extend 14-channel IO ports and lead out it by GVS pins. Among it, 6 ports support 3V/5V voltage switch. 
+ With 1 passive buzzer on board. 
 
 
 ## Parameter
----
+
 
 ![](./images/CbRqh12.png)
 
 
 ## Dimension  
----
+
 ![](./images/zXGYS2h.jpg)
 
 
 ## Definition of Pins
----
+
 ![](./images/yiJJzHK.jpg)
 
 
 ## Introduction of Major Components
----
+
 
 ### M1-M2 Motor Connector
 
@@ -84,7 +84,7 @@ You can plug your micro:bit into this socket.
 
 
 ## Quick Start
----
+
 
 ### Hardware Assembly
   
@@ -109,5 +109,5 @@ You can also download it from the page below:
 
 
 ## FAQ  
----  
+  
 

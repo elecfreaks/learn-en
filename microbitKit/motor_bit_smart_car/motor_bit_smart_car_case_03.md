@@ -1,26 +1,27 @@
 # case 03 Line Tracking
 
 ## Our Goal
----
-- Make motor:bit smart car track lines. 
+
+ Make motor:bit smart car track lines. 
 
 
 ## Material
----
-- 1 x motor:bit smart car kit
+
+ 1 x [motor:bit smart car kit](https://www.elecfreaks.com/motor-bit-acrylic-smart-car-kit.html)
+
 
 ## Background Knowledge
----
+
 ### Principle of Line Tracking
 
-- The line tracking module in this kit has adopted an infrared sensor. It consists of a **transmitter** and a **receiver**. The transmitter emits infrared light, while the receiver collects the infrared light reflected by the ground. 
-- When contacting with black ground or other infrared light absorbing materials, the receiver can't receive the infrared light, then the light tracking module returns to 0. 
+ The line tracking module in this kit has adopted an infrared sensor. It consists of a **transmitter** and a **receiver**. The transmitter emits infrared light, while the receiver collects the infrared light reflected by the ground. 
+ When contacting with black ground or other infrared light absorbing materials, the receiver can't receive the infrared light, then the light tracking module returns to 0. 
 
 ![](./images/UdHpeaS.jpg)
 
 
 ## Hardware Connection
----
+
 
 Connect the left sensor(S1) on line tracking module to the 4th pin on motor:bit.
 And connect the right sensor(S2) to the 3rd pin. See picture below.
@@ -31,14 +32,14 @@ And connect the right sensor(S2) to the 3rd pin. See picture below.
 
 
 ## Software
----
+
 [Microsoft MakeCode](https://makecode.microbit.org/#)
 
-- If the line tracking module has detected a black line, its value will return to 0. If no black line detected, then it will return to 1.
+ If the line tracking module has detected a black line, its value will return to 0. If no black line detected, then it will return to 1.
 
 
 ## Programming
----
+
 
 ### Step 1
 
@@ -73,7 +74,7 @@ If both the left and right infrared sensor have detected derail, then set the mo
 ![](./images/X10NnQL.png)
 
 ## Program
----
+
 
 Link of the whole program: [https://makecode.microbit.org/_ibXcm1M5UY3A](https://makecode.microbit.org/_ibXcm1M5UY3A)
 
@@ -86,15 +87,15 @@ You can also download the program from the page below.
 
 
 ## Result
----
+
 Motor:bit car moves along the scheduled black line.
 
 ## Think
----
+
 
 ## FAQ
----
+
 
 ## Relative Readings  
----
+
 

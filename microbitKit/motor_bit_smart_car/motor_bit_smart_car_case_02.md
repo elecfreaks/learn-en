@@ -1,28 +1,29 @@
 # case 02 Keep Distance
 
 ## Our Goal
----
-- Make motor:bit smart car keeps distance with another car. 
+
+ Make motor:bit smart car keeps distance with another car. 
 
 
 ## Material
----
-- 1 x motor:bit smart car kit
+
+ 1 x [motor:bit smart car kit](https://www.elecfreaks.com/motor-bit-acrylic-smart-car-kit.html)
+
 
 ## Background Knowledge
----
+
 ### What is ultrasonic wave?
-- [Ultrasonic Wave](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%81%B2%E6%B3%A2) is a kind of sound wave with frequency higher than 20,000 Hz. It has good direction sense and strong penetration. It is easy to obtain comparatively concentrated sound energy and travel long distance underwater. It can be used to measure distance or speed, rinse, weld, break stones, or sterilize, etc.. Ultrasonic wave is named for its lower frequency limit is higher than the upper limit of human audible sound. 
+ [Ultrasonic Wave](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%81%B2%E6%B3%A2) is a kind of sound wave with frequency higher than 20,000 Hz. It has good direction sense and strong penetration. It is easy to obtain comparatively concentrated sound energy and travel long distance underwater. It can be used to measure distance or speed, rinse, weld, break stones, or sterilize, etc.. Ultrasonic wave is named for its lower frequency limit is higher than the upper limit of human audible sound. 
 
 ### Principle of Ultrasonic Distance Measurement
 
-- The transmitter emits ultrasonic wave to a certain direction. At the same time, it starts timing when emitting. Once encountered with a barrier, the ultrasonic wave spread in the air will be reflected back immediately. When the receiver has received the reflected wave, it will stop timing immediately. We can calculate the distance according to the time since the receiver has received the reflected wave, which is similar to radar ranging principle.
+ The transmitter emits ultrasonic wave to a certain direction. At the same time, it starts timing when emitting. Once encountered with a barrier, the ultrasonic wave spread in the air will be reflected back immediately. When the receiver has received the reflected wave, it will stop timing immediately. We can calculate the distance according to the time since the receiver has received the reflected wave, which is similar to radar ranging principle.
 
 ![](./images/8K6u2ce.jpg)
 
 
 ## Hardware Connection
----
+
 
 Connect sonar:bit to P5 on motor:bit.
 
@@ -32,12 +33,12 @@ Connect sonar:bit to P5 on motor:bit.
 
 
 ## Software
----
+
 [Microsoft MakeCode](https://makecode.microbit.org/#)
 
 
 ## Programming
----
+
 ### Step 1
 
 Click **Advanced** in the code drawer of MakeCode to see more options. 
@@ -52,11 +53,11 @@ To program for motor:bit, we have to add a package. Find **Add Package** in the 
 
 ### Step 2
 
-- Insert a `move forward with speed` block below `on start`, and set its parameter to 80, which means the car moves forward at the speed of 80 once powered on. 
-- The unit of ultrasonic wave is centimeter(cm). Read the value of P5 and assign its return value to variable `item`.
-- If the return value is above 10 but under 20, set the speed of motors to 0 and stop the car.
-- If the return value is under 20, set the motor speed to 80 and make the car reverse. 
-- If none of these values meet, set the motor speed to 80 and make the car move forward. 
+ Insert a `move forward with speed` block below `on start`, and set its parameter to 80, which means the car moves forward at the speed of 80 once powered on. 
+ The unit of ultrasonic wave is centimeter(cm). Read the value of P5 and assign its return value to variable `item`.
+ If the return value is above 10 but under 20, set the speed of motors to 0 and stop the car.
+ If the return value is under 20, set the motor speed to 80 and make the car reverse. 
+ If none of these values meet, set the motor speed to 80 and make the car move forward. 
 
 ![](./images/gcR99Lj.png)
 
@@ -71,18 +72,18 @@ You can also download it from the page below.
 
 
 ## Result
----
-- Once powered on, the car moves forward at the speed of 80. Place your hand in front of the car at a distance among10~20cm, the car stops moving forward. Again, place your hand closer to the car but at a distance less than 10 cm, the car will move back and then stop when the distance is beyond 10 cm. 
+
+ Once powered on, the car moves forward at the speed of 80. Place your hand in front of the car at a distance among10~20cm, the car stops moving forward. Again, place your hand closer to the car but at a distance less than 10 cm, the car will move back and then stop when the distance is beyond 10 cm. 
 
 
 ## Think 
----
+
 
 
 ## FAQ
----
+
 
 
 ## Relative Readings
----
+
 

@@ -1,30 +1,31 @@
 # case 04 Avoid Barrier 
 
 ## Our Goal
----
-- Make our motor:bit car avoid barriers using ultrasonic wave. 
+
+ Make our motor:bit car avoid barriers using ultrasonic wave. 
 
 
 ## Material
----
-- 1 x motor:bit
+
+ 1 x [motor:bit smart car kit](https://www.elecfreaks.com/motor-bit-acrylic-smart-car-kit.html)
+
 
 ## Background Knowledge
----
+
 
 ### What is ultrasonic wave?
 
-- Ultrasonic Wave is a kind of sound wave with frequency higher than 20,000 Hz. It has good direction sense and strong penetration. It is easy to obtain comparatively concentrated sound energy and travel long distance underwater. It can be used to measure distance or speed, rinse, weld, break stones, or sterilize, etc.. Ultrasonic wave is named for its lower frequency limit is higher than the upper limit of human audible sound. 
+ Ultrasonic Wave is a kind of sound wave with frequency higher than 20,000 Hz. It has good direction sense and strong penetration. It is easy to obtain comparatively concentrated sound energy and travel long distance underwater. It can be used to measure distance or speed, rinse, weld, break stones, or sterilize, etc.. Ultrasonic wave is named for its lower frequency limit is higher than the upper limit of human audible sound. 
 
 ### Principle of Ultrasonic Distance Measurement
 
-- The transmitter emits ultrasonic wave to a certain direction. At the same time, it starts timing when emitting. Once encountered with a barrier, the ultrasonic wave spread in the air will be reflected back immediately. When the receiver has received the reflected wave, it will stop timing immediately. We can calculate the distance according to the time since the receiver has received the reflected wave, which is similar to radar ranging principle.
+ The transmitter emits ultrasonic wave to a certain direction. At the same time, it starts timing when emitting. Once encountered with a barrier, the ultrasonic wave spread in the air will be reflected back immediately. When the receiver has received the reflected wave, it will stop timing immediately. We can calculate the distance according to the time since the receiver has received the reflected wave, which is similar to radar ranging principle.
 
 ![](./images/8K6u2ce.jpg)
 
 
 ## Hardware Connection
----
+
 
 Connect sonar:bit to P5 on motor:bit. See picture below. 
 
@@ -34,12 +35,12 @@ Connect sonar:bit to P5 on motor:bit. See picture below.
 
 
 ## Software
----
+
 [Microsoft MakeCode](https://makecode.microbit.org/#)
 
 
 ## Programming
----
+
 
 ### Step 1
 Click **Advanced** in the code drawer of MakeCode to see more options. 
@@ -95,21 +96,21 @@ You can also download it from the page below.
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_cRgUy3h7VApT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
-- After powered on, the car will move forward at the speed of 100. 
-- When the barrier distance(i.e. `away`) is under 8 cm but not equal to 0 cm, the car will stop for 0.3 second and then start reversing. 
-- When the barrier distance is under 15 cm, the car will turn left or right randomly to avoid barrier. 
-- For other situations, the car will move forward at the speed of 100. 
+
+ After powered on, the car will move forward at the speed of 100. 
+ When the barrier distance(i.e. `away`) is under 8 cm but not equal to 0 cm, the car will stop for 0.3 second and then start reversing. 
+ When the barrier distance is under 15 cm, the car will turn left or right randomly to avoid barrier. 
+ For other situations, the car will move forward at the speed of 100. 
 
 
 ## Think 
----
+
 
 
 ## FAQ
----
+
 
 
 ## Relative Readings
----
+
 
