@@ -100,7 +100,7 @@ while True:
 
 Turn on the light, the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) LED screen shows "Bright", and when the light is turned off, the screen shows "Dark".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/02Bz21brbX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jx6ZFixSBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exploration
 If we want to use a photocell to turn an LED on and off, how do we design the circuit and program it?
