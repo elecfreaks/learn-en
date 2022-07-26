@@ -1,7 +1,7 @@
 # introduction 
 
-## Introduction ##
----
+## Introduction 
+
 The Elecfreaks Experimental Box is a brand new teaching aid developed by ELECFREAKS. We included traditional components such as the temperature sensor, photocell, servo, motor and LEDs. But we also added electronic components such as the MOSFET transistor, different values of resistors, and a trimpot to combine circuit design with programming.
 
 For this Experimental Box, you’ll use banana plug wires to connect different components. These wires are easy to insert and pull out yet still create stable connections. Meanwhile, using banana plugs lays a foundation for further circuit design.
@@ -12,8 +12,12 @@ Programming or designing circuits, the choice is up to you!
 
 ![](./images/yg4f3xe.jpg)
 
-## Components lists ##
----
+## Products Link
+
+[ELECFREAKS Experiment Box Kit](https://www.elecfreaks.com/experiment-box-for-micro-bit.html)
+
+## Components lists 
+
 
 Components | Numbers
 :-: | :-: 
