@@ -6,6 +6,14 @@
 ## Introduction
 
 Trimpot is an adjustable electronic component. It consists of a resistive body and a rotating or sliding system. When a voltage is applied between the two fixed contacts of the resistor body, the position of the contacts on the resistor body is changed by a rotating or sliding system, and a position corresponding to the moving contact can be obtained between the moving contact and the fixed contact voltage in a certain relationship. It is mostly used as a voltage divider, where the Trimpot is a four-terminal element. In the following lessons, we are going to read the output voltage on the Trimpotr and display it on the LED screen of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) 7*17 with a wavy line.
+
+
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
 ## Components List
 
 ### Hardware:

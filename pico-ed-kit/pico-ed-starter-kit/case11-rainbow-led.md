@@ -5,6 +5,12 @@
 ## Introduction
 
 The 8 RGB Rainbow LED Ring is based on ws2812b lamp beads. Its biggest feature is single IO control and infinite cascade. In this lesson, we will use [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to drive an LED colorful light ring to achieve colorful effects.
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
 ## Component List
 
 ### Hardware:

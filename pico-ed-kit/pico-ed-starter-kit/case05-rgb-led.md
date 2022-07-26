@@ -5,6 +5,13 @@
 ## Introduction
 
 RGB LED is a kind of LED that can emit light in three different colors: red, green and blue. In this lesson, we are going to make RGB LED shifts its light among the three different colors gradually.
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
+
 ## Components List:
 ### Hardware:
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) 

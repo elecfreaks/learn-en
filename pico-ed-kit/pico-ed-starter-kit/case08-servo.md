@@ -7,6 +7,12 @@
 ## Introduction
 
 Servo is a position (angle) servo drive, suitable for those control systems that require a constant change of angle and can be maintained. In this lesson, we will use [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to control the servos to cycle through the travel range.
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
 ## Components List:
 ### Hardware:
 1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)

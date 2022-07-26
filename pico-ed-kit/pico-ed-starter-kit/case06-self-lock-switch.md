@@ -6,6 +6,12 @@
 ## Introduction
 
 The self-lock switch is a kind of common button switch. When we press the button for the first time, the switch is connected and remains in that status, which is called “self-lock”. When we press the button for the second time, the switch is disconnected. At the same time, the button will bounce back to its initial place. In this lesson, we are going to use the self-lock switch to control the LED light.
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
 ## Component List
 
 ### Hardware：

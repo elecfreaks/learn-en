@@ -5,6 +5,12 @@
 ## Introduction
 
 The motor is a kind of device which can transfer electric energy into kinetic energy according to the law of electromagnetic induction. In this lesson, we are going to use a switch to control the start and stop of a motor.
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
 ## Components List:
 ### Hardware:
 

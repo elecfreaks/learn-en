@@ -6,6 +6,12 @@
 ## Introduction
 
 The temperature sensor is a kind of sensor that can detect temperature and transfer it into output data. The temperature sensor is the core component of temperature gauges and instruments with multiple categories. In this experiment, we are going to learn the analog temperature sensor–TMP36, and display its data on [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html).
+
+## Products Link
+
+[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+
+
 ## Components List
 
 ### Hardware：
