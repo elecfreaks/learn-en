@@ -1,45 +1,45 @@
 # case 06 smart telecontrol door opener
 
 ## Goal
----
 
-- Make a smart telecontrol door opener.
+
+ Make a smart telecontrol door opener.
 
 ## Materials
----
 
-- 1 X Smart Home Kit
-- 1 X scissors
-- 1 X glue
-- 1 X white paper,
-- 1 X cardboard
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+ 1 X scissors
+ 1 X glue
+ 1 X white paper,
+ 1 X cardboard
 ![](./images/NKJyemH.jpg)
 
 ## Background
----
 
-- The analog noise sensor E-Blocks can sense the outside noise signal. It is also can be used to detect human voice.
+
+ The analog noise sensor E-Blocks can sense the outside noise signal. It is also can be used to detect human voice.
 
 
 ### What is a "smart telecontrol door opener".
 
-- Your friends are coming, but you are busy with your own business, or watching highlights of a television program or playing a very interesting computer game. You have no time to open the door. Here, you can make a smart telecontrol door opener.
+ Your friends are coming, but you are busy with your own business, or watching highlights of a television program or playing a very interesting computer game. You have no time to open the door. Here, you can make a smart telecontrol door opener.
 
 ### Principle of an analog noise sensor
 
-- When the analog noise sensor is detecting the human signal, it will remind you by OLED screen and you can press the button and let the door open.
+ When the analog noise sensor is detecting the human signal, it will remind you by OLED screen and you can press the button and let the door open.
 
 
 ## Practical operation
----
 
-- Prepare a scissors, a bottle of glue and a piece of cardboard.
-- Stick the paper you prepared on the cardboard and clip it as you need.
+
+ Prepare a scissors, a bottle of glue and a piece of cardboard.
+ Stick the paper you prepared on the cardboard and clip it as you need.
 
 ![](./images/CKIwMbh.jpg)
 ![](./images/Svav9XC.jpg)
 
-- Set up as below：
+ Set up as below：
 
 The front side：
 
@@ -56,7 +56,7 @@ Set and stick components as below:
 
 
 ## Hardware Connect
----
+
 Connect the analog noise sensor to the P1 port of the expansion board.
 Connect the crash sensor to the P2 port of the expansion board.
 Conenct the 180 deg servo to the P8 port of the expansion board.
@@ -64,18 +64,18 @@ Connect the micro:bit to the batteries pack.
 ![](./images/p6ZtIJS.jpg)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
  
 
 ## Programming
----
+
 ### Step 1
-- Click "Advanced" in the makecode code drawer for more codes.
+ Click "Advanced" in the makecode code drawer for more codes.
 
 ![](./images/2qCyzQ7.png)
 
-- We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
+ We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
 ![](./images/OY706rv.png)
 
@@ -124,24 +124,24 @@ You also could directly download program by visiting website as below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_htqEPX30qYKL" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
 
-- When it is detecting the people signal, the OLED screen will show “somebody out”.
-- Press the button, the door will open, after 3 seconds, the door will close.
-- When it is not detecting the people signal, the OLED screen will show “Nobody”.
+
+ When it is detecting the people signal, the OLED screen will show “somebody out”.
+ Press the button, the door will open, after 3 seconds, the door will close.
+ When it is not detecting the people signal, the OLED screen will show “Nobody”.
 
 ![](./images/ioUPGkB.gif)
 
 ## Think
----
 
-- How can we use the micro:bit to control the fan atumatically turn on and turn off.
+
+ How can we use the micro:bit to control the fan atumatically turn on and turn off.
 
 
 ## Questions
----
+
 
 
 ## More Information  
----
+
 

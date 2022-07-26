@@ -3,29 +3,29 @@
 
 ![](./images/krV05be.jpg)
 ## Goal
----
 
 
-- Make a smart wardrobe
+
+ Make a smart wardrobe
 
 ## Materials
----
 
-- 1 x Smart home Kit
-- 1 x corrugated board
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+ 1 x corrugated board
 
 ## Background
----
+
 ### What is smart wardrobe
-- Smart wardrobe could automatically open and let people take cloth. A slight push and the door open.At the same time, wardrobe door was setted low noise, it will not disturb sleep.
+ Smart wardrobe could automatically open and let people take cloth. A slight push and the door open.At the same time, wardrobe door was setted low noise, it will not disturb sleep.
 
 ### Smart wardrobe operation
-- Controling crash detect module using micro:bit and receive crash signal.The micro:bit will control servo to open the door with light up when it received signal.
+ Controling crash detect module using micro:bit and receive crash signal.The micro:bit will control servo to open the door with light up when it received signal.
 
 ![](./images/Pq9yMxM.png)
 
 ## Practical operation
----
+
 Materials: corrugated board and cutter
 
 ![](./images/PuJE7uj.jpg)
@@ -47,7 +47,7 @@ Paste devices as below piture:
 
 
 ## Hardware connect
----
+
 
 ![](./images/k1tNYcb.png)
 
@@ -56,7 +56,7 @@ Paste devices as below piture:
 
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 Edge Connector Data Sheet
@@ -64,7 +64,7 @@ Edge Connector Data Sheet
 
 
 ## Programming
----
+
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
@@ -110,7 +110,7 @@ You also could directly download program visit website as below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2J3VR42c29cw" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 Turning of the servo will drive the door open with rainbow led light up.
 
 Front side：
@@ -122,13 +122,13 @@ Back side：
 ![](./images/mEbCjUQ.jpg)
 
 ## Think
----
+
 How to make a clothes racks ? 
 
 ## Questions
----
+
 
 
 ## More information  
----
+
 

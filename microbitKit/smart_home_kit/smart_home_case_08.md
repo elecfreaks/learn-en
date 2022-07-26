@@ -1,34 +1,34 @@
 # case 08 simple spirometer
 
 ## Goal
----
 
-- Make a simple spirometer.
+
+ Make a simple spirometer.
 
 ## Required Materials
----
 
-- 1 X Smart Home Kit
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
 
 
 ## Background
----
 
-- The analog noise sensor E-Blocks can sense the outside noise signal. It can sense the vibration in air. The greater the vital capacity, the more air is expelled, and the greater the impact on the air. The air intensity is a detection index for a spirometer.
+
+ The analog noise sensor E-Blocks can sense the outside noise signal. It can sense the vibration in air. The greater the vital capacity, the more air is expelled, and the greater the impact on the air. The air intensity is a detection index for a spirometer.
 
 
 ### What is a "simple spirometer" ?
 
-- The spirometer always use in physical examination for testing health. Using the micro:bit to make a simple spirometer and know your own physical condition.
+ The spirometer always use in physical examination for testing health. Using the micro:bit to make a simple spirometer and know your own physical condition.
 
 ### Principle of a simple spirometer
 
-- The analog noise sensor E-Blocks detects the vibration in air. Then you need to make 5 levels for your vital capacity.
+ The analog noise sensor E-Blocks detects the vibration in air. Then you need to make 5 levels for your vital capacity.
 
----
+
 
 Level | Parameters 
-:-: | :-: 
+:: | :: 
 1|30db
 2|50db
 3|70db
@@ -36,11 +36,11 @@ Level | Parameters
 5|110db
 
 ## Practical Operation
----
 
-- Prepare a scissors, a bottle of glue and a piece of cardboard.
-- Stick the paper you prepared on the cardboard and clip it as you need.
-- Set up as below：
+
+ Prepare a scissors, a bottle of glue and a piece of cardboard.
+ Stick the paper you prepared on the cardboard and clip it as you need.
+ Set up as below：
 
 ![](./images/rQS0zKm.jpg)
 
@@ -50,26 +50,26 @@ Set and stick components as below:
 
 
 ## Hardware Connect
----
+
 Connect the analog noise sensor to the P1 port of the expansion board.
 Connect the OLED screen the the IIC port of the expansion board.
 
 ![](./images/oUij2k8.jpg)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
  
 
 ## Programming
----
+
 ### Step 1
 
-- Click "Advanced" in the makecode code drawer for more codes.
+ Click "Advanced" in the makecode code drawer for more codes.
 
 ![](./images/2qCyzQ7.png)
 
-- We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
+ We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
 ![](./images/OY706rv.png)
 
@@ -106,21 +106,21 @@ You also could directly download program by visiting website as below:
 
 
 ## Result
----
 
-- Blow to the analog noise sensor, you will know your vital capacity
+
+ Blow to the analog noise sensor, you will know your vital capacity
 
 ![](./images/hXrR6VL.gif)
 
 ## Think
----
 
-- What can we make by using the smart home kit except the spirometer
+
+ What can we make by using the smart home kit except the spirometer
 
 ## Questions
----
+
 
 
 ## More Information
----
+
 

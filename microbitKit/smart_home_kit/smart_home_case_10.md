@@ -1,40 +1,40 @@
 # case 10 simple alarm box
 
 ## Our Goal
----
 
-- Make a simple alarm box.
+
+ Make a simple alarm box.
 
 ## Materials
----
 
-- 1 X Smart Home Kit
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
 
 
 ## Background
----
 
-- The crash sensor can deliver a crash signal. When the clips being touched or being relaxed, it will deliver respetiively signal.
+
+ The crash sensor can deliver a crash signal. When the clips being touched or being relaxed, it will deliver respetiively signal.
 
 
 ### What is a simple alarm box.
 
-- In this project, we are going to create a simple alarm device which will alert the owner if someone has stolen his or her property. The red LED will blink when the crash sensor detects that the object has been taken away. Otherwise, the green LED will light up continuously. The OLED will display the status of the device.
+ In this project, we are going to create a simple alarm device which will alert the owner if someone has stolen his or her property. The red LED will blink when the crash sensor detects that the object has been taken away. Otherwise, the green LED will light up continuously. The OLED will display the status of the device.
 
 
 ### Pre Build Overview
 
-- The red LED will blink when the crash sensor detects that the object has been taken away. 
-- Otherwise, the green LED will light up continuously. The OLED will display the status of the device.
+ The red LED will blink when the crash sensor detects that the object has been taken away. 
+ Otherwise, the green LED will light up continuously. The OLED will display the status of the device.
 
 
 
 ## Practical Operation
 
----
 
-- Prepare a scissors, a bottle of glue and a piece of cardboard.
-- Set up as below：
+
+ Prepare a scissors, a bottle of glue and a piece of cardboard.
+ Set up as below：
 
 ![](./images/w7D8Dw4.jpg)
 
@@ -44,26 +44,26 @@ Set and stick components as below:
 
 
 ## Hardware Connect
----
+
 Connect the crash sensor to P1 port of the expansion board;
 Connect the rainbow LED to P2 port of the expansion board;
 
 ![](./images/7ifVFg1.jpg)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
  
 
 ## Programming
----
+
 ### Step 1
 
-- Click "Advanced" in the makecode code drawer for more codes.
+ Click "Advanced" in the makecode code drawer for more codes.
 
 ![](./images/2qCyzQ7.png)
 
-- We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
+ We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
 ![](./images/OY706rv.png)
 
@@ -98,21 +98,21 @@ You also could directly download program by visiting website as below:
 
 
 ## Succeed!
----
 
-- We can see the green light illuminates as showed in the picture below. When we take away the book or something else you placed, you can see the red light starts to flash while the green light turned off.
+
+ We can see the green light illuminates as showed in the picture below. When we take away the book or something else you placed, you can see the red light starts to flash while the green light turned off.
 
 ![](./images/gUJKXeu.gif)
 
 ## Think
----
 
-- Could you use this kit to make a intruder detection ?
+
+ Could you use this kit to make a intruder detection ?
 
 ## Questions
----
+
 
 
 ## More Information   
----
+
 

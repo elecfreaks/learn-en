@@ -2,29 +2,28 @@
 
 ![](./images/OyHm1YO.jpg)
 ## Goal
----
 
 
-- Make a Rainbow LED controlled by sound and light.
+
+ Make a Rainbow LED controlled by sound and light.
 
 ## Materials
----
 
-- 1 x Smart home Kit
-- 1 x corrugated board
+ 1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+ 1 x corrugated board
 
 ## Background
----
+
 ### What is voice-activated lights
-- Voice-activated lights LED voice-activated lights are controlled by voice, light and time delaying with sound sensor and light sensor.
+ Voice-activated lights LED voice-activated lights are controlled by voice, light and time delaying with sound sensor and light sensor.
 ### Explanation
-- The LED will not light up even it sensors sound during the day because of the light sensor lock. The light sensor lock will in standby mode while the light gets low in the evening,and the LED will up when it sensor voice.It will automatically off after a time delay. Life of voice-activated lights is six times more than common lights .It helps people avoid trouble about finding switch as well as save electricty. 
+ The LED will not light up even it sensors sound during the day because of the light sensor lock. The light sensor lock will in standby mode while the light gets low in the evening,and the LED will up when it sensor voice.It will automatically off after a time delay. Life of voice-activated lights is six times more than common lights .It helps people avoid trouble about finding switch as well as save electricty. 
 
 
 ![](./images/HbCt288.png)
 
 ## Practical operation
----
+
 Materials: corrugated board and cutter
 
 ![](./images/PuJE7uj.jpg)
@@ -39,7 +38,7 @@ Paste devices as below piture:
 
 
 ## Hardware connect
----
+
 ![](./images/j3m26Nl.png)
 
 Connect one Rainbow LED to P1 of sensorbit.
@@ -49,7 +48,7 @@ Connect sound detect device to P2.
 Connect light sensor to P3.
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 Edge Connector Data Sheet
@@ -57,7 +56,7 @@ Edge Connector Data Sheet
 We will use P3, but firstly we need disable the LED Array because it also use P3.
 
 ## Programming
----
+
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
@@ -112,20 +111,20 @@ You also could directly download program visit website as below:
 ***Note：*** The value of light intensity is base on actual environment.
 
 ## Result
----
+
 The light will never up when illumination is adequatea. However,slight noise will cause it light  10 seconds during the night.
 ![](./images/31mzhfy.jpg)
 
 ![](./images/ymeyq3M.jpg)
 
 ## Think
----
+
 How to use micro:bit make rainbow Led rather solid color light? 
 
 ## Questions
----
+
 
 
 ## More information  
----
+
 

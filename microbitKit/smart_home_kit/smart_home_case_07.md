@@ -1,37 +1,37 @@
 # case 07 smart decibel tester
 
 ## Goal
----
 
-- Make a smart decibel tester.
+
+ Make a smart decibel tester.
 
 ## Materials
----
 
-- 1 X Smart Home Kit
-- 1 X scissors
-- 1 X glue
-- 1 X white paper
-- 1 X cardboard
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+ 1 X scissors
+ 1 X glue
+ 1 X white paper
+ 1 X cardboard
 
 ## Background
----
 
-- The analog noise sensor E-Blocks can sense the outside noise signal. It is also used to sense the intensity of the DB.
-- The rainbow LED E-Blocks can change many colors. In this case, we are going to show 9 colors.
+
+ The analog noise sensor E-Blocks can sense the outside noise signal. It is also used to sense the intensity of the DB.
+ The rainbow LED E-Blocks can change many colors. In this case, we are going to show 9 colors.
 
 ### What is a "smart decibel tester". 
 
-- The rainbow LED will change its light colors according to different voice db.
+ The rainbow LED will change its light colors according to different voice db.
 
 ### Principle of a smart decibel tester
 
-- When the analog noise sensor is receiving human voice, it will send the signal to the micro:bit. The micro:bit will judge the voice intensity and the LED will show different light colors. 
+ When the analog noise sensor is receiving human voice, it will send the signal to the micro:bit. The micro:bit will judge the voice intensity and the LED will show different light colors. 
 
----
+
 
 Colors | Paremeters 
-:-: | :-: 
+:: | :: 
 Red|30db
 Orange|40db
 Yellow|50db
@@ -44,15 +44,15 @@ White|110db
 Blue|120db
 
 ## Practical Operation
----
 
-- Prepare a scissors, a bottle of glue and a piece of cardboard.
-- Stick the paper you prepared on the cardboard and clip it as you need.
+
+ Prepare a scissors, a bottle of glue and a piece of cardboard.
+ Stick the paper you prepared on the cardboard and clip it as you need.
 
 ![](./images/iNQDeE5.jpg)
 ![](./images/lPcTNho.jpg)
 
-- Set up as below：
+ Set up as below：
 
 The front side：
 
@@ -69,26 +69,26 @@ Set and stick components as below:
 
 
 ## Hardware Connect
----
+
 Connect the analog noise sensor to the P1 port of the expansion board.
 Connect the Rainbow LED to the P2 port of the expansion board.
 
 ![](./images/O4eOdnZ.jpg)
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
  
 
 ## Programming
----
+
 ### Step 1
 
-- Click "Advanced" in the makecode code drawer for more codes.
+ Click "Advanced" in the makecode code drawer for more codes.
 
 ![](./images/2qCyzQ7.png)
 
-- We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
+ We need to add a new codebase for programming of smart home. Finding “Extensions” at the bottom of code block and click it. Then a message box will show up, search “smart home"， and download this new codebase.
 
 ![](./images/OY706rv.png)
 
@@ -120,21 +120,21 @@ You also could directly download program by visiting website as below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_EseVwohUtCKo" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
 
-- Different decibel makes rainbow LED in different colors.
+
+ Different decibel makes rainbow LED in different colors.
 
 ![](./images/q2sED7W.gif)
 
 ## Think
----
+
 
 
 
 ## Questions
----
+
 
 
 ## More Information 
----
+
 

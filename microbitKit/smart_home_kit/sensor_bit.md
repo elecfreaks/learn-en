@@ -1,25 +1,28 @@
 # sensor:bit Introduction
 
 ## Introduction
----
+
 
 Sensor:bit is a breakout board based on micro:bit. It has extended all available IO ports on micro:bit, and lead out them in the form of GVS. With this board, we can extend various 3V electric brick modules like LED light, photocell, etc.. On the board, it has integrated a buzzer and an audio jack, which allows us to hear music from the buzzer or with our headphone.
 
 ![](./images/urCCzAZ.jpg)
+## Products Link
+
+[ELECFREAKS Sensor:bit](https://www.elecfreaks.com/sensor-bit-for-micro-bit-sensorbit.html)
 
 
 ## Features
----
 
-- Extend most IO ports by GVS terminal. 
-- Independently lead out IIC interface. Enable to plug in IIC components like OLED, BME280, etc..
-- Integrated a buzzer and an audio jack. 
-- Support Lego interface. 
-- Mark out each IO port with silk printing. 
+
+ Extend most IO ports by GVS terminal. 
+ Independently lead out IIC interface. Enable to plug in IIC components like OLED, BME280, etc..
+ Integrated a buzzer and an audio jack. 
+ Support Lego interface. 
+ Mark out each IO port with silk printing. 
 
 
 ## Parameters
----
+
 
 ![](./images/vfejZke.png)
 
@@ -29,12 +32,12 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 
 
 ## Definition of Pins 
----
+
 
 ![](./images/GyigPRt.png)
 
 ## Introduction of Major Components
----
+
 
 ### Audio Jack
 
@@ -72,7 +75,7 @@ This a USB connection for power-supply.
 
 
 ## Quick Start
----
+
 
 ### Hardware Assembly 
 
@@ -97,7 +100,7 @@ Press button A on micro:bit, the buzzer starts to play music. Plug in your headp
 
 
 ## FAQ
----
+
 
 
 

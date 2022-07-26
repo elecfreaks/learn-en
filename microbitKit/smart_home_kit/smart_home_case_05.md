@@ -2,35 +2,35 @@
 
 ![](./images/ll8HfKH.jpg)
 ## Goal
----
 
 
-- Make a water level alarming.
+
+ Make a water level alarming.
 
 ## Materials
----
 
-- 1 x Smart home Kit
-- 1 x tank
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+ 1 x tank
 
 ## Background
----
+
 ### What is water level alarming 
-- We can't live without water, but much water will cause flood. Water level alarming can detect water level, micro:bit will received signals when the water level over security line and control lift pump to pumping.
+ We can't live without water, but much water will cause flood. Water level alarming can detect water level, micro:bit will received signals when the water level over security line and control lift pump to pumping.
 
 ### Water level alarming operation
-- When micro：bit received signal of soil moisture sensor,relay will drive and supply power to lift pump for pumping redundant water.
+ When micro：bit received signal of soil moisture sensor,relay will drive and supply power to lift pump for pumping redundant water.
 
 ![](./images/OsjzuWx.png)
 
 ## Practical operation
----
+
 Preparing a tank and paste devices as below piture:
 
 ![](./images/ztW3W42.jpg)
 
 ## Hardware connect
----
+
 
 ![](./images/LRBAV68.png)
 
@@ -42,7 +42,7 @@ While connecting the cables with the Relay, please use screwdrivers to loosen th
 
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 Edge Connector Data Sheet
@@ -50,7 +50,7 @@ Edge Connector Data Sheet
 
 
 ## Programming
----
+
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
@@ -88,7 +88,7 @@ You also could directly download program visit website as below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_9KqHhp1J45ho" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 When the water level over security line,micro:bit will control lift pump to pumping.
 
 Pumping:
@@ -100,13 +100,13 @@ Stop pumping:
 ![](./images/hPf3xtQ.jpg)
 
 ## Think
----
+
 How to use micro:bit control water level in fish tank ?
 
 ## Questions
----
+
 
 
 ## More information  
----
+
 

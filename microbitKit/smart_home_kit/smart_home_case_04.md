@@ -2,29 +2,29 @@
 
 ![](./images/1BOixPA.jpg)
 ## Goal
----
 
 
-- Make an auto window.
+
+ Make an auto window.
 
 ## Materials
----
 
-- 1 x Smart home Kit
-- 1 x corrugated board
+
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+ 1 x corrugated board
 
 ## Background
----
+
 ### What is an auto window ? 
--  Noise pollution is a common problem in our life. When the value of noise higher than 70dB, it is will impact our health. We will design a smart window and door using micro:bit.
+  Noise pollution is a common problem in our life. When the value of noise higher than 70dB, it is will impact our health. We will design a smart window and door using micro:bit.
 
 ### Auto window operation
-- Using micro:bit detect wether the the value of noise higher than 70dB and control servo to closing the door and the window.
+ Using micro:bit detect wether the the value of noise higher than 70dB and control servo to closing the door and the window.
 
 ![](./images/g674G7D.png)
 
 ## Practical operation
----
+
 Materials: corrugated board and cutter
 
 ![](./images/PuJE7uj.jpg)
@@ -45,7 +45,7 @@ Paste devices as below piture:
 
 
 ## Hardware connect
----
+
 ![](./images/hOlsKaR.png)
 
 
@@ -54,7 +54,7 @@ Paste devices as below piture:
 
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 Edge Connector Data Sheet
@@ -62,7 +62,7 @@ Edge Connector Data Sheet
 
 
 ## Programming
----
+
 ### Step 1
 Go to MakeCode page, click Advanced in the code block and click on Extensions.
 
@@ -107,7 +107,7 @@ You also could directly download program visit website as below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Trh6x75hYcAT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ## Result
----
+
 micro:bit driving servo open the window when value of noise > 70dB.
 
 Front side：
@@ -117,13 +117,13 @@ Back side：
 ![](./images/rGIkINB.jpg)
 
 ## Think
----
+
 How to know wether open the window on room temperature.
 
 ## Questions
----
+
 
 
 ## More information   
----
+
 
