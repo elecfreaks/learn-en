@@ -1,7 +1,7 @@
 # Case 06: Trebuchet
 
 ## Purpose
----
+
 
 To build a trebuchet.
 
@@ -11,10 +11,13 @@ To build a trebuchet.
 ![](./images/Ringbit_Bricks_Pack_case_en_06_01.png)
 
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
 
 
 ## Materials
----
+
 
 
 
@@ -24,10 +27,10 @@ To build a trebuchet.
 
 
 ## Background Knowledge
----
+
 
 ## Bricks build-up
----
+
 
 
 
@@ -133,12 +136,12 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 ## Software
----
+
 
 [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 ## Code
----
+
 
 ### Step 1
  Click "Advanced" in the MakeCode drawer to see more choices.
@@ -189,12 +192,12 @@ While button A being pressed, the trebuchet executes the launch order and will r
 
 ## Exploration
 
----
+
 
 ## FAQ
 
----
+
 
 ## Relevant File 
 
----
+

@@ -2,20 +2,23 @@
 
 
 ## Purpose
----
 
-- Build a car with the ring:bit bricks pack and control it via the Joystick:bit. 
+
+ Build a car with the ring:bit bricks pack and control it via the Joystick:bit. 
 
 
 ![](./images/Ringbit_Bricks_Pack_case_02_01.png)
 
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
 
 
 
 
 ##  Material
----
+
 
 Ring:bit Bricks pack × 1
 
@@ -27,20 +30,20 @@ Joystick:bit × 1
 
 
 ## Bricks build-up
----
+
 
 Please refer to [Case 02 for Ring:bit bricks pack wiki](https://www.elecfreaks.com/learn-cn/microbitKit/ring_bit_bricks_pack/ringbit_bricks_pack_case_02.html#ring-bit02/#)
 
 
 
 ## Software
----
+
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming 
 
----
+
 
 ### Step 1
 
@@ -138,9 +141,9 @@ The Joystick:bit is able to control the movement of the car.
 
 
 ## Exploration
----
+
 
 ## FAQ
----
+
 ## Relevant File
----
+

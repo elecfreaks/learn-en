@@ -1,17 +1,20 @@
 # Case 04：Smart Desk Lamp
 ## Purpose
----
 
-- To build a desk lamp.
+
+ To build a desk lamp.
 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_04_01.png)
 
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
 
 
 ## Materials
----
+
 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_04_02.png)
@@ -21,10 +24,10 @@
 
 
 ## Background Knowledge 
----
+
 
 ## Bricks build-up
----
+
 
 ![](./images/Ringbit_Bricks_Pack_step_04_01.png)
 
@@ -64,12 +67,12 @@ A detailed assembly instruction can be downloaded via the below links:
 [Githubdownload ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_04_v1.1.pdf)
 
 ## Software
----
+
 
 [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 ## Code
----
+
 
 ### Step 1
   Click "Advanced" in the MakeCode drawer to see more choices.
@@ -130,15 +133,15 @@ It lights on automatically while the surrounding light is low and lights off whe
 
 ## Exploration
 
----
+
 
 ## FAQ
 
----
+
 
 ## Relevant File 
 
----
+
 In 1854, the German watchmaker Henry Gobert immigrated to the United States made the first practical electric lamp with a carbonized bamboo wire placed in a vacuum glass bottle, which lasted for 400 hours. But he didn't apply for a patent in time. 
 
 In 1860, the Englishman Joseph Swan also made a carbon wire electric lamp, but he failed to obtain a good vacuum environment to keep the carbon wire working for a long time. It was not until 1878 that vacuum technology in the United Kingdom developed to a desirable level, and he invented a light bulb powered by carbon wire under vacuum, and obtained a British patent. Swan's own house was Britain's first private house with electric lighting.

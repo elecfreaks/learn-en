@@ -1,17 +1,20 @@
 # Case 05: Wipers
 
 ## Purpose 
----
 
-- To build a wiper.
+
+ To build a wiper.
 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_05_01.png)
 
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
 
 ## Materials 
----
+
 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_05_02.png)
@@ -19,10 +22,10 @@
 
 
 ## Background Knowledge
----
+
 
 ## Bricks build-up
----
+
 
 ![](./images/Ringbit_Bricks_Pack_step_05_01.png)
 
@@ -73,12 +76,12 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 ## Software
----
+
 
 [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 ## Code
----
+
 
 ### Step 1
 Click "Advanced" in the MakeCode drawer to see more choices.
@@ -129,15 +132,15 @@ When button A being pressed, the wiper begins working; while buton B being press
 
 ## Exploration
 
----
+
 
 ## FAQ
 
----
+
 
 ## Relevant File 
 
----
+
 Parallelogram mechanism: the two cranks as well as the connecting rod and frame are equal in length, their rotation speed and direction are in consistent. 
 
 Reciprocating motion: back and forth on both sides near a certain position.

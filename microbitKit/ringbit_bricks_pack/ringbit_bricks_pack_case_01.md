@@ -1,20 +1,23 @@
 # Case 01: Traffic Lights
 
 ## Purpose
----
 
-- To build a traffic light.
+
+ To build a traffic light.
 
 
 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_01_01.png)
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
 
 
 
 ## Materials
----
+
 
 
 
@@ -24,10 +27,10 @@
 
 
 ## Background Knowledge
----
+
 
 ## Bricks build-up
----
+
 
 
 ![](./images/Ringbit_Bricks_Pack_step_01_01.png)
@@ -62,14 +65,14 @@ A detailed assembly instruction can be downloaded via the below links:
 [Github download ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_01_v1.1.pdf)
 
 ## Software
----
+
 
 
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 
 ### Step 1
  Click "Advanced" in the MakeCode drawer to see more choices.
@@ -149,13 +152,13 @@ You can also download it directly below:
 When power on, the red LED lights on for 3 seconds, then the yellow led in 1 second and the green one in 3 seconds at last. 
 
 ## Exploration
----
+
 
 ## FAQ
----
+
 ## Relevant File
----
-On December 10th, 1868, the first signal light was born in the square of the London House of Parliament. It was designed and manufactured by the British mechanic De Hart. The lamp post is 7 meters high with a red and green lantern hanging there --Gas traffic signal light (the color of the light is controlled manually by the police on duty), this is the first signal light in the street. Unfortunately, the gas traffic light suddenly exploded killing a police officer on duty on the lamp's twenty-third birth day. The city's traffic lights have been banned since then.
+
+On December 10th, 1868, the first signal light was born in the square of the London House of Parliament. It was designed and manufactured by the British mechanic De Hart. The lamp post is 7 meters high with a red and green lantern hanging there -Gas traffic signal light (the color of the light is controlled manually by the police on duty), this is the first signal light in the street. Unfortunately, the gas traffic light suddenly exploded killing a police officer on duty on the lamp's twenty-third birth day. The city's traffic lights have been banned since then.
 
 It was not until 1914 that the city of Cleveland took the lead in restoring traffic lights (electrical signals).
 

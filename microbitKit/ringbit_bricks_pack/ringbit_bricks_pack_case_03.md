@@ -1,7 +1,7 @@
 # Case 03：Temperature-controlled Fans
 
 ## Purpose
----
+
 
 To build a fan that is controlled by the temperature. 
 
@@ -11,9 +11,13 @@ To build a fan that is controlled by the temperature.
 
 
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
+
 
 ## Materials
----
+
 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_03_02.png)
@@ -22,11 +26,11 @@ To build a fan that is controlled by the temperature.
 
 
 ## Background Knowledge 
----
+
 
 
 ## Bricks build-up
----
+
 
 ![](./images/Ringbit_Bricks_Pack_step_03_01.png)
 
@@ -77,12 +81,12 @@ A detailed assembly instruction can be downloaded via the below links:
 
 
 ## Software
----
+
 
 [MicroSoftmakecode](https://makecode.microbit.org/#)
 
 ## Programming
----
+
 
 ### Step 1
 
@@ -132,15 +136,15 @@ When the value is over 28 degrees, the fan turns;  while less than 26 degrees, t
 
 ## Exploration
 
----
+
 
 ## FAQ
 
----
+
 
 ## Relevant File  
 
----
+
 The mechanical fan originates on the roof. In 1829, an American named James Byron was inspired by the structure of the clock and invented a mechanical fan that can be fixed to the ceiling and driven by a clockwork. The cool breeze brought by the fan makes people happy, but it is troublesome to climb up the ladder to wind up. 
 
 In 1872, a Frenchman named Joseph developed a mechanical fan that was started by a wind turbine and driven by a gear and chain device. This fan was much more refined than the mechanical fan invented by Byron and was more convenient to use.

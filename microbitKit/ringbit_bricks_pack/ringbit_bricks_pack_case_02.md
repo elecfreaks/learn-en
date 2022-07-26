@@ -1,19 +1,22 @@
 # Case 02: Bricks Car
 
 ## Purpose
----
 
-- To build a car with the bricks in the kit. 
+
+ To build a car with the bricks in the kit. 
 
 ![](./images/Ringbit_Bricks_Pack_case_en_02_01.png)
 
 
+## Products Link
+
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
 
 
 
 
 ## Materials
----
+
 
 
 
@@ -22,11 +25,11 @@
 
 
 ## Background Knowledge
----
+
 
 
 ## Bricks build-up
----
+
 
 
 
@@ -71,13 +74,13 @@ A detailed assembly instruction can be downloaded via the below links:
 [Githubdownload ](https://github.com/elecfreaks/learn-cn/raw/master/microbitKit/ring_bit_bricks_pack/files/Ringbit_Bricks_Pack_step_02_v1.1.pdf)
 
 ## Software
----
+
 
 [MicroSoft makecode](https://makecode.microbit.org/#)
 
 ## Programming
 
----
+
 
 ### Step 1
 
@@ -140,12 +143,12 @@ While pressing button A+B, the car moves at the full speed; button A for turning
 
 
 ## Exploration
----
+
 
 ## FAQ
----
+
 ## Relevant File
----
+
 In 1769, the Frenchman N.J. Guinou built the world's first steam-powered three-wheeler, which was named "Capo Oré".The world's first car was successfully developed by the German Carl Benz in October 1885. It gives a basic structure for the cars, and even the present cars can't jump out of this box. He applied to the German Patent Office for a patent for an automobile invention on January 29th, 1886, and was officially approved for publication on November 2rd of the same year. Therefore, January 29th, 1886 is recognized as the world's auto birthday, that patent certificate also becomes the world's first automobile patent. 
 
 In 1885, the German Gottlieb Daimler invented the first four-wheeler. Benz and Daimler are people recognized as the inventor of an internal combustion engine-powered car, their inventions were the most important milestone in the history of the car, both of them are therefore world known as the "father of the automobile."
