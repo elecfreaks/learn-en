@@ -1,12 +1,12 @@
 # Assemble the hardware
 
-### Step 1
+## Step 1
 
 - Attach the micro:bit to the Ring:bit expansion board using the short flat head screws.
 
 ![](./images/microbit-xgo-robot-kit-17.png)
 
-### Step 2
+## Step 2
 
 - Use the longer flat head screws to fasten the seven-hole beam to the corresponding screw holes on the XGO.
 
@@ -14,25 +14,25 @@
 
 ![](./images/microbit-xgo-robot-kit-19.png)
 
-### Step 3
+## Step 3
 
 - Mount the Ring:bit expansion board with the micro:bit installed on the seven-hole beam using the long pins.
 
 ![](./images/microbit-xgo-robot-kit-20.png)
 
-### Step 4
+## Step 4
 
 -  Connect the DuPont cable reserved by XGO to the corresponding port of the Ring:bit, among which the black DuPont cable is connected to the G port, and the yellow DuPont cable and the blue DuPont cable are connected to the No. 1 and No. 2 ports. Select the appropriate port number.
 
 ![](./images/microbit-xgo-robot-kit-21.png)
 
-### Step 5
+## Step 5
 
 - Connect your computer to the micro:bit with a USB cable：
 
 ![](./images/microbit-xgo-robot-kit-22.png)
 
-## Start Program
+### Start Program
 
 The programming of XGO is done on the [Makecode](https://makecode.microbit.org/#) platform; the Makecode platform can use graphical programming, as well as python code programming and JavaScript code programming;
 
