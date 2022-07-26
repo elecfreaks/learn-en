@@ -1,8 +1,5 @@
 # Calibrate XGO with the Standards
 
-![](./images/xgo-app.png)
-
-
 
 Hello, you may find that XGO could deviate from the standard movements we have set. This is because the servos would be inaccurate after a long time of operation. Under such a circumstance, we need to calibrate it with the standards, now let's try with the following steps.
 
