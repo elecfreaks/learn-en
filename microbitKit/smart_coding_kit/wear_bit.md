@@ -1,7 +1,7 @@
 # Wear:bit
 
 ## Introduction
----
+
 Wear:bit button panel Pro is a mini extension board in small size. 
 
 It can give power to the micro:bit and is loaded with buzzer which can be used with our watch strap and the micro:bit. The breakthroughs are: 
@@ -13,28 +13,33 @@ Maintain a simple style with 3-pin ports canceled.
 Upgrade the function by adding a switch for the buzzer.
 
 ## Characteristic
----
 
-- Powered by two 3V CR2025 lithium batteries.
-- Loaded with a buzzer that is controlled through P0 port.
-- Loaded with a buzzer switch.
-- It can be used with the watch strap and the micro:bit.
+
+ Powered by two 3V CR2025 lithium batteries.
+ Loaded with a buzzer that is controlled through P0 port.
+ Loaded with a buzzer switch.
+ It can be used with the watch strap and the micro:bit.
+
+## Products Link
+
+[ELECFREAKS micro:bit Smart Coding Watch Kit](https://www.elecfreaks.com/micro-bit-smart-coding-kit.html)
+
 
 ## Outlook and Dimension
----
+
 ![](./images/wear_bit_00.jpg)
 
 ## Parameter
----
-- Name: Wear:bit
-- Version: V1.0
-- Working Voltage: 2.7~3.3V
-- Buzzer: Support
-- Size: 49.1x51.6mm
-- Net Weight:12.7g
+
+ Name: Wear:bit
+ Version: V1.0
+ Working Voltage: 2.7~3.3V
+ Buzzer: Support
+ Size: 49.1x51.6mm
+ Net Weight:12.7g
 
 ## Introduction to Main Modules
----
+
 
 ### Power Switch
 
@@ -57,7 +62,7 @@ The buzzer is controlled through P0 port that can play music. The switch powers 
 
 
 ## Quick to Start 
----
+
 
 ### Hardware Connection
 
@@ -93,4 +98,4 @@ You can also download it below:
 A flash heart pattern is showing on the micro:bit.
 
 ## FAQ
----
+
