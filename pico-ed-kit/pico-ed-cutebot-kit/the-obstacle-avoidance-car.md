@@ -1,7 +1,7 @@
 # Case 07: The Obstacle Avoidance Car
 
 ## Introduction
-Make [Cutebot ](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-without-pico-ed-board.html) drive forward and turn automatically when it meets an obstacle.
+Make [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board.html) drive forward and turn automatically when it meets an obstacle.
 ## Hardware Installation
 Insert the ultrasonic sensor into the connector of **Sonar**.
 **Note: When you install the ultrasonic sensor, you cannot plug it into the IIC interface. If you plug it into the IIC interface, the Cutebot won't work and the ultrasonic sensor heats up. **

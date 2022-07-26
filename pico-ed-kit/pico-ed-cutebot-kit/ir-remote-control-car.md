@@ -1,7 +1,7 @@
 # Case 08: IR Remote Control Car
 
 ## Introduction
-Control [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-without-pico-ed-board.html)  to drive by remote control.
+Control [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board.html)  to drive by remote control.
 ## Programming Preparation
 Please refer to：[Preparing Programming Environment](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
 ##  Infrared remote control key value table

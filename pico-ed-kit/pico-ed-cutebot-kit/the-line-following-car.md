@@ -1,7 +1,7 @@
 # Case 06: The Line-following Car
 
 ## Introduction
-Make [Cutebot ](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-without-pico-ed-board.html)drive along the black line.
+Make [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-without-pico-ed-board.html)drive along the black line.
 ## Programming Preparation
 Please refer to: [Preparing Programming Environment](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
 ## Sample code
