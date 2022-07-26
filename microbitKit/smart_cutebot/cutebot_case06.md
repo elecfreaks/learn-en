@@ -35,7 +35,7 @@
 
 ### Step 3
 
-- Drag the `repeat` brick to `on button A pressed` brick, set the color of the right clearance lamp in yellow and the right LED in yellow(Controlled by RGB), then pause 500ms and turn off the clearance lamp and LED on the left side to complete the first flashing.
+- Drag the `repeat` brick to `on button A pressed` brick, set the color of the right clearance lamp in yellow and the right LED in yellow(Controlled by RGB), then pause 500ms and turn off the clearance lamp and LED on the right side to complete the first flashing.
 
 ![](./images/case_06_02.png)
 
