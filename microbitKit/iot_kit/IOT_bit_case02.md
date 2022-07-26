@@ -1,28 +1,27 @@
 # iot:kit case02: Environmental noise detection
 
 ## Our goal
----
 
--  Let's make an environmental noise detection. 
+
+  Let's make an environmental noise detection. 
 
 
 ## Required materials 
----
 
-- 1 x IOT:kit [https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
 
+ 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
 
 ## Background
----
+
 
 ### What is the environmental noise?
 
-- Environmental noise is the summary of noise pollution from outside, caused by transport, industrial and recreational activities.Noise is frequently described as 'unwanted sound', and, within this context, environmental noise is generally present in some form in all areas of human, animal, or environmental activity. The effects in humans of exposure to environmental noise may vary from emotional to physiological and psychological.
+ Environmental noise is the summary of noise pollution from outside, caused by transport, industrial and recreational activities.Noise is frequently described as 'unwanted sound', and, within this context, environmental noise is generally present in some form in all areas of human, animal, or environmental activity. The effects in humans of exposure to environmental noise may vary from emotional to physiological and psychological.
 
 
 
 ## Hardware connection
----
+
 
 As below picture, let the noise sensor be connected to `P1`.
 
@@ -34,19 +33,19 @@ Let the onboard RTC be connected to `IIC` Bus.
 
 
 ## Software
----
+
 
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 
 ### Step 1
-- Click on "Advanced" in the MakeCode Drawer to see more code sections.
+ Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
 ![](./images/iot_bit_11.jpg)
 
-- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
+ We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
 ![](./images/iot_bit_12.jpg)
 
@@ -88,7 +87,7 @@ Program link：[https://makecode.microbit.org/_2jvctXPa0heW](https://makecode.mi
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2jvctXPa0heW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2jvctXPa0heW" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 ### Result
@@ -97,16 +96,16 @@ The noise db be displayed every second.
 
 
 ## Think 
----
+
 
 How can you count the average noise db in a minute?
 
 
 ## Questions
----
+
 
 
 ## More Information  
----
+
 
  

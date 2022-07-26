@@ -1,28 +1,28 @@
 # iot:kit case01:Air quality monitoring
 
 ## Our goal
----
 
-- Let's make an air quality monitoring.
+
+ Let's make an air quality monitoring.
 
 
 ## Required materials 
----
 
-- 1 x IOT:kit [https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
+
+ 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
 
 
 ## Background
----
+
 
 ### What is the IOT
 
-- [IoT](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%81%B2%E6%B3%A2) The Internet of things (IoT) is the network of devices such as vehicles, and home appliances that contain electronics, software, sensors, actuators, and connectivity which allows these things to connect, interact and exchange data.The IoT involves extending Internet connectivity beyond standard devices, such as desktops, laptops, smartphones and tablets, to any range of traditionally dumb or non-internet-enabled physical devices and everyday objects. Embedded with technology, these devices can communicate and interact over the Internet, and they can be remotely monitored and controlled.
+ [IoT](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%81%B2%E6%B3%A2) The Internet of things (IoT) is the network of devices such as vehicles, and home appliances that contain electronics, software, sensors, actuators, and connectivity which allows these things to connect, interact and exchange data.The IoT involves extending Internet connectivity beyond standard devices, such as desktops, laptops, smartphones and tablets, to any range of traditionally dumb or noninternetenabled physical devices and everyday objects. Embedded with technology, these devices can communicate and interact over the Internet, and they can be remotely monitored and controlled.
 
 ![](./images/case_01_01.png)
 
 ## Hardware connection
----
+
 
 As below picture, connect `LED IN` of the dust sensor to `P9` and `OUT` to `P10`.
 
@@ -32,20 +32,20 @@ Connect the OLED screen to the `IIC` interface.
 
 
 ## Software
----
+
 
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 
 ### Step 1
-- Click on "Advanced" in the MakeCode Drawer to see more code sections.
+ Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
 
 ![](./images/iot_bit_11.jpg)
 
-- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
+ We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
 
 ![](./images/iot_bit_12.jpg)
@@ -76,7 +76,7 @@ Program link：[https://makecode.microbit.org/_YFCE0bc7vbVC](https://makecode.mi
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YFCE0bc7vbVC" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_YFCE0bc7vbVC" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 ### Result
@@ -86,16 +86,16 @@ The dust particle number will be displayed every minute.
 
 
 ## Think 
----
+
 
 How do you do to make it alarm when the air is in bad quality? 
 
 
 ## Questions
----
+
 
 
 ## More Information  
----
+
 
  

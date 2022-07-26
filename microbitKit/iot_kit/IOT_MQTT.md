@@ -4,8 +4,13 @@ HiveMQ is an MQTT broker and client-based messaging platform designed to move da
 
 Website: [https://www.hivemq.com/](https://www.hivemq.com/)
 
+## Required materials 
+
+
+ 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
+
 ## Register
----
+
 Click the "Cloud" button on the page. 
 
 ![](./images/IOT_HiveMQ_01.png)
@@ -25,7 +30,7 @@ Requirements of the passwords.
 Following the guide to complete the registration. 
 
 ## Operation Guide
----
+
 After registration, go to: https://www.hivemq.com/mqtt-cloud-broker/
 Choose "Sigh up now".
 
@@ -138,7 +143,7 @@ Link: [https://makecode.microbit.org/_2Ys7uE8F7Dr8](https://makecode.microbit.or
 
 
 ## FAQ
----
+
 Q: How to judge if the current IoT:bit supports MQTT? 
 A: Please refer to the version number printed on the back of the IoT:bit, only V1.6 supports MQTT, V1.4 and the former are not availble for MQTT.
 

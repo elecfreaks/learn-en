@@ -1,27 +1,27 @@
 # iot:kit case05: A self defense monitoring station
 
 ## Our goal
----
-
-- Let's make a self defense monitoring station. 
 
 
-## Required materials
----
+ Let's make a self defense monitoring station. 
 
-- 1 x IOT:kit  [IOT:kit:https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
+
+## Required materials 
+
+
+ 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
 
 
 ## Background
----
+
 
 ### What is self defense? 
 
-- You need to set a self defense device when your environmental monitor station is out of doors to prevent device damage and to warn people keep away from this device.                     
+ You need to set a self defense device when your environmental monitor station is out of doors to prevent device damage and to warn people keep away from this device.                     
 
 
 ## Hardware connection
----
+
 
 As below picture, let the ultrasonic module be connected to `P1`.
 
@@ -32,19 +32,19 @@ Let the onboard buzzer be connected to `P0`.
 ![](./images/case_05_01.png)
 
 ## Software
----
+
 
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 
 ### Step 1
-- Click on "Advanced" in the MakeCode Drawer to see more code sections.
+ Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
 ![](./images/iot_bit_11.jpg)
 
-- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
+ We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
 ![](./images/iot_bit_12.jpg)
 
@@ -68,7 +68,7 @@ Program link：[https://makecode.microbit.org/_05sYuyciH93g](https://makecode.mi
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_05sYuyciH93g" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_05sYuyciH93g" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 ### Result
@@ -76,10 +76,10 @@ If you don't want to type these code by yourself, you can directly download the 
 It will play a remind sound when detecting creatures approching in a near distance.
 
 ## Think
----
+
 
 ## Questions
----
+
 
 ## More Information
----
+

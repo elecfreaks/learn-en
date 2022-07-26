@@ -1,27 +1,27 @@
 # iot:kit case04: An automatic irrigation detection
 
 ## Our goal
----
 
-- Let's make an automatic irrigation detection.
+
+ Let's make an automatic irrigation detection.
 
 
 ## Required materials 
----
 
-- 1 x IOT:kit [IOT:kit:https://www.elecfreaks.com/store](https://www.elecfreaks.com/store/micro-bit-smart-science-iot-kit-with-micro-bit.html)
+
+ 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
 
 
 ## Background
----
+
 
 ### What is the automatic irrigation detection 
 
 
-- automatic irrigation detection An automated irrigation system refers to the operation of the system with no or just a minimum of manual intervention beside the surveillance. Almost every system (drip, sprinkler, surface) can be automated with help of timers, sensors or computers or mechanical appliances. It makes the irrigation process more efficient and workers can concentrate on other important farming tasks. On the other hand, such a system can be expensive and very complex in its design and may needs experts to plan and implement it.
+ automatic irrigation detection An automated irrigation system refers to the operation of the system with no or just a minimum of manual intervention beside the surveillance. Almost every system (drip, sprinkler, surface) can be automated with help of timers, sensors or computers or mechanical appliances. It makes the irrigation process more efficient and workers can concentrate on other important farming tasks. On the other hand, such a system can be expensive and very complex in its design and may needs experts to plan and implement it.
 
 ## Hardware connection
----
+
 
 As below picture, let the soil moisture sensor be connected to `P1`.
 
@@ -32,19 +32,19 @@ Let the 180° servo be connected to `P10`.
 ![](./images/case_04_01.png)
 
 ## Software
----
+
 
 [makecode](https://makecode.microbit.org/#)
 
 ## Coding
----
+
 
 ### Step 1
-- Click on "Advanced" in the MakeCode Drawer to see more code sections.
+ Click on "Advanced" in the MakeCode Drawer to see more code sections.
 
 ![](./images/iot_bit_11.jpg)
 
-- We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
+ We need to add an extension for coding to the IOT. Click on the “Extension” at bottom of coding drawer, then Search for “IOT” and click on the IOT package to add it to your project. (As below picture) 
 
 ![](./images/iot_bit_12.jpg)
 
@@ -84,17 +84,17 @@ Program link：[https://makecode.microbit.org/_dxTF0K1be0w0](https://makecode.mi
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_dxTF0K1be0w0" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_dxTF0K1be0w0" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 ### Result
 
 
 ## Think
----
+
 
 ## Questions
----
+
 
 ## More Information 
----
+
