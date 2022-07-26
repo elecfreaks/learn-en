@@ -1,38 +1,35 @@
 # case 04 Show Box for Stickers 
 
 ## Goal
----
 
-- Make a show box for stickers you like.
 
-## Materials
----
+ Make a show box for stickers you like.
 
-- 1 x Servo
-- 1 x Cardboard
-- 1 x Hot melt glue gun
-- 1 x Scissors
-- 1 x Handmade knife
-- 1 x Crash sensor
-- 1 x Batteries pack
-- 1 x basic kit board
+## Material
+
+1 x [basic kit](https://www.elecfreaks.com/micro-bit-basic-kit.html)
+ 1 x Cardboard
+ 1 x Hot melt glue gun
+ 1 x Scissors
+ 1 x Handmade knife
+
 
 
 ## Background 
----
+
 ### What is a show box for your stickers?
 
-- Do you want to show your lovely stickers to others ? Let's make a show box for stickers.
+ Do you want to show your lovely stickers to others ? Let's make a show box for stickers.
 
 
 ### How does it work?
 
-- When micro:bit is received signal detected by crash sensor by basic:kit board, the servo turns and the door of show box opens.
+ When micro:bit is received signal detected by crash sensor by basic:kit board, the servo turns and the door of show box opens.
 
 
 
 ## Practical operation
----
+
 Prepare a handmade knife, a hot melt glue gun, a scissors and a piece of cardboard.
 
 ![](./images/PuJE7uj.jpg)
@@ -67,8 +64,8 @@ Thread wires through the hole of front side.
 ![](./images/8qVyDfP.jpg)
 
 ## Hardware connect
----
--  Connect servo to P1, crash sensor to P2 and battaries pack to micro:bit. (as below) 
+
+  Connect servo to P1, crash sensor to P2 and battaries pack to micro:bit. (as below) 
 
 ![](./images/ENM9JdP.jpg)
 
@@ -79,7 +76,7 @@ Thread wires through the hole of front side.
 
 ## Software
 
----
+
 [makecode](https://makecode.microbit.org/#)
 
 
@@ -87,7 +84,7 @@ Thread wires through the hole of front side.
 
 
 ## Programming
----
+
 ### Step 1
 
 Under "on start"，set pull pin P2 to up to keep signal stable. Set servo write pin P1 to 180, then the sticker board is at rest.
@@ -123,22 +120,22 @@ Please refer to detail programming：[https://makecode.microbit.org/_0JmTbLKuXA8
 
 You also could directly download program visit website as below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0JmTbLKuXA8s" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0JmTbLKuXA8s" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 ## Result
----
+
 Press the crash module, your stickers begins to moving.
 
 ![](./images/ZqjLRFB.gif)
 
 ## Think
----
+
 How to show more stickers to your friends？
 
 ## Questions
----
+
 
 
 ## More Information  
----
+
 

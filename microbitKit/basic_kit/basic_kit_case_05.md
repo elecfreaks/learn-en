@@ -1,36 +1,33 @@
 # case 05 Shock Box 
 
 ## Goal
----
 
-- Make a shock box.
 
-## Materials
----
+ Make a shock box.
 
-- 1 x Servo
-- 1 x Cardboard
-- 1 x Hot melt glue gun
-- 1 x Scissors
-- 1 x Handmade knife
-- 1 x Crash sensor
-- 1 x Batteries pack
-- 1 x basic kit board (Basic:bit)
+## Material
+
+1 x [basic kit](https://www.elecfreaks.com/micro-bit-basic-kit.html)
+ 1 x Cardboard
+ 1 x Hot melt glue gun
+ 1 x Scissors
+ 1 x Handmade knife
+
 
 
 ## Background
----
+
 ### What is a shock box ?
 
-- Want to be special? Let's make a shock box and you will find more when you turn off the light.
+ Want to be special? Let's make a shock box and you will find more when you turn off the light.
 
 ### How does it work?
 
-- When micro:bit is received signal detected by crash sensor by basic:kit board, the servo turns and the shock box turns and shows different faces.
+ When micro:bit is received signal detected by crash sensor by basic:kit board, the servo turns and the shock box turns and shows different faces.
 
 
 ## Practical operation
----
+
 Prepare a handmade knife, a hot melt glue gun, a scissors and a piece of cardboard.
 
 ![](./images/5fTCOyS.jpg)
@@ -66,7 +63,7 @@ Set and stick components as below.
 
 
 ## Hardware connect
----
+
 
 
 Connect small LED to P0, servo ro P1, crash sensor to P2 and battaries pack to micro:bit. (as below) 
@@ -78,7 +75,7 @@ Please note the swith of basic:bit should at P0.
 
 
 ## Software
----
+
 [makecode](https://makecode.microbit.org/#)
 
 
@@ -86,7 +83,7 @@ Please note the swith of basic:bit should at P0.
 
 
 ## Programming
----
+
 ### Step 1
 
 Under "on start"，set pull pin P2 to up to keep signal stable. Set servo write pin P1 to 180, then the sticker board is at rest.
@@ -122,22 +119,22 @@ Please refer to detail programming：[https://makecode.microbit.org/_M9M33fRYo9K
 
 You also could directly download program visit website as below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_M9M33fRYo9KY" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_M9M33fRYo9KY" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 ## Result
----
+
 Press the crash module, the box turns and shows different faces
 
 ![](./images/g0CMLx6.gif)
 
 ## Think
----
+
 How to make the faces box turns face by face ?
 
 ## Questions
----
+
 
 
 ## More Information   
----
+
 

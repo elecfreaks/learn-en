@@ -27,7 +27,7 @@ Basic:bit is a basic breakout board of micro:bit. It carries a buzzer and three 
 ## Packing List  
 ---
 
-- 1 x basic:bit
+- 1 x [basic:bit](https://www.elecfreaks.com/basic-bit-for-micro-bit-three-way-i-o-expansion-mini-version.html)
 - 7 x screws（5 is enough）
 
 
@@ -37,7 +37,7 @@ Basic:bit is a basic breakout board of micro:bit. It carries a buzzer and three 
 ### Material Needed:  
 
 - 1 x micro:bit
-- 1 x basic:bit
+- 1 x [basic:bit](https://www.elecfreaks.com/basic-bit-for-micro-bit-three-way-i-o-expansion-mini-version.html)
 - 1 x Octopus LED Module
 - 1 x USB Cable
 - 1 x GVS wire（Or Jumper Wire)
