@@ -4,10 +4,14 @@
 
 ![](./images/straw-manipulator-26.gif)
 
+## Products Link
+
+[wukong manipulator kit](https://www.elecfreaks.com/wukong-manipulator-kit.html)
+[elecfreaks smart ai lens kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
 
 
 ## Introduction
----
+
 In this project we need to use the AI Lens kit and the Wukong Manipulator kit, and the manipulator will make different hand gestures in response to the different colors of the balls that are detected by the AI Lens. 
 
 The AI Lens is able to achieve the functions of face recognition, balls tracking, cards recognition, line tracking, color recognition and characteristics acquisition.
@@ -15,14 +19,14 @@ The AI Lens is able to achieve the functions of face recognition, balls tracking
 For more information please go to the wiki page of the AI Lens: [AI Lens Kit file](https://elecfreaks.com/learn-en/microbitplanetX/ai/Plant_X_EF05035.html).
 
 ## Materials Required
----
+
 
 
 ![](./images/straw-manipulator-08-1.png)
 
 
 ## Assembly
----
+
 Ⅰ. Assembly of the staws manipulator: 
 Please refer to: [Staw manipulator](./How-to-use-the-microbit-to-control-the-straw-manipulator.md)
 
@@ -45,13 +49,13 @@ d. Connect the AI Lens with cables of the RJ11  connector to Dupont as the pictu
 ![](./images/straw-manipulator-30.png)
 
 ## Programming
----
+
 Go to  [Makecode](https://makecode.microbit.org) for programming, about the methods to add the wukong expansions and its programming reference, please refer to [Staw manipulator](https://www.elecfreaks.com/learn-cn/microbitKit/straw-manipulator/How-to-use-the-microbit-to-control-the-straw-manipulator.html).
 
 ![](./images/straw-manipulator-18.png)
 
 ## Initialization
----
+
 The initial status of this wiki is: 0 degree represents the fully stretching out of the "fingers", 180 degrees represent the "curve" of the "fingers", thus, we need to adjust servo to its 0 degree before programming. Take off the white plate and program as below(or you can download it directly):
 
 ![](./images/straw-manipulator-17.png)
@@ -67,7 +71,7 @@ After adjusting the angel of the servo, install the white plate and run the belo
 
 
 ## Sample
----
+
 
 
 ![](./images/straw-manipulator-2-5.png)
@@ -83,5 +87,5 @@ You may also download it directly:
 
 
 ## FAQ
----
+
 The straw manipulator uses a 180 degree servo, and the value range of the control servo block is: 0~180. After downloading the programmed micro:bit, turn on the power switch of the Wukong expansion board. For details on the use of the [Wukong expansion board](https://www.elecfreaks.com/learn-en/microbitExtensionModule/wukong.html), please refer to its related documentation.

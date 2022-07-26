@@ -4,16 +4,20 @@
 
 ![](./images/straw-manipulator-01.gif)
 
+## Products Link
+
+[wukong manipulator kit](https://www.elecfreaks.com/wukong-manipulator-kit.html)
+
 
 
 ## Introduction
----
+
 Hands are one of our most important and mostly used parts in daliy life, there are many artworks coming from the idea of simulating hands because of its skillful characteristic and good appearance, this blog also simulates the hands. 
 
 The materials we used in this blog are [micro:bit](https://www.microbit.org) and [Wukong Breakout board](https://www.elecfreaks.com/learn-en/microbitExtensionModule/wukong.html), the fingers are able to stretch with 180 degrees servos. 
 
 ## Wukong Breakout board
----
+
 ![](./images/straw-manipulator-03.png)
 
 
@@ -25,7 +29,7 @@ For more info, please visit: [Wukong Breakout board](https://www.elecfreaks.com/
 
 
 ## Materials Required
----
+
 ![](./images/straw-manipulator-08.png)
 
 Materials List
@@ -52,7 +56,7 @@ Straws × 5
 
 
 ##  Assembly 
----
+
 
 
 ### Step 1
@@ -70,7 +74,7 @@ Fix the servos(note the direction of the cable end should be put downward) with 
 Fix Wukong breakout board with the acrylic board at the bottom with shafts as the picture indicates, connect the cables of the servos with the breakout board, note to connect in the correct way(Brown cable for black pin, red cable for red pin and the yellow cable for blue pin). You can also connect any five of the servos connections, only note to program them in the correct sequence(The corespondent sequece from S0 to S7 are counter to the fingers as the chart indicates below).
 
 | Connections | Fingers       |
-| :---------- | ------------- |
+| : |  |
 | S0          | Thumb         |
 | S1          | Forefinger    |
 | S3          | Middle finger |
@@ -130,7 +134,7 @@ Connect the micro:bit with the computer.
 
 
 ## Program
----
+
 Program in [Makecode](https://makecode.microbit.org) and for more details about Wukong, please see them below:
 
 ![](./images/straw-manipulator-18.png)
@@ -158,7 +162,7 @@ Click "Advanced" to see more choices, then click "Extensions" and seach with "wu
 
 
 ## Initialization 
----
+
 The intialization status applied in this blog is: 0 degree means the the full stretching straight of the fingers and 180 degrees means the flexing of the fingers. Thus, before programming, please set the angle of the servos to 0 degree. Take off the white plates and download the program after completing the code in [MakeCode](https://makecode.microbit.org) .
 
 ![](./images/straw-manipulator-17.png)
@@ -170,7 +174,7 @@ Program
 Fix the white plates after adjusting the servos and excute the programs, and of course, it is possible if you'd like to create your own projects! 
 
 ## Sample
----
+
 
 ![](./images/straw-manipulator-25.png)
 
@@ -183,6 +187,6 @@ You can also download it directly below:
 
 
 ## FAQ
----
+
 
 As we are using 180 degrees servos, thus the scopes value given to the programming blocks is among 0~180, after downloading the program, turn on the wukong breakout board, for more info about it please visit: [wukong breakout board](https://www.elecfreaks.com/learn-en/microbitExtensionModule/wukong.html)
