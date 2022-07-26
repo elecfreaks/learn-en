@@ -122,7 +122,7 @@ while True:
 ## Results
 Press the self-locking switch, the LED light is on; press it again, and the LED is off.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPNeZOR0sn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exploration
 The stair light is usually realized with a single-pole double-throw switch. You can turn on the light upstairs and turn off the light downstairs. You can also turn on the light downstairs and turn off the light upstairs. If I want to use two self-locking buttons to realize the stair light function, how to design the circuit and program it?
