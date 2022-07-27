@@ -52,7 +52,7 @@ Connect your components according to the picture below:
 You would see as below after you finish the connection:
 
 ## Software Programming
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -76,7 +76,7 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import time
 import board
@@ -84,7 +84,7 @@ import pwmio
 from adafruit_motor import servo
 ```
 
-2. Set the pins of the servo and create the servo object.
+2.Set the pins of the servo and create the servo object.
 ```python
 pwm = pwmio.PWMOut(board.P1_A1, duty_cycle=2 ** 15, frequency=50)
 my_servo = servo.Servo(pwm)
@@ -106,7 +106,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Use infinite loop to set the servo to rotate back and forth between 0 and 180 degrees.
+3.Use infinite loop to set the servo to rotate back and forth between 0 and 180 degrees.
 ```python
 while True:
     for angle in range(0, 180, 5): 
