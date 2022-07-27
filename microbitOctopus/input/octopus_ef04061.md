@@ -1,17 +1,21 @@
 # Octopus Linear Slider Potentiometer Brick(EF04061)
 
 ## Introduction
----
+
 OCTOPUS Potentiometer is a simple linear sliding potentiometer electronic building block module which can be used for resistor divider output, HID control panel, electronic building block kit.
 
  ![](./images/zB1We7i.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Linear Slider Potentiometer Brick](https://www.elecfreaks.com/octopus-linear-slider-potentiometer-brick.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
+
+ The 3pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,15 +26,15 @@ Taper|Linear resistance
 Size|51mm X 13.95mm
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/dLwyWxY.jpg)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
-- Connect out port to the P1 port and the led port to P2 port as the picture shows
+ Connect out port to the P1 port and the led port to P2 port as the picture shows
 
   Take sensor:bit for example
 
@@ -52,14 +56,14 @@ Links:[https://makecode.microbit.org/_19baPjHKcJMT](https://makecode.microbit.or
 
 You can also download the links below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_19baPjHKcJMT" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_19baPjHKcJMT" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 ### Result
-As the resistance is changed by sliding, the resistance of the corresponding band 0-1023 is displayed on the  micro:bit, and the LED on the module is illuminated at the same time.
+As the resistance is changed by sliding, the resistance of the corresponding band 01023 is displayed on the  micro:bit, and the LED on the module is illuminated at the same time.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

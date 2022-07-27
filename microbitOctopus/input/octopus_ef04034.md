@@ -1,40 +1,46 @@
-# OBPushButton - Blue(EF04034)
+# OBPushButton  Blue(EF04034)
 
 ## Introduction
----
+
  This is a digital push button sensor, which detects your press action and it is ideal for beginners to use.
 
  ![](./images/iM1rurh.jpg)
 
+
+## Products Link
+
+[ELECFREAKS Octopus Digital PushButton Brick - Blue](https://www.elecfreaks.com/octopus-digital-pushbutton-brick-obpushbutton-blue.html)
+
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+
+ The 3pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
 SKU|EF04034
-Power Supply|3V-5.5V
+Power Supply|3V5.5V
 Connector Type|Analog
-Pins Definition|1-Signal 2-VCC 3-GND
+Pins Definition|1Signal 2VCC 3GND
     Response     |Quick response with high sensitivity
 Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimension
----
+
 
  ![](./images/eNbM5Kz.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
@@ -50,14 +56,14 @@ Links: [https://makecode.microbit.org/_WhpgVrc8sPCM](https://makecode.microbit.o
 
 You can also download the links below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WhpgVrc8sPCM" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_WhpgVrc8sPCM" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 ### Result
-- While the button being pressed, an icon is showing on the micro:bit; while released, a rectangle is showing on the micro:bit.
+ While the button being pressed, an icon is showing on the micro:bit; while released, a rectangle is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+
