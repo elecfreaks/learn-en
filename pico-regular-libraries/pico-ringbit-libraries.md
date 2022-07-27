@@ -1,49 +1,49 @@
-# pico-ringbit-library
-## 依赖
+# Pico-ringbit-library
+## Dependencies
 - [CircuitPython](https://circuitpython.org/board/elecfreaks_picoed/)
 - [CircuitPython_Motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor)
 - [CircuitPython_NeoPixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel)
-## 类
+## Classes
 ### `class Ringbit(left_pin, right_pin)`
-Ringbit类，用来创建一个ringbit实例
+Ringbit class is used to create a ringbit instance
 
-- **left_pin -** 左轮引脚
-- **right_pin -** 右轮引脚
+- **left_pin -** left_pin
+- **right_pin -** right_pin
 
 > `**set_speed(left_speed, right_speed)**`
 
-设置左轮和右轮速度
+Set the speed of left wheel and right wheel
 
-- **left_pin -** 左轮速度
-- **right_pin -** 右轮速度 
+- **left_pin -** Left wheel speed
+- **right_pin -**Right wheel speed 
 
 > `**rainbow_leds**`
 
-`class neopixel.NeoPixel`的实例
+Create the sample of `class neopixel.NeoPixel`
 
 > `**init_rainbow_leds(pin, n, brightness=1.0, auto_write=True)**`
 
-初始化彩虹灯
+Initialize the rainbow lights
 
-- **pin -** 彩虹灯引脚
-- **n -** 彩虹灯的数量
-- **brightness -** 彩虹灯亮度(0.0 ~ 1.0)
-- **auto_write -** 如果为True，则不用显示调用`show()`刷新彩虹灯颜色
+- **pin -** rainbow pins
+- **n -** number of rainbow lights
+- **brightness -** Rainbow light brightness (0.0 ~ 1.0)
+- **auto_write -** if "True", no need to refresh the rainbow light color by calling  `show()`
 
 > `**get_distance(pin, unit)**`**  **
 
-获取超声波测距距离
+Get the ultrasonic range distance
 
-- **pin -** 连接超声波传感器的信号引脚
-- **unit -** 距离单位，参数枚举：`Unit.cm`、`Unit.inch`
+- **pin -** Connect the signal pin of the ultrasonic sensor
+- **unit -** distance unit, parameter enumeration: `Unit.cm`, `Unit.inch`
 
 > `**get_tracking(pin)**`
 
-获取巡线传感器的状态，`11`均在黑色，`10`左黑右白，`01`左白右黑，`00`均在白色
+Get the status of the line tracking sensor, `'11' `means all in black, `'10' `means black on the left and white on the right, `'01'` means white on the left and black on the right, `'00'` means all in white.
 
-- **pin -** 连接巡线传感器的信号引脚
-## 示例
-设置左右轮速度
+- **pin -** Connect the signal pins of the line tracking sensor
+## Example
+Set the left and right wheel speed
 ```python
 import board
 from ringbit import *
@@ -52,21 +52,21 @@ ringbit = Ringbit(board.P0, board.P1)
 ringbit.set_speed(50, 50)
 ```
 
-彩虹灯
+Rainbow LED
 ```python
 import board
 from ringbit import *
 
 ringbit = Ringbit(board.P1, board.P2)
 
-# 初始化彩虹灯
+# Initialize the rainbow LED
 ringbit.init_rainbow_leds(board.P0, 2)
-# 设置0号灯为红色，色值16进制形式
+#  Set light 0 to red, color value in hexadecimal form
 ringbit.rainbow_leds[0] = 0xff0000
-# 设置1号灯为绿色，rgb形式
+#  Set light 1 to green in rgb format
 ringbit.rainbow_leds[1] = (0, 255, 0)
 ```
-读取超声波距离
+Read ultrasonic distance
 ```python
 import board
 import time
@@ -79,7 +79,7 @@ while True:
     time.sleep(0.5)
 ```
 
-读取巡线传感器状态
+Read the status of the line-tracking sensor
 ```python
 import board
 import time
