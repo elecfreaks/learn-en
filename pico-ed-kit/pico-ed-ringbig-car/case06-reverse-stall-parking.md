@@ -13,7 +13,7 @@ Connect the left wheel servo to P1 of the [Ring:bit](https://www.elecfreaks.com/
 
 ## Software Programming
 
-You should prepare the programming platform ready, if not, please can refer to this essay:[Preparation for programming](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+You should prepare the programming platform ready, if not, please can refer to this essay:[Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 
 ### Sample Projects
 
@@ -40,7 +40,7 @@ while True:
 ```
 ### Details of program:
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation and the `random` module contains functions to generate random numbers.
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation and the `random` module contains functions to generate random numbers.
 
    ```python
    import board
@@ -49,13 +49,13 @@ while True:
    from time import *
    ```
 
-2. Set the pins of the servos.
+2.Set the pins of the servos.
 
    ```python
    ringbit = Ringbit(board.P2, board.P1)
    ```
 
-3. Set to change the speed of both wheels by pressing button A/B on pico:ed.
+3.Set to change the speed of both wheels by pressing button A/B on pico:ed.
 
    ```python
    while True:
