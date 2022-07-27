@@ -23,7 +23,7 @@ Slide the clip switch of the special expansion board to the Rainbow LED.
 
 ---
 
-You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 
 ### Sample Projects
 
@@ -62,7 +62,7 @@ while True:
 ```
 ### Details of program:
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation;  `picoed` module contains the operation functions to button A/B; the `time` module contains functions for operating on time, the `digitalio` module contains classes for basic digital IO access, and `neopixel_write` contains functions for operating on light strips.
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation;  `picoed` module contains the operation functions to button A/B; the `time` module contains functions for operating on time, the `digitalio` module contains classes for basic digital IO access, and `neopixel_write` contains functions for operating on light strips.
 
    ```python
    import board
@@ -72,8 +72,7 @@ while True:
    ```
 
    
-
-2. Set the pins of the servos and the pins and directions of the expansion board.
+2.Set the pins of the servos and the pins and directions of the expansion board.
 
    ```python
    ringbit = Ringbit(board.P1, board.P2)
@@ -82,7 +81,7 @@ while True:
 
    
 
-3. draw a box on the screen.
+3.draw a box on the screen.
 
    ```python
    for x in range(display.width):
@@ -93,7 +92,7 @@ while True:
        display.pixel(display.width - 1, y, 50)
    ```
 
-4. While true, change the value of the two LEDs at random.
+4.While true, change the value of the two LEDs at random.
 
    ```python
    while True:
@@ -107,7 +106,7 @@ while True:
 
    
 
-5. Detect if button A/B is pressed to control the speed of the car.
+5.Detect if button A/B is pressed to control the speed of the car.
 
    ```python
        if button_a.is_pressed():
