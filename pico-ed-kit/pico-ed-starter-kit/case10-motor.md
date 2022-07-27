@@ -110,13 +110,13 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import digitalio
 ```
 
-2. Set the pin and pin direction connection between the motor and the self-locking switch, set the initial value of the motor to True, and pull up the self-locking switch.
+2.Set the pin and pin direction connection between the motor and the self-locking switch, set the initial value of the motor to True, and pull up the self-locking switch.
 ```python
 motor = digitalio.DigitalInOut(board.P0_A0)
 locking = digitalio.DigitalInOut(board.P1_A1)
@@ -140,12 +140,12 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Set the self-locking switch to pull up.
+3.Set the self-locking switch to pull up.
 ```python
 locking.pull = digitalio.Pull.UP
 ```
 
-3. The state of the self-locking switch is judged cyclically to change the state of the motor.
+4.The state of the self-locking switch is judged cyclically to change the state of the motor.
 ```python
 while True:
     if locking.value == False:
