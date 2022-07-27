@@ -70,7 +70,7 @@ You would see as below after you finish the connection:
 
 
 ## Software Programming
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -91,7 +91,7 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import digitalio
@@ -99,7 +99,7 @@ import analogio
 import picoed
 ```
 
-2. Set the pins of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) temperature sensor.
+2.Set the pins of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) temperature sensor.
 ```python
 temperature = analogio.AnalogIn(board.P0_A0)
 ```
@@ -120,7 +120,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Use an infinite loop to display the value detected by the temperature sensor to the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)'s LED screen.
+3.Use an infinite loop to display the value detected by the temperature sensor to the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)'s LED screen.
 ```python
 while True:
    voltage = temperature.value * (3300 / 65535)
