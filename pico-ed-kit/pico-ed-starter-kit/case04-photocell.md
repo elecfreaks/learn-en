@@ -56,7 +56,7 @@ You would see as below after you finish the connection:
 
 ### Software Programming
 
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -79,7 +79,7 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import picoed
@@ -87,13 +87,13 @@ import analogio
 import time
 ```
 
-2. Set the pin to which the photocell is connected and read the analog voltage as a reference for brightness
+2.Set the pin to which the photocell is connected and read the analog voltage as a reference for brightness
 ```python
 light = analogio.AnalogIn(board.P0_A0)
 light_value = light.value
 ```
 
-3. Determine whether the analog voltage value of the real-time photocell is less than the reference value, and display "Bright" or "Dark" according to the judgment result.
+3.Determine whether the analog voltage value of the real-time photocell is less than the reference value, and display "Bright" or "Dark" according to the judgment result.
 ```python
 while True:
     light_new = light.value
