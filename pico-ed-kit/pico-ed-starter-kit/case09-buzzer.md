@@ -77,7 +77,7 @@ Connect your components according to the picture below:
 You would see as below after you finish the connection:
 
 ## Software Programming
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -105,14 +105,14 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `pwmio `module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `pwmio `module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import pwmio
 import time
 ```
 
-2. Set the pins used by the buzzer and use the syllable play function.
+2.Set the pins used by the buzzer and use the syllable play function.
 ```python
 piezo = pwmio.PWMOut(board.P0_A0, duty_cycle=0,frequency=440, variable_frequency=True)
 def play_note(note):
@@ -139,7 +139,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3.  Loop a specific syllable.
+3.Loop a specific syllable.
 ```python
 while True:
     play_note(494)
