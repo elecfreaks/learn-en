@@ -1,18 +1,22 @@
 # Octopus Passive buzzer Brick OBPB01(EF04031)
 
 ## Introduction
----
-- Octopus Passive Buzzer Brick is based on a passive buzzer, it could control the volume by PWM. 
+
+ Octopus Passive Buzzer Brick is based on a passive buzzer, it could control the volume by PWM. 
 
  ![](./images/0G3EEXg.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Passive Buzzer Brick](https://www.elecfreaks.com/octopus-passive-buzzer-brick-obpb01.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+
+ The 3-pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -25,16 +29,16 @@ Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimensions
----
+
 
 ![](./images/bsmWrzk.jpg)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to the P0 port as the picture shows
+ Connect to the P0 port as the picture shows
 
   Take sensor:bit for example
 
@@ -42,7 +46,7 @@ Stability|Stable and durable
 
 ### Program as the picture shows
 
-- Playing a melody when power is on.
+ Playing a melody when power is on.
 
  ![](./images/KjnioxB.png)
 
@@ -56,10 +60,10 @@ You can also download the links below:
 
 
 ### Result
-- The buzzer is playing a melody when power is on.
+ The buzzer is playing a melody when power is on.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

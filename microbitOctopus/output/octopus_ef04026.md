@@ -1,18 +1,22 @@
-# OCTOPUS 1Channel Relay - 5V(EF04026)
+# OCTOPUS 1Channel Relay  5V(EF04026)
 
 ##  Introduction
----
+
 OCTOPUS 1Channel Relay is a single relay electronic brick.
 
  ![](./images/1E9gHLP.jpg)
 
+## Products Link
+
+[ELEFREAKS Octopus 1 Channel Relay](https://www.elecfreaks.com/octopus-1channel-relay.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+
+ The 3-pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -25,16 +29,16 @@ PCB location hole|Standard 3mm
 
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/lgUM5rk.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
@@ -55,11 +59,11 @@ You can also download the links below:
 
 
 ### Result
-- Press the button A or B to control the on or off of the relay.
+ Press the button A or B to control the on or off of the relay.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+
 

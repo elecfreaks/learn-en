@@ -1,18 +1,23 @@
 # OCTOPUS Vibration Motor(EF04074)
 
 ## Introduction
----
+
 OCTOPUS Vibration Motor is a kind of electric brick module carrying with a small vibrator driven by high voltage. It can be used as vibrators for products like toys, mobiles and so on.
 
  ![](./images/d9jdEqa.jpg)
 
+
+
+
+
+
 ## Characteristics
----
+
 
   The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -25,17 +30,17 @@ Working Temperature|-20~70℃
 Size|31.28mm×23.48mm
 
 ## Outlook and Dimensions
----
+
 
 ![](./images/72WTbmL.png)
 
 
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
-- Connect to the P1 port 
+ Connect to the P1 port 
 
   Take sensor:bit for example
 
@@ -57,10 +62,10 @@ You can also download the links below:
 
 
 ### Result
-- The module starts vibrating after pressing button A.
+ The module starts vibrating after pressing button A.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

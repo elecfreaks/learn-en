@@ -1,17 +1,22 @@
 # 3V vertical water pump(EF11098)
 
 ## Introduction
----
+
 3V Vertical water pump is a kind of DC micro submersible pump. Equipped with male and female  Dupont line connectors, it can apply to the fountain used in many situations with much convenience. 
 
+
+## Products Link
+
+[ELECFREAKS 3V Vertical Water Pump](https://www.elecfreaks.com/3v-vertical-water-pump.html)
+
 ## Characteristics 
----
-- With low noise and good performance.
-- Made by engineering plastics to protect it from exploring.
-- Small and easy to install.
+
+ With low noise and good performance.
+ Made by engineering plastics to protect it from exploring.
+ Small and easy to install.
 
 ## Parameter
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -27,7 +32,7 @@ Water Outlet Diameter|4.5 mm
 Net Weight|28 g
 
 ## Quick Start  
----
+
 
 ### Operating Method 
 
@@ -35,4 +40,4 @@ Put the water outlet into the water pipe , connect the power of the pump and the
 ![](./images/KzORYOY.png)
 
 ## FAQ
----
+

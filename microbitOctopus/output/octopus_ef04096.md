@@ -1,7 +1,7 @@
 # Octopus 3V laser sensor(EF04096)
 
 ## Introduction
----
+
 
 Octopus 3V laser sensor is the laser emission electric brick in our Octopus series, the basic design is from the Octopus electric bricks and the setting of its outlook, the PCB fixing hole and the connectors are the same. 
 
@@ -11,31 +11,37 @@ Notice: Please do not shine the eyes. The laser emits a red laser beam that usua
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/04096_00.jpg)
 
+
+## Products Link
+
+[ELECFREAKS Octopus 3V Laser Sensor](https://www.elecfreaks.com/octopus-3v-laser-sensor.html)
+
+
 ## Characteristics
----
-- The emitting principle of the laser and it's special emitting process make the laser equip the features where normal light does not have: "The Three Goods" (Good monochromaticity, good coherence and good directionality ) and "One High" (High brightness)
-- Support micro:bit in 3V.
-- Easy and convenient for connection
+
+ The emitting principle of the laser and it's special emitting process make the laser equip the features where normal light does not have: "The Three Goods" (Good monochromaticity, good coherence and good directionality ) and "One High" (High brightness)
+ Support micro:bit in 3V.
+ Easy and convenient for connection
 
 ## Parameter 
----
 
-- Name: Octopus 3V laser sensor
-- SKU：EF04096
-- Working Voltage: DC 3~5.5V
-- Wave Length: 650NM
-- Rate of Work: 5MW
-- Spot Size: φ10mm ~ φ15mm(15 meters away)
-- Connection Mode: G-GND，V-VCC，S-signal pin
-- Size: 38.9x23.5mm
-- Net Weight: 5g
+
+ Name: Octopus 3V laser sensor
+ SKU：EF04096
+ Working Voltage: DC 3~5.5V
+ Wave Length: 650NM
+ Rate of Work: 5MW
+ Spot Size: φ10mm ~ φ15mm(15 meters away)
+ Connection Mode: G-GND，V-VCC，S-signal pin
+ Size: 38.9x23.5mm
+ Net Weight: 5g
 
 ### Dimensions and Outlook
 
 ![](https://raw.githubusercontent.com/elecfreaks/learn-cn/master/microbitSensor/output/images/eNbM5Kz.png)
 
 ## Quick to Start  
----
+
 ### Hardware Connection
 
 Connect the module with the wire(with buckle) to the PI pins on the Octopus:bit, insert the micro:bit to the Octopus:bit.
@@ -61,4 +67,4 @@ You can also download it directly:
 The laser lights on.
 
 ## FAQ
----
+

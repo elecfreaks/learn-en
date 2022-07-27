@@ -1,20 +1,24 @@
 # 3V Relay Module(EF04086)
 
 ## Introduction
----
+
 
 1 Channel Relay 3V Relay Module is one of OCTOPUS series of electric bricks. It is designed according to OCTOPUS electric brick series with same shape, PCB positioning holes and electric brick connectors. It has adopted a mini and high-quality HUIKE relay, which is available to control all kinds of home appliances and high current devices. This is a common accessory module for electronic DIY fans.
 
-## Characteristics
----
+## Products Link
 
-- Equipped with a high current relay with max current can be up to 2A.
-- Adopt 3V power supply.
-- Contact control, including a normally open contact and a normally closed contact.
-- Easy to connect wires.
+[ELECFREAKS Octopus 1 Channel Relay 3V](https://www.elecfreaks.com/1-channel-relay-3v-relay-module-for-micro-bit.html)
+
+## Characteristics
+
+
+ Equipped with a high current relay with max current can be up to 2A.
+ Adopt 3V power supply.
+ Contact control, including a normally open contact and a normally closed contact.
+ Easy to connect wires.
 
 ## Parameter
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -27,12 +31,12 @@ Contact Currency|DC 24V 2A，AC 120V 2A
 NW|8.5g
 
 ## Outlook and Dimensions
----
+
 
 ![](./images/RucS13Z.png)
 
 ## Quick to Start
----
+
 ### Hardware Connection
 
 Connect the relay module to P1 on octopus:bit using a jumper cable. Insert micro:bit into the edge slot of octopus:bit.
@@ -58,4 +62,4 @@ You can also download the links below:
 The normally open contact is closed, while the normally closed contact is opened.
 
 ## FAQ
----
+

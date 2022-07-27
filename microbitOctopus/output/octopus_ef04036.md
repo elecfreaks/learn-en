@@ -1,17 +1,21 @@
-# Octopus 5mm LED Brick OBLED - Blue(EF04036)
+# Octopus 5mm LED Brick OBLED  Blue(EF04036)
 
 ## Introduction
----
-- Octopus 5mm LED light Brick can be used in the interaction with the light works.
+
+ Octopus 5mm LED light Brick can be used in the interaction with the light works.
 
  ![](./images/Raj46TF.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus 5mm LED Brick - Blue](https://www.elecfreaks.com/octopus-5mm-led-brick-obled-blue.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
+
+ The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -20,16 +24,16 @@ Working Temperature|-20-70℃
 Working Voltage|3.3-5V
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/oFiMInJ.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
@@ -37,7 +41,7 @@ Working Voltage|3.3-5V
 ### Add Package
 
 ### Program as the picture shows
-- Digital write pin P1 to 1 and 0 repeatedly.
+ Digital write pin P1 to 1 and 0 repeatedly.
 
  ![](./images/vL9kUwl.png)
 
@@ -51,10 +55,10 @@ You can also download the links below:
 
 
 ### Result
-- The LED lights on each second while the power is on.
+ The LED lights on each second while the power is on.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

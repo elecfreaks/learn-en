@@ -1,17 +1,19 @@
 # Octopus Active Buzzer Brick OBAB02(EF04030)
 
 ## Introduction
----
+
 Octopus Active Buzzer Brick is based on an active buzzer with a constant volume but can not be controlled  by PWM. 
 
  ![](./images/Gs5XBx1.jpg)
 
+
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
+
+ The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -28,14 +30,14 @@ Size|19x27mm
 
 
 ## Outlook and Dimensions
----
+
 ![](./images/GV8xv7y.jpg)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
@@ -56,10 +58,10 @@ You can also download the links below:
 
 
 ### Result
-- The buzzer gives off a continuous beeping sound.
+ The buzzer gives off a continuous beeping sound.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

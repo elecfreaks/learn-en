@@ -1,17 +1,21 @@
 # Octopus Motor Brick(EF04059)
 
 ## Introduction
----
+
  OCTOPUS Motor Brick is a type of simple electronic building blocks of the fan motor drive module.
 
  ![](./images/vu7ViBU.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Motor Brick](https://www.elecfreaks.com/octopus-motor-brick.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
+
+ The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,15 +26,15 @@ Working Temperature|-25~85℃
 Size|39.33mm×31.28mm
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/bFU1faL.jpg)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
-- Connect to the P16 port as the picture shows
+ Connect to the P16 port as the picture shows
 
   Take octopus:bit for example
 
@@ -52,10 +56,10 @@ You can also download the links below:
 
 ### Result
 
-- While pressing button A, the motor starts rotating; while pressing button B, the motor stops rotating.
+ While pressing button A, the motor starts rotating; while pressing button B, the motor stops rotating.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

@@ -1,20 +1,25 @@
 # Octopus Single RGB Rainbow LED(EF04091)
 
 ## Introduction
----
+
 Octopus Single RGB Rainbow LED is one of the single rainbow LED electronic bricks in OCTOPUS series. The basic design is upon the OCTOPUS electronic bricks series with the identical design on the outlook, PCB fixed orifices and the connectors of the electronic bricks. The on-board LED is a smart LED and an integration of control circuit and light-emitting circuit, it can be operated under a low voltage with a high luminance and large angle scattering.
 
-## Introduction
----
+## Products Link
 
-- With data transmitting in single line and with unlimited concatenation.
-- With circuit adjusted by gray level(256 level gray can be adjusted )
-- With built-in power on reset and power down reset circuit, the LED doesn't turn on when power off.
-- The red led is set through special processing to make the color more balanced.
-- The data transmission frequency can reach to 800Kbps. When the refresh rate is 30 frames/second, the number of cascades is over 1024 points.
+[ELECFREAKS Octopus Single RGB Rainbow LED](https://www.elecfreaks.com/octopus-single-rgb-rainbow-led.html)
+
+
+## Introduction
+
+
+ With data transmitting in single line and with unlimited concatenation.
+ With circuit adjusted by gray level(256 level gray can be adjusted )
+ With built-in power on reset and power down reset circuit, the LED doesn't turn on when power off.
+ The red led is set through special processing to make the color more balanced.
+ The data transmission frequency can reach to 800Kbps. When the refresh rate is 30 frames/second, the number of cascades is over 1024 points.
 
 ## Parameter
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -31,7 +36,7 @@ NW|2.4g
 ![](./images/w5nulIo.png)
 
 ## Quick Start
----
+
 ### Hardware Connection
 
 Connection note: Connect this to the P1 port in OCTOPUS:BIT, and insert the micro:bit into it.
@@ -58,4 +63,4 @@ You can also download the links below:
 The led begins with white light and then the color begins to change gradually with the shaking of the micro:bit.
 
 ## FAQ
----
+

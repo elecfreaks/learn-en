@@ -1,17 +1,19 @@
-# Octopus 5mm LED Brick - Yellow(EF04066)
+# Octopus 5mm LED Brick  Yellow(EF04066)
 
 ## Introduction
----
+
 Octopus 5mmLED light Brick can be used in the interaction with the light works with micro:bit/Arduino.
 
  ![](./images/FJgPKrD.jpg)
 
+
+
 ## Characteristics
----
--  The 3-pins ports is easy to plug and play.
+
+  The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -20,12 +22,12 @@ Power Supply|3.3V~5V
 weight|5g
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/D93Zvpm.png)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
 Connect to the P1 port as the picture shows
@@ -59,10 +61,10 @@ You can also download the links below:
 
 ### Result
 
-- LED flashes each second.
+ LED flashes each second.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+
