@@ -1,22 +1,26 @@
 # AI Lens
 
 ## Introduction
----
+
 
 The AI Lens is able to achieve the functions of face recognition, balls tracking, cards recognition and characteristics acquisition.
 
 ![](./images/05035_01.png)
 
-## Characteristics
----
+## Products Link
 
-- Designed with RJ11 connection and easy to plug.
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+## Characteristics
+
+
+ Designed with RJ11 connection and easy to plug.
 
 ## Specification
----
+
 
 |      Item       | Parameter |
-| :-------------: | :-------: |
+| :---------: | :---------: |
 |       SKU       |  EF05045  |
 |   Connection    |   RJ11    |
 | Connection Type |    IIC    |
@@ -28,14 +32,14 @@ The AI Lens is able to achieve the functions of face recognition, balls tracking
 The origin point of the AI Lens is on the left top corner (0,0), and the range of the coordinate X&Y is (0,224).
 
 ## Outlook and Dimension
----
+
 
 
 ![](./images/05035_02.png)
 
 
 ## Connection Type: RJ11 to Dupont connector
----
+
 
 While the micro:bit breakout board doesn’t have the RJ11 connections, we can choose to use a Dupont wire that has the RJ11 connections. We need to connect the RJ11 to the Lens and the other ends connect to the breakout board(Black wire to GND; Red to VCC; Green to P19(SCL); Yellow to P20(SDA)). If the Lens doesn’t work from the start, please try powering it with a standalone power sourse.
 
@@ -57,7 +61,7 @@ Take IoT:bit for an example:
 
 
 ## AI Lens firmware update
----
+
 For a better experience of the AI Lens, we are making an irregularly update for the new functions and optimization of the performance, a manually update of the firmware is required after the new version is released. 
 
 ### How to check the current version

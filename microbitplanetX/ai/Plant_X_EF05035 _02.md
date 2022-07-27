@@ -1,18 +1,24 @@
 # Case 02: Color-controlled Lights
 
 ## Purpose 
----
+
 To make the LED strip be able to adjust the color of the lights according to the recognized color from the AI Lens. 
 
 ![](./images/05035_01.png)
 
 
+## Products Link
 
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+[ELECFREAKS PlanetX Rainbow LED Strip (10 Pixels)](https://www.elecfreaks.com/planetx-rainbow-led-strip-10-pixels.html)
 
 ### Materials Required and Connection Diagram
 
 
-- Connect the AI Lens to the IIC port and the LED strip to the J1 port on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port and the LED strip to the J1 port on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05035_02_03.png)
@@ -20,7 +26,7 @@ To make the LED strip be able to adjust the color of the lights according to the
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -52,5 +58,5 @@ You may also download it directly below:
 
 
 ### Result
-- The LED strip displays the color in accordance with the color that is recognized from the AI Lens. 
+ The LED strip displays the color in accordance with the color that is recognized from the AI Lens. 
 

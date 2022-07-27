@@ -1,35 +1,43 @@
 # Case 04: Face-tracked Device
 
 ## Purpose
----
+
 To make the AI Lens be able to recognize the face and track it. 
 
 ![](./images/05035_01.png)
 
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+[ELECFREAKS 360 Degrees Building Blocks Servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+
 ### Materials Required and Connection Diagram
 
 
-- Build a device with the bricks as below:
+ Build a device with the bricks as below:
 
 ![](./images/05035_04_03.png)
 
 ![](./images/05035_04_04.png)
 
-- Connect the device with a servo: 
+ Connect the device with a servo: 
 
 ![](./images/05035_04_05.png)
 
-- Connect the AI Lens with the device:
+ Connect the AI Lens with the device:
 
 ![](./images/05035_04_06.png)
 
-- Connect the AI Lens to the IIC port and the two servos to S1 and S2 separately.(Here S1 controls the movement of "X", S2 controls the movement of "Y")
+ Connect the AI Lens to the IIC port and the two servos to S1 and S2 separately.(Here S1 controls the movement of "X", S2 controls the movement of "Y")
 
 
 ![](./images/05035_04_07.png)
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -59,5 +67,5 @@ You may also download it directly below:
 
 
 ### Result
-- The AI Lens would track your face(move along with your face).
+ The AI Lens would track your face(move along with your face).
 

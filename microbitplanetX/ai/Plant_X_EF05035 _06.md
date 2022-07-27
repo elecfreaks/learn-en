@@ -1,21 +1,28 @@
 # Case 06: Characteristics Acquisition
 
 ## Purpose
----
+
 To make the AI Lens be able to recognize and learn from the objects. 
 
 ![](./images/05035_01.png)
 
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+
 ### Materials Required and Connection Diagram
 
-- Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05035_01_03.png)
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -45,5 +52,5 @@ You may also download it directly below:
 
 
 ### Result
-- Press button A to recognize the object and give it an ID 1; press button B to recognize the object and give it an ID 2. Then the equivalent ID number should display on the micro:bit in accordance with the object that you place in the front of the AI Lens.
+ Press button A to recognize the object and give it an ID 1; press button B to recognize the object and give it an ID 2. Then the equivalent ID number should display on the micro:bit in accordance with the object that you place in the front of the AI Lens.
 

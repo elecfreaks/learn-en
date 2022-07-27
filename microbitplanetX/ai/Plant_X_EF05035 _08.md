@@ -1,22 +1,29 @@
 # Case 08: Balls Recognition
 
 ## Purpose
----
+
 Recognize the balls with the AI lens. 
 
 ![](./images/05035_01.png)
 
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+
 ### Materials Required and Connection Diagram
 
 
-- Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
 
 ![](./images/05035_01_03.png)
 
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -47,5 +54,5 @@ You may also download it directly below:
 
 
 ### Result
-- A smile face displays on the micro:bit if the the blue ball is recognized by the AI lens and a sad face displays on the micro:bit if it recognizes a red ball. 
+ A smile face displays on the micro:bit if the the blue ball is recognized by the AI lens and a sad face displays on the micro:bit if it recognizes a red ball. 
 

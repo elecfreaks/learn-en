@@ -1,21 +1,30 @@
 # Case 09: Control the Car with an Indicator 
 
 ## Purpose
----
+
 Build a car with the bricks and control it with the AI Lens via the indicators. 
 
 ![](./images/05035_01.png)
 
 
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+[ELECFREAKS High-Speed Building Blocks Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)
+
+
 ### Materials Required and Connection Diagram
 
 
-- Connect the AI Lens to the IIC port and the two motors on M1,M4 ports on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port and the two motors on M1,M4 ports on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05035_09_01.png)
 
-- Build a car with the bricks below. 
+ Build a car with the bricks below. 
 
 ![](./images/05035_07_01.png)
 
@@ -28,7 +37,7 @@ Build a car with the bricks and control it with the AI Lens via the indicators.
 ![](./images/05035_09_05.png)
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -51,19 +60,19 @@ Then search with “nezha” to download this extension.
 
 ### Code as below:
 
-- Initialize the AI lens while on start and switch its function to Card recognition.
+ Initialize the AI lens while on start and switch its function to Card recognition.
 
 ![](./images/05035_09_07.png)
 
-- Get one image from the AI Lens, if the card is detected, judge the distance from the card to the car. If it is a long distance, the lens would get the value of the “X-axis”and respond it by adjusting the speed of the two motors to keep the image in the middle of the lens.
+ Get one image from the AI Lens, if the card is detected, judge the distance from the card to the car. If it is a long distance, the lens would get the value of the “X-axis”and respond it by adjusting the speed of the two motors to keep the image in the middle of the lens.
 
 ![](./images/05035_09_08.png)
 
-- If the car is near to the card, judge the instructions(symbols) on the card. If it is a turn-right instruction, make the car turn right by adjusting the speed of the motors, then program to get 3 images from the lens and give no instruction to these three pictures to clear the caches. If it is a stop instruction, make the car stop moving by adjusting the speed of the motors, then program to get 3 images from the lens and give no instruction to these three pictures to clear the caches. 
+ If the car is near to the card, judge the instructions(symbols) on the card. If it is a turn-right instruction, make the car turn right by adjusting the speed of the motors, then program to get 3 images from the lens and give no instruction to these three pictures to clear the caches. If it is a stop instruction, make the car stop moving by adjusting the speed of the motors, then program to get 3 images from the lens and give no instruction to these three pictures to clear the caches. 
 
 ![](./images/05035_09_09.png)
 
-- If the AI Lens does not detect any image, the car moves forward.
+ If the AI Lens does not detect any image, the car moves forward.
 
 ![](./images/05035_09_10.png)
 
@@ -82,5 +91,5 @@ You may also download it directly below:
 
 
 ### Result
-- Drive the car and make it move with the instructions.
+ Drive the car and make it move with the instructions.
 

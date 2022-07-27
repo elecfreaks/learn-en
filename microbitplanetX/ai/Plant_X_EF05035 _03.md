@@ -1,16 +1,21 @@
 # Case 03: Color-controlled Piano
 
 ## Purpose
----
+
 To make the Nezha expansion board be able to play the different sounds according to the recognized color from the AI Lens. 
 
 ![](./images/05035_01.png)
 
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
 
 ### Materials Required and Connection Diagram
 
 
-- Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05035_01_03.png)
@@ -18,7 +23,7 @@ To make the Nezha expansion board be able to play the different sounds according
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -48,5 +53,5 @@ You may also download it directly below:
 
 
 ### Result
-- The buzzer on the Nezha expansion board plays different sounds aoccording to the different color recoginzed by the AI Lens.
+ The buzzer on the Nezha expansion board plays different sounds aoccording to the different color recoginzed by the AI Lens.
 

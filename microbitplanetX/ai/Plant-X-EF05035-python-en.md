@@ -1,7 +1,7 @@
 # AI-Lens-Python Samples Code
 
 ##  Add Python File
----
+
 We've created a codebase [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip) for a convenient python programming to AI Lens, you will only need to use the functions and modify the parameters for application. 
 
 Download the package and unzip it: [EF_Produce_MicroPython-master](https://github.com/lionyhw/EF_Produce_MicroPython/archive/master.zip)
@@ -20,10 +20,10 @@ For programming, we need to add the file of AILens.py. Click Load/Save first and
 ![](./images/05001_10.png)
 
 ## API
----
+
 
 | API | Description |
-| :------------: | :-----------: |
+| :: | :: |
 |`AILENS()`|Init AI Lens|
 |`switch_function(func)`|Choose AI Lens functions，`func`choose function：（`Learn`characteristics learn；`Card`card recognition；`Face`face recognition；`Tracking`tracking recognition；`Color`color recognition；`Ball`ball recognition）|
 |`get_card_content()`|Recognize the contents on the card|
@@ -169,7 +169,7 @@ Confidence coefficient of the learnt object：confidence
 
 
 ## Samples
----
+
 
 ### Sample 1: Characteristics learn
 ```
@@ -190,7 +190,7 @@ while True:
 
 ```
 ### Result 
-- Press button A to learn the object, a smile face displays  on the micro:bit while it recognizes the object or it displays a sad face. 
+ Press button A to learn the object, a smile face displays  on the micro:bit while it recognizes the object or it displays a sad face. 
 
 
 ### Sample 2: Color recognition 
@@ -208,7 +208,7 @@ while True:
         display.show(Image.SAD)
 ```
 ### Result 
-- A smile face displays on the micro:bit for two seconds if the green card is recognized or it displays a sad face. 
+ A smile face displays on the micro:bit for two seconds if the green card is recognized or it displays a sad face. 
 
 ### Sample 3: Balls recognition 
 ```
@@ -225,7 +225,7 @@ while True:
         display.show(Image.SAD)
 ```
 ### Result
-- A smile face displays on the micro:bit for two seconds if the red ball is recognized or it displays a sad face. 
+ A smile face displays on the micro:bit for two seconds if the red ball is recognized or it displays a sad face. 
 
 ### Sample 4: Recognize the black line
 ```
@@ -243,7 +243,7 @@ while True:
         display.show(Image.SAD)
 ```
 ### Result
-- The micro:bit displays a sad face if the black line was deteacted deviating to the left by the AI lens; It displays a smile face if the black line was deteacted deviating to the right by the AI lens
+ The micro:bit displays a sad face if the black line was deteacted deviating to the left by the AI lens; It displays a smile face if the black line was deteacted deviating to the right by the AI lens
 
 ### Sample 5: Human face(s) recognition 
 ```
@@ -260,7 +260,7 @@ while True:
         display.show(Image.SAD)
 ```
 ### Result
-- A smile face displays on the micro:bit if the human face is detected or it displays a sad face. 
+ A smile face displays on the micro:bit if the human face is detected or it displays a sad face. 
 
 ### Sample 6: Cards recognition 
 ```
@@ -278,4 +278,4 @@ while True:
         display.show(Image.SAD)
 ```
 ### Result 
-- A smile face displays on the micro:bit if a "stop" card is detected or it displays a sad face. 
+ A smile face displays on the micro:bit if a "stop" card is detected or it displays a sad face. 

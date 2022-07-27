@@ -1,17 +1,25 @@
 # Case 01: Password Recognition 
 
 ## Purpose 
----
+
 To make the AI Lens be able to recognize the password on the card. 
 
 ![](./images/05035_01.png)
 
 
 
+
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+
 ### Materials Required and Connection Diagram
 
 
-- Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05035_01_03.png)
@@ -19,7 +27,7 @@ To make the AI Lens be able to recognize the password on the card.
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
@@ -49,5 +57,5 @@ You may also download it directly below:
 
 
 ### Result
-- Place the cards named 0,4,9 accordingly in the front of the lens, a smile face should display on the micro:bit; or it displays a sad face.
+ Place the cards named 0,4,9 accordingly in the front of the lens, a smile face should display on the micro:bit; or it displays a sad face.
 

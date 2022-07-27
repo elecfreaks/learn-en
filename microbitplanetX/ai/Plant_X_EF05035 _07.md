@@ -1,20 +1,28 @@
 # Case 07: AI Lens Line Follower Car 
 
 ## Purpose
----
+
 Build a line following car with the bricks and the AI lens. 
 
 ![](./images/05035_01.png)
 
+## Products Link
+
+[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+
+[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+
+[ELECFREAKS High-Speed Building Blocks Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)
+
 
 ### Materials Required and Connection Diagram
 
-- Connect the AI Lens to the IIC port and the two motors on M1,M2 ports on the Nezha expansion board as the picture shows. 
+ Connect the AI Lens to the IIC port and the two motors on M1,M2 ports on the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05035_07_07.png)
 
-- Build a car with the bricks below. 
+ Build a car with the bricks below. 
 
 ![](./images/05035_07_01.png)
 
@@ -29,7 +37,7 @@ Build a line following car with the bricks and the AI lens.
 
 
 ## MakeCode Programming 
----
+
 
 ### Step 1
 
