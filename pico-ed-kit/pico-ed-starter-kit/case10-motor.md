@@ -85,7 +85,7 @@ You would see as below after you finish the connection:
 
 ## Software Programming
 
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
