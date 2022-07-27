@@ -60,8 +60,8 @@ Want to know resistor value by color circles? You can read this article: [How to
 ### Hardware Connection
 
 Connect your components according to the picture below:
-1. Connect the shorter leg with the GND.
-2. Connect the longer leg with the P0 and P1 ports through the Resistor.
+1.Connect the shorter leg with the GND.
+2.Connect the longer leg with the P0 and P1 ports through the Resistor.
 
 ![](./images/case01.png)
 
@@ -95,14 +95,14 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import digitalio
 import time
 ```
 
-2. Set the pins to connect the 2 LED lights and the pin direction.
+2.Set the pins to connect the 2 LED lights and the pin direction.
 ```python
 led_0 = digitalio.DigitalInOut(board.P0_A0)
 led_1 = digitalio.DigitalInOut(board.P1_A1)
@@ -126,7 +126,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Use an infinite loop to set the status of 2 LED lights to be on and off. Which can be used `1`、`0` replace `True`、`False` set the status of the LED light to on or off.
+3.Use an infinite loop to set the status of 2 LED lights to be on and off. Which can be used `1`、`0` replace `True`、`False` set the status of the LED light to on or off.
 ```python
 while True:
     led_0.value = True  # 1
