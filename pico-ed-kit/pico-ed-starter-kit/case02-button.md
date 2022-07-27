@@ -62,7 +62,7 @@ You would see as below after you finish the connection:
 
 ### Software Programming
 
-Click to open [Microsoft  Makecode](https://makecode.microbit.org/), and write the following code in the editor. [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+Click to open [Microsoft  Makecode](https://makecode.microbit.org/), and write the following code in the editor. [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Code Example：
 ```python
 # Import the modules required by the program
@@ -93,14 +93,14 @@ while True:
 ```
 ### 代码详解：
 
-1. Import the support modules required by the program. The `board ` module is a generic container for pin names, can use this `board` module to specify the pin that we need, the `digitalio` module included a class that provides access to basic digital IO. the `time` module contains functions for time settings.
+1.Import the support modules required by the program. The `board ` module is a generic container for pin names, can use this `board` module to specify the pin that we need, the `digitalio` module included a class that provides access to basic digital IO. the `time` module contains functions for time settings.
 ```python
 import board
 import digitalio
 import time
 ```
 
-2. Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
+2.Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
 ```python
 led_0 = digitalio.DigitalInOut(board.P0_A0)
 led_1 = digitalio.DigitalInOut(board.P1_A1)
@@ -108,7 +108,7 @@ led_0.direction = digitalio.Direction.OUTPUT
 led_1.direction = digitalio.Direction.OUTPUT
 ```
 
-3. Set the pin and pull-up mode of the button.
+3.Set the pin and pull-up mode of the button.
 ```python
 button = digitalio.DigitalInOut(board.P2_A2)
 button.direction = digitalio.Direction.INPUT
@@ -131,7 +131,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-4. Set the button state to change the state of the LED light.
+4.Set the button state to change the state of the LED light.
 ```python
 while True:
     if button.value == False:
