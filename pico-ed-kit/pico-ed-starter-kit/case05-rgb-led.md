@@ -54,7 +54,7 @@ You would see as below after you finish the connection:
 ![](./images/sanseled.png)
 
 ## Software Programming
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -93,7 +93,7 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import digitalio
@@ -101,7 +101,7 @@ import time
 from picoed import button_a, button_b
 ```
 
-2. Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
+2.Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
 ```python
 led_0 = digitalio.DigitalInOut(board.P0)
 led_1 = digitalio.DigitalInOut(board.P1)
@@ -127,7 +127,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Determine whether the A\B button is pressed and the operation performed. When A is pressed, set led_0 to value `True` , led_1 和 led_2 为`False`，In the same way, when B is pressed, the code when A+B is pressed is as follows.
+3.Determine whether the A\B button is pressed and the operation performed. When A is pressed, set led_0 to value `True` , led_1 和 led_2 为`False`，In the same way, when B is pressed, the code when A+B is pressed is as follows.
 ```python
 while True:
     if button_a.is_pressed() and button_b.is_pressed():
