@@ -1,16 +1,20 @@
 # OCTOPUS Infrared Receiver Sensor(EF04009)
 
 ## Introduction
----
+
 This is a simple infrared receiver sensor,and mainly receives infrared signal through HS0038 infrared diode. HS0038 is particularly sensitive to the infrared signal, and it can receive the infrared signal very swiftly. 
 
 ![](./images/04009_01.png)
 
+## Products Link
+
+[ELECFREAKS Octopus Infrared Receiver Sensor](https://www.elecfreaks.com/octopus-infrared-receiver-sensor.html)
+
 ## Characteristics 
----
-- Standard 3-pin GVS port is easy to plug. 
+
+ Standard 3-pin GVS port is easy to plug. 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,19 +27,19 @@ Size|38.9 x 23.5 mm
 Size:
 
 ## Outlook and Dimension
----
+
 
 
 ![](./images/04009_02.png)
 
 
 ## Quick to Start 
----
+
 
 ### Materials required and connections diagram 
 
 
-- Connect to P1 port as the picture shows.
+ Connect to P1 port as the picture shows.
 
 ***Take sensor：bit for examples***
 
@@ -44,7 +48,7 @@ Size:
 ![](./images/04009_03.png)
 
 ## Programming
----
+
 
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.
@@ -71,9 +75,9 @@ You can also download it directly:
 
 
 ### Result
-- If pushing the switch button on the controller,  the micro:bit shows a "smile" face; if pushing the four direction keys, the micro:bit shows it accordingly.  
+ If pushing the switch button on the controller,  the micro:bit shows a "smile" face; if pushing the four direction keys, the micro:bit shows it accordingly.  
 ## Relevant Cases
----
+
 
 ## Technical Files
----
+

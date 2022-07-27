@@ -1,18 +1,22 @@
 # Octopus Wind Speed Sensor Anemometer Three Aluminium Cups(EF04083) 
 
 ## Introduction
----
+
 This is a wind speed sensor with waterproof design. It has a standard connector for Octopus brick series’ products. Bigger wind speed brings higher output voltage. 
 
  ![](./images/NsSeG42.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Wind Speed Sensor](https://www.elecfreaks.com/octopus-wind-speed-sensor-anemometer-three-aluminium-cups.html)
+
 ## Characteristics
----
+
 
 The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,15 +26,15 @@ Working Temperature|-20-70℃
 Working Voltage|3.3-5V
 
 ## Outlook and Dimensions
----
+
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to P1 port.
-- It needs to use power module to give power.
+ Connect to P1 port.
+ It needs to use power module to give power.
 ### Add Package
 
 Click "Advanced"in the choice of the MakeCode to find more choices.
@@ -55,10 +59,10 @@ You can also download the links below:
 
 
 ### Result
-- The current wind speed is showing on the micro:bit.
+ The current wind speed is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

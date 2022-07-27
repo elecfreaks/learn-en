@@ -1,17 +1,22 @@
 # MQ3 Gas Sensor Brick(EF04060)
 
 ## Introduction
----
+
 The gas sensitive material used in the MQ-3 gas sensor is tin dioxide (SnO2), which has a low conductivity in clean air. While the sensor being put in an environment that exists the alcohol vapor, the electrical conductivity of the sensor increases as the concentration of alcohol gas in the air increases.
 
 ![](./images/04060_01.png)
 
+## Products Link
+
+[ELECFREAKS Octopus MQ3 Gas Sensor Brick](https://www.elecfreaks.com/octopus-mq3-alcohol-sensor-brick.html)
+
+
 ## Characteristics
----
-- Standard 3-pin GVS port is easy to plug. 
+
+ Standard 3-pin GVS port is easy to plug. 
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,17 +28,17 @@ Size|38x27mm
 
 
 ## Outlook and Dimension
----
+
 
 ![](./images/04060_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials required and connections diagram 
 
 
-- Connect to P1 port as the picture shows. 
+ Connect to P1 port as the picture shows. 
 
 ***Take iot:bit for example***
 
@@ -59,12 +64,12 @@ You can also download it directly below:
 
 
 ### Result
-- Preheat it for 3 minutes after connections, detect the alcohol gas by approaching the probes to the gas while the returned value is almost stable.
-- With the change of the alcohol gas's concentration, the returned value gets bigger with the growing of it.
+ Preheat it for 3 minutes after connections, detect the alcohol gas by approaching the probes to the gas while the returned value is almost stable.
+ With the change of the alcohol gas's concentration, the returned value gets bigger with the growing of it.
 
 
 ## Revelent Case
----
+
 
 ## Technical File
----
+

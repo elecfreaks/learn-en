@@ -1,18 +1,25 @@
 # OCTOPUS Gesture Sensor PAJ7620U2(EF04078)
 
 ## Introduction
----
+
 OCTOPUS Gesture Sensor is PAJ7620U2 that integrates gesture recognition function with general I2C interface into a single chip. It can recognize 9 gestures including move up, move down, move left, move right, etc with a simple swipe of your hand.
 
  ![](./images/AVBdYeR.jpg)
 
+
+## Products Link
+
+[ELECFREAKS Octopus Gesture Sensor Brick](https://www.elecfreaks.com/octopus-gesture-sensor-brick.html)
+
+
+
 ## Characteristics
----
+
 
 The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -26,12 +33,12 @@ Working Temperature|-20℃~70℃
 Size|23.48mm×31.28mm
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/FW7bmzW.png)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
 Take sensor:bit for example
@@ -61,12 +68,12 @@ You can also download the links below:
 
 
 ### Result
-- The direction of the arrow displaying on the micro:bit changes with the different gestures of your hands.   
+ The direction of the arrow displaying on the micro:bit changes with the different gestures of your hands.   
 
 ![](./images/ef04078_07.gif)
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

@@ -1,18 +1,22 @@
 # Octopus Rain/Steam Sensor
 
 ## Introduction
----
+
 This is a Rain/steam sensor from ElecFreaks, the output voltage will increase when the humidity of the sensor surface goes up, thus to detect the change of the humidity.
 
  ![](./images/4tWL14e.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Rain/Steam Sensor](https://www.elecfreaks.com/octopus-rain-steam-sensor.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+
+ The 3-pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item | Parameter               
 :-: | :-: 
@@ -26,21 +30,21 @@ Stablity|Stable and durable
 
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/xpNQNBG.png)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
 Take sensor:bit for example
 
  ![](./images/ai3lZZE.jpg)
 
 ### Program as the picture shows:
-- Analog read to P1 port and show the value on the micro:bit.
+ Analog read to P1 port and show the value on the micro:bit.
 
  ![](./images/JQBCxSv.png)
 
@@ -53,10 +57,10 @@ You can also download the links below:
 
 
 ### Result
-- The current amount of precipitation is scrolling on the micro:bit. 
+ The current amount of precipitation is scrolling on the micro:bit. 
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

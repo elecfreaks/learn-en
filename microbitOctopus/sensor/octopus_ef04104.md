@@ -1,14 +1,18 @@
 # MP3 Module(EF04104)
 
 ## Introduction
----
+
 It is able to play the music.
 
 ![](./images/04104_01.png)
 
 
+## Products Link
+
+[ELECFREAKS Octopus MP3 Player Module](https://www.elecfreaks.com/octopus-mp3-player-module.html)
+
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -20,22 +24,22 @@ Core IC|YX6300
 
 
 ## Outlook and Dimension
----
+
 
 
 ![](./images/04104_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials required and connection diagram
 
-- Connect the MP3 module to P1 port on sensor:bit. 
+ Connect the MP3 module to P1 port on sensor:bit. 
 
 ![](./images/04104_03.png)
 
 ## MakeCode Program
----
+
 
 ### Step 1
 Click “Advanced” in the drawer of the MakeCode to see more choices.
@@ -64,7 +68,7 @@ You may also download it directly below:
 
 
 ### Result
-- The MP3 module is controlled by the microbit.
+ The MP3 module is controlled by the microbit.
 
 ### Attention
 

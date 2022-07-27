@@ -1,18 +1,23 @@
 # BME280 Air Pressure Sensor(EF04087) 
 
 ## Introduction
----
+
 Octopus BME280 Pressure Sensor is an electric brick integrating temperature sensor, air pressure sensor and humidity sensor onboard. We can use it to  calculate the altitude according to the measured air pressure.
 
+## Products Link
+
+[ELECFREAKS Octopus BME280 Pressure Sensor](https://www.elecfreaks.com/octopus-bme280-pressure-sensor.html)
+
+
 ## Characteristics
----
-- Low power consumption and small size.
-- 3mm standard positioning hole.
-- 3.3v power supply
-- Support I2C and SPI protocol.
-- 
+
+ Low power consumption and small size.
+ 3mm standard positioning hole.
+ 3.3v power supply
+ Support I2C and SPI protocol.
+ 
 ## Parameter
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -33,7 +38,7 @@ Size|31 x 23 mm
 ![](./images/ZCHyqrg.png)
 
 ## Quick to Start
----
+
 ### Hardware Connection
 
 Connect the sensor to I2C connector on octopus:bit using a jumper cable. Insert micro:bit into the octopus:bit.
@@ -66,4 +71,4 @@ You can also download the links below:
 The air pressure value is scrolling on the micro:bit, the unit is MPa.
 
 ## FAQ
----
+

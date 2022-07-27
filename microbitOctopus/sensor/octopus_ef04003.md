@@ -1,20 +1,25 @@
 # Octopus Flame Sensor(EF04003)
 
 ## Introduction
----
-- It can be used to detect the source of fire.
+
+ It can be used to detect the source of fire.
 
 
 ![](./images/04003_1.jpg)
 
-## Characteristics
----
+## Products Link
 
-- Standard 3-pin GVS port is easy to plug. 
-- Support driving micro:bit in 3V.
+[ELECFREAKS Octopus Flame Sensor](https://www.elecfreaks.com/octopus-flame-sensor.html)
+
+
+## Characteristics
+
+
+ Standard 3-pin GVS port is easy to plug. 
+ Support driving micro:bit in 3V.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -27,18 +32,18 @@ Pins Definition|1-Signal 2-VCC 3-GND
     Stability     |          Stable and durable          
 
 ## Outlook and Dimensions
----
+
 
 
 
 ## Quick to Start 
----
+
 
 ### Materials Required and Connection Diagram
 
 
 ### Programme as the picture shows
-- It shows different icons according to the value detected from the Flame Sensor. If no source of fire being detected, the returned value is 0 and it shows a smile; or it shows other icons. 
+ It shows different icons according to the value detected from the Flame Sensor. If no source of fire being detected, the returned value is 0 and it shows a smile; or it shows other icons. 
 
 ![](./images/04003_2.png)
 
@@ -51,10 +56,10 @@ You can also download it below directly:
 
 
 ### Result
-- If no source of fire being detected, it shows a smile; or it shows other icons. 
+ If no source of fire being detected, it shows a smile; or it shows other icons. 
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

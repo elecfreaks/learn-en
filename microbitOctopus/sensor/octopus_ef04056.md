@@ -1,18 +1,21 @@
 # Octopus 0.36'' Segment LED Brick(EF04056)
 
 ## Introduction
----
+
 
 ![](./images/04056_1.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus 0.36'' Segment LED Brick](https://www.elecfreaks.com/octopus-0-36-segment-led-brick.html)
 
 ## Characteristics 
----
 
-- Support driving micro:bit in 3V.
+
+ Support driving micro:bit in 3V.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,12 +27,12 @@ Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimensions
----
+
 
 
 
 ## Quick to Start 
----
+
 
 ### Materials Required and Connection Diagram
 
@@ -55,7 +58,7 @@ Click "Extensions" to search "TM1637" in the dialogue box and then download it.
 
 
 ### Programme as the picture shows
-- The numbers display on the led screen.
+ The numbers display on the led screen.
 
  
 
@@ -75,10 +78,10 @@ You can also download it below directly:
 
 
 ### Result
-- The setting numbers display on the led screen.
+ The setting numbers display on the led screen.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

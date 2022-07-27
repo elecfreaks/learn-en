@@ -1,17 +1,19 @@
 # Octopus Analog Photocell Brick Adjustable Sensitivity(EF10044)
 
 ## Introduction
----
+
 Adjustable sensitivity Analog Photocell Brick allow you to adjust sensitivity of analog Photocel to get digital signal or set a trigger value. 
 
  ![](./images/nJi2xZe.jpg)
 
+
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
+
+ The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -21,15 +23,15 @@ Working Temperature|-20-70℃
 Working Voltage|3.3-5V
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/ZpGNMav.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
-- Connect to the P1 port 
+ Connect to the P1 port 
 
   ***Take sensor:bit for example***
 
@@ -56,10 +58,10 @@ You can also download the links below:
 
 
 ### Result
-- The value of the illumination sensitivity is showing on the micro:bit.
+ The value of the illumination sensitivity is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

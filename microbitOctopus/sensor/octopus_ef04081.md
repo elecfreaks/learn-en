@@ -1,18 +1,25 @@
 # Octopus Analog Noise Sound Sensor Detection Module(EF04081) 
 
 ## Introduction
----
+
 Octopus Analog Noise Sound Sensor Detection Module  is particularly sensitive to sound intensity, and it can be used to detect ambient sound level.
 
- ![](./images/hP4azP5.png)
+ ## Products Link
+
+[ELECFREAKS Octopus TMP36 Temperature Sensor](https://www.elecfreaks.com/octopus-temperature-sensor-brick-tmp36-analog-for-arduino-micro-bit.html)
+![](./images/hP4azP5.png)
+
+## Products Link
+
+[ELECFREAKS Octopus Analog Noise Sensor](https://www.elecfreaks.com/octopus-analog-noise-sound-sensor-detection-module.html)
 
 ## Characteristics
----
+
 
 The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,11 +29,11 @@ Sine Wave|Loud noise brings greater output sine wave
 
 
 ## Outlook and Dimensions
----
+
  ![](./images/uPRIFLt.png)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 
 Connect to the P1 port 
@@ -54,10 +61,10 @@ ou can also download the links below:
 
 
 ### Result
-- The dB is showing on the micro:bit.
+ The dB is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

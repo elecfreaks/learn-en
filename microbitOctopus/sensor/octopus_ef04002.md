@@ -1,20 +1,26 @@
 # Octopus Hunt Sensor(EF04002) 
 
 ## Introduction
----
-- Octopus Hunt Sensor is a sensor based on TCRT5000 photoelectric sensitive element.It can sensitively detect the infrared reflected signal. 
+
+ Octopus Hunt Sensor is a sensor based on TCRT5000 photoelectric sensitive element.It can sensitively detect the infrared reflected signal. 
 
  ![](./images/H1J5LWu.jpg)
 
+
+## Products Link
+
+[ELECFREAKS Octopus Hunt Sensor](https://www.elecfreaks.com/octopus-hunt-sensor.html)
+
+
 ##  Characteristics
----
 
 
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+
+ The 3-pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -27,12 +33,12 @@ Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/ktk6q7u.png)
 
 ## Quick to Start
----
+
 ### Materials used and connection diagram
 Connect to the P1 port as the picture shows
 
@@ -42,9 +48,9 @@ Take sensor:bit for example
 
 Program as the picture shows
 
-- Set the P1 port to a higher level to initialize the module.
-- If any object is detected, the value is 0 and the the digital read pins is 0, the icon is shown on the screen.
-- Or it shows a box.
+ Set the P1 port to a higher level to initialize the module.
+ If any object is detected, the value is 0 and the the digital read pins is 0, the icon is shown on the screen.
+ Or it shows a box.
 
  ![](./images/99rRrZp.png)
 
@@ -59,11 +65,11 @@ You can also download it directly below:
 
 ### Result
 
-- If put 9mm away from the black objects,it shows an icon; while 9mm away from the white objects, it shows a box.
+ If put 9mm away from the black objects,it shows an icon; while 9mm away from the white objects, it shows a box.
 
 ## Relevant Cases
----
+
 
 
 ## Technique Files
----
+

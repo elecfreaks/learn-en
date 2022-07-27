@@ -1,24 +1,28 @@
 # Octopus PM2.5 module(EF04090)
 
 ## Introduction
----
+
 PM2.5 Electronic brick is one of the modules in OCTOPUS series to test the PM2.5 concentration . Based on ZH03 laser dust sensors, it can test the dust particle in the air with high consistency and stability. The PWM output and serial port design also make it easily to operate.
 
 ![](./images/a1gLsct.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus PM2.5 Module](https://www.elecfreaks.com/octopus-pm2-5-module.html)
+
 ## Characteristic
----
--  It is compatible to both 3V/5V devices.
-- It is compatible to micro:bit or Arduino products.
-- It is equipped with standard 3 wires GVS interface.
-- It is of high consistency and accuracy with a real time response, the 0.3 μm diameter particle can be recognized.
-- With PWM output and serial port supported.
+
+  It is compatible to both 3V/5V devices.
+ It is compatible to micro:bit or Arduino products.
+ It is equipped with standard 3 wires GVS interface.
+ It is of high consistency and accuracy with a real time response, the 0.3 μm diameter particle can be recognized.
+ With PWM output and serial port supported.
 
 ## Parameter
----
+
 
 |         Item          |       Parameter        |
-| :-------------------: | :--------------------: |
+| :-: | :-: |
 |         Name          | PM2.5 Electronic brick |
 |          SKU          |        EF04090         |
 |        Version        |          V1.2          |
@@ -31,15 +35,15 @@ PM2.5 Electronic brick is one of the modules in OCTOPUS series to test the PM2.5
 |      Net Weight       |         46.30g         |
 
 ## Outlook and Dimension for Installment
----
+
 ![](./images/dbSMKyl.png)
 
 ## Diagram for Pins Connector
----
+
 ![](./images/MPjcy9E.png)
 
 ## Introduction to Main Function Modules
----
+
 ### ZH03B Sensor
 
 ![](./images/B6tTW6k.png)
@@ -59,7 +63,7 @@ With standard 3PIN electronic brick interfaces, "S" is the output pin for 3.3V P
 The output interfaces are used for 3.3V serial signal.
 
 ## Quick Start
----
+
 ### Hardware Connection
  Connect PM2.5 electronic brick module to P1 port on micro:bit with a micro:bit expansion board.
 ![](./images/icDTCQO.png)
@@ -87,4 +91,4 @@ The complete program is below: [https://makecode.microbit.org/_4TvKWEihahzh](htt
  The value of PM2.5 is scrolling displaying on the 5x5 screen with μg/m3 as a unit.
 
 ## FAQ
----
+

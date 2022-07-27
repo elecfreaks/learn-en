@@ -1,20 +1,25 @@
 # Octopus Tilt Sensor(EF04001) 
 
 ## Introduction
----
 
-- The Tilt sensor is to measure the  levelness of the object based on the tilt switch.
-- ![](./images/PkfGPNo.jpg)
+
+ The Tilt sensor is to measure the  levelness of the object based on the tilt switch.
+ ![](./images/PkfGPNo.jpg)
+
+
+## Products Link
+
+[ELECFREAKS Octopus Tilt Sensor](https://www.elecfreaks.com/octopus-tilt-sensor.html)
 
 ## Characteristics
----
 
 
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+
+ The 3-pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -28,13 +33,13 @@ Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimensions
----
+
  ![](./images/MOM6IH7.jpg)
 
 ## Quick to Start
----
+
 ### Connection diagram
-- Connect to P1 port as the picture shows.
+ Connect to P1 port as the picture shows.
 
 Take sensor:bit for example
 
@@ -44,9 +49,9 @@ Take sensor:bit for example
 
 Program as the picture shows
 
-- Set the P1 port to a higher level to initialize the module.
-- If the detected value is 0 and the the digital read pins is 0, the icon is shown on the screen.
-- Or it shows a box.
+ Set the P1 port to a higher level to initialize the module.
+ If the detected value is 0 and the the digital read pins is 0, the icon is shown on the screen.
+ Or it shows a box.
 
  ![](./images/tVmLSAJ.png)
 
@@ -60,10 +65,10 @@ You can also download it directly below:
 
 
 ### Result
-- When the tilt angel is changed,  the icon or rectangle is shown on the micro:bit.
+ When the tilt angel is changed,  the icon or rectangle is shown on the micro:bit.
 
 ## Relevant Cases 
----
+
 
 ## Technique Files
----
+

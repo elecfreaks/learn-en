@@ -1,17 +1,21 @@
 # Octopus Light Sensor(EF04092)
 
 ## Introduction
----
-- Octopus Light Sensor Brick can detect the light value of the current environment. It is in a small volume with a low power consumption and it is very easy to operate with good performance.
+
+ Octopus Light Sensor Brick can detect the light value of the current environment. It is in a small volume with a low power consumption and it is very easy to operate with good performance.
 
 ![](./images/04092_01.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Light Sensor](https://www.elecfreaks.com/octopus-light-sensor.html)
+
 ## Characteristics
----
+
 
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,15 +28,15 @@ Circuit|Simple drive circuit
 Stability|Stable and durable
 
 ## Outlook and Dimension
----
+
 
  ![](./images/cdNd1Kw.png)
 
 ## Quick to Start
----
+
 
 ### Materials required and connections diagram 
-- Connect to P1 port as the picture shows. 
+ Connect to P1 port as the picture shows. 
 
 ![](./images/04092_02.png)
 ### Program as the picture shows 
@@ -59,10 +63,10 @@ You can also download it directly:
 
 
 ### Result
-- If the light intensity is below 50, it shows the specified icons or it shows a "smile" face.
+ If the light intensity is below 50, it shows the specified icons or it shows a "smile" face.
 
 ## Relevant Cases
----
+
 
 ## Technical Files
----
+

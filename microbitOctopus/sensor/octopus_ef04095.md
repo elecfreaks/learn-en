@@ -1,42 +1,45 @@
 # Octopus Water-proof Temperature Sensor(EF04095)
 
 ## Introduction
----
-- This sensor is a tempeterature detector used to test the liquid temperature based on 18b20.
+
+ This sensor is a tempeterature detector used to test the liquid temperature based on 18b20.
 
  ![](./images/04095_0.jpg)
+## Products Link
+
+[ELECFREAKS Octopus Waterproof Temperature Sensor (DS18B20)](https://www.elecfreaks.com/octopus-waterproof-ds18b20-temperature-sensor.html)
 
 ## Characteristics
----
 
-- Standard 3-pin GVS ports is easy to plug.
-- 3V working voltage can drive the micro:bit.
-- Water-proof design makes it possible to use in the liquid.
+
+ Standard 3-pin GVS ports is easy to plug.
+ 3V working voltage can drive the micro:bit.
+ Water-proof design makes it possible to use in the liquid.
 
 ## Specification
----
 
-- SKU：EF04095
-- Working Voltage：DC 3.0V
-- Power Supply：3v-5v
-- Connector Type：Analog
-- Length of water-proof detector：1m
-- Pins Definition：1-Signal 2-VCC 3-GND
-- Response：Quick to response and high sensiivity
-- Circuit：Simple drive circuit 
-- Stability：Stable and durable
+
+ SKU：EF04095
+ Working Voltage：DC 3.0V
+ Power Supply：3v-5v
+ Connector Type：Analog
+ Length of water-proof detector：1m
+ Pins Definition：1-Signal 2-VCC 3-GND
+ Response：Quick to response and high sensiivity
+ Circuit：Simple drive circuit 
+ Stability：Stable and durable
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/04095_1.jpg)
 
 
 ## Quick to Start
----
+
 ### Connection Diagram
 
-- Connect to the P1 port of the extension board.
+ Connect to the P1 port of the extension board.
 
  ![](./images/04095_2.png)
 
@@ -64,10 +67,10 @@ You can also download it directly:
 
 ### Results
 
-- The current temperature value is showing on the micro:bit.
+ The current temperature value is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

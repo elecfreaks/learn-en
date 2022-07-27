@@ -1,21 +1,25 @@
 # Octopus Analog Photocell Brick OBPhotocell(EF04032) 
 
 ## Introduction
----
+
 Photocells are sensors that allow you to detect light. They are small, inexpensive, low-power, easy to use and don't wear out. For that reason they often appear in toys, gadgets and appliances. 
 
  ![](./images/sCid5Hu.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Analog Photocell Brick](https://www.elecfreaks.com/octopus-analog-photocell-brick-obphotocell.html)
+
 ## Characteristics
----
-- Photocells are basically a resistor that changes its resistive value (in ohms Ω) 
-- They have a low cost which is also friendly to the environment.
-- Each photocell sensor will act a little differently than the other, even if they are from the same batch.
--  For this reason, they shouldn't be used to try to determine precise light levels in lux or millicandela. Instead, you can expect to only be able to determine basic light changes.
-- The 3-pins ports is easy to plug and play.
+
+ Photocells are basically a resistor that changes its resistive value (in ohms Ω) 
+ They have a low cost which is also friendly to the environment.
+ Each photocell sensor will act a little differently than the other, even if they are from the same batch.
+  For this reason, they shouldn't be used to try to determine precise light levels in lux or millicandela. Instead, you can expect to only be able to determine basic light changes.
+ The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -28,16 +32,16 @@ Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/cdNd1Kw.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
@@ -57,9 +61,9 @@ You can also download the links below:
 
 
 ### Result
-- While the light intensity is over 700, an icon is showing on the micro:bit; or a rectangle is showing on the micro:bit.
+ While the light intensity is over 700, an icon is showing on the micro:bit; or a rectangle is showing on the micro:bit.
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

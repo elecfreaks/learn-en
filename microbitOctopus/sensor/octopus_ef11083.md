@@ -1,17 +1,23 @@
 # Octopus Dust Sensor Detector Module with Sharp GP2Y1010AU0F(EF11083)
 
 ## Introduction
----
+
 Octopus Dust Sensor Detector Module with Sharp GP2Y1010AU0F adopts Sharp optical dust sensor(GP2Y1010AU0F). It is used to detect the density of  dust particle with diameter beyond 0.8μm such as cigarette smoke.
+
+
 
  ![](./images/Y1K9tuE.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Dust Sensor (Sharp GP2Y1010AU0F)](https://www.elecfreaks.com/octopus-dust-sensor-detector-module-with-sharp-gp2y1010au0f.html)
+
 ## Characteristics
----
+
 The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -28,17 +34,17 @@ Fixed Hole Size|2.0mm
 Vent Hole Size|9.0mm
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/Vo0h74k.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
 
-- Connect the LED to P2 port and the out port to P1 port as the picture shows.
+ Connect the LED to P2 port and the out port to P1 port as the picture shows.
 
 ***Take sensor:bit for example***
 
@@ -70,10 +76,10 @@ You can also download the links below:
 
 
 ### Result
-- The current value of the smoke level is showing on the micro:bit.
+ The current value of the smoke level is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

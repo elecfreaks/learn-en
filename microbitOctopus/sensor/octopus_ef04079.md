@@ -1,18 +1,24 @@
 # Octopus Temperature Sensor Brick TMP36(EF04079)
 
 ## Introduction
----
+
 Octopus TMP36 Temperature Sensor Brick is a temperature sensor with low voltage and accurate Celsius read. It can provide voltage output,which forms a linear relationship with Celsius temperature.
 
  ![](./images/zqYYROQ.jpg)
 
+
+## Products Link
+
+[ELECFREAKS Octopus TMP36 Temperature Sensor](https://www.elecfreaks.com/octopus-temperature-sensor-brick-tmp36-analog-for-arduino-micro-bit.html)
+
+
 ## Characteristics
----
+
 
 The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -27,12 +33,12 @@ Static Current|Below 50μA
 Turn Off Current|Max 0.5μA
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/e5NlyhB.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
@@ -69,10 +75,10 @@ You can also download the links below:
 
 
 ### Result
-- The current temperature is showing on the micro:bit.
+ The current temperature is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

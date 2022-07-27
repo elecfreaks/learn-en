@@ -1,18 +1,22 @@
 # Octopus Temperature And Humidity Sensor(EF04019) 
 
 ## Introduction
----
-- Temperature and humidity sensor is a module based on DHT11 digital temperature and humidity sensing element. It is sensitive to the ambient temperature and humidity changes and can be used for temperature alarm, humidity testing and other works.
+
+ Temperature and humidity sensor is a module based on DHT11 digital temperature and humidity sensing element. It is sensitive to the ambient temperature and humidity changes and can be used for temperature alarm, humidity testing and other works.
 
  ![](./images/b4CeLwq.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus Temperature And Humidity Sensor](https://www.elecfreaks.com/octopus-temperature-and-humidity-sensor.html)
+
 ## Characteristics
----
+
 The 3-pins ports is easy to plug and play.
 
 
 ## Specifications
----
+
 
 Item  | Parameter 
 :-: | :-: 
@@ -27,33 +31,33 @@ Service Life|Long(Stable and durable)
 
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/aQIDnpP.png)
 
 ## Quick to Start
----
+
 
 ### Connection diagram
-- Connect to P1 port as the picture shows.
+ Connect to P1 port as the picture shows.
 
 Take sensor:bit for example
 
  ![](./images/jxvVgcK.png)
 
 ### Add Package
-- Click "Advanced"in the choice of the MakeCode to find more choices.
+ Click "Advanced"in the choice of the MakeCode to find more choices.
 
  ![](./images/smtcNoB.png)
 
 
 
-- Click "Extensions", search "iot"in the dialog box and then download the "iot-environment-kit".
+ Click "Extensions", search "iot"in the dialog box and then download the "iot-environment-kit".
 
  ![](./images/IAZrNAy.png)
 
 ### Program as the picture shows
-- The current temperature value is showing on the micro:bit.
+ The current temperature value is showing on the micro:bit.
 
  ![](./images/BOELw4G.png)
 
@@ -66,10 +70,10 @@ You can also download the links below:
 
 
 ### Result
-- The temperature value is scrolling on the micro:bit.
+ The temperature value is scrolling on the micro:bit.
 
 ## Relevant Cases
---
+
 
 ## Technique Files
---
+

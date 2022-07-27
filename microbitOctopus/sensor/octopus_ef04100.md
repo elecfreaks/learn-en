@@ -1,7 +1,7 @@
 # MG811 CO2 Gas Sensor(EF04100)
 
 ## Introduction
----
+
 Octopus MG811 CO2 Gas Sensor is a CO2 electronic brick in our OCTOPUS series, the basic design for the outlook, PCB fixing holes and connections are the same with them.
 
 The higher the CO2concentration is, the lower the output voltage would be. The users can read the CO2 value easily after checking our brochures and coding samples.
@@ -10,39 +10,43 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 
 ***Caution：***
 
-- The module belongs to electrochemistry CO2 and the probe heats itself when working, please do not touch in case of getting hurt.
-- Please make a seal preservation while the sensor is not in use in case of the probe getting “poisoned” due to the long time exposure in the air or you have to heating continuously another 48 hours to activate it!
-- The MG-811 probe belongs to the category of electrochemistry sensor, please make a proving operation for it before using to get an accurate value.
+ The module belongs to electrochemistry CO2 and the probe heats itself when working, please do not touch in case of getting hurt.
+ Please make a seal preservation while the sensor is not in use in case of the probe getting “poisoned” due to the long time exposure in the air or you have to heating continuously another 48 hours to activate it!
+ The MG-811 probe belongs to the category of electrochemistry sensor, please make a proving operation for it before using to get an accurate value.
 
 ![](./images/04100_00.jpg)
+## Products Link
+
+[ELECFREAKS Octopus CO2 Gas Sensor (MG811)](https://www.elecfreaks.com/octopus-mg811-co2-gas-sensor.html)
+
 
 ## Characteristic
----
 
-- Working voltage of the probes: 6v
-- With booster circuit inbuilt, it supports input DC 3.7~5V and the current over 500mA.
-- OCTOPUS electronic bricks.
-- Easy connection.
+
+ Working voltage of the probes: 6v
+ With booster circuit inbuilt, it supports input DC 3.7~5V and the current over 500mA.
+ OCTOPUS electronic bricks.
+ Easy connection.
 
 ## Parameter
----
 
-- Item:  MG811 CO2 Gas Sensor
-- SKU：EF04100
-- Working Voltage: DC 3.7~5v
-- Connection Mode: G-GND，V-VCC，S-pin signals
-- Size: 31 * 48mm
-- Net Weight: 9.6g
+
+ Item:  MG811 CO2 Gas Sensor
+ SKU：EF04100
+ Working Voltage: DC 3.7~5v
+ Connection Mode: G-GND，V-VCC，S-pin signals
+ Size: 31 * 48mm
+ Net Weight: 9.6g
 
 ## Outlook and Dimension
----
+
 
 ![](./images/04100_02.png)
 
 ## Quick to Start
----
+
 ## Materials Required and Connection Diagram
-- Connect CO2 sensor to P1on the breakout board as the picture shows.
+ Connect CO2 sensor to P1on the breakout board as the picture shows.
 
 ***Take iot：bit for an example***
 
@@ -61,11 +65,11 @@ You may also download it directly below:
 
 
 ### Result
-- After connecting the hardware, please preheating it for 3 minutes, and please operate it with the probe approaching to the detected gas only if you get a stable value. 
-- With the concentration of the CO2 changed in its surroundings, the value on the micro:bit led shall change accordingly.
+ After connecting the hardware, please preheating it for 3 minutes, and please operate it with the probe approaching to the detected gas only if you get a stable value. 
+ With the concentration of the CO2 changed in its surroundings, the value on the micro:bit led shall change accordingly.
 
 ## Python Programming
----
+
 
 
 ### Step 1
@@ -93,7 +97,7 @@ while True:
 
 
 ### Result
-- The detected value displays on the micro:bit. 
+ The detected value displays on the micro:bit. 
 
 ###  Hardware
 
@@ -178,7 +182,7 @@ void loop()
 }
 
 /*****************************  MGRead *********************************************
-Input:   mg_pin - analog channel
+Input:   mg_pin  analog channel
 Output:  output of SEN-000007
 Remarks: This function reads the output of SEN-000007
 ************************************************************************************/ 
@@ -196,8 +200,8 @@ float MGRead(int mg_pin)
 }
 
 /*****************************  MQGetPercentage **********************************
-Input:   volts   - SEN-000007 output measured in volts
-         pcurve  - pointer to the curve of the target gas
+Input:   volts    SEN-000007 output measured in volts
+         pcurve   pointer to the curve of the target gas
 Output:  ppm of the target gas
 Remarks: By using the slope and a point of the line. The x(logarithmic value of ppm) 
          of the line could be derived if y(MG-811 output) is provided. As it is a 
@@ -220,4 +224,4 @@ int  MGGetPercentage(float volts, float *pcurve)
 Open the serial monitor and you should get the data of the CO2 concentration 5 minutes later. 
 
 ## FAQ
----
+

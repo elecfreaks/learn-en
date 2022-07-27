@@ -1,19 +1,23 @@
 # Octopus Soil Moisture Sensor Brick(EF04027) 
 
 ## Introduction
----
-- Octopus Soil Moisture Sensor Brick can read the amount of moisture present in the soil surrounding it.
+
+ Octopus Soil Moisture Sensor Brick can read the amount of moisture present in the soil surrounding it.
 
  ![](./images/6eULTGI.jpg)
 
-## Characteristics
----
+## Products Link
 
-- The 3-pins ports is easy to plug and play.
-- It can work with micro:bit in 3V. 
+[ELECFREAKS Octopus Soil Moisture Sensor](https://www.elecfreaks.com/octopus-soil-moisture-sensor-brick.html)
+
+## Characteristics
+
+
+ The 3-pins ports is easy to plug and play.
+ It can work with micro:bit in 3V. 
 
 ## Specifications
----
+
 
 Item |  Parameter               
 :-: | :-: 
@@ -26,34 +30,34 @@ Circuit|Simple
 Stability|Stable and durable
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/fNkBc5w.png)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
  ![](./images/gcLtAb7.png)
 
-- ### Add Package
+ ### Add Package
 
   Click "Advanced"in the choice of the MakeCode to find more choices.
 
  ![](./images/smtcNoB.png)
 
-- Click "Extensions", search "iot"in the dialog box and then download it.
+ Click "Extensions", search "iot"in the dialog box and then download it.
 
  ![](./images/AaZxCEb.jpg)
 
  ![](./images/KBD2b39.png)
 
 ### Program as the picture shows
-- The soil moisture is showing on the micro:bit circularly.
+ The soil moisture is showing on the micro:bit circularly.
 
  ![](./images/RH35ccB.png)
 
@@ -65,10 +69,10 @@ You can also download the links below:
 
 
 ### Result
-- The soil moisture is showing on the micro:bit after inserting the module into the soil.
+ The soil moisture is showing on the micro:bit after inserting the module into the soil.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

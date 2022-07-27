@@ -5,6 +5,11 @@ RFID sensor uses the wireless radio frequency method to read and write to the re
 
 ![](./images/04105_01.png)
 
+## Products Link
+
+[ELECFREAKS Octopus RFID](https://www.elecfreaks.com/octopus-rfid.html)
+
+
 ## Characteristics
 
 The three pins GVS design is easy to plug and play. 

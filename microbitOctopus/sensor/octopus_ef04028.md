@@ -1,16 +1,22 @@
 # MQ2 Analog Gas Sensor Brick(EF04028)
 
 ## Introduction
----
- The analog gas sensor - MQ2 is used in gas leakage detecting equipments in consumer and industry markets, this sensor is suitable for detecting LPG, i-butane, propane, methane ,alcohol, hydrogen, smoke. It is of high sensitivity and fast response, the sensitivity can be adjusted by the potentiometer.
+
+ The analog gas sensor  MQ2 is used in gas leakage detecting equipments in consumer and industry markets, this sensor is suitable for detecting LPG, i-butane, propane, methane ,alcohol, hydrogen, smoke. It is of high sensitivity and fast response, the sensitivity can be adjusted by the potentiometer.
 
 ![](./images/04028_01.png)
 
+
+## Products Link
+
+[ELECFREAKS Octopus Smoke Sensor MQ-2 Brick](https://www.elecfreaks.com/octopus-smoke-sensor-mq-2-brick-obmq2.html)
+
+
 ## Characteristics 
----
-- Standard 3-pin GVS port is easy to plug. 
+
+ Standard 3-pin GVS port is easy to plug. 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,19 +30,19 @@ Size|38x27mm
 Size：
 
 ## Outlook and Dimension
----
+
 
 
 ![](./images/04028_02.png)
 
 
 ## Quick to Start 
----
+
 
 ### Materials required and connections diagram 
 
 
-- Connect to P1 port as the picture shows. 
+ Connect to P1 port as the picture shows. 
 
 ***Take sensor:bit for example***
 
@@ -59,10 +65,10 @@ You can also download it directly below:
 
 
 ### Result
-- Preheat it for 10 minutes after connections, detect the smoke by approaching the probes to the smoke while the returned value is almost stable. 
-- With the change of the smoke, the returned value gets bigger with the growing of the smoke concentration.
+ Preheat it for 10 minutes after connections, detect the smoke by approaching the probes to the smoke while the returned value is almost stable. 
+ With the change of the smoke, the returned value gets bigger with the growing of the smoke concentration.
 ## Relevant Cases
----
+
 
 ## Technical File
----
+

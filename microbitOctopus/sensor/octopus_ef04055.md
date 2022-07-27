@@ -1,17 +1,21 @@
 # Octopus PIR Sensor Brick(EF04055)
 
 ## Introduction
----
+
 OCTOPUS PIR Sensor module is a type of electronic building block based on AM412 pyroelectric digital smart sensor. It can be used in sensing and detection of human or animal motion, sensing distance is about 4-5 meters.
 
  ![](./images/j1VO7pH.jpg)
 
+## Products Link
+
+[ELECFREAKS Octopus PIR Sensor Brick](https://www.elecfreaks.com/octopus-pir-sensor-brick.html)
+
 ## Characteristics
----
-- The 3-pins ports is easy to plug and play.
+
+ The 3-pins ports is easy to plug and play.
 
 ## Specifications
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -28,16 +32,16 @@ Size|32.00mm×24.00mm
 
 
 ## Outlook and Dimensions
----
+
 
  ![](./images/Ok6fmjF.jpg)
 
 ## Quick to Start
----
+
 
 ### Materials used and connection diagram
 
-- Connect to the P1 port as the picture shows
+ Connect to the P1 port as the picture shows
 
   Take sensor:bit for example
 
@@ -62,10 +66,10 @@ You can also download the links below:
 
 
 ### Result
-- If there is object approaching, an icon is showing on the micro:bit; while taking away the object, a rectangle is showing on the micro:bit.
+ If there is object approaching, an icon is showing on the micro:bit; while taking away the object, a rectangle is showing on the micro:bit.
 
 ## Relevant Cases
----
+
 
 ## Technique Files
----
+

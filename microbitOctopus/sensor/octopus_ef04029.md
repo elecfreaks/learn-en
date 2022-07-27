@@ -1,16 +1,20 @@
 # MQ5 Analog Gas Sensor Brick(EF04029)
 
 ## Introduction
----
+
 MQ-5 Gas sensor has a good sense to liquefied gas, natural gas and coal gas that are widely used in cities, but it doesn't work on ethanol or smoke. 
 
 ![](./images/04029_01.png)
 
+## Products Link
+
+[ELECFREAKS Octopus Smoke Sensor MQ-5 Brick](https://www.elecfreaks.com/octopus-gas-sensor-mq-5-brick-obmq5.html)
+
 ## Characteristics
----
-- Standard 3-pin GVS port is easy to plug. 
+
+ Standard 3-pin GVS port is easy to plug. 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,18 +27,18 @@ Size|38x27mm
 
 
 ## Outlook and Dimension
----
+
 
 ![](./images/04029_02.png)
 
 
 ## Quick to Start
----
+
 
 ### Materials required and connections diagram 
 
 
-- Connect to P1 port as the picture shows. 
+ Connect to P1 port as the picture shows. 
 
 ***Take sensor:bit for example***
 
@@ -63,10 +67,10 @@ You can also download it directly below:
 
 
 ### Result
-- Preheat it for 3 minutes after connections, detect the gas by approaching the probes to the gas while the returned value is almost stable. 
-- With the change of the Carbon Monoxide's concentration, the returned value gets bigger with the growing of it.
+ Preheat it for 3 minutes after connections, detect the gas by approaching the probes to the gas while the returned value is almost stable. 
+ With the change of the Carbon Monoxide's concentration, the returned value gets bigger with the growing of it.
 ## Revelent Case
----
+
 
 ## Technical File
----
+
