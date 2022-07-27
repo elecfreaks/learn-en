@@ -69,7 +69,7 @@ while True:
 
 The car runs along with a square-like routine. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YRX2vkj1jmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htsOxCZe_Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exploration
 
