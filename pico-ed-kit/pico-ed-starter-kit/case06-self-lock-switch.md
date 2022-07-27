@@ -62,7 +62,7 @@ You would see as below after you finish the connection:
 ![](./images/zisuo.png)
 
 ## Software Programming
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 
 ```python
@@ -85,19 +85,19 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 from digitalio import *
 ```
 
-2. Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
+2.Set the pins used by the breadboard shield to connect the LEDs and the pin orientation.
 ```python
 led = DigitalInOut(board.P2_A2)
 led.direction = Direction.OUTPUT
 ```
 
-3. Set the pins used by the breadboard expansion board to connect the self-lock switch and the pin direction.
+3.Set the pins used by the breadboard expansion board to connect the self-lock switch and the pin direction.
 ```python
 locking = DigitalInOut(board.P0_A0)
 locking.direction = Direction.INPUT
@@ -120,7 +120,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-4. Use an infinite loop to set the state of the LED light to the state of the self-lock switch. Pressing and pressing the self-locking switch will change the state, as will the state of the LED light.
+4.Use an infinite loop to set the state of the LED light to the state of the self-lock switch. Pressing and pressing the self-locking switch will change the state, as will the state of the LED light.
 ```python
 while True:
     led.value = locking.value
