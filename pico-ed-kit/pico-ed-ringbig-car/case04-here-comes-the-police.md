@@ -123,7 +123,7 @@ while True:
 Press button A, the car stops moving and the light keeps changing;
 
 Press button B, the car moves forward at the full speed with the LEDs on the bottom board keeps flashing in different colors. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-gWBk3IHrqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ACq1lhTegU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exploration
 
