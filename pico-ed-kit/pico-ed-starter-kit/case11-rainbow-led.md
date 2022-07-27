@@ -59,7 +59,7 @@ Connect your components according to the picture below:
 
 ### Software Programming
 
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -86,7 +86,7 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings. The `random` module contains functions that provide to create random numbers。 The `neopixel_write`  module contains a helper method to write out the bytes in the 800khz neopixel protocol.
+1.Support modules are required by the importer. The `board` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings. The `random` module contains functions that provide to create random numbers。 The `neopixel_write`  module contains a helper method to write out the bytes in the 800khz neopixel protocol.
 ```python
 import board
 import random
@@ -95,7 +95,7 @@ import digitalio
 import time
 ```
 
-2. Set the pins and pin direction of the 8 RGB Rainbow LED Ring
+2.Set the pins and pin direction of the 8 RGB Rainbow LED Ring
 ```python
 pin = digitalio.DigitalInOut(board.P0_A0)
 pin.direction = digitalio.Direction.OUTPUT
@@ -117,12 +117,12 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Initialization list for storing the RGB values of the light ring
+3.Initialization list for storing the RGB values of the light ring
 ```python
 rings = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
 
-4. Cyclically change the RGB value of each light in the colorful light ring
+4.Cyclically change the RGB value of each light in the colorful light ring
 ```python
 while True:
     for i in range(len(rings)):
