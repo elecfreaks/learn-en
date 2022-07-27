@@ -56,7 +56,7 @@ Connect the Sonar:bit to the [Ring:bit](https://www.elecfreaks.com/elecfreaks-mi
 
 ## Programming
 
-Preparation for Programming: [Info](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+Preparation for Programming: [Info](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 
 ### Samples Code
 
@@ -78,18 +78,18 @@ while True:
 ```
 ### Details of the program
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations.
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations.
 ```python
 import board
 from ringbit import *
 ```
 
-2. Set the pins of the servos
+2.Set the pins of the servos
 ```python
 ringbit = Ringbit(board.P1, board.P2)
 ```
 
-3. While true, set the speed to be controlled by the distance value given by the sonar:bit
+3.While true, set the speed to be controlled by the distance value given by the sonar:bit
 ```python
 while True:
     if ringbit.get_distance(board.P0, Unit.cm) > 20:
