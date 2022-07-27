@@ -14,7 +14,7 @@ Connect the left wheel servo to P1 of the [Ring:bit](https://www.elecfreaks.com/
 
 ## Software Programming
 
-You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+You should prepare the programming platform ready, if not, please can refer to this essay: [Preparation for programming](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 
 ### Sample Projects
 
