@@ -45,7 +45,7 @@ The first step is to insert this module to the baseboard of the [Ring:bit](https
 
 ## Programming
 ---
-Preparation for Programming: [Info](https://www.yuque.com/elecfreaks-learn/picoed/gxro38)
+Preparation for Programming: [Info](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 
 ### Sample Code
 
@@ -77,7 +77,7 @@ while True:
 
 ### Details of the Code
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations, the `time` module contains functions for time operations.
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations, the `time` module contains functions for time operations.
 
 ```python
 import board
@@ -85,17 +85,17 @@ from ringbit import *
 from time import *
 ```
 
-2. Set the pins of both wheels
+2.Set the pins of both wheels
 ```python
 ringbit = Ringbit(board.P1, board.P2)
 ```
 
-3. Set the speed of the car
+3.Set the speed of the car
 ```python
 ringbit.set_speed(100, 100)
 ```
 
-4. Read the value from the line-following sensor and set the value of speed according to the value. 
+4.Read the value from the line-following sensor and set the value of speed according to the value. 
 ```python
 while True:
     value = ringbit.get_tracking(board.P0)
