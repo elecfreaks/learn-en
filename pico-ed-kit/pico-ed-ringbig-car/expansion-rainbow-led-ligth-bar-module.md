@@ -46,7 +46,7 @@ First, insert this module to the baseboard of the [Ring:bit](https://www.elecfre
 
 ## Programming
 
-Preparation for programming: [Introduction](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+Preparation for programming: [Introduction](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 
 ### Sample Code
 
@@ -78,7 +78,7 @@ while True:
 
 ### Details of the Program: 
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations, the `time` module contains functions for time operations, the `digitalio` module contains classes for basic digital IO access, the `neopixel_write` module contains functions for strip operations, and the `random` module contains functions that can return random numbers
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations, the `time` module contains functions for time operations, the `digitalio` module contains classes for basic digital IO access, the `neopixel_write` module contains functions for strip operations, and the `random` module contains functions that can return random numbers
 ```python
 import board
 from ringbit import *
@@ -88,19 +88,19 @@ from time import *
 from random import *
 ```
 
-2. Set the pins of the servos and the pins and directions of the breakout board. 
+2.Set the pins of the servos and the pins and directions of the breakout board. 
 ```python
 ringbit = Ringbit(board.P1, board.P2)
 pin = DigitalInOut(board.P0)
 pin.direction = Direction.OUTPUT
 ```
 
-3. Set the speed of the car
+3.Set the speed of the car
 ```python
 ringbit.set_speed(100, 100)
 ```
 
-4. While true, change the RGB value of each LED in the light bar to detect if the A\B button is pressed to set the speed of the left and right wheels of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car
+4.While true, change the RGB value of each LED in the light bar to detect if the A\B button is pressed to set the speed of the left and right wheels of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car
 ```python
 while True:
     rings = []
