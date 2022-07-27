@@ -1,19 +1,23 @@
 # Push Button Module(EF05017)
 
 ## Introduction
----
+
 
 The Push button module is able to detect your press action.
 
 ![](./images/05017_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX Button Sensor](https://www.elecfreaks.com/planetx-button.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -25,23 +29,23 @@ Power|3.3V
 
 
 ## Outlook
----
+
 
 
 ![](./images/05017_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Push-button module to J1 port in the Nezha expansion board as the picture shows.
+ Connect the Push-button module to J1 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05017_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -71,10 +75,10 @@ You may also download it directly below:
 
 
 ### Result
-- The icons display on the micro:bit accordingly with the order given by pressing button A or B or A+B. 
+ The icons display on the micro:bit accordingly with the order given by pressing button A or B or A+B. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -112,10 +116,10 @@ while True:
 
 
 ### Result
-- The icons display on the micro:bit accordingly with the order given by pressing button A or B or A+B.
+ The icons display on the micro:bit accordingly with the order given by pressing button A or B or A+B.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

@@ -1,18 +1,21 @@
 # CO2 Gas Sensor(EF05030)
 
 ## Introduction
----
+
 The higher the CO2 concentration is, the lower the output voltage would be. The CO2 probe is made with industrial grade which is high allergic to CO2 and anti-interference to alcohol and CO. 
 
 ![](./images/05030_01.png)
+## Products Link
+
+[ELECFREAKS PlanetX CO2 Sensor](https://www.elecfreaks.com/planetx-co2.html)
 
 ## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,24 +25,24 @@ Type of Connection|Analog output
 Working Voltage|3.3V
 
 ## Outlook
----
+
 
 
 ![](./images/05030_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the CO2 sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the CO2 sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05030_03.png)
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +72,10 @@ You may also download it directly below:
 
 
 ### Result
-- The detected value of the CO2 Gas sensor display on the OLED screen.
+ The detected value of the CO2 Gas sensor display on the OLED screen.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -103,10 +106,10 @@ while True:
 
 
 ### Result
-- The detected value of the CO2 Gas sensor display on the micro:bit.
+ The detected value of the CO2 Gas sensor display on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

@@ -1,18 +1,22 @@
 # PM2.5 Module(EF05028)
 
 ## Introduction
----
+
 PM2.5 module is able to test the PM2.5 concentration in the current environment. Based on ZH03 laser dust sensors, it is able to test the dust particle in the air. 
 
 ![](./images/05028_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX PM2.5 Sensor](https://www.elecfreaks.com/planetx-pm2-5.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,23 +27,23 @@ Working Voltage|3.3V
 
 
 ## Outlook
----
+
 
 
 ![](./images/05028_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the PM2.5 sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the PM2.5 sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05028_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The value detected from the PM2.5 module display on the OLED screen.
+ The value detected from the PM2.5 module display on the OLED screen.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -106,10 +110,10 @@ while True:
 
 
 ### Result
-- The value detected from the PM2.5 module display on the micro:bit.
+ The value detected from the PM2.5 module display on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

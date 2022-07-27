@@ -1,21 +1,25 @@
 # 7-Seg LED Nixietube(EF05026)
 
 ##  Introduction
----
+
 It is able to display the numbers and time and so on. 
 
 ![](./images/05026_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX Segment Sensor](https://www.elecfreaks.com/planetx-segment.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:  
 SKU|EF05026
 Connection|RJ11
 Type of Connection|Digital input
@@ -24,23 +28,23 @@ Core IC|TM1637
 
 
 ## Outlook
----
+
 
 
 ![](./images/05026_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the 7-Seg LED Nixietube to J1 port in the Nezha expansion board as the picture shows.
+ Connect the 7-Seg LED Nixietube to J1 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05026_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -70,10 +74,10 @@ You may also download it directly below:
 
 
 ### Result
-- Set it display 12.34.
+ Set it display 12.34.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -107,10 +111,10 @@ while n < 10000:
 
 
 ### Result
-- The numbers from 0~99999 display on the 7-Seg LED Nixietube.
+ The numbers from 0~99999 display on the 7-Seg LED Nixietube.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

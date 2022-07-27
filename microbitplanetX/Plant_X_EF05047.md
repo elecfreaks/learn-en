@@ -1,20 +1,25 @@
 # RFID Sensor(EF05047)
 
 ## Introduction
----
+
 The RFID sensor uses radio frequency to read and write the recording media (electronic tags or radio frequency cards) to achieve the purpose of identifying targets and data exchange.
 
 ![](./images/05047_01.png)
 
+## Products Link
+
+[ELECFREAKS PlanetX RFID Sensor](https://www.elecfreaks.com/planetx-rfid.html)
+
+
 ## Characteristic
----
-- Design in RJ11 connections, easy to plug.
+
+ Design in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:  
 SKU|EF05047
 Connections|RJ11 4P4C
 Connections type|IIC
@@ -25,25 +30,25 @@ Core IC|PN5321A3
 
 
 ## Outlook and Dimensions 
----
+
 
 
 ![](./images/05047_02.png)
 
 
 ## Quick to Start
----
+
 
 ### Materials Required and Connection Diagram
 
-- Connect the RFID  to the IIC port on Nezha expansion board. 
+ Connect the RFID  to the IIC port on Nezha expansion board. 
 
 
 ![](./images/05047_03.png)
 
 
 ## MakeCode Program
----
+
 
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.

@@ -1,18 +1,22 @@
 # Yellow LED(EF05012)
 
 ## Introduction
----
+
 Yellow LED is usually used as the indicator. 
 
 ![](./images/05012_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX LED-Yellow](https://www.elecfreaks.com/planetx-led-yellow.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 |        Item        |   Parameter    |
 | :----------------: | :------------: |
@@ -23,23 +27,23 @@ Yellow LED is usually used as the indicator.
 |        Size        | 55.8 x 23.8 mm |
 
 ## Outlook
----
+
 
 
 ![](./images/05012_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Yellow LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
+ Connect the Yellow LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05012_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +73,10 @@ You may also download it directly below:
 
 ### Result
 
-- The brightness is adjusted by the potentiometer. 
+ The brightness is adjusted by the potentiometer. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -109,11 +113,11 @@ while True:
 
 ### Result
 
-- LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
+ LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+
 

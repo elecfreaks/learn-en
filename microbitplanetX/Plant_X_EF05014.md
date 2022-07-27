@@ -1,18 +1,22 @@
 # Motor Fan Module(EF05014)
 
 ## Introduction
----
+
 It is a simple motor-drived fan module.
 
 ![](./images/05014_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | 参数 
 :-: | :-: 
@@ -22,23 +26,23 @@ Type of Connection|Analog input
 Working Voltage|3.3V
 
 ## Outlook
----
+
 
 ![](./images/05014_02.png)
 ![](./images/05014_03.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Motor fan module to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
+ Connect the Motor fan module to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05014_04.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -68,10 +72,10 @@ You may also download it directly below:
 
 
 ### Result
-- The rotation speed of the fan is adjusted by the potentiometer. 
+ The rotation speed of the fan is adjusted by the potentiometer. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -107,10 +111,10 @@ while True:
 
 
 ### Result
-- After powering on, the Motor fan module rotates for 3 seconds at the speed of 100% first and then at the speed of 50% for another 3 seconds, and finally stops for 3 seconds. 
+ After powering on, the Motor fan module rotates for 3 seconds at the speed of 100% first and then at the speed of 50% for another 3 seconds, and finally stops for 3 seconds. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

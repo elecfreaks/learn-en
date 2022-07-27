@@ -1,18 +1,21 @@
 # Blue LED(EF05011)
 
 ## Introduction
----
+
 Blue LED is usually used as the indicator. 
 
 ![](./images/05011_01.png)
+## Products Link
+
+[ELECFREAKS PlanetX LED-Blue](https://www.elecfreaks.com/planetx-led-blue.html)
 
 ## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 |        Item        |   Parameter    |
 | :----------------: | :------------: |
@@ -23,23 +26,23 @@ Blue LED is usually used as the indicator.
 |        Size        | 55.8 x 23.8 mm |
 
 ## Outlook
----
+
 
 
 ![](./images/05011_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
 
-- Connect the Blue LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
+ Connect the Blue LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
 
 ![](./images/05011_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -70,10 +73,10 @@ You may also download it directly below:
 
 ### Result
 
-- The brightness is adjusted by the potentiometer. 
+ The brightness is adjusted by the potentiometer. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -110,11 +113,11 @@ while True:
 
 ### Result
 
-- LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
+ LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+
 

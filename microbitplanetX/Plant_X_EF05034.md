@@ -1,18 +1,22 @@
 # RTC Real-time Module(EF05034)
 
 ## Introduction
----
+
 It is a clock module which can achieve counting for year, month, day, hour, minute and second by using the DS1307 clock chip.
 
 ![](./images/05034_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX RTC Sensor](https://www.elecfreaks.com/planetx-rtc.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,17 +28,17 @@ Core IC|DS1307
 
 
 ## Outlook
----
+
 
 
 ![](./images/05034_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the RTC Real-time module to the IIC port and the OLED to another IIC port in the Nezha expansion board as the picture shows.
+ Connect the RTC Real-time module to the IIC port and the OLED to another IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05034_03.png)
@@ -42,7 +46,7 @@ Core IC|DS1307
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -72,10 +76,10 @@ You may also download it directly below:
 
 
 ### Result
-- The seconds read by the RTC Real-time module displays on the OLED screen.
+ The seconds read by the RTC Real-time module displays on the OLED screen.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -107,10 +111,10 @@ while True:
 
 
 ### Result
-- The seconds read by the RTC Real-time module displays on the micro:bit.
+ The seconds read by the RTC Real-time module displays on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

@@ -1,20 +1,24 @@
 # Color Sensor(EF05006)
 
 ## Introduction
----
+
 Color sensor aims to read the HUE values of the detected objects.  
 
 ![](./images/05006_01.png)
 
+## Products Link
+
+[ELECFREAKS PlanetX Colour Sensor](https://www.elecfreaks.com/planetx-colour.html)
+
 ## Characteristic
----
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:
 SKU|EF05006
 Connection|RJ11
 Type of Connection|IIC
@@ -22,23 +26,23 @@ Working Voltage|3.3V
 Size|55.8 x 23.8 mm
 
 ## Outlook
----
+
 
 
 ![](./images/05006_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Color sensor to IIC port and the OLED module to another IIC port in the Nezha expansion board as the picture shows. 
+ Connect the Color sensor to IIC port and the OLED module to another IIC port in the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05006_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -68,10 +72,10 @@ You may also download it directly below:
 
 
 ### Result
-- The color of the detected object displays on the OLED module.
+ The color of the detected object displays on the OLED module.
 
 ## Python Programming 
----
+
 
 
 ### Step 1
@@ -99,10 +103,10 @@ while True:
 
 
 ### Result
-- The HUE value displays on the micro:bit.
+ The HUE value displays on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

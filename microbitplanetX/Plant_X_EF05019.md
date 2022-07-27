@@ -1,21 +1,25 @@
 # Two Channels Tracking Module(EF05019)
 
 ## Introduction
----
+
 The two channels Tracking Module has integrated two groups of reflective infrared pair diode, which can be used to make line tracking smart cars. 
 
 ![](./images/05019_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX PIR Sensor](https://www.elecfreaks.com/planetx-pir.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:  
 SKU|EF05019
 Connection|RJ11
 Type of Connection|Digital output
@@ -25,23 +29,23 @@ Black Line|Low level output
 White Line|High level output
 
 ## Outlook
----
+
 
 
 ![](./images/05019_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Two channels tracking module to J1 port in the Nezha expansion board as the picture shows.
+ Connect the Two channels tracking module to J1 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05019_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -71,10 +75,10 @@ You may also download it directly below:
 
 
 ### Result
-- Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
+ Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -113,10 +117,10 @@ while True:
 
 
 ### Result
-- Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
+ Different icons display on the micro:bit in accordance with the different status detected by the tracking module.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

@@ -1,18 +1,22 @@
 # Rainbow LED Ring(EF05015)
 
 ## Introduction 
----
+
 Rainbow LED Ring is based on WS2812B bead that can show the RGB. 
 
 ![](./images/05015_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX LED - Rainbow](https://www.elecfreaks.com/planetx-rainbow-led.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,23 +28,23 @@ Core IC|WS2812 3535 Encapsulation
 Number of Pixels|8
 
 ## Outlook
----
+
 
 
 ![](./images/05015_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Rainbow LED ring to J1 port in the Nezha expansion board as the picture shows.
+ Connect the Rainbow LED ring to J1 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05015_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -70,10 +74,10 @@ You may also download it directly below:
 
 
 ### Result
-- Rainbow LED ring lights on. 
+ Rainbow LED ring lights on. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -102,10 +106,10 @@ while True:
 
 
 ### Result
-- Rainbow LED ring lights on after powering on. 
+ Rainbow LED ring lights on after powering on. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

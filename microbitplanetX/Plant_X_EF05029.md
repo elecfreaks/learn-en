@@ -1,18 +1,23 @@
 # 8x16 Matrix Module(EF05029)
 
 ## Introduction
----
+
 8 x 16 Matrix module is a kind of 8 x 16 matrix screen that can display numbers, commonly used letters and symbols with scrolling-displaying function.
 
 ![](./images/05029_01.png)
 
-## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+## Products Link
+
+[ELECFREAKS PlanetX 8x16 Matrix Sensor](https://www.elecfreaks.com/planetx-8x16-matrix.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,23 +28,23 @@ Working Voltage|3.3V
 
 
 ## Outlook
----
+
 
 
 ![](./images/05029_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the 8x16 Matrix module to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the 8x16 Matrix module to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05029_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +74,10 @@ You may also download it directly below:
 
 
 ### Result
-- The expresssions display on the 8x16 matrix module. 
+ The expresssions display on the 8x16 matrix module. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -106,10 +111,10 @@ while True:
 
 
 ### Result
-- Each LED lights on from the sequence of left to right and up to down, then they light off after all the LEDs light up. 
+ Each LED lights on from the sequence of left to right and up to down, then they light off after all the LEDs light up. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

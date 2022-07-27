@@ -1,18 +1,22 @@
 # MQ5 Gas Sensor(EF05033)
 
 ## Introduction
----
+
 MQ5 Gas sensor has a good sense to liquefied gas, natural gas and coal gas that are widely used in cities, but it doesn’t work on ethanol or smoke.
 
 ![](./images/05033_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX MQ5 Sensor](https://www.elecfreaks.com/planetx-mq5.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,17 +26,17 @@ Type of Connection|Analog output
 Working Voltage|3.3V
 
 ## Outlook
----
+
 
 
 ![](./images/05033_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the MQ5 Gas sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the MQ5 Gas sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05033_03.png)
@@ -40,7 +44,7 @@ Working Voltage|3.3V
 ***Note:*** A preheating for 3 minutes after powering on is required before using.
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -70,10 +74,10 @@ You may also downoad it directly below:
 
 
 ### Result
-- The value detected from MQ5 Gas sensor displays on the OLED screen.
+ The value detected from MQ5 Gas sensor displays on the OLED screen.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -104,10 +108,10 @@ while True:
 
 
 ### Result
-- The value detected from MQ5 Gas sensor displays on the micro:bit.
+ The value detected from MQ5 Gas sensor displays on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

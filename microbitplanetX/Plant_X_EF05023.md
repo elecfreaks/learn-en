@@ -1,18 +1,22 @@
 # Water Level Sensor(EF05023)
 
 ## Introduction
----
+
 It is able to detect the water level with the on-board visible parallel wires.
 
 ![](./images/05023_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[EELECFREAKS PlanetX Water Level Sensor](https://www.elecfreaks.com/planetx-water-level.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,23 +26,23 @@ Type of Connection|Analog output
 Working Voltage|3.3V
 
 ## Outlook
----
+
 
 
 ![](./images/05023_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Water lever sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the Water lever sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05023_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -68,10 +72,10 @@ You may also download it directly below:
 
 
 ### Result
-- The current value of the water level displays on the OLED screen. 
+ The current value of the water level displays on the OLED screen. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -100,10 +104,10 @@ while True:
 
 
 ### Result
-- The current value of the water level displays on the micro:bit. 
+ The current value of the water level displays on the micro:bit. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

@@ -1,18 +1,22 @@
 # OLED Display(EF05016)
 
 ## Introduction
----
+
 It is an OLED display to show the data that you want to print. (Chinese is not supported)
 
 ![](./images/05016_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX OLED](https://www.elecfreaks.com/planetx-oled.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,22 +28,22 @@ Size|0.96
 Resolution Ratio|128×64
 
 ## Outlook
----
+
 
 ![](./images/05016_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the OLED module to IIC port in the Nezha expansion board as the picture shows.
+ Connect the OLED module to IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05016_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The numbers set display on the OLED screen. 
+ The numbers set display on the OLED screen. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -100,10 +104,10 @@ display.set_text(0, 0, "hello")
 
 
 ### Result
-- The OLED screen displays "Hello" after powering on. 
+ The OLED screen displays "Hello" after powering on. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

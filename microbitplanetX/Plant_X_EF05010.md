@@ -1,20 +1,24 @@
 # Green LED(EF05010)
 
 ## Introduction
----
+
 Green LED is usually used as the indicator. 
 
 ![](./images/05010_01.png)
 
+## Products Link
+
+[ELECFREAKS PlanetX LED - Green](https://www.elecfreaks.com/planetx-led-green.html)
+
 ## Characteristic
----
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:
 SKU|EF05010
 Connection|RJ11
 Type of Connection|Analog input
@@ -22,21 +26,21 @@ Working Voltage|3.3V
 Size|55.8 x 23.8 mm
 
 ## Outlook
----
+
 
 ![](./images/05010_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Green LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
+ Connect the Green LED to J1 port and the potentiaometer to J2 port in the Nezha expansion board as the picture shows.
 
 ![](./images/05010_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -66,10 +70,10 @@ You may also download it directly below:
 
 
 ### Result
-- The brightness is adjusted by the potentiometer. 
+ The brightness is adjusted by the potentiometer. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -106,11 +110,11 @@ while True:
 
 
 ### Result
-- LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
+ LED lights on in 100% brightness for one second and 50% brightness for another sencond and lights off for one second after powering on and it continues working in this way. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+
 

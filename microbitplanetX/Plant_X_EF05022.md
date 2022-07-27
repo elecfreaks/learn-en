@@ -1,18 +1,19 @@
 # BME280 Air Pressure Sensor(EF05022)
 
 ## Introduction
----
+
 BME280 Pressure Sensor is an electric brick integrating temperature sensor, air pressure sensor and humidity sensor onboard. We can use it to calculate the altitude according to the measured air pressure.
 
 ![](./images/05022_01.png)
 
-## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,22 +25,22 @@ Core IC|BME280
 
 
 ## Outlook
----
+
 
 ![](./images/05022_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the BME280 air pressure sensor to the IIC port and the OLED to the other IIC port in the Nezha expansion board as the picture shows.
+ Connect the BME280 air pressure sensor to the IIC port and the OLED to the other IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05022_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +70,10 @@ You may also download it directly below:
 
 
 ### Result
-- The values of the temperature, moisture, air pressure and the altitude in the current environment display on the OLED screen. 
+ The values of the temperature, moisture, air pressure and the altitude in the current environment display on the OLED screen. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

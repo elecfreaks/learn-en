@@ -1,20 +1,24 @@
 # Sonar:bit(EF05007)
 
 ## Introduction
----
+
 Sonar:bit aims to measure the shortly distance. 
 
 ![](./images/05007_01.png)
 
+## Products Link
+
+[ELECFREAKS PlanetX Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultrasonic.html)
+
 ## Characteristic
----
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:
 SKU|EF05007
 Connection|RJ11
 Type of Connection|Digital output
@@ -22,23 +26,23 @@ Working Voltage|3.3V
 
 
 ## Outlook
----
+
 
 
 ![](./images/05007_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Sonar:bit to J1 port and the OLED module to the IIC port in the Nezha expansion board as the picture shows. 
+ Connect the Sonar:bit to J1 port and the OLED module to the IIC port in the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05007_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -68,10 +72,10 @@ You may also download it directly below:
 
 
 ### Result
-- The distance value displays on the OLED module.
+ The distance value displays on the OLED module.
 
 ## Python Programming 
----
+
 
 
 ### Step 1
@@ -105,10 +109,10 @@ while True:
 
 
 ### Result
-- The detected distance displays on the micro:bit.
+ The detected distance displays on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

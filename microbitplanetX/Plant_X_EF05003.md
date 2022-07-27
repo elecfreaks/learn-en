@@ -1,21 +1,25 @@
 # Sound Sensor(EF05003)
 
 ## Introduction
----
+
 Sound Sensor is particularly sensitive to sound intensity, and it can be used to detect ambient sound level.
 
 ![](./images/05003_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX Noise Sensor](https://www.elecfreaks.com/planetx-noise.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:
 SKU|EF05003
 Connection|RJ11
 Type of Connection|Analog output
@@ -24,23 +28,23 @@ Size|55.8 x 23.8 mm
 
 
 ## Outlook
----
+
 
 
 ![](./images/05003_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the sound sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows. 
+ Connect the sound sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05003_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The value of the sound(dB) in the current environment displays on the OLED module. 
+ The value of the sound(dB) in the current environment displays on the OLED module. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -107,9 +111,9 @@ while True:
 
 
 ### Result
-- The value of the sound(dB) in the current environment displays on the micro:bit. 
+ The value of the sound(dB) in the current environment displays on the micro:bit. 
 ## Relevant File
----
+
 
 ## Technique File
----
+

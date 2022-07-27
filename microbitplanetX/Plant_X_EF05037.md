@@ -1,17 +1,22 @@
 # Case 37: ASR(Automatic Speech Recognition) Module(EF05037)
 
 ## Introduction
----
+
 It is able to control the device via your voice such as to give commands of  moving forward, reversing and starting the line-tracking mode etc.
 
 ![](./images/05037_01.png)
 
+## Products Link
+
+[ELECFREAKS PlanetX PIR Sensor](https://www.elecfreaks.com/planetx-pir.html)
+
+
 ## Characteristics
----
-- Designed with RJ11 ports and easy to plug.
+
+ Designed with RJ11 ports and easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,18 +28,18 @@ Core IC|SNR3512M
 
 
 ## Outlook and Dimension
----
+
 
 
 ![](./images/05037_02.png)
 
 
 ## Quick to Start
----
+
 
 ### Materials required and connections diagram 
 
-- Connect the ASR module to the IIC port and the motor fan to J1 port on Nezha expansion board. 
+ Connect the ASR module to the IIC port and the motor fan to J1 port on Nezha expansion board. 
 
 
 ![](./images/05037_03.png)
@@ -42,7 +47,7 @@ Core IC|SNR3512M
 
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 Click "Advanced" in the drawer of the MakeCode to see more choices.
@@ -74,11 +79,11 @@ You may also download it directly below:
 
 
 ### Result
-- The motor fan is controlled by the ASR module.
+ The motor fan is controlled by the ASR module.
 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

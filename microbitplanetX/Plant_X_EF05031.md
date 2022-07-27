@@ -1,18 +1,21 @@
 # MQ2 Gas Sensor(EF05031)
 
 ## Introduction
----
+
 MQ2 Gas sensor is used in gas leakage detecting equipments in consumer and industry markets, this sensor is suitable for detecting LPG, i-butane, propane, methane ,alcohol, hydrogen and smoke. 
 
 ![](./images/05031_01.png)
+## Products Link
+
+[ELECFREAKS PlanetX MQ2 Sensor](https://www.elecfreaks.com/planetx-mq2.html)
 
 ## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,17 +26,17 @@ Working Voltage|3.3V
 
 
 ## Outlook
----
+
 
 
 ![](./images/05031_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the MQ2 Gas sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the MQ2 Gas sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05031_03.png)
@@ -41,7 +44,7 @@ Working Voltage|3.3V
 ***Note:*** A preheating for 3 minutes after powering on is required before using.
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -71,10 +74,10 @@ You may also download it directly below:
 
 
 ### Result
-- The value detected from MQ2 Gas sensor displays on the OLED screen.
+ The value detected from MQ2 Gas sensor displays on the OLED screen.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -105,10 +108,10 @@ while True:
 
 
 ### Result
-- The value detected from MQ2 Gas sensor displays on the micro:bit.
+ The value detected from MQ2 Gas sensor displays on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

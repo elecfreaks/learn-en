@@ -1,18 +1,22 @@
 # MP3 Module(EF05038)
 
 ## Introduction
----
+
 It is able to play the music.
 
 ![](./images/05038_01.png)
 
-## Characteristics
----
+## Products Link
 
-- Designed with RJ11 ports and easy to plug.
+[ELECFREAKS PlanetX MP3 Sensor](https://www.elecfreaks.com/planetx-mp3.html)
+
+## Characteristics
+
+
+ Designed with RJ11 ports and easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,24 +28,24 @@ Core IC|YX6300
 
 
 ## Outlook and Dimension
----
+
 
 
 ![](./images/05038_02.png)
 
 
 ## Quick to Start
----
+
 
 ### Materials Required and Connection Diagram
 
-- Connect the ASR module to the IIC port and the MP3 module to J1 port on Nezha expansion board. 
+ Connect the ASR module to the IIC port and the MP3 module to J1 port on Nezha expansion board. 
 
 
 ![](./images/05038_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,7 +73,7 @@ You may also download it directly below:
 
 
 ### Result
-- The MP3 module is controlled by the ASR module. 
+ The MP3 module is controlled by the ASR module. 
 
 ### Attention
 
@@ -78,7 +82,7 @@ You may also download it directly below:
 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -112,11 +116,11 @@ while True:
 
 
 ### Result
-- Press button A on the micro:bit to start playing the music; press button B to stop playing the music.
+ Press button A on the micro:bit to start playing the music; press button B to stop playing the music.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+
 

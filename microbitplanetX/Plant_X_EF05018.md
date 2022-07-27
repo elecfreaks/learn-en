@@ -1,18 +1,23 @@
 # Analog Rotation Potentiometer(EF05018)
 
 ## Introduction
----
+
 Analog Rotation Potentiometer can be rotated up to 300 degrees and the analog read value scope is 0~1023.
 
 ![](./images/05018_01.png)
 
-## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+## Products Link
+
+[ELECFREAKS PlanetX Trimpot Sensor](https://www.elecfreaks.com/planetx-trimpot.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -22,23 +27,23 @@ Type of Connection|Analog output
 Working Voltage|3.3V
 
 ## Outlook
----
+
 
 
 ![](./images/05018_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Analog Rotation Potentiometer to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows.
+ Connect the Analog Rotation Potentiometer to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05018_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -68,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The detected value displays on the OLED screen. 
+ The detected value displays on the OLED screen. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -103,10 +108,10 @@ while True:
 
 
 ### Result
-- The detected value of the Analog Rotation Potentiometer displays on the micro:bit. 
+ The detected value of the Analog Rotation Potentiometer displays on the micro:bit. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

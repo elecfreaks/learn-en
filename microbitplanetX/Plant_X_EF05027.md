@@ -1,18 +1,23 @@
 # Dust Sensor Detector Module(EF05027)
 
 ## Introduction
----
+
 The Dust Sensor Detector Module with Sharp GP2Y1010AU0F adopts Sharp optical dust sensor(GP2Y1010AU0F). It is used to detect the density of dust particle with diameter beyond 0.8μm such as cigarette smoke.
 
 ![](./images/05027_01.png)
 
-## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+## Products Link
+
+[ELECFREAKS PlanetX Dust Sensor](https://www.elecfreaks.com/planetx-dust.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -25,23 +30,23 @@ Effective Scope|500μg/ m3
 
 
 ## Outlook
----
+
 
 
 ![](./images/05027_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Dust sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the Dust sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05027_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -71,10 +76,10 @@ You can also download it directly below:
 
 
 ### Result
-- The value detected by the Dust Sensor displays on the OLED screen.
+ The value detected by the Dust Sensor displays on the OLED screen.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -107,10 +112,10 @@ while True:
 
 
 ### Result
-- The value detected by the Dust Sensor displays on the micro:bit.
+ The value detected by the Dust Sensor displays on the micro:bit.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

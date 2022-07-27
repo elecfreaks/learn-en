@@ -1,43 +1,48 @@
 # Relay Module(EF05025)
 
 ## Introduction
----
+
 It adopts a mini and high-quality HUIKE relay.
 
 ![](./images/05025_01.png)
 
-## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+## Products Link
+
+[ELECFREAKS PlanetX PIR Sensor](https://www.elecfreaks.com/planetx-pir.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:  
 SKU|EF05025
 Connection|RJ11
 Type of Connection|Digital input
 Working Voltage|3.3V
 
 ## Outlook
----
+
 
 ![](./images/05025_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Relay to J1 port in the Nezha expansion board as the picture shows.
+ Connect the Relay to J1 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05025_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -67,10 +72,10 @@ You may also download it directly below:
 
 
 ### Result
-- It switches the current channels by pressing button A or B. 
+ It switches the current channels by pressing button A or B. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -101,10 +106,10 @@ l.set_relay(1)
 
 
 ### Result
-- Control the off/on of the Relay. 
+ Control the off/on of the Relay. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

@@ -1,18 +1,21 @@
 # UV Sensor(EF05021)
 
 ## Introduction
----
+
 It is able to measure the total UV intensity of the sunlight.
 
 ![](./images/05021_01.png)
+## Products Link
+
+[ELECFREAKS PlanetX UV Sensor](https://www.elecfreaks.com/planetx-uv.html)
 
 ## Characteristic
----
 
-- Designed in RJ11 connections, easy to plug.
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -23,24 +26,24 @@ Working Voltage|3.3V
 
 
 ## Outlook
----
+
 
 
 ![](./images/05021_02.png)
 
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the UV sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
+ Connect the UV sensor to J1 port and the OLED to the IIC port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05021_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -70,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The detected value from the UV sensor displays on the OLED screen. 
+ The detected value from the UV sensor displays on the OLED screen. 
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -104,10 +107,10 @@ while True:
 
 
 ### Result
-- The detected value from the UV sensor displays on the micro:bit. 
+ The detected value from the UV sensor displays on the micro:bit. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

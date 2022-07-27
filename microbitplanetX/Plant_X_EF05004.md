@@ -1,21 +1,25 @@
 # Temperature and Humidity Sensor(EF05004)
 
 ## Introduction
----
+
 Temperature and humidity sensor is a module based on DHT11 digital temperature and humidity sensing element. It is sensitive to the ambient temperature and humidity changes and can be used for temperature alarm, humidity testing and other works.
 
 ![](./images/05004_01.png)
 
+## Products Link
+
+[ELECFREAKS PlanetX DHT11 Sensor](https://www.elecfreaks.com/planetx-dht11.html)
+
 ## Characteristic
----
+
 
 Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:
 SKU|EF05004
 Connection|RJ11
 Type of Connection|Digital output
@@ -23,22 +27,22 @@ Working Voltage|3.3V
 Size|55.8 x 23.8 mm
 
 ## Outlook
----
+
 
 ![](./images/05004_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the DHT11 Temperature and humidity sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows. 
+ Connect the DHT11 Temperature and humidity sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05004_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The current values of the temperature and moisture display on the OLED module and they refresh every six seconds.
+ The current values of the temperature and moisture display on the OLED module and they refresh every six seconds.
 
 ## Relevant File
----
+
 
 ## Technique File
----
+

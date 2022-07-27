@@ -1,19 +1,26 @@
 # Light Sensor(EF05001)
 
 ## Introduction
----
+
 This sensor aims to detect the light intensity in the current environment. 
 
 ![](./images/05001_01.png)
 
+
+## Products Link
+
+[ELECFREAKS PlanetX Light Sensor](https://www.elecfreaks.com/planetx-light.html)
+
+
 ## Characteristic
----
-- Designed in RJ11 connections, easy to plug. 
+
+ Designed in RJ11 connections, easy to plug. 
+
 ## Specification
----
+
 
 Item | Parameter 
-:-: | :-: 
+:-: | :-:
 SKU|EF05001
 Connection|RJ11
 Type of Connection|Analog output
@@ -24,25 +31,25 @@ Size|55.8 x 23.8 mm
 
 
 ## Outlook
----
+
 
 
 ![](./images/05001_02.png)
 
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
 
-- Connect the light sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows. 
+ Connect the light sensor to J1 port and the OLED module to IIC port in the Nezha expansion board as the picture shows. 
 
 
 ![](./images/05001_03.png)
 
 ## MakeCode Programming
----
+
 
 
 ### Step 1
@@ -71,10 +78,10 @@ You may also download it directly below:
 
 
 ### Result
-- The light intensity's value displays on the OLED module. 
+ The light intensity's value displays on the OLED module. 
 
 ## Python Programming 
----
+
 
 
 ### Step 1
@@ -109,9 +116,9 @@ while True:
 
 
 ### Result
-- The light intensity's value displays on the micro:bit. 
+ The light intensity's value displays on the micro:bit. 
 ## Relevant File
----
+
 
 ## Technique File
----
+

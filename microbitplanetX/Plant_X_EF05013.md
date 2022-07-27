@@ -1,18 +1,22 @@
 # Laser Module(EF05013)
 
 ## Introduction
----
+
 It is made of a laser emission chip, condensing lens and an adjustable sleeve, which can work after powering on.
 
 ![](./images/05013_01.png)
 
-## Characteristic
----
+## Products Link
 
-- Designed in RJ11 connections, easy to plug.
+[ELECFREAKS PlanetX Laser](https://www.elecfreaks.com/planetx-laser.html)
+
+## Characteristic
+
+
+ Designed in RJ11 connections, easy to plug.
 
 ## Specification
----
+
 
 Item | Parameter 
 :-: | :-: 
@@ -24,22 +28,22 @@ Spot Size|φ10mm ~ φ15mm at 15 meters away
 
 
 ## Outlook
----
+
 
 ![](./images/05013_02.png)
 
 ## Quick to Start
----
+
 
 ### Materials Required and Diagram
 
-- Connect the Laser module to J1 port and the Crash sensor to J2 port in the Nezha expansion board as the picture shows.
+ Connect the Laser module to J1 port and the Crash sensor to J2 port in the Nezha expansion board as the picture shows.
 
 
 ![](./images/05013_03.png)
 
 ## MakeCode Programming
----
+
 
 ### Step 1
 
@@ -69,10 +73,10 @@ You may also download it directly below:
 
 
 ### Result
-- The Laser module turns on while the crash switch being pressed or it turns off.
+ The Laser module turns on while the crash switch being pressed or it turns off.
 
 ## Python Programming 
----
+
 
 ### Step 1
 
@@ -106,10 +110,10 @@ while True:
 
 
 ### Result
-- The Laser module lights on for 500ms and then lights off for 500ms after powering on. 
+ The Laser module lights on for 500ms and then lights off for 500ms after powering on. 
 
 ## Relevant File
----
+
 
 ## Technique File
----
+
