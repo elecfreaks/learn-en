@@ -53,7 +53,7 @@ This is what it looks like after the connection is complete:
 Rotate the button of the Trimpot, then the output voltage will vary between 0V and 3V as the button is rotated.
 
 ## Software Programming
-For programming environment preparation, please refer to [Introduction to the programming environment](https://www.yuque.com/elecfreaks-learn/picoed/er7nuh)
+For programming environment preparation, please refer to [Introduction to the programming environment](https://www.elecfreaks.com/learn-en/pico-ed/index.html)
 ### Program as the picture shows：
 ```python
 # Import the modules that we need
@@ -86,7 +86,7 @@ while True:
 ```
 ### Details for the code:
 
-1. Support modules are required by the importer. The `board ` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
+1.Support modules are required by the importer. The `board ` module is a generic container for pin names. could use the `board` module to specify the pin to use. The `digitalio` module contains classes that provide access to basic digital IO. The `time` module contains functions for time settings.
 ```python
 import board
 import picoed
@@ -94,7 +94,7 @@ import analogio
 import time
 ```
 
-2. Set the pin used by the Trimpot, we are using P0_A0.
+2.Set the pin used by the Trimpot, we are using P0_A0.
 ```python
 poten = analogio.AnalogIn(board.P0_A0)
 ```
@@ -115,7 +115,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3. Initialize the data list and store the value of the Trimpot to set the brightness of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) screen LED according to the value from the data list.
+3.Initialize the data list and store the value of the Trimpot to set the brightness of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) screen LED according to the value from the data list.
 ```python
 data = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 for i in range(picoed.display.width):
@@ -123,7 +123,7 @@ for i in range(picoed.display.width):
     
 ```
 
-4. The loop converts the value of the Trimpot to the Y coordinate of the LED in the 17th column of the LED screen on the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html), and scrolls to the left in turn.
+4.The loop converts the value of the Trimpot to the Y coordinate of the LED in the 17th column of the LED screen on the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html), and scrolls to the left in turn.
 ```python
 while True:
     data[16] = int(poten.value / 7000)
