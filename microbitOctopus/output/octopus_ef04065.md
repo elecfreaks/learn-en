@@ -5,6 +5,11 @@
 Octopus 5mmLED light Brick can be used in the interaction with the light works with micro:bit/Arduino.
 
  ![](./images/FJgPKrD.jpg)
+ 
+## Products Link
+
+[ELECFREAKS Octopus 5mm LED Brick - White](https://www.elecfreaks.com/elecfreaks-octopus-5mm-led-brick-white.html)
+
 
 ## Characteristics
 ---
