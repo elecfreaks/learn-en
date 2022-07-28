@@ -8,3 +8,6 @@ Make each kid be an inventor from [Nezha Inventor's Kit](https://www.elecfreaks.
 
 ![](./images/Nezha-Inventors-kit-for-microbit-01.png)
 
+## 零件清单
+
+![](./images/Nezha-Inventors-kit-for-microbit-02.png)
