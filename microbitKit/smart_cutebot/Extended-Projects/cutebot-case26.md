@@ -82,7 +82,7 @@ For programming, we need to add a package. Click “Extensions” at the bottom 
 ![](./images/cutebot-case-26-04.png)
 
 
-Link: https://makecode.microbit.org/_6kD6KAaEfA8W](https://makecode.microbit.org/_6kD6KAaEfA8W)
+[Link: https://makecode.microbit.org/_6kD6KAaEfA8W](https://makecode.microbit.org/_6kD6KAaEfA8W)
 
 You can also download the program directly from the following webpage.
 

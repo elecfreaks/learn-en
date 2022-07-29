@@ -1,21 +1,12 @@
 # Cutebot-Item Grabbing Car
 
 ## Purpose
-
 Use a cutebot smart car with mechanical claws to create a car with the ability to grab items.
 
-![](./images/cutebot-case-26-01.png)
-
 ## Materials
-
 1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
-
-
 1 × [ELECFREAKS Mechanical Catch](https://www.elecfreaks.com/elecfreaks-mechanical-catch-use-with-cutebot.html)
-
-
 1 x [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
-
 
 ## Assembly
 
@@ -36,7 +27,6 @@ Connect the mechanical claw to the S1 interface of the Cutebot car.
 ## Program
 
 ### Add extensions
-
 Click “Advanced” in the drawer of MakeCode to see more choices.
 
 ![](./images/cutebot-case-24-01.png)
