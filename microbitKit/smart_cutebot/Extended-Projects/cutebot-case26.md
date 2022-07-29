@@ -3,9 +3,14 @@
 ## Purpose
 Use the Cutebot smart car to create a cart that can push opponents off the playing field or lose their ability to move.
 
+![](./images/cutebot-case-26-01.png)
+
 ## Materials
+
 1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+
 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
+
 n × Building blocks (blocks need to be prepared by yourself)
 
 
