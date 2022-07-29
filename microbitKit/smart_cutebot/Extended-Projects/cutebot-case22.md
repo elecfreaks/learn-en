@@ -1,7 +1,10 @@
 # Cutebot-Item Grabbing Car
 
 ## Purpose
+
 Use a cutebot smart car with mechanical claws to create a car with the ability to grab items.
+
+![](./images/cutebot-case-26-01.png)
 
 ## Materials
 
