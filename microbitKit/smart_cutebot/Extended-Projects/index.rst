@@ -7,8 +7,8 @@ Extended Projects
 
   cutebot-case22.md
   cutebot-case24.md
-  cutebot_case25.md
-  cutebot_case26.md
-  cutebot_case27.md
-  cutebot_case28.md
-  cutebot_case29.md
+  cutebot-case25.md
+  cutebot-case26.md
+  cutebot-case27.md
+  cutebot-case28.md
+  cutebot-case29.md
