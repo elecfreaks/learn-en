@@ -8,6 +8,8 @@
     :maxdepth: 2
     :numbered: 3
     
+    36-in-1-Nezha-A Inventor-s-kit-for-Arduino.md
+    Preparation-for-Programming-and-Sample-Projects.md
     Case-01-Rubber-Bands-Launcher.md
     Case-02-Helicopter.md
     Case-03-A-Small-Forklift.md
