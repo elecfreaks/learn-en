@@ -28,6 +28,6 @@ Smart Cutebot kit(EF08209)
     cutebot_case14.md
     cutebot_case15.md
     cutebot+AI lens/index
- 
+    Extended-Projects/index
     
     
