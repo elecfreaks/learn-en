@@ -32,6 +32,9 @@ Nezha is an expanstion board for micro:bit with multuple functions available. It
 
 ![](./images/03444_04.png)
 
+
+download link:[https://github.com/elecfreaks/learn-en/raw/master/microbitExtensionModule/file/nezha-Main-Parts-Introduction.pdf](https://github.com/elecfreaks/learn-en/raw/master/microbitExtensionModule/file/nezha-Main-Parts-Introduction.pdf)
+
 ## Add Package
 ---
 
