@@ -15,3 +15,4 @@ Pico:ed(EF01033)
     music.md
     digitalio-module-basic-digital-pin-support.md
     led-dot-matrix-screen.md
+    pico-ed-v2-pin-diagram.md
