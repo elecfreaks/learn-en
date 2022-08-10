@@ -1,4 +1,4 @@
-# The Walking Robot
+# Case 48：The Walking Robot
 
 ## Introduction
 Build a walking robot with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
