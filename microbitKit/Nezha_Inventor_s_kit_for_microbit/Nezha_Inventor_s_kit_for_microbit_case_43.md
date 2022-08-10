@@ -1,4 +1,4 @@
-#  Case 43：The Bricks Launcher
+# Case 43：The Bricks Launcher
 
 ## Introduction
 Build a bricks launcher with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
