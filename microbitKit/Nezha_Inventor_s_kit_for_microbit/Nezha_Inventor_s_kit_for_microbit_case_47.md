@@ -1,4 +1,4 @@
-# Wipers
+# Case 47：Wipers
 
 ## Introduction
 Build a wiper with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
