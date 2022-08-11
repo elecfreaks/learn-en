@@ -55,6 +55,7 @@ Video reference: [https://youtu.be/t2mYccra8Vw](https://youtu.be/t2mYccra8Vw)
 
 ![](./images/case_step_19_08.png)
 
+![](./images/case_step_19_09.png)
 
 
 
