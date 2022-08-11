@@ -55,27 +55,7 @@ Video reference: [https://youtu.be/t2mYccra8Vw](https://youtu.be/t2mYccra8Vw)
 
 ![](./images/case_step_19_08.png)
 
-![](./images/case_step_19_09.png)
 
-![](./images/case_step_19_10.png)
-
-![](./images/case_step_19_11.png)
-
-![](./images/case_step_19_12.png)
-
-![](./images/case_step_19_13.png)
-
-![](./images/case_step_19_14.png)
-
-![](./images/case_step_19_15.png)
-
-![](./images/case_step_19_16.png)
-
-![](./images/case_step_19_17.png)
-
-![](./images/case_step_19_18.png)
-
-![](./images/case_step_19_19.png)
 
 
 
