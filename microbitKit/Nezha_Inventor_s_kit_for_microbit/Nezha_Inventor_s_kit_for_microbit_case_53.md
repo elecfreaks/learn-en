@@ -60,13 +60,11 @@ Build it as the assembly steps suggest:
 
 ![](./images/53_17.png)
 
-![](./images/53_18.png)
-
 ## Connection Diagram
 
-Connect the four motors to the M1, M2, M3, M4, and the ultrasonic sensor to the J1as the picture suggests.
+Connect the four motors to the M1, M4, and the ultrasonic sensor to the J1as the picture suggests.
 
-![](./images/53_19.png)
+![](./images/53_18.png)
 
 
 ##  MakeCode Programming
@@ -101,7 +99,7 @@ For programming the PIR sensor, we need to add a package. Search with “PlanetX
 
 Lunar exploration vehicle remote control program:
 
-![](./images/53_20.png)
+![](./images/53_19.png)
 
 Link: https://makecode.microbit.org/_LDD7oafxoHup
 
@@ -112,7 +110,7 @@ You may also download it directly:
 
 Lunar exploration vehicle remote control program:
 
-![](./images/53_21.png)
+![](./images/53_20.png)
 
 Link: https://makecode.microbit.org/_EP6do6JC67tj
 
