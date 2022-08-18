@@ -1,9 +1,9 @@
-.. ElecFreaksWiki documentation master file, created by
+.. ELECFREAKS WIKI documentation master file, created by
    sphinx-quickstart on Mon Mar 11 16:05:41 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to micro:bit WIKI
+Welcome to ELECFREAKS WIKI
 ==========================================
 
 .. toctree::
