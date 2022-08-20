@@ -93,9 +93,9 @@ Build it as the assembly steps suggest:
 
 ## Connection Diagram
 
-As the picture suggests, connect the [Motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to the [Nezha](https://www.elecfreaks.com/nezha-breakout-board.html)  M1.
+As the picture suggests,connect the sonar:bit to J1,connect the [Motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to the [Nezha](https://www.elecfreaks.com/nezha-breakout-board.html)  M1.
 
-![](./images/neza-inventor-s-kit-case-48-03.png)
+![](./images/neza-inventor-s-kit-case-54-03.png)
 
 ## MakeCode Programming
 
@@ -118,11 +118,11 @@ For programming the servo, we need to add a package. Click “Extensions” at t
 
 ### Reference
 
-Link: [https://makecode.microbit.org/_VE00w0E5rLL6](https://makecode.microbit.org/_VE00w0E5rLL6)
+Link: [https://makecode.microbit.org/_2bfKgv7KbVVV](https://makecode.microbit.org/_2bfKgv7KbVVV)
 
 You may also download it directly:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_VE00w0E5rLL6" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2bfKgv7KbVVV" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 ### Result
 
