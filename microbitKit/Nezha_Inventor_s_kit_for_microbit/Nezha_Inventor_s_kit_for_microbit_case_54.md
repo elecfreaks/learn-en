@@ -114,7 +114,7 @@ For programming the servo, we need to add a package. Click “Extensions” at t
 ### Step 2
 ### Write the program as picture suggests
 
-![](./images/neza-inventor-s-kit-case-50-07.png)
+![](./images/neza-inventor-s-kit-case-54-07.png)
 
 ### Reference
 
