@@ -126,5 +126,5 @@ You may also download it directly:
 
 ### Result
 
-When button A is pressed, the motor will push down the item on the high platform, the item will fall on one end of the seesaw, and the item at the other end will be thrown out. When button B is pressed, the motor will return to its original position.
+When there is an obstruction in front of it. the objects will be pushed down automatically.
 
