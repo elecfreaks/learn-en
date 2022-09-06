@@ -32,6 +32,7 @@
 ### Step 2
 
 - Choose "show icon" in the `On start`brick.
+
 ![](./images/case_01_02.png)
 
 ### Step 3
