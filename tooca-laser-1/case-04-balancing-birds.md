@@ -28,7 +28,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Drawings download link
 
-[Balancing birds.dxf](http://)
+[Balancing birds.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/balance-bird/balance-bird.dxf)
 
 ## Effect show
 

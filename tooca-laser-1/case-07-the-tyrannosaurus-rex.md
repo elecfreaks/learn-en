@@ -27,7 +27,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Drawings Download Link
 
-[Tyrannosaurus rex.dxf](http://)
+[Tyrannosaurus rex.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Tyrannosaurus-Rex/Tyrannosaurus-Rex.dxf)
 
 ## Effect Show
 

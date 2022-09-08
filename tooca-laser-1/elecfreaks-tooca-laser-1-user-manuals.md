@@ -2,11 +2,11 @@
 
 ## Product Information
 
-[TOOCA Laser 1_User Manual (v1.0)](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201_User%20Manual%20(v1.0).pdf)
+[TOOCA Laser 1_User Manual (v1.0)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/TOOCA%20Laser%201_User%20Manual%20(v1.0).pdf)
 
-[LaserGRBL-User Guide_EN](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/LaserGRBL-User%20Guide_EN.pdf)
+[LaserGRBL-User Guide_EN](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/LaserGRBL-User%20Guide_EN.pdf)
 
-[LightBurn User Guide-EN](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/LightBurn%20User%20Guide-EN.pdf)
+[LightBurn User Guide-EN](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/LightBurn%20User%20Guide-EN.pdf)
 
 ## Video Tutorials
 ### Installation Video Tutorial
