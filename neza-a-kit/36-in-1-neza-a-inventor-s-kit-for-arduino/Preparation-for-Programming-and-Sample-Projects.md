@@ -31,7 +31,7 @@ The latest version of Arduino IDE is released from the official website:  [https
 ![](./images/neza-a-programming-01.png)
 
 ### Software Programming
-Download the libraries for Nezha-A master board [NezhaA-main.zip](https://github.com/elecfreaks/NezhaA/archive/refs/heads/main.zip)<br />Download the subsidiary libraries for Nezha-A master board [Adafruit_NeoPixel-master.zip](https://github.com/elecfreaks/MuZa/archive/refs/heads/main.zip)<br />Open Arduino IDE, and choose tools- Board-Arduino Uno.
+Download the libraries for Nezha-A master board [NezhaA-main.zip](https://github.com/elecfreaks/NezhaA/archive/refs/heads/main.zip)<br />Download the subsidiary libraries for Nezha-A master board [Adafruit_NeoPixel-master.zip](https://github.com/adafruit/Adafruit_NeoPixel/archive/refs/heads/master.zip)<br />Open Arduino IDE, and choose tools- Board-Arduino Uno.
 <br />
 ![](./images/neza-a-programming-02.png)
 <br />
