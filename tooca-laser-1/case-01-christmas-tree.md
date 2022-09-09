@@ -36,4 +36,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ![](./images/tooca-laser-1-case-01-01.png)
 
 
+## material data
+
+More detail about the material：[laser cutting material](https://elecfreaks.com/download/tooca-laser/Cutting.zip)，[Laser engraving material](https://elecfreaks.com/download/tooca-laser/engraving.zip)
 
