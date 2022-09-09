@@ -85,3 +85,6 @@ When someone approaches the farmland, the farmland protection device will displa
 
 
 
+## material data
+
+More detail about the material：[laser cutting material](https://elecfreaks.com/download/tooca-laser/Cutting.zip)，[Laser engraving material](https://elecfreaks.com/download/tooca-laser/engraving.zip)
