@@ -23,5 +23,5 @@
 
 ## material data
 
-More detail about the material：[laser cutting material]()，[Laser engraving material]()
+More detail about the material：[laser cutting material](https://elecfreaks.com/download/tooca-laser/Cutting.zip)，[Laser engraving material](https://elecfreaks.com/download/tooca-laser/engraving.zip)
 
