@@ -28,7 +28,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Drawings Download Link
 
-[Little yellow man pencil holder.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/Pen-holder/Pen-holder.dxf)
+[Little yellow man pencil holder.dxf](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/Pen-holder.dxf.zip)
 
 ## Effect Show
 
