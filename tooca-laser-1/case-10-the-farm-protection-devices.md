@@ -28,7 +28,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Drawings Download Link
 
-[Farm protection devices.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/farmland-protection-device/farmland-protection-device.dxf)
+[Farm protection devices.dxf](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/farmland-protection-device.dxf.zip)
 
 
 ## Hardware Connection
