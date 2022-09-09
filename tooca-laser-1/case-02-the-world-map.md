@@ -24,7 +24,7 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 
 ## Drawings download link
 
-[The World Map.dxf](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/elecfreaks/learn-en/blob/master/tooca-laser-1/file/Cutting/world-map-puzzle/world-map-puzzle.dxf)
+[The World Map.dxf](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/world-map-puzzle.dxf.zip)
 
 ## Effect show
 
