@@ -87,3 +87,9 @@ Welcome to ELECFREAKS WIKI
    Arduino-3-in-1-box/index
    neza-a-kit/36-in-1-neza-a-inventor-s-kit-for-arduino/index
    
+   .. toctree::
+   :maxdepth: 2
+   :caption: TOOCA Laser 1
+   
+   tooca-laser-1/index
+   
