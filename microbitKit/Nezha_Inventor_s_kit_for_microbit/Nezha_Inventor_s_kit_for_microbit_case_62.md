@@ -59,7 +59,7 @@ Build completion :
 
 As the picture suggests, Connect the [ELECFREAKS Planetx Gesture Sensor](https://www.elecfreaks.com/planetx-gesture.html) to IIC port and the [ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html) to J1 port and the [8 RGB Rainbow LED Ring](https://www.elecfreaks.com/planetx-rainbow-led.html) to J2 port on [Nezha breakout board](https://www.elecfreaks.com/nezha-breakout-board.html).
 
-![](./images/neza-inventor-s-kit-case-61-03.png)
+![](./images/neza-inventor-s-kit-case-62-03.png)
 
 ## MakeCode Programming
 
