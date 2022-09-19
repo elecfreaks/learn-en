@@ -98,7 +98,7 @@ Build it as the assembly steps suggest:
 
 Connect the servo to  S1, S2 and the AI Lens to IIC port, then connect the Seven-segment 4-digit digital tube to J1 port.
 
-![](./images/60_16.jpg)
+![](./images/63_36.png)
 
 
 ##  MakeCode Programming
