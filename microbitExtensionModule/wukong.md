@@ -2,15 +2,13 @@
 
 ## Introduction
 
-![](./images/wukong_00.jpg)
-
 Wukong is a high integrated breakout board with multiple functions based on micro:bit, which has a similar size with the micro:bit with buzzer, servo and motor drivers on board.
 
 With a built-in 400mAh Li-ion battery pack and the on-board power controlling system, it supports fast charge with only 20 minutes for full filling that can operate for more than 40 minutes a time.
 
 The base board designs with standard 7x5 square bricks that can adapt perfectly to Lego.
 
-![](./images/wukong_01.jpg)
+![](./images/wukong-01.png)
 
 ## Characteristics 
 
