@@ -2,8 +2,6 @@
 
 ## Introduction
 
-
-
 ![](./images/wukong_00.jpg)
 
 Wukong is a high integrated breakout board with multiple functions based on micro:bit, which has a similar size with the micro:bit with buzzer, servo and motor drivers on board.
