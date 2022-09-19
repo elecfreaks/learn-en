@@ -210,7 +210,7 @@ You can also download it below:
 
 ![](./images/wukong_16.png)
 
-### Software Programming（Python editor）
+## Software Programming（Python editor）
 
 - [Python editor:https://python.microbit.org/v/2.0](https://python.microbit.org/v/2.0)
 
