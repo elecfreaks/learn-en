@@ -218,10 +218,16 @@ Go to  [Python editor](https://python.microbit.org/v/2.0)https://python.microbit
 
 ![](./images/05001_07.png)
 
-We need to add Wukong.py for programming. Click "Load/Save" and then click "Show Files (1)" to see more choices, click "Add file" to add TPBot.py from the unzipped package of EF_Produce_MicroPython-master. 
+We need to add Wukong.py for programming.  
 
 ![](./images/03444_11.png)
+
+Click "Load/Save" and then click "Show Files (1)" to see more choices.
+
 ![](./images/03444_12.png)
+
+click "Add file" to add Wukong.py from the unzipped package of EF_Produce_MicroPython-master. 
+
 ![](./images/wukong_21.png)
 
 ## User Guide
