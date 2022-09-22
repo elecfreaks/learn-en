@@ -16,3 +16,4 @@ Pico:ed(EF01033)
     digitalio-module-basic-digital-pin-support.md
     led-dot-matrix-screen.md
     pico-ed-v2-pin-diagram.md
+    pico-ed-v2.md
