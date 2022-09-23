@@ -94,7 +94,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 For programming the potentiometer, we need to add an extension library. Type "PlanetX" in the dialog box and click Search, then click Download this library.
 
-![](/images/neza-inventor-s-kit-case-37-05.png)
+![](./images/neza-inventor-s-kit-case-37-05.png)
 
 For programming the Nezha expansion board, we need to add an expansion library. Type "Nezha" in the dialog box and click Search, then click to download this code library.
 
