@@ -105,6 +105,7 @@ You may also download it directly:
 
 ### Result
 Press button A and the mechanical springtail crawls forward, press button B and the mechanical springtail stops moving.
+![](./images/case_38.gif)
 
 
 ### Thinking
