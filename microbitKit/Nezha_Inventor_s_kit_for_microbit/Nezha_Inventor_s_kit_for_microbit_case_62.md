@@ -71,7 +71,7 @@ Click “Advanced” in the MakeCode drawer to see more choices.
 
 For programming the ELECFREAKS Planetx Gesture Sensor, ELECFREAKS PlanetX Motor Fan, and the 8 RGB Rainbow LED Ring, enter "PlanetX" in the dialog box and click search to download it.
 
-![](/images/neza-inventor-s-kit-case-37-05.png)
+![](./images/neza-inventor-s-kit-case-37-05.png)
 
 For programming the Nezha, click “Extensions” at the bottom of the drawer and search with “nezha” to download it.
 
