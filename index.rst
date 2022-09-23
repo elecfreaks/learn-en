@@ -44,7 +44,8 @@ Welcome to ELECFREAKS WIKI
    microbitKit/smart_health_kit/index
    microbitKit/microbit-xgo-robot-kit/index
    microbitKit/straw-manipulator/index
-
+   microbitKit/faq/index
+   
 .. toctree::
    :maxdepth: 2
    :caption: PICO
