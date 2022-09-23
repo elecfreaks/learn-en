@@ -129,4 +129,5 @@ You may also download it directly:
 ### Result
 
 After powering on, the mechanical shrimp moves forward and waves the princers, it will turn the directions if there is obstacles  being detected. 
+![](./images/case_0101.gif)
 
