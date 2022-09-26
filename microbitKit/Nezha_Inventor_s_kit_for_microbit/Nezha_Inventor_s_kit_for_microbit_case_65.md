@@ -1,7 +1,7 @@
 # Case 65: Drum Beater
 ## Introduction
 
-Use **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** and [Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html)to build the drum machine that can control the speed with a knob.
+Use **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** and [trimpot](https://www.elecfreaks.com/planetx-trimpot.html)to build the drum machine that can control the speed with a knob.
 
 ![](./images/neza-inventor-s-kit-case-65-01.png)
 
@@ -11,7 +11,7 @@ Use **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s
 
  **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** 
 
-[Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html)
+[trimpot](https://www.elecfreaks.com/planetx-trimpot.html)
 
 ### Structure Construction
 
@@ -80,7 +80,7 @@ Finished picture:
 
 ## Connection Diagram
 
- Connect the [Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html) to J1 port, and the [Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html) .
+ Connect the [trimpot](https://www.elecfreaks.com/planetx-trimpot.html) to J1 port, and the [Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html) .
 
 ![](./images/neza-inventor-s-kit-case-65-03.png)
 
@@ -119,6 +119,6 @@ You may also download it directly:
 
 ### Result
 
-The knob potentiometer allows you to control the rhythm of the drummer's strikes.
+The knob trimpot allows you to control the rhythm of the drummer's strikes.
 
 ![](./images/neza-inventor-s-kit-case-65.gif)
