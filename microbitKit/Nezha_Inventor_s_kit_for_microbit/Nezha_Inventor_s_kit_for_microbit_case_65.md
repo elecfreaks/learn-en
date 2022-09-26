@@ -106,6 +106,9 @@ For programming the Nezha expansion board, we need to add an expansion library. 
 
 ### Write the program as picture suggests
 
+![](./images/neza-inventor-s-kit-case-65-07.png)
+
+
 ### Reference
 
 Link: [https://makecode.microbit.org/_L7shxbLtVJYY](https://makecode.microbit.org/_L7shxbLtVJYY)
