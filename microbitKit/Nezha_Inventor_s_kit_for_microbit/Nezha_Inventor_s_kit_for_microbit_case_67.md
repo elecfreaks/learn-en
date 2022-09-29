@@ -1,4 +1,4 @@
-# Case 67: The Blocks Emitter 3
+# Case 67: The Blocks Emitter
 ## Introduction
 
 Use  **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** and  [Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html)to make a blocks emitter that can control the firing frequency with a knob and can be loaded automatically.
