@@ -3,7 +3,7 @@
 ## Introduction
 Build a mechanical crab with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-![](./images/neza-inventor-s-kit-case-39-01.png)
+![](./images/39_1.png)
 
 ## Quick to Start
 ---
@@ -74,7 +74,9 @@ Build it as the assembly steps suggest:
 
 ![](./images/neza-inventor-s-kit-step-39-27.png)
 
+We can see that the construction is completed as shown in the following figure:
 
+![](./images/neza-inventor-s-kit-case-39-01.png)
 
 ### Connection Diagram
 
@@ -121,3 +123,4 @@ You may also download it directly:
 ### Result
 After powering on, if the crab sees an approaching object ahead, it will crawl towards sideways.
 
+![](./images/39_39.gif)
