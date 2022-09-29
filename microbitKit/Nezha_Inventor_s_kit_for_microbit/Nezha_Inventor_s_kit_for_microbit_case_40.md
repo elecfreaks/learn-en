@@ -3,7 +3,7 @@
 ## Introduction
 Build a mechanical motorcycle with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-
+![](./images/40_1.png)
 
 ## Quick to Start
 
