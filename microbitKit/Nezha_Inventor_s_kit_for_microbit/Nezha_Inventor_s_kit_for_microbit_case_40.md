@@ -3,7 +3,7 @@
 ## Introduction
 Build a mechanical motorcycle with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-![](./images/neza-inventor-s-kit-case-40-01.png)
+
 
 ## Quick to Start
 
@@ -90,6 +90,9 @@ Build it as the pictures suggest:
 
 ![](./images/neza-inventor-s-kit-step-40-35.png)
 
+We can see that the construction is completed as shown in the following figure:
+
+![](./images/neza-inventor-s-kit-case-40-01.png)
 ### Connection Diagram
 
 Connect the  the [geekservo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
@@ -130,3 +133,5 @@ You may also download it directly:
 ### Result
 
 When the button A is pressed, the motorcycle turns left; when the button B is pressed, it drives to the right; and when the buttons A and B are pressed at the same time, the motorcycle stops driving.
+
+![](./images/40_40.gif)
