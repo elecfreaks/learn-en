@@ -3,7 +3,7 @@
 ## Introduction
 Build a forklift with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-![](./images/neza-inventor-s-kit-case-41-01.png)
+![](./images/41_1.png)
 
 ## Quick to Start
 
@@ -126,6 +126,10 @@ Build it as the pictures suggest:
 
 ![](./images/neza-inventor-s-kit-step-41-53.png)
 
+We can see that the construction is completed as shown in the following figure:
+
+![](./images/neza-inventor-s-kit-case-41-01.png)
+
 ### Connection Diagram
 
 Connect  two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M4 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
@@ -165,3 +169,4 @@ You may also download it directly:
 
 Press button A, the forklift drives forward for 2 seconds, and lifts the fork, then continues driving forward for 2 seconds, then puts down the fork, finally reverses a certain distance and stops.
 
+![](./images/41_41.gif)
