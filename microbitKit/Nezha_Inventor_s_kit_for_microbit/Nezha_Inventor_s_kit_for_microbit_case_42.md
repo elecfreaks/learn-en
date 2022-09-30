@@ -3,7 +3,7 @@
 ## Introduction
 Build a grabbing cart with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-![](./images/neza-inventor-s-kit-case-42-01.png)
+![](./images/42_1.png)
 
 ## Quick to Start
 
@@ -107,6 +107,11 @@ Build it as the assembly steps suggest:
 ![](./images/neza-inventor-s-kit-step-42-43.png)
 
 ![](./images/neza-inventor-s-kit-step-42-44.png)
+
+We can see that the construction is completed as shown in the following figure:
+
+![](./images/neza-inventor-s-kit-case-42-01.png)
+
 ### Connection Diagram
 ---
 Connect the [geekservo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
@@ -153,3 +158,4 @@ First manually adjust the opening angle of the mechanical claw, then turn on the
 
 Is it possible to make a car that can turn directions and grab objects with this kit?
 
+![](./images/42_42.gif)
