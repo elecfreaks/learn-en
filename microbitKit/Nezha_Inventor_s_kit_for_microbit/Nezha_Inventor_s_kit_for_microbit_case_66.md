@@ -84,7 +84,7 @@ Build it as the assembly steps suggest:
 
 ![](./images/66_26.png)
 
-我们可以看到搭建完成后如下图所示：
+We can see that the construction is completed as shown in the following figure:
 
 ![](./images/66_30.png)
 
