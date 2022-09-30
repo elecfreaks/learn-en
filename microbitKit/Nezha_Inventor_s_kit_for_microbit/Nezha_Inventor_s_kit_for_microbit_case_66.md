@@ -92,7 +92,7 @@ We can see that the construction is completed as shown in the following figure:
 
 We connect two motors to M1, M2 interface, servo to S1 interface, voice recognition sensor to IIC interface, and 8*16 dot matrix screen to IIC interface, as shown in the following figure:
 
-![](./images/66_27.png)
+![](./images/66_27_1.png)
 
 
 ##  MakeCode Programming
