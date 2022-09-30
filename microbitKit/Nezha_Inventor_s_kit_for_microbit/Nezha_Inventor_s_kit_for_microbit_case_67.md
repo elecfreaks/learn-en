@@ -100,7 +100,7 @@ The structure is built as shown in the figure:
 
 ![](./images/neza-inventor-s-kit-step-67-37.png)
 
-搭建完成：
+After the construction is completed, as shown in the following figure：
 
 ![](./images/neza-inventor-s-kit-step-67-38.png)
 
