@@ -139,15 +139,15 @@ For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout
 
 ### Code as the picture suggests
 
-![](./images/neza-inventor-s-kit-case-42-07.png)
+![](./images/neza-inventor-s-kit-case-42_07.png)
 
 ### Reference
 
-Link: [https://makecode.microbit.org/_iscUF8CzzYMd](https://makecode.microbit.org/_iscUF8CzzYMd)
+Link: [https://makecode.microbit.org/_VyEFMDLeo2Vs](https://makecode.microbit.org/_VyEFMDLeo2Vs)
 
 You may also download it directly: 
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_UFDfmhWVp7V3" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_VyEFMDLeo2Vs" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
 ### Result
