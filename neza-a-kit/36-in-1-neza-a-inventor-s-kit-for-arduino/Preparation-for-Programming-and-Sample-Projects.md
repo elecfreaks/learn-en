@@ -61,24 +61,24 @@ Connect the motors and servos to M1, M2, S1, and S2 accordingly.
 ### Programming
 ### Sample 1: Control the servos and motors
 ```
-#include <MuZa.h>
+#include <NezhaA.h>
 
-MuZa muZa;    //Create an instance of the MuZa class
+NezhaA nezhaA;    //Create an instance of the NezhaA class
 
 void setup() {
-  muZa.begin();    //Initiliaze the buzzer, motor and light
+  nezhaA.begin();    //Initiliaze the buzzer, motor and light
 }
 
 void loop() {
-  muZa.setMotorSpeed(M1, 60);    //Set the speed of the motors as percentage in the scope of -100~+100
-  muZa.setMotorSpeed(M2, 60);
-  muZa.setServoAngle(S1, 180);    //Set the angles of the servo
+  nezhaA.setMotorSpeed(M1, 60);    //Set the speed of the motors as percentage in the scope of -100~+100
+  nezhaA.setMotorSpeed(M2, 60);
+  nezhaA.setServoAngle(S1, 180);    //Set the angles of the servo
   delay((2) * 1000);
-  muZa.setServoAngle(S2, 180);
+  nezhaA.setServoAngle(S2, 180);
   delay((2) * 1000);
-  muZa.setServoAngle(S1, 0);
+  nezhaA.setServoAngle(S1, 0);
   delay((2) * 1000);
-  muZa.setServoAngle(S2, 0);
+  nezhaA.setServoAngle(S2, 0);
   delay((2) * 1000);
 }
 ```
@@ -96,30 +96,30 @@ Click the upload button to upload the program to the Nezha-A master box.
 After powering on, the two motors start driving and the servos drive to the angle as we set in turn. 
 ### Sample 2: Play melody
 ```
-#include <MuZa.h>
+#include <NezhaA.h>
 
-MuZa muZa;    //Create an instance of the MuZa class
+NezhaA nezhaA;    //Create an instance of the NezhaA class
 
 void setup() {
-  muZa.begin();    //Initiliaze the buzzer, motor, servo and light
-  muZa.setTempo(60);    //Set the speed of playing melody via buzzer 
-  muZa.tone(262, muZa.beatsToMS(0.25));    //Set notes and beats of melody
-  muZa.tone(0, muZa.beatsToMS(0.25));    //Set to stop the buzzer
-  muZa.tone(294, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(330, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(349, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(392, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(440, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(494, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(523, muZa.beatsToMS(0.25));
-  muZa.tone(0, muZa.beatsToMS(0.25));
-  muZa.tone(400, 2000);    //Set the frequency and time for playing buzzer
+  nezhaA.begin();    //Initiliaze the buzzer, motor, servo and light
+  nezhaA.setTempo(60);    //Set the speed of playing melody via buzzer 
+  nezhaA.tone(262, nezhaA.beatsToMS(0.25));    //Set notes and beats of melody
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));    //Set to stop the buzzer
+  nezhaA.tone(294, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(330, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(349, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(392, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(440, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(494, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(523, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(0, nezhaA.beatsToMS(0.25));
+  nezhaA.tone(400, 2000);    //Set the frequency and time for playing buzzer
 }
 
 void loop() {
@@ -130,19 +130,19 @@ When the power is turned on, the buzzer plays a note.
 
 ### Sample 3: Light-controlled lamps
 ```
-#include <MuZa.h>
+#include <NezhaA.h>
 
-MuZa muZa;    //Create an instance of the MuZa class
+NezhaA nezhaA;    //Create an instance of the NezhaA class
 
 void setup() {
-  muZa.begin();    //Initialize buzzer, motor, servo, light
+  nezhaA.begin();    //Initialize buzzer, motor, servo, light
 }
 
 void loop() {
-  if ((muZa.getLightSensor()) < 50) {    //Determine if the return value of the photosensitive sensor is less than 50
-    muZa.showRGB(108, 30, 187);    //Set the values of R, G and B of the LED
+  if ((nezhaA.getLightSensor()) < 50) {    //Determine if the return value of the photosensitive sensor is less than 50
+    nezhaA.showRGB(108, 30, 187);    //Set the values of R, G and B of the LED
   } else {
-    muZa.clearRGB();    //Clear lighting effects
+    nezhaA.clearRGB();    //Clear lighting effects
   }
 }
 ```
@@ -151,20 +151,20 @@ Automatically turns the lights on or off according to the ambient light intensit
 
 ### Sample 4: Voice-controlled lamps
 ```
-#include <MuZa.h>
+#include <NezhaA.h>
 
-MuZa muZa;    //Create an instance of the MuZa class
+NezhaA nezhaA;    //Create an instance of the NezhaA class
 
 void setup() {
-  muZa.begin();    //Initialize buzzer, motor, servo, light
+  nezhaA.begin();    //Initialize buzzer, motor, servo, light
 }
 
 void loop() {
-  if ((muZa.getNoiseSensor()) > 100) {    //Determine if the return value of the noise sensor is over 100
-    muZa.showRGB(108, 30, 187);    //Set the values of R, G and B of the LED
+  if ((nezhaA.getNoiseSensor()) > 100) {    //Determine if the return value of the noise sensor is over 100
+    nezhaA.showRGB(108, 30, 187);    //Set the values of R, G and B of the LED
     delay((2) * 1000);    //Delay time 1000ms
   } else {
-    muZa.clearRGB();    //Clear lighting effects
+    nezhaA.clearRGB();    //Clear lighting effects
   }
 }
 ```
