@@ -14,6 +14,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YL5jEP84VuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### LightBurn Operation Video Tutorial
+Light Burn configuration file：[TOOCA-Laser-1.7z](https://github.com/elecfreaks/learn-en/raw/master/tooca-laser-1/file/TOOCA%20Laser%201.7z)
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/UJONwvzjWlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
