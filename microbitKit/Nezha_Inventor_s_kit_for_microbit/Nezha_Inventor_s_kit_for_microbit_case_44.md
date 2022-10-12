@@ -4,7 +4,7 @@
 
 Build a tightrope walker with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
 
-![](./images/neza-inventor-s-kit-case-44-01.png)
+![](./images/44_1.png)
 
 ## Quick to Start
 
@@ -175,3 +175,4 @@ You may also download it directly:
 
 Press button A, the toy man starts to walk a tightrope. Press button B, the toy man stops motionless.
 
+![](./images/44_2.gif)
