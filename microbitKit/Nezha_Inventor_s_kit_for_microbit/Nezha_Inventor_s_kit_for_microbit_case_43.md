@@ -3,7 +3,7 @@
 ## Introduction
 Build a bricks launcher with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
 
-![](./images/neza-inventor-s-kit-case-43-01.png)
+![](./images/43_1.png)
 
 ## Quick to Start
 
@@ -105,4 +105,4 @@ You may also download it directly:
 ### Result
 
 Press button C to launch the bricks. 
-
+![](./images/43_2.gif)
