@@ -16,7 +16,7 @@ Build a walking robot with the [Nezha Inventor's Kit](https://www.elecfreaks.com
 
 Components List
 
-![](./images/neza-inventor-s-kit-case-48-02png)
+![](./images/neza-inventor-s-kit-case-48-02.png)
 
 Build it as the assembly steps suggest: 
 
