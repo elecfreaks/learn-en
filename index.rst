@@ -10,8 +10,9 @@ Welcome to ELECFREAKS WIKI
    :maxdepth: 2
    :caption:  Go To Store
 
-   Go To Store <https://www.elecfreaks.com>
-      中文资料 <https://www.elecfreaks.com/learn-cn>
+   Go To Store <https://shop.elecfreaks.com/>
+   Go To Homepage <https://www.elecfreaks.com>
+   中文资料 <https://www.elecfreaks.com/learn-cn>
    
 .. toctree::
    :maxdepth: 2
