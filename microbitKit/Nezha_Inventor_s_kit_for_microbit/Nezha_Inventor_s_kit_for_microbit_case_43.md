@@ -105,4 +105,5 @@ You may also download it directly:
 ### Result
 
 Press button C to launch the bricks. 
+
 ![](./images/43_2.gif)
