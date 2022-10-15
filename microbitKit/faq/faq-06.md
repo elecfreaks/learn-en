@@ -1,16 +1,15 @@
 # FAQ 06
-## Q:使用Cutebot智能赛车时发现小车正常通电但是无法行使？
 
-A:请按照以下步骤进行检查:
+## Q: The Smart cutebot is powered on normally, but it cannot drive.
 
-1.在micro:bit上添加一个驱动小车向前行驶的程序:[全速前进](https://makecode.microbit.org/_0p45b90iHie1)
+A: Please follow the steps below to check:
 
-2.正常开机后测试小车是否向前行驶
+1. Add a program to drive the car forward on the micro:bit: [Full Speed Forward](https://makecode.microbit.org/_0p45b90iHie1)
+2. Test if the car is moving forward after normal boot up
+3. If the car can not move forward, please remove the ultrasonic sensor from the car and repeat step 2.
+4. If the car can drive normally after taking off the ultrasonic sensor, it is proved that the car is malfunctioning due to the wrong installation of ultrasonic sensor.
 
-3.如果小车无法向前行驶请将小车上的超声波传感器取下后重复步骤2
-
-4.如果取下超声波传感器后，小车可以正常行驶，则证明是超声波传感器安装错误而导致小车故障
-
-**安装超声波传感器时请注意分辨插入接口，应该插入SONAR接口中**
+**When installing the ultrasonic sensor, please pay attention to distinguish the insertion interface, should be inserted into the SONAR interface**
 
 ![](./images/FAQ-microbit-06-01.png)
+
