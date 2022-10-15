@@ -6,7 +6,5 @@ A:Please follow the steps in the wiki documentation, link to the documentation:[
 **Points to note:**
 
 1. The `clientID` of the program in MakeCode is customizable, but it should be noted that it cannot be the same as the `clientID` of the HiveMQ platform.
- 
-2.The `port` of the program in MakeCode should be filled in as`8883`.
-
-3.You need to cheek `SSL` on HiveMQ platform.
+2. The `port` of the program in MakeCode should be filled in as`8883`.
+3. You need to cheek `SSL` on HiveMQ platform.
