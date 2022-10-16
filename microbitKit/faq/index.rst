@@ -13,6 +13,8 @@ FAQ
     faq-02.md
     faq-03.md
     faq-04.md
+    faq-05.md
+    faq-06.md
 
 
 
