@@ -76,4 +76,4 @@
     Nezha_Inventor_s_kit_for_microbit_case_66.md
     Nezha_Inventor_s_kit_for_microbit_case_67.md
     Nezha_Inventor_s_kit_for_microbit_case_68.md
-    
+    Nezha_Inventor_s_kit_for_microbit_case_69.md
