@@ -43,3 +43,6 @@ Note: This case takes a 2.8mm basswood board as an example. If you need to use d
 ## material data
 
 More detail about the material：[laser cutting material](https://elecfreaks.com/download/tooca-laser/Cutting.zip)，[Laser engraving material](https://elecfreaks.com/download/tooca-laser/engraving.zip)
+
+
+Welcome to join the [Laser Engraving Cutter Creative Sharing Community](https://www.facebook.com/groups/1152321032019436/) to share your creativity.
