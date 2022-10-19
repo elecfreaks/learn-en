@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
+[Wonder Rugged Car Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-wonder-rugged-car-kit-without-micro-bit-board)
 
 ## Background Knowledge
 
