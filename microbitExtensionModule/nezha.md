@@ -8,7 +8,7 @@ Nezha is an expanstion board for micro:bit with multuple functions available. It
 
 ## Products Link
 
-[Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+[Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=943411ed7&_ss=r)
 
 
 ## Characteristics 
