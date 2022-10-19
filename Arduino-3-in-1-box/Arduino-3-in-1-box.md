@@ -3,7 +3,7 @@
 ## Introduction
 ---
 
-The [Arduino 3 in 1 Breakout board](https://www.elecfreaks.com/arduino-3-in-1-master-control-box.html) is a programmable masterboard based on ATMEGA328P, it is loaded with the dual drive servo connections, the dual drive motor connections and 8-way connections for sensors; all the sensor connections are in RJ11 type with fool-proof and anti-plug design; it is also loaded with Lego compatible ports on the shells which make them possible to connect the modules with Lego bricks. 
+The [Arduino 3 in 1 Breakout board](https://shop.elecfreaks.com/products/elecfreaks-nezha-a-arduino-3-in-1-master-control-box?_pos=1&_psq=Arduino-3-in-1-box&_ss=e&_v=1.0) is a programmable masterboard based on ATMEGA328P, it is loaded with the dual drive servo connections, the dual drive motor connections and 8-way connections for sensors; all the sensor connections are in RJ11 type with fool-proof and anti-plug design; it is also loaded with Lego compatible ports on the shells which make them possible to connect the modules with Lego bricks. 
 
 ## Pictures
 ---
