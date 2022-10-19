@@ -7,7 +7,7 @@
 ## Materials Required 
 ---
 
-- 1 x [RETRO Arcade for Education](https://www.elecfreaks.com/retro-arcade-for-education.html)
+- 1 x [RETRO Arcade for Education](https://shop.elecfreaks.com/products/elecfreaks-retro-makecode-arcade-for-education?_pos=1&_psq=RETRO+Arcade+for+Education&_ss=e&_v=1.0)
 
 
 
