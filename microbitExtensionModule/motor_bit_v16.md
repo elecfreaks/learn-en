@@ -16,7 +16,7 @@ Motor:bit is a motor driving board based on micro:bit. It has integrated a TB661
 
 ## Products Link
 
-[motor:bit](https://www.elecfreaks.com/motor-bit-for-micro-bit-motorbit.html)
+[motor:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-motor-bit?_pos=2&_psq=Motor%3Abit&_ss=e&_v=1.0)
 
 ## Parameter
 ---
