@@ -7,8 +7,8 @@
 
 ## Products Link
 
-[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
-[Joystick:bit](https://www.elecfreaks.com/joystick-bit-2-kit-for-micro-bit.html)
+[Wonder Rugged Car Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-wonder-rugged-car-kit-without-micro-bit-board)
+[Joystick:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=1&_sid=d4f46b0e5&_ss=r)
 
 ## Background Knowledge
 
