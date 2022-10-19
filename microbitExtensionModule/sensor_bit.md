@@ -10,7 +10,7 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 
 ## Products Link
 
-[ELECFREAKS Sensor:bit](https://www.elecfreaks.com/sensor-bit-for-micro-bit-sensorbit.html)
+[ELECFREAKS Sensor:bit](https://shop.elecfreaks.com/products/elecfreaks-sensor-bit-io-extension-board-for-micro-bit?_pos=1&_sid=806c77e2f&_ss=r)
 
 
 ## Features
