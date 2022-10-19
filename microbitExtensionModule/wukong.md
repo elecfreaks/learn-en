@@ -10,6 +10,12 @@ The base board designs with standard 7x5 square bricks that can adapt perfectly 
 
 ![](./images/wukong-01.png)
 
+
+## Purchase link
+
+[Wukong Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-wukong-expansion-board-adapter?_pos=1&_sid=191a1780b&_ss=r)
+
+
 ## Characteristics 
 
 
