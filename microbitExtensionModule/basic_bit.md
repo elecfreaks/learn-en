@@ -3,7 +3,7 @@
 ## Introduction  
 ---
 
-[Basic:bit](https://www.elecfreaks.com/basic-bit-for-micro-bit-three-way-i-o-expansion-mini-version.html) is a basic breakout board of micro:bit. It carries a buzzer and three groups of GVS pins(P0/P1/P2) on board. Each group of GVS pins separately leads out the IO port, 3V port and GND port on micro:bit. Small size with simple structure, it is quite enough for you to complete 98% micro:bit projects.
+[Basic:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-basic-bit-three-ways-i-o-expansion-mini-version?_pos=1&_psq=Basic%3Abit&_ss=e&_v=1.0) is a basic breakout board of micro:bit. It carries a buzzer and three groups of GVS pins(P0/P1/P2) on board. Each group of GVS pins separately leads out the IO port, 3V port and GND port on micro:bit. Small size with simple structure, it is quite enough for you to complete 98% micro:bit projects.
 
 
 ## Features  
