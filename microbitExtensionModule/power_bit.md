@@ -7,7 +7,7 @@ Power:bit button cell board is a micro expansion board in the smallest size equi
 
 ## Products Link 
 
-1 x [EELECFREAKS micro:bit Power:bit](https://www.elecfreaks.com/power-bit-for-micro-bit-powerbit.html)
+1 x [EELECFREAKS micro:bit Power:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-power-bit?_pos=1&_sid=dbc9900dd&_ss=r)
 
 ## Speciality 
 ---
