@@ -7,8 +7,8 @@
 
 ## Products Link
 
-[Wonder Rugged Car Kit](https://www.elecfreaks.com/micro-bit-wonder-rugged-car.html)
-[Sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)
+[Wonder Rugged Car Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-wonder-rugged-car-kit-without-micro-bit-board)
+[Sonar:bit](https://shop.elecfreaks.com/search?type=product&q=Sonar%3Abit)
 
 ## Background Knowledge
 
