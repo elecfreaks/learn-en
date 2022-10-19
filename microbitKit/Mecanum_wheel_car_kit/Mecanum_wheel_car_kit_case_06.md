@@ -8,7 +8,8 @@
 ## Products Link
 
 [Wonder Rugged Car Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-wonder-rugged-car-kit-without-micro-bit-board)
-[Sonar:bit](https://shop.elecfreaks.com/search?type=product&q=Sonar%3Abit)
+
+[Sonar:bit](https://shop.elecfreaks.com/products/elecfreaks-octopus-sonar-bit?_pos=1&_sid=ce376e690&_ss=r)
 
 ## Background Knowledge
 
