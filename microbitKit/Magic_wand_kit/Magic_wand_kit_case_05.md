@@ -13,7 +13,7 @@
 ##  Products Link
 ---
 
-[Magic Wand Kit](https://www.elecfreaks.com/micro-bit-magic-wand-without-micro-bit.html)
+[Magic Wand Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-magic-wand-kit-without-micro-bit-board?_pos=1&_sid=809c6b940&_ss=r)
 
 
 ## Background
