@@ -29,7 +29,7 @@ Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha exp
 ![](./images/case_11_04.png)
 
 
-** 在搭建过程中需要注意巡线探头离地高度应该为8~11mm，请根据实际情况进行调整。
+** 在搭建过程中需要注意巡线探头离地高度应该为8~11mm，请根据实际情况进行调整。**
 
 
 ### Assembly Steps
@@ -75,8 +75,6 @@ Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha exp
 ![](./images/case_step_11_20.png)
 
 ![](./images/case_step_11_21.png)
-
-![](./images/case_step_11_22.png)
 
 
 ## MakeCode Programming
