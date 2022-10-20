@@ -28,11 +28,8 @@ Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha exp
 
 ![](./images/case_11_04.png)
 
-### Assembly Video
 
-Video reference: [https://youtu.be/N2w01pGaj30](https://youtu.be/N2w01pGaj30)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N2w01pGaj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+** 在搭建过程中需要注意巡线探头离地高度应该为8~11mm，请根据实际情况进行调整。
 
 
 ### Assembly Steps
