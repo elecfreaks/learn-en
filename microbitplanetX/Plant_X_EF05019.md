@@ -24,7 +24,7 @@ SKU|EF05019
 Connection|RJ11
 Type of Connection|Digital output
 Working Voltage|3.3V
-Effective Distance|2~12mm
+Effective Distance|8~11mm
 Black Line|Low level output
 White Line|High level output
 
