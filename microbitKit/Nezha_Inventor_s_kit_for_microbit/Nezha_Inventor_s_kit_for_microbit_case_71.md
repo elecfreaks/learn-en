@@ -63,9 +63,11 @@ The structure is built as shown in the figure:
 
 ![](./images/neza-inventor-s-kit-step-71-21.png)
 
+![](./images/neza-inventor-s-kit-step-71-22.png)
+
 Completed Picture
 
-![](./images/neza-inventor-s-kit-step-71-22.png)
+![](./images/neza-inventor-s-kit-step-71-23.png)
 
 ### Connection Diagram
 
