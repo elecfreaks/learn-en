@@ -123,11 +123,11 @@ When getting connected well, you can click this switch to operate these two bric
 
 ![](./images/kidsiot_22.png)
 
-Link：[https://makecode.microbit.org/_4pCRr0DKYh58](https://makecode.microbit.org/_4pCRr0DKYh58)
+Link：[https://makecode.microbit.org/_4opTryFiyicy](https://makecode.microbit.org/_4opTryFiyicy)
 
 You can also revise the code with the below page:
 
-<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4pCRr0DKYh58" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_4opTryFiyicy" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 ### Result
 
