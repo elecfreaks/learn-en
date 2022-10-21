@@ -3,7 +3,7 @@
 ## Introduction
 In the previous case we built a grabbing car which can grasp objects very well, but it is not able to turn. We use [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) to build a car that can both turn and grab objects here, the obvious feature in this case is that only one servo is applied to realize both the functions of lifting, lowering and grasping objects by the mechanical claw.
 
-![](./images/neza-inventor-s-kit-case-45-01.png)
+![](./images/45_1.png)
 
 ## Quick to Start
 
@@ -125,3 +125,4 @@ After powering on the device, the arm will be put on the floor. Flap your hands 
 While pressing button C on the PlanetX button module, the robot car stops moving and the robot arm starts grasping the goods and lifting them up.
 Touching the micro:bit logo to reverse the robot car and press button D to put the goods down.
 
+![](./images/45_2.gif)
