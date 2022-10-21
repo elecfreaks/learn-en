@@ -9,7 +9,8 @@ Nezha-A Master Control Box is an electronic product and we need to pay attention
 6. When the Nezha-A Master Control Box is not used for a long time, place it in a clean box and wrap it in a bag to prevent dust from falling into the interface and interfering with your operation. Store the wrapped Nezha-A main control box in a clean, dry environment.
 ## 360° Gray Block Servo Precautions for Use
 For the first time to use the servo,please adjust the angles first before building in case of the possile stuck of the servo, please see the references debugging procedures are as follows:
- ![](./images/nezha_001.png)
+
+![](./images/nezha_001.png)
 
 ## Notes on the use of PlanetX series sensors
 The planetX series sensors are also electronic components, and the precautions for use are the same as those for items 2, 3, 4, 5, and 6 of the Nezha-A main control box.
