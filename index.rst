@@ -95,7 +95,7 @@ Welcome to ELECFREAKS WIKI
    
    tooca-laser-1/index
    
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Lidar
    
