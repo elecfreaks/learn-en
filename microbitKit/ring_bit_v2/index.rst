@@ -10,6 +10,7 @@ ring:bit Car Kit V2(EF08201/EF08202)
 
     ring-bit-python.md
     ring_bit_car_v2.md
+    safety_instructions.md
     ring_bit_car_v2_assembly_step.md
     ring_bit_v2.md
     ring_bit_car_v2_extensions.md
