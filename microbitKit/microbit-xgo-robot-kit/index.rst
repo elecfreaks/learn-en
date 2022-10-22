@@ -8,10 +8,10 @@ xgo robot kit(EF08268)
     :maxdepth: 2
     :numbered: 2
     
-    safety_instructions.md
-    start-programming.md
     microbit-xgo-robot-kit-Introduction.md
+    safety_instructions.md
     calibrate-xgo-with-the-standards.md
+    start-programming.md
     case01-out-of-the-square.md
     case02-chasing-dog.md
     case03- a magnetism-controlled Dog.md
