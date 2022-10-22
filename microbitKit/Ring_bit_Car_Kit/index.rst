@@ -10,6 +10,7 @@ ring:bit Car Kit(EF08201/EF08202)
 
 
     ring_bit_car.md
+    safety_instructions.md
     ring_bit.md
     ring_bit_car_case_01.md
     ring_bit_car_case_02.md
