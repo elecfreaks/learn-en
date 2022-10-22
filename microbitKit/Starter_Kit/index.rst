@@ -8,8 +8,8 @@ Starter Kit(EF08179,EF08180)
     :maxdepth: 2
     :numbered: 2
 
-    safety_instructions.md
     starter_kit.md
+    safety_instructions.md
     breadboard_bit.md
     starter_kit_case_01.md
     starter_kit_case_02.md
