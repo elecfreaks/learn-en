@@ -9,6 +9,7 @@ Pico:ed Ring:bit V2 Car(EF08273)
     :numbered: 2
         
     kits-information.md
+    safety_instructions.md
     assembly.md 
     preparation-for-programming.md
     expansion-Sonarbit-module.md
