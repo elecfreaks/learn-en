@@ -10,6 +10,7 @@ Pico:ed Starter Kit(EF08272)
     :numbered: 2
     
     package-introduction.md
+    safety_instructions.md
     programming-preparation.md
     case01-led.md
     case02-button.md
