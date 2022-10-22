@@ -12,6 +12,7 @@ TOOCA Laser 1(TC00001)
     elecfreaks-tooca-laser-1-user-manuals.md
     firmware-update-method.md
     christmas-tree.md
+    safety_instructions.md
     the-world-map.md
     the-elk.md
     balancing-birds.md
