@@ -9,6 +9,7 @@ Pico:ed CuteBot Kit
     :numbered: 2
         
     introduction-to-smart-cutebot-kit.md
+    safety_instructions.md
     preparation-for-the-programming.md
     move-forward-or-reverse.md
     speed-up-gradually.md
