@@ -7,8 +7,8 @@
     :maxdepth: 2
     :numbered: 2
     
-    safety_instructions.md
     Nezha-Inventor-s-kit-for-microbit.md
+    safety_instructions.md
     Nezha_Inventor_s_kit_for_microbit_case_01.md
     Nezha_Inventor_s_kit_for_microbit_case_02.md
     Nezha_Inventor_s_kit_for_microbit_case_03.md
