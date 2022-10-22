@@ -10,6 +10,7 @@ Smart Cutebot kit(EF08209)
 
 
     cutebot_car.md
+    safety_instructions.md
     cutebot-python.md
     cutebot_extensions.md
     cutebot_case01.md
