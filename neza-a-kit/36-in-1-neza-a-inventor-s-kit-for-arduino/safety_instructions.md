@@ -1,3 +1,5 @@
+# Safety Instructions
+
 ##  Nezha-A  Precautions for Use
 Nezha-A Master Control Box is an electronic product and we need to pay attention to the following issues in daily use, please read carefully and be aware of the relevant precautions.
 
