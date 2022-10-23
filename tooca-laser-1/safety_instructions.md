@@ -1,4 +1,4 @@
-## Safety Instructions
+# Safety Instructions
 
 Before operating TOOCA laser, please read and familiarize yourself with all usage precautions. The user should strictly observe all safety precautions and make sure TOOCA is properly assembled and in normal working condition.
 Please follow the following operating principles：
