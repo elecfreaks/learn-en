@@ -1,3 +1,5 @@
+# Safety Instructions
+
 Before operating the XGO Robot Kit, please read and familiarize yourself with the following precautions. Users should strictly follow all precautions and ensure that the XGO Robot Kit is properly assembled and in proper working condition.
 The following operating principles should be followed:
 
