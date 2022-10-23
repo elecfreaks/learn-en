@@ -1,3 +1,5 @@
+# Safety Instructions
+
 Please read and familiarize yourself with the following precautions before operating the Micro:bit Ring:bit car. The user should strictly observe all precautions and ensure that the Micro:bit ring:bit car is properly assembled and in proper working condition.
 Please follow the operating principles:
 
