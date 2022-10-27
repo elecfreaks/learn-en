@@ -1,7 +1,7 @@
 # Case 40：The Mechanical Motorcycle
 
 ## Introduction
-Build a mechanical motorcycle with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
+Build a mechanical motorcycle with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 ![](./images/40_1.png)
 
@@ -10,7 +10,7 @@ Build a mechanical motorcycle with the [Nezha Inventor's Kit](https://www.elecfr
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -95,7 +95,7 @@ We can see that the construction is completed as shown in the following figure:
 ![](./images/neza-inventor-s-kit-case-40-01.png)
 ### Connection Diagram
 
-Connect the  the [geekservo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the  the [geekservo](https://shop.elecfreaks.com/products/elecfreaks-360-degrees-building-blocks-servo?_pos=1&_psq=servo&_ss=e&_v=1.0) to S1 and the [motors](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r).
 
 ![](./images/neza-inventor-s-kit-case-40-03.png)
 
@@ -109,7 +109,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 

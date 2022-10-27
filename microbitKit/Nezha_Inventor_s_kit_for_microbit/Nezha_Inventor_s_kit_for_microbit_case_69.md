@@ -1,7 +1,7 @@
 # Case 69: The Trimpot Remote Control Car
 ## Introduction
 
-Use **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** with [ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack)
+Use **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)** with [ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack?_pos=1&_sid=1c056c00d&_ss=r)
 to make a remote control car through the potentiometer, which includes two blocks parts of the remote controller and the car. 
 
 ![](./images/neza-inventor-s-kit-case-69-01.png)
@@ -10,9 +10,9 @@ to make a remote control car through the potentiometer, which includes two block
 
 ### Materials Required
 
-[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board)
+[ELECFREAKS micro:bit Nezha 48 IN 1 Inventor's Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=1&_sid=7e719ce53&_ss=r)
 
-[ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack)
+[ELECFREAKS Interactive Coding Accessories Pack](https://shop.elecfreaks.com/products/elecfreaks-interactive-coding-accessories-pack?_pos=1&_sid=1c056c00d&_ss=r)
 
 
 ### Structure Building
@@ -117,13 +117,13 @@ Finished Picture:
 
 **Remote control handle reference**
 
-Connect two [Potentiometers](https://www.elecfreaks.com/planetx-trimpot.html) to J1 and J2 port， and the [Rainbow](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to  J3 port on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect two Potentiometers to J1 and J2 port， and the Rainbowto  J3 port on Nezha Breakout Board.
 
 ![](./images/neza-inventor-s-kit-case-69-04.png)
 
 **Remote control car reference**
 
-Connect two [Potentiometers](https://www.elecfreaks.com/planetx-trimpot.html) to M1 port and M2 port on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html) .
+Connect two Potentiometers to M1 port and M2 port on Nezha Breakout Board .
 
 ![](./images/neza-inventor-s-kit-case-69-05.png)
 

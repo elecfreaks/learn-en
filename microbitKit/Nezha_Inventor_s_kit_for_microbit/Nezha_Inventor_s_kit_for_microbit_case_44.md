@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Build a tightrope walker with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
+Build a tightrope walker with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
 
 ![](./images/44_1.png)
 
@@ -10,7 +10,7 @@ Build a tightrope walker with the [Nezha Inventor's Kit](https://www.elecfreaks.
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 Rubber band × 1
 
@@ -138,7 +138,7 @@ Build it as the assembly steps suggest:
 
 ### Connection Diagram
 
-Connect the [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [motors](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=r).
 
 ![](./images/neza-inventor-s-kit-case-44-03.png)
 
@@ -152,7 +152,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/neza-inventor-s-kit-case-37-04.png)
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 

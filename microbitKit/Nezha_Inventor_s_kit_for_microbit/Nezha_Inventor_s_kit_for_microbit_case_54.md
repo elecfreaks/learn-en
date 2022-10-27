@@ -1,7 +1,7 @@
 # Case 54: Happy Seesaw
 ## Introduction
 
-Make a seesaw with [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
+Make a seesaw with [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
 
 
 ![](./images/neza-inventor-s-kit-case-54-01.png)
@@ -12,7 +12,7 @@ Make a seesaw with [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nez
 
 ### Materials Required
 
-[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly Steps
 
@@ -93,7 +93,7 @@ Build it as the assembly steps suggest:
 
 ## Connection Diagram
 
-As the picture suggests,connect the sonar:bit to J1,connect the [Motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to the [Nezha](https://www.elecfreaks.com/nezha-breakout-board.html)  M1.
+As the picture suggests,connect the sonar:bit to J1,connect the [Motors](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to the [Nezha](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=r)  M1.
 
 ![](./images/neza-inventor-s-kit-case-54-03.png)
 

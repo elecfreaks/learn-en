@@ -1,7 +1,7 @@
 # Case 42：The Grabbing Cart
 
 ## Introduction
-Build a grabbing cart with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
+Build a grabbing cart with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 ![](./images/42_1.png)
 
@@ -10,7 +10,7 @@ Build a grabbing cart with the [Nezha Inventor's Kit](https://www.elecfreaks.com
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -114,7 +114,7 @@ We can see that the construction is completed as shown in the following figure:
 
 ### Connection Diagram
 ---
-Connect the [geekservo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [geekservo](https://shop.elecfreaks.com/products/elecfreaks-360-degrees-building-blocks-servo?_pos=1&_psq=servo&_ss=e&_v=1.0) to S1 and the two [motors](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 and M2 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl).
 
 ![](./images/neza-inventor-s-kit-case-42-03.png)
 
@@ -129,7 +129,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 ![](./images/neza-inventor-s-kit-case-37-04.png)
 
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 

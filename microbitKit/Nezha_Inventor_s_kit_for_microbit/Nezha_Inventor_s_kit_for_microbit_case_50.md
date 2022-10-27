@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Make a small trash can with [Nezha-A Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
+Make a small trash can with [Nezha-A Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 
 ![](./images/neza-inventor-s-kit-case-50-01.png)
@@ -13,7 +13,7 @@ Make a small trash can with [Nezha-A Inventor's Kit](https://www.elecfreaks.com/
 
 ### Materials Rrquired
 
-[Nezha-A Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha-A Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -67,7 +67,7 @@ Build as the steps suggest:
 
 ### Connection Diagram
 
-Connect the [Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 on [Nezha-A Master Box](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [Motor](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 on [Nezha-A Master Box](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl).
 
 ![](./images/neza-inventor-s-kit-case-48-03.png)
 

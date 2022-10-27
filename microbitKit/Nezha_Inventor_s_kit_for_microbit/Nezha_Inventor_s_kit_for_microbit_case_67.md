@@ -1,7 +1,7 @@
 # Case 67: The Blocks Emitter
 ## Introduction
 
-Use  **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)** and  [Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html)to make a blocks emitter that can control the firing frequency with a knob and can be loaded automatically.
+Use  **[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)** and  [Potentiometer ](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)to make a blocks emitter that can control the firing frequency with a knob and can be loaded automatically.
 
 ![](./images/neza-inventor-s-kit-case-67-01.png)
 
@@ -9,9 +9,9 @@ Use  **[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-
 
 ### Materials Required
 
-**[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)**
+**[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)**
 
-[Potentiometer](https://www.elecfreaks.com/planetx-trimpot.html)
+[Potentiometer](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)
 
 Rubber bands
 
@@ -109,7 +109,7 @@ After the construction is completed, as shown in the following figure：
 
 ### Connection Diagram
 
-Connect the [Potentiometer ](https://www.elecfreaks.com/planetx-trimpot.html)to J1 port, and the [Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 port on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html) .
+Connect the [Potentiometer ](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=5a8a7f5cf&_ss=r)to J1 port, and the [Motor](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 port on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=r) .
 
 ![](./images/neza-inventor-s-kit-case-65-03.png)
 

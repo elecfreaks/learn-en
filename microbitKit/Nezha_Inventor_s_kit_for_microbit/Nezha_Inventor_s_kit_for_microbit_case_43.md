@@ -1,7 +1,7 @@
 # Case 43：The Bricks Launcher
 
 ## Introduction
-Build a bricks launcher with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
+Build a bricks launcher with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 ![](./images/43_1.png)
 
@@ -10,7 +10,7 @@ Build a bricks launcher with the [Nezha Inventor's Kit](https://www.elecfreaks.c
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -64,7 +64,7 @@ Build it as the assembly steps suggest:
 
 ### Connection Diagram
 
-Connect two [button](https://www.elecfreaks.com/planetx-button.html) to J1 and the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect two [button](https://shop.elecfreaks.com/products/elecfreaks-planetx-button-sensor?_pos=1&_psq=button&_ss=e&_v=1.0) to J1 and the [motor](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 and M2 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=r).
 
 ![](./images/neza-inventor-s-kit-case-43-03.png)
 
@@ -78,11 +78,11 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/neza-inventor-s-kit-case-37-04.png)
 
-For programming the [Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultrasonic.html), we need to add a package. Search with "PlanetX" in the dialogue box and click to download it. 
+For programming the [Ultrasonic Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-ultrasonic-sensor?_pos=1&_sid=9f90a6738&_ss=r), we need to add a package. Search with "PlanetX" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-05.png)
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=r), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 

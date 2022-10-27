@@ -20,7 +20,7 @@ Motors × 2
 
 RJ11 wires × 1
 
-***Tips: You may need to purchase [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) if you want all the above compoents.***
+***Tips: You may need to purchase [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r) if you want all the above compoents.***
 
 ### Connection Diagram 
 Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
@@ -28,8 +28,11 @@ Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha exp
 
 ![](./images/case_11_04.png)
 
+### Assembly Video
 
-** 在搭建过程中需要注意巡线探头离地高度应该为8~11mm，请根据实际情况进行调整。**
+Video reference: [https://youtu.be/N2w01pGaj30](https://youtu.be/N2w01pGaj30)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2w01pGaj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Assembly Steps
@@ -75,6 +78,8 @@ Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha exp
 ![](./images/case_step_11_20.png)
 
 ![](./images/case_step_11_21.png)
+
+![](./images/case_step_11_22.png)
 
 
 ## MakeCode Programming

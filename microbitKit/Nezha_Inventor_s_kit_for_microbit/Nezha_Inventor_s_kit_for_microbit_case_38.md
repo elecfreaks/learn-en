@@ -1,7 +1,7 @@
 # Case 38：The Mechanical Springtail
 
 ## Introduction
-Build a mechanical springtail with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
+Build a mechanical springtail with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 ![](./images/neza-inventor-s-kit-case-38-01.png)
 
@@ -9,7 +9,7 @@ Build a mechanical springtail with the [Nezha Inventor's Kit](https://www.elecfr
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -66,7 +66,7 @@ Build it as the assembly steps suggest:
 
 ### Connection Diagram
 
-Connect the [motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [motor](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=bfad50d7f&_ss=r) to M1 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=c41e367c3&_ss=r).
 
 ![](./images/neza-inventor-s-kit-case-38-03.png)
 
@@ -82,7 +82,7 @@ Click "Extensions''  in the MakeCode drawer to see more choices.
 
 ![](./images/neza-inventor-s-kit-case-37-04.png)
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=c41e367c3&_ss=r), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 

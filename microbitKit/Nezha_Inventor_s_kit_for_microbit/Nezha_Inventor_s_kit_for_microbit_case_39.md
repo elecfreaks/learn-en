@@ -1,7 +1,7 @@
 # Case 39：The Mechanical Crab
 
 ## Introduction
-Build a mechanical crab with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html). 
+Build a mechanical crab with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 ![](./images/39_1.png)
 
@@ -10,7 +10,7 @@ Build a mechanical crab with the [Nezha Inventor's Kit](https://www.elecfreaks.c
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 ---
@@ -80,7 +80,7 @@ We can see that the construction is completed as shown in the following figure:
 
 ### Connection Diagram
 
-Connect the [Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultrasonic.html) to J1 and the [motor ](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)to M1 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [Ultrasonic Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-ultrasonic-sensor?_pos=1&_sid=d432fa273&_ss=r) to J1 and the [motor ](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=bfad50d7f&_ss=r)to M1 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=c41e367c3&_ss=r).
 
 ![](./images/neza-inventor-s-kit-case-39-03.png)
 
@@ -98,7 +98,7 @@ For programming the [Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultra
 
 ![](./images/neza-inventor-s-kit-case-37-05.png)
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 

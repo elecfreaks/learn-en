@@ -1,15 +1,15 @@
 # Case 46：Rangefinder Guitar
 
 ## Introduction
-Build a rangefinder guitar with the [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html).
+Build a rangefinder guitar with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
 
-![](./images/46_1.png)
+![](./images/neza-inventor-s-kit-case-46-01.png)
 
 ## Quick to Start
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -83,7 +83,7 @@ Build it as the assembly steps suggest:
 
 ### Connection Diagram
 
-Connect the [Ultrasonic sensor](https://www.elecfreaks.com/planetx-ultrasonic.html) to J1 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [Ultrasonic sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-ultrasonic-sensor?_pos=1&_sid=9f90a6738&_ss=r) to J1 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl).
 
 ![](./images/neza-inventor-s-kit-case-46-03.png)
 
@@ -95,7 +95,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/neza-inventor-s-kit-case-37-04.png)
 
-For programming [Ultrasonic sensor](https://www.elecfreaks.com/planetx-ultrasonic.html), we need to add a package. Search with ”PlanetX“, in the dialogue box and click to download it. 
+For programming [Ultrasonic sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-ultrasonic-sensor?_pos=1&_sid=9f90a6738&_ss=r), we need to add a package. Search with ”PlanetX“, in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-05.png)
 
@@ -118,4 +118,3 @@ You may also download it directly:
 
 By detecting the distance between the ultrasonic sensor and the baffle, the buzzer is controlled to emit different tones.
 
-![](./images/46_2.gif)

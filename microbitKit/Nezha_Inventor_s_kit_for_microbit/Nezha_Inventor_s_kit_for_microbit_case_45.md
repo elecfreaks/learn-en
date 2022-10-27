@@ -1,15 +1,15 @@
 # Case 45：The Grasping Car V2
 
 ## Introduction
-In the previous case we built a grabbing car which can grasp objects very well, but it is not able to turn. We use [Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) to build a car that can both turn and grab objects here, the obvious feature in this case is that only one servo is applied to realize both the functions of lifting, lowering and grasping objects by the mechanical claw.
+In the previous case we built a grabbing car which can grasp objects very well, but it is not able to turn. We use [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r) to build a car that can both turn and grab objects here, the obvious feature in this case is that only one servo is applied to realize both the functions of lifting, lowering and grasping objects by the mechanical claw.
 
-![](./images/45_1.png)
+![](./images/neza-inventor-s-kit-case-45-01.png)
 
 ## Quick to Start
 
 ### Materials Required
 
-[Nezha Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
 ### Assembly
 
@@ -86,7 +86,7 @@ Build it as the assembly steps suggest:
 
 ### Connection Diagram
 
-Connect the [geekservo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html) to S1 and the two [motors](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html) to M1 and M2 on [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html).
+Connect the [geekservo](https://shop.elecfreaks.com/products/elecfreaks-360-degrees-building-blocks-servo?_pos=1&_psq=servo&_ss=e&_v=1.0) to S1 and the two [motors](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=a2da3fff8&_ss=r) to M1 and M2 on [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl).
 
 ![](./images/neza-inventor-s-kit-case-45-03.png)
 
@@ -100,7 +100,7 @@ Click "Advanced" in the MakeCode drawer to see more choices.
 
 ![](./images/neza-inventor-s-kit-case-37-04.png)
 
-For programming [Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
+For programming [Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=rl), we need to add a package. Search with "Nezha" in the dialogue box and click to download it. 
 
 ![](./images/neza-inventor-s-kit-case-37-06.png)
 
@@ -125,4 +125,3 @@ After powering on the device, the arm will be put on the floor. Flap your hands 
 While pressing button C on the PlanetX button module, the robot car stops moving and the robot arm starts grasping the goods and lifting them up.
 Touching the micro:bit logo to reverse the robot car and press button D to put the goods down.
 
-![](./images/45_2.gif)

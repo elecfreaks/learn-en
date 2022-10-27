@@ -1,7 +1,7 @@
 # Case 62: The Gesture-controlled Fan
 ## Introduction
 
-Use [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html) with [ELECFREAKS Planetx Gesture Sensor](https://www.elecfreaks.com/planetx-gesture.html), [8 RGB Rainbow LED Ring](https://www.elecfreaks.com/planetx-rainbow-led.html) and [ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html) to create a fan that can control the wind speed through gestures.
+Use [Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r) with [ELECFREAKS Planetx Gesture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=e300bc9f9&_ss=r), [8 RGB Rainbow LED Ring](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=2&_sid=a43c5c85b&_ss=r) and [ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=d6d4e0ca2&_ss=r) to create a fan that can control the wind speed through gestures.
 
 
 ![](./images/neza-inventor-s-kit-case-62-01.png)
@@ -12,13 +12,13 @@ Use [Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-k
 
 ### Materials Required
 
-[Nezha 48 IN 1 Inventor's Kit](https://www.elecfreaks.com/nezha-inventor-s-kit-for-micro-bit-without-micro-bit-board.html)
+[Nezha 48 IN 1 Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r)
 
-[ELECFREAKS Planetx Gesture Sensor](https://www.elecfreaks.com/planetx-gesture.html)
+[ELECFREAKS Planetx Gesture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=e300bc9f9&_ss=r)
 
-[8 RGB Rainbow LED Ring](https://www.elecfreaks.com/planetx-rainbow-led.html)
+[8 RGB Rainbow LED Ring](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=2&_sid=a43c5c85b&_ss=r)
 
-[ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html)
+[ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=d6d4e0ca2&_ss=r)
 
 ### Structure building
 
@@ -57,7 +57,7 @@ Build completion :
 
 ### Connection Diagram
 
-As the picture suggests, Connect the [ELECFREAKS Planetx Gesture Sensor](https://www.elecfreaks.com/planetx-gesture.html) to IIC port and the [ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html) to J1 port and the [8 RGB Rainbow LED Ring](https://www.elecfreaks.com/planetx-rainbow-led.html) to J2 port on [Nezha breakout board](https://www.elecfreaks.com/nezha-breakout-board.html).
+As the picture suggests, Connect the [ELECFREAKS Planetx Gesture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=e300bc9f9&_ss=r) to IIC port and the [ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=d6d4e0ca2&_ss=r) to J1 port and the [8 RGB Rainbow LED Ring](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=2&_sid=a43c5c85b&_ss=r) to J2 port on [Nezha breakout board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=00432325a&_ss=r).
 
 ![](./images/neza-inventor-s-kit-case-62-03.png)
 
