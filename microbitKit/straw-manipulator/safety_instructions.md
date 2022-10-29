@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Straw Manipulator, please read and familiarize yourself with the following precautions for use. Users should strictly observe all precautions and ensure that the Straw Manipulator is properly assembled and in proper working condition.
 
