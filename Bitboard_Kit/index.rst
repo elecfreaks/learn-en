@@ -8,3 +8,4 @@ Bitboard Kit(EF08250)
     :numbered: 2
     
     Bitboard_Kit.md
+    safety_instructions.md
