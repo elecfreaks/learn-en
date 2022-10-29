@@ -11,6 +11,7 @@ Classroom Sensor Pack
 
     sensor_pack.md
     basic_bit.md
+    safety_instructions.md
     sensor_pack_case01.md
     sensor_pack_case02.md
     sensor_pack_case03.md
