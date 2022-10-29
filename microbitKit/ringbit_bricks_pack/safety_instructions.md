@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before handling the Ring:bit Bricks Pack, please read and familiarize yourself with the following precautions. Users should strictly observe all precautions and ensure that the Ring:bit Bricks Pack is properly assembled and in proper working condition.
 The following operating principles should be followed:
