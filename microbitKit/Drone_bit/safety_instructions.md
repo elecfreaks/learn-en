@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Drone:bit kit, please read and familiarize yourself with the following precautions. Users should strictly observe all precautions and ensure that the Drone Bit is properly assembled and in proper working condition.
 
