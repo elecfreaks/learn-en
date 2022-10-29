@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Basic Kit, please read and familiarize yourself with the following precautions. Users should strictly observe all precautions and ensure that the Basic Kit is properly assembled and in proper working condition.
 
