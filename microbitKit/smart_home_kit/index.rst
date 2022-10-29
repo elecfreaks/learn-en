@@ -11,6 +11,7 @@ Smart home Kit(EF08197/EF08198)
 
     smart_home_kit.md
     sensor_bit.md
+    safety_instructions.md
     smart_home_case_01.md
     smart_home_case_02.md
     smart_home_case_03.md
