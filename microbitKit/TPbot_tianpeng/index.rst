@@ -10,6 +10,7 @@ TPBot(TianPeng)(EF08230)
 
 
     TPBot_tianpeng.md
+    safety_instructions.md
     TPbot-python.md
     TPBot_tianpeng_case_01.md
     TPBot_tianpeng_case_02.md
