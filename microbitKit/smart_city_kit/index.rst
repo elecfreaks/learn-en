@@ -10,6 +10,7 @@ smart city kit(EF08252/EF08253)
 
 
     microbit-Smart-City-Kit.md
+    safety_instructions.md
     microbit-Smart-City-Kit-case-01.md
     microbit-Smart-City-Kit-case-02.md
     microbit-Smart-City-Kit-case-03.md
