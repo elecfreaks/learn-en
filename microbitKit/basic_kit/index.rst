@@ -9,6 +9,7 @@ Basic Kit(EF08189/EF08194)
 
 
     basic_kit.md
+    safety_instructions.md
     basic_bit.md
     basic_kit_case_01.md
     basic_kit_case_02.md
