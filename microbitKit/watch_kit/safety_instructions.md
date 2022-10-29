@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Watch Kit, please read and familiarize yourself with the following precautions. Users should strictly observe all precautions and ensure that the Watch Kit is properly assembled and in proper working condition.
 
