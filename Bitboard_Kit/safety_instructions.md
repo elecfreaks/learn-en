@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Bitboard, please read and familiarize yourself with the following precautions. Users should follow all precautions and ensure that the Bitboard is properly assembled and in proper working order.
 
