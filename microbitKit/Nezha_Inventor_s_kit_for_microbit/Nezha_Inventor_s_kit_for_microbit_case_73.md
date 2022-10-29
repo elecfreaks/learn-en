@@ -44,7 +44,7 @@ The structure is built as shown in the figure:
 
 In the diagram below, connect the UV sensor to the J1 port and the servo to the S1 port of the Nezha Board.
 
-![](./images/neza-inventor-s-kit-case-73-04.png)
+![](./images/neza-inventor-s-kit-case-73-03.png)
 
 
 ## Makecode Programming
