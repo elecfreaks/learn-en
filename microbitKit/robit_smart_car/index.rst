@@ -11,6 +11,7 @@ robit Smart Car kit(EF08208)
 
     robit_smart_car.md
     robit.md
+    safety_instructions.md
     robit_smart_car_case_01.md
     robit_smart_car_case_02.md
     robit_smart_car_case_03.md
