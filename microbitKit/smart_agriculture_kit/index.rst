@@ -10,6 +10,7 @@ smart agriculture kit(EF08254/EF08255)
 
 
     microbit-Smart-Agriculture-Kit.md
+    safety_instructions.md
     microbit-Smart-Agriculture-Kit-case-01.md
     microbit-Smart-Agriculture-Kit-case-02.md
     microbit-Smart-Agriculture-Kit-case-03.md
