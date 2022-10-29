@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Smart City Kit, please read and familiarize yourself with the following precautions. Users should strictly follow all precautions and ensure that the Smart City Kit is properly assembled and in proper working condition.
 
