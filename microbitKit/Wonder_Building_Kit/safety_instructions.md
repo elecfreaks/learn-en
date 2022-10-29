@@ -6,6 +6,6 @@
 4. Do not disassemble or alter in any way the structure of the Wukong expansion board and other electronic devices by yourself.
 5. Do not place the Wukong expansion board and other electronic components near or in fire as this may cause damage to the product or cause a fire.
 6. When not using the Wonder Building Kit for an extended period of time, place it in a clean box and wrap it in a bag to prevent dust from falling into the interface and interfering with your use. Store the wrapped Wonder Building Kit in a clean, dry environment.
-## 360° Degrees Building Blocks Servo Usage Precautions
+# 360° Degrees Building Blocks Servo Usage Precautions
 When 360° Servo is used for the first time, the angle should be adjusted first, and then the structure should be built to avoid blocking of the servo due to the space structure, which will lead to damage of the product. The reference commissioning procedure is as follows:
  ![](./images/wonder_01.png)
