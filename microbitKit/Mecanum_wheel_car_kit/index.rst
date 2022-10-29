@@ -8,8 +8,8 @@ Wonder Rugged Car kit(EF08211/EF08212)
     :maxdepth: 2
     :numbered: 2
 
-    safety_instructions.md
     Mecanum_wheel_car_kit.md
+    safety_instructions.md
     Mecanum_wheel_car_kit_assembly_step.md
     Mecanum_wheel_car_kit_case_01.md
     Mecanum_wheel_car_kit_case_02.md
