@@ -11,6 +11,7 @@ motor:bit Smart Car Kit(EF08188/EF08193)
 
     motor_bit_smart_car.md
     motor_bit_v16.md
+    safety_instructions.md
     motor_bit_smart_car_case_01.md
     motor_bit_smart_car_case_02.md
     motor_bit_smart_car_case_03.md
