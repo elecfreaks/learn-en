@@ -8,8 +8,8 @@ Drone bit(EF08251)
     :maxdepth: 2
     :numbered: 2
 
-    safety_instructions.md
     Drone-bit.md
+    safety_instructions.md
     Drone-bit-Add-Package.md
     Drone-bit-python.md
     Drone-bit-case-01.md
