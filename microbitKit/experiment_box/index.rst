@@ -7,8 +7,9 @@ experiment box kit(EF08199/EF08200)
     :maxdepth: 2
     :numbered: 2
 
-
+    
     experiment_box.md
+    safety_instructions.md
     experiment_box_circuit_knowledge.md
     experiment_box_case_01.md
     experiment_box_case_02.md
