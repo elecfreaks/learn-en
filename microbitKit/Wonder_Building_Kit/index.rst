@@ -8,6 +8,7 @@ Wonder Building Kit(EF08239)
     :maxdepth: 2
     :numbered: 2
 
+    safety_instructions.md
     Case_01.md
     Case_02.md
     Case_03.md
