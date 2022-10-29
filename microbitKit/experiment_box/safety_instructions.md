@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Experiment Box, please read and familiarize yourself with the following precautions for use. Users should strictly observe all precautions and ensure that the Experiment Box is properly assembled and in proper working condition.
 
