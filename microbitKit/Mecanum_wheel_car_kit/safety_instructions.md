@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Wonder Rugged Car Kit, please read and familiarize yourself with the following precautions. Users should strictly follow all precautions and ensure that the Wonder Rugged Car Kit is properly assembled and in proper working condition.
 Please follow the operating principles below:
