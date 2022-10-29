@@ -10,6 +10,7 @@ Tinker Kit(EF08181/EF08183)
 
 
     tinker_kit.md
+    safety_instructions.md
     octopus_bit.md
     tinker_kit_case_01.md
     tinker_kit_case_02.md
