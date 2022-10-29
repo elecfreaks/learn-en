@@ -8,7 +8,7 @@ Magic_wand_kit(EF08225/EF08226)
     :maxdepth: 2
     :numbered: 2
 
-
+    safety_instructions.md
     Magic_wand_kit_case_01.md
     Magic_wand_kit_case_02.md
     Magic_wand_kit_case_03.md
