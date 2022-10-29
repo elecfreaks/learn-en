@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Smart Science IoT Kit, please read and familiarize yourself with the following precautions for use. Users should strictly follow all precautions and ensure that the Smart Science IoT Kit is properly assembled and in proper working condition.
 Please follow these operating principles:
