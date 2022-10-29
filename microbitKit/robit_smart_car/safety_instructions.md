@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Robit Smart Car Kit, please read and familiarize yourself with the following precautions for use. Users should strictly observe all usage precautions and ensure that the Robit Smart Car Kit is properly assembled and in proper working condition.
 The following operating principles should be followed:
