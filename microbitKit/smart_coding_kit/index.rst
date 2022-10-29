@@ -11,6 +11,7 @@ Smart Coding Kit(EF08205/EF08206)
 
     smart_coding_kit.md
     wear_bit.md
+    safety_instructions.md
     smart_coding_kit_case_01.md
     smart_coding_kit_case_02.md
     smart_coding_kit_case_03.md
