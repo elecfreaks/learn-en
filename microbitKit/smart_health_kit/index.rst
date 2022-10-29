@@ -8,7 +8,7 @@ smart health kit(EF08256/EF08257)
     :maxdepth: 2
     :numbered: 2
 
-
+    safety_instructions.md
     microbit-Smart-Health-Kit-case-01.md
     microbit-Smart-Health-Kit-case-02.md
     microbit-Smart-Health-Kit-case-03.md
