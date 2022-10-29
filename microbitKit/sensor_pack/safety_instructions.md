@@ -1,4 +1,4 @@
-## Safety instructions
+# Safety instructions
 
 Before operating the Classroom Sensor Pack, please read and familiarize yourself with the following precautions. Users should strictly observe all precautions and ensure that the Classroom Sensor Pack is properly assembled and in proper working condition.
 
