@@ -154,9 +154,9 @@ The on/ff status for each LED on the micro:bit is controlled by the handle.
 
 ## Below are cases of remote control:
 ---
-[Remote control cutebot ](https://www.elecfreaks.com/learn-cn/microbitKit/smart_cutebot/cutebot_case13.html)
+[Remote control cutebot ](https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/cutebot_case13.html)
 
-[Remote control TPBot](https://www.elecfreaks.com/learn-cn/microbitKit/TPbot_tianpeng/TPBot_tianpeng_case_14.html)
+[Remote control TPBot](https://www.elecfreaks.com/learn-en/microbitKit/TPbot_tianpeng/TPBot_tianpeng_case_14.html)
 
 
 
