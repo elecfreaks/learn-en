@@ -8,7 +8,7 @@ Change everything into a "keyboard"! The Bitboard helps to learn the electric ci
 ## Products link
 ---
 
-[ Bitboard Kit](https://shop.elecfreaks.com/products/elecfreaks-bitboard-kit)
+[ Bitboard Kit](https://shop.elecfreaks.com/products/elecfreaks-bitboard-kit?_pos=1&_sid=6f2c1bffb&_ss=r)
 
 ## Picture
 ---
