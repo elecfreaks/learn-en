@@ -4,7 +4,7 @@ ElecFreaks Micro:bit Tinker Kit is a set of Micro:bit accessory that enables you
 
 ## Products Link
 
-[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
 
 ## Components
 ---

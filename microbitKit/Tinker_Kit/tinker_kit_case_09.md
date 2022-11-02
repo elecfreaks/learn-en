@@ -7,7 +7,7 @@ With this machine, the truth will never escape you! As long as you can make your
 
 ## Products Link
 
-[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
 
 ## Step 0 – Pre Build Overview    
 ---  

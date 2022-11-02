@@ -7,7 +7,7 @@ Stop burglars with this simple intruder detection system.
 
 ## Products Link
 
-[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
 
 ## Step 0 – Pre-build Overview  
 ---

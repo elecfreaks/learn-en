@@ -4,7 +4,7 @@ Don’t like people sneaking up on you? Here’s just the right micro:bit projec
 
 ## Products Link
 
-[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
 
 ## Goals:  
 ---  

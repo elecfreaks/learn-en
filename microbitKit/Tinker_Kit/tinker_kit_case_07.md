@@ -13,7 +13,7 @@ In this project, we are going to create a fish feeding machine. The movement of 
 
 ## Products Link
 
-[Tinker Kit](https://www.elecfreaks.com/micro-bit-tinker-kit.html)
+[Tinker Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tinker-kit-without-micro-bit-board?_pos=1&_sid=a3579b340&_ss=r)
 
 ## Materials:     
 ---     
