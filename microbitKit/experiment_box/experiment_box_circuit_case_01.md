@@ -6,7 +6,7 @@ We are going to use the experiment box to finish a pure circuit design and to co
 
 ## Products Link
 
-[ELECFREAKS Experiment Box Kit](https://www.elecfreaks.com/experimentboxformicrobit.html)
+[ELECFREAKS Experiment Box Kit](https://shop.elecfreaks.com/products/elecfreaks-experiment-box-kit-without-micro-bit-board?_pos=1&_sid=ac099db2f&_ss=r)
 
 ## Hardware Connect ##
 

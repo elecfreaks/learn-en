@@ -7,7 +7,7 @@ LED is a common use in our life. Most of signal light employs LED as main illumi
 
 ## Products Link
 
-[ELECFREAKS Experiment Box Kit](https://www.elecfreaks.com/experiment-box-for-micro-bit.html)
+[ELECFREAKS Experiment Box Kit](https://shop.elecfreaks.com/products/elecfreaks-experiment-box-kit-without-micro-bit-board?_pos=1&_sid=ac099db2f&_ss=r)
 
 ## Hardware Connect ##
 
