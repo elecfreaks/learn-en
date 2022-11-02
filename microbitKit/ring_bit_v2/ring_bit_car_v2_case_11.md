@@ -13,9 +13,9 @@
 ## Materials 
 
 
-1 × [Ring:bit car V2](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
+1 × [Ring:bit car V2](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board?_pos=4&_sid=66ba68dec&_ss=r)
 
-1 × [Joystick:bit](https://www.elecfreaks.com/joystick-bit-2-kit-for-micro-bit.html)
+1 × [Joystick:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=e0b457673&_ss=r)
 
 
 

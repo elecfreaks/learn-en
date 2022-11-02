@@ -6,9 +6,9 @@
 
 ## Materials
 
-- 1 x [Ring:bit Car kit](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html)
+- 1 x [Ring:bit Car kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board?_pos=4&_sid=66ba68dec&_ss=r)
 - 1 x micro:bit 
-- 1 x [Sonar:bit](https://www.elecfreaks.com/ring-bit-car-accessories-sonar-bit-tracking-module-and-led-light-bar.html)
+- 1 x [Sonar:bit](https://shop.elecfreaks.com/products/elecfreaks-octopus-sonar-bit?_pos=1&_sid=206cda736&_ss=r)
 
 
 ## Hardware Connection
