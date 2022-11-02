@@ -4,13 +4,13 @@
 
 ## Purpose
 
-Hello, in the first few lessons, we basically programmed the program first and then controlled the XGO movement, so we cannot control the XGO in real time. Then, in this lesson, we will realize the real-time control of the XGO through the remote control. Therefore, in this lesson, we will Implement [Joystick:bit](https://www.elecfreaks.com/learn-en/microbitExtensionModule/joystick_bit_v2.html) to control XGO to make actions. For related documents of joystick:bit, please refer to: [Joystick:bit](https://www.elecfreaks.com/learn-en/microbitExtensionModule/joystick_bit_v2.html).
+Hello, in the first few lessons, we basically programmed the program first and then controlled the XGO movement, so we cannot control the XGO in real time. Then, in this lesson, we will realize the real-time control of the XGO through the remote control. Therefore, in this lesson, we will Implement [Joystick:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=6d5690385&_ss=r) to control XGO to make actions. For related documents of joystick:bit, please refer to: [Joystick:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=6d5690385&_ss=r).
 
 ## Materials 
 
-1 × [micro:bit XGO Robot Kit](https://www.elecfreaks.com/micro-bit-xgo-robot-kit.html)
+1 × [micro:bit XGO Robot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-xgo-robot-kit?_pos=1&_sid=c796ff3f3&_ss=r)
 
-1 × [Joystick:bit](https://www.elecfreaks.com/learn-en/microbitExtensionModule/joystick_bit_v2.html)
+1 × [Joystick:bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=6d5690385&_ss=r)
 
 
 

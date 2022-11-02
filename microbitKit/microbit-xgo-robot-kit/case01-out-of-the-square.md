@@ -8,7 +8,7 @@ Hello, in this class we are about to learn to program and control XGO, we will m
 
 ### Materials 
 
-[micro:bit XGO Robot Kit ](https://www.elecfreaks.com/micro-bit-xgo-robot-kit.html) × 1
+[micro:bit XGO Robot Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-xgo-robot-kit?_pos=1&_sid=c796ff3f3&_ss=r) × 1
 
 [micro:bit](https://www.elecfreaks.com/bbc-micro-bit-board-for-coding-programming-microbit.html) × 1
 

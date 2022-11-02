@@ -10,7 +10,7 @@ Hi guys，We all know that dogs have a very sensitive sense of smell. If we let 
 
 ### Materials Required
 
-[micro:bit XGO Robot Kit ](https://www.elecfreaks.com/micro-bit-xgo-robot-kit.html) × 1
+[micro:bit XGO Robot Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-xgo-robot-kit?_pos=1&_sid=c796ff3f3&_ss=r) × 1
 
 magnet × 1
 

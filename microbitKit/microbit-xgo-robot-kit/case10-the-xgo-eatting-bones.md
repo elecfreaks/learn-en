@@ -10,7 +10,7 @@ Hi guys, we know that dogs like bones very much, how can we program to achive a 
 ---
 ### Materials Required
 
-[micro:bit XGO Robot Kit ](https://www.elecfreaks.com/micro-bit-xgo-robot-kit.html) × 1
+[micro:bit XGO Robot Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-xgo-robot-kit?_pos=1&_sid=c796ff3f3&_ss=r) × 1
 
 [micro:bit](https://www.elecfreaks.com/micro-bit/board.html) × 1
 

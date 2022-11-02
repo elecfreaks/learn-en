@@ -11,7 +11,7 @@ Hi guys, you might know how to operate XGO already from the previous lessons. In
 
 ### Materials 
 
-[micro:bit XGO Robot Kit ](https://www.elecfreaks.com/micro-bit-xgo-robot-kit.html) × 1
+[micro:bit XGO Robot Kit ](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-xgo-robot-kit?_pos=1&_sid=c796ff3f3&_ss=r) × 1
 
 ### Working principle
 ---
