@@ -2,11 +2,11 @@
 
 ## Purpose
 ---
-- Use an infrared remote control to give orders to the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html). 
+- Use an infrared remote control to give orders to the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r). 
 
 ## Materials
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [Cutebot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 - 1 x [IR Remote Control](https://www.elecfreaks.com/infrared-remote-control.html)
 ## Software Platform
 ---

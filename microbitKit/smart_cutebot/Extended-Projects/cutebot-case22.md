@@ -5,11 +5,11 @@ Use a cutebot smart car with mechanical claws to create a car with the ability t
 
 ## Materials
 
-1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × [Cutebot smart car](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
 1 × [ELECFREAKS Mechanical Catch](https://www.elecfreaks.com/elecfreaks-mechanical-catch-use-with-cutebot.html)
 
-1 x [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
+1 x [Joystick:bit V2](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=e0b457673&_ss=r)
 
 ## Assembly
 

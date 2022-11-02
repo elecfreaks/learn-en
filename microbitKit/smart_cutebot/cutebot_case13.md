@@ -2,12 +2,12 @@
 
 ## Purpose
 ---
-- Use the joystick:bit to control the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
+- Use the joystick:bit to control the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r).
 
 ## Materials 
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
-- 1 x [Joystick:bit V2](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
+- 1 x [Cutebot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
+- 1 x [Joystick:bit V2](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=72f08b2c2&_ss=r)
 
 
 ## Software Platform 
@@ -23,7 +23,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+- A codebase is required for [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -77,7 +77,7 @@ You can also download it directly below:
 
 ## Result
 ---
-- The rocker controls the movement of the [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html).
+- The rocker controls the movement of the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r).
 
 ## Exploration
 ---

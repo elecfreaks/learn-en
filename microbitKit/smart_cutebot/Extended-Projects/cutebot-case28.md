@@ -7,9 +7,9 @@ Use the Cutebot smart car to create a cart that can push opponents off the playi
 
 ## Materials
 
-1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × [Cutebot smart car](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
-1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
+1 × [Cutebot lithium battery pack](https://shop.elecfreaks.com/products/elecfreaks-cutebot-lithium-battery-pack?_pos=1&_sid=40d2051cb&_ss=r)
 
 n × Building block parts (block parts need to be prepared by yourself)
 

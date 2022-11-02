@@ -2,11 +2,11 @@
 
 ## Purpose
 ---
-- Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) turn on its steering and clearance lamps when making a turn.
+- Make your  [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) turn on its steering and clearance lamps when making a turn.
 
 ## Materials 
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [Cutebot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
 ## Software Platform
 ---
@@ -19,7 +19,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
+- A codebase is required for  [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 

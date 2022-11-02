@@ -2,12 +2,12 @@
 
 ## Purpose
 ---
-- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) runs along the black line.
+- The  [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) runs along the black line.
 
 ## Materials 
 ---
-- 1 x [Cutebot kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
-- 1 x Line-tracking Map(Homemade or enclosed in the  [Cutebot kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html))
+- 1 x [Cutebot kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
+- 1 x Line-tracking Map(Homemade or enclosed in the  [Cutebot kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
 ## Software Platform 
 ---

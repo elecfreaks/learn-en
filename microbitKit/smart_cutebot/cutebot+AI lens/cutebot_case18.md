@@ -2,18 +2,18 @@
 
 ## Purpose
 ---
-- Change the color of the lights via the color of the cards with the Smart [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html).
+- Change the color of the lights via the color of the cards with the Smart [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r).
 
 ## Materials required
 ---
 
-- 1 × [Cutebot V3.0](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 × [Cutebot V3.0](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
 - 1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
 
-- 1 × [AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+- 1 × [AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r)
 
-***Note:*** The [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit works with [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) V3.0 only(You can see the version number printed on the baseboard).
+***Note:*** The [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r) kit works with [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) V3.0 only(You can see the version number printed on the baseboard).
 
 ![](./images/cutebot-16-04.png)
 
@@ -50,11 +50,11 @@ Steps of build-up:
 
 ### Connections of the AI Lens: 
 
-Connect the RJ11 cable with the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
+Connect the RJ11 cable with the [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r) and the other end in Dupont connection to the circled place in the below picture (make sure you connect to the right connections).
 
 ![](./images/cutebot-step-10.png)
 
-***Tips:*** the bricks holder here is flexible to be adjusted, we may manually adjust the angles of the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) to meet the requirements of the functions that you want to achieve.
+***Tips:*** the bricks holder here is flexible to be adjusted, we may manually adjust the angles of the [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r) to meet the requirements of the functions that you want to achieve.
 
 ## Software Platform:
 ---
@@ -75,7 +75,7 @@ Click “Advanced” in the drawer to see more choices.
 ![](./images/cutebot-pk-11.png)
 
 
-We need to add a package for programming the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) kit. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-PlanetX-AI” in the dialogue box to download it.
+We need to add a package for programming the [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r) kit. Click “Extensions” in the bottom of the drawer and search with “https://github.com/elecfreaks/pxt-PlanetX-AI” in the dialogue box to download it.
 
 ![](./images/cutebot-pk-12.png)
 
@@ -83,11 +83,11 @@ We need to add a package for programming the [AI Lens](https://www.elecfreaks.co
 
 ###  Step 2
 
-- In the “on start” brick, initialize the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and switch the function to the color recognition mode, set the RainbowLED lights connect to P15 port. 
+- In the “on start” brick, initialize the [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r) and switch the function to the color recognition mode, set the RainbowLED lights connect to P15 port. 
 
 ![](./images/case-18-01.png)
 
-- In the “forever” brick, set to get one image form the [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html) and judge the cards color on the image. If it reconizes the white color, we set the LED headlights and signal lights in white; if we recognizes the blue color, we set the LED headlights and signal lights in blue, by analogy, we programme with green, red, yellow and black card in the same way. 
+- In the “forever” brick, set to get one image form the [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r) and judge the cards color on the image. If it reconizes the white color, we set the LED headlights and signal lights in white; if we recognizes the blue color, we set the LED headlights and signal lights in blue, by analogy, we programme with green, red, yellow and black card in the same way. 
 
 ![](./images/case-18-02.png)
 

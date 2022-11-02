@@ -2,11 +2,11 @@
 
 ## Purpose
 ---
-- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves with a fixed distance between the car and your hands.
+- The [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) moves with a fixed distance between the car and your hands.
 
 ## Materials 
 ---
-- 1 x [Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [Cutebot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 - 1 x Ultrasonic Sensor
 
 ## Software Platform 
@@ -23,7 +23,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
+- A codebase is required for [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) programming, click “Add Package” at the bottom of the drawer, search `Cutebot` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -59,7 +59,7 @@ You can also download it directly below:
 
 ## Result
 ---
-- The [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) adjusts itself to keep a fixed distance with your hands.
+- The [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) adjusts itself to keep a fixed distance with your hands.
 
 ## Exploration
 ---

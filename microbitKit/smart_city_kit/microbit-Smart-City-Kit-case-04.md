@@ -14,7 +14,7 @@ Control the lighting of LEDs in different colors from the tilted status of the m
 
 ## Products Link
 ---
-- 1 x [microbit Smart City Kit](https://www.elecfreaks.com/micro-bit-smart-city-kit-without-micro-bit-board.html)
+- 1 x [microbit Smart City Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-city-kit-without-micro-bit-board?_pos=1&_sid=ce30b50b6&_ss=r)
 
 ## Picture
 ---

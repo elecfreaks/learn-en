@@ -5,9 +5,9 @@ Display the expressions through an 8 x 16 dot matrix screen.
 
 ## Materials
 
-1 × [Cutebot smart car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × [Cutebot smart car](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
-1 × [ELECFREAKS 8x16 Matrix Module](https://www.elecfreaks.com/8x16-matrix-module.html)
+1 × [ELECFREAKS 8x16 Matrix Module](https://shop.elecfreaks.com/products/elecfreaks-8x16-matrix-module?_pos=1&_sid=38247e8ea&_ss=r)
 
 
 

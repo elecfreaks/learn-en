@@ -6,7 +6,7 @@
 
 ## Products Link
 
-2 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://www.elecfreaks.com/micro-bit-smart-coding-kit.html)
+2 x [ELECFREAKS micro:bit Smart Coding Watch Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-coding-watch-kit-without-micro-bit-board?_pos=2&_sid=ce4e7cb69&_ss=r)
 
 
 ![](./images/smart_coding_kit_case_07_01.png)

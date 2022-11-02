@@ -23,7 +23,7 @@ To build a smart farm with the Smart Agriculture Kit and the Carton models.
 ---
 Smart Agriculture Kit
 
-Link: [https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html](https://www.elecfreaks.com/micro-bit-smart-agriculture-kit-without-micro-bit-board.html)
+Link: [https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-agriculture-kit-without-micro-bit-board?_pos=2&_sid=2c86b7764&_ss=r](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-agriculture-kit-without-micro-bit-board?_pos=2&_sid=2c86b7764&_ss=r)
 
 ![](./images/microbit-Smart-Agriculture-Kit-case-01-02.png)
 

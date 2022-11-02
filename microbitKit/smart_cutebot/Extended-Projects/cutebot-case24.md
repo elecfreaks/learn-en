@@ -5,11 +5,11 @@ Working with the AI lens, the Cutebot car is able to be controlled by starting m
 
 ## Materials
 
-1 × [Cutebot car](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+1 × [Cutebot car](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
-1 × [Cutebot lithium battery pack](https://www.elecfreaks.com/cutebot-lithium-battery-pack.html)
+1 × [Cutebot lithium battery pack](https://shop.elecfreaks.com/products/elecfreaks-cutebot-lithium-battery-pack?_pos=1&_sid=40d2051cb&_ss=r)
 
-1 × [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+1 × [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=dcae9d30c&_ss=r)
 
 *Note: AI lens is for Cutebot V 3.0 and above (you can see the version number printed on the base plate).*
 

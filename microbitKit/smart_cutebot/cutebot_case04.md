@@ -2,11 +2,11 @@
 
 ## Purpose
 ---
-- Make your  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) move(move forward, reverse or change direction) as if in "his" mind. 
+- Make your  [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) move(move forward, reverse or change direction) as if in "his" mind. 
 
 ## Materials 
 ---
-- 1 x [CutebotKit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+- 1 x [CutebotKit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)
 
 ## Software Platform 
 ---
@@ -20,7 +20,7 @@
 
 ![](./images/cutebot-pk-1.png)
 
-- A codebase is required for  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)` in the dialogue box and download it.
+- A codebase is required for  [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) programming, click “Add Package” at the bottom of the drawer, search ` [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r)` in the dialogue box and download it.
 
 ![](./images/cutebot-pk-11.png)
 
@@ -54,7 +54,7 @@ You can also download it directly below:
 
 ## Result
 ---
- The  [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) moves forward, reverses or changes its direction at random.
+ The  [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=4c6909119&_ss=r) moves forward, reverses or changes its direction at random.
 
 ## Exploration
 ---
