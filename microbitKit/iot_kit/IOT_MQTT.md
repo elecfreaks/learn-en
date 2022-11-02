@@ -7,7 +7,7 @@ Website: [https://www.hivemq.com/](https://www.hivemq.com/)
 ## Required materials 
 
 
- 1 x [IOT:kit](https://www.elecfreaks.com/micro-bit-smart-science-iot-kit.html)
+ 1 x [IOT:kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-science-iot-kit-without-micro-bit-board?_pos=1&_sid=2513e1df0&_ss=r)
 
 ## Register
 

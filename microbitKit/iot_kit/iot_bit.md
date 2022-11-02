@@ -10,7 +10,7 @@
 ![](./images/iot_bit_01.jpg)
 ##  Products Link
 
-[ELECFREAKS IOT:bit](https://www.elecfreaks.com/iot-bit-for-micro-bit.html)
+[ELECFREAKS IOT:bit](https://shop.elecfreaks.com/products/elecfreaks-iot-bit-internet-wifi-extension-board-for-micro-bit?_pos=2&_sid=2513e1df0&_ss=r)
 
 
 
