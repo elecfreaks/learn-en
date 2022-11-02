@@ -7,7 +7,7 @@
 
 ## Material
 
-1 x [basic kit](https://www.elecfreaks.com/micro-bit-basic-kit.html)
+1 x [basic kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-beginner-basic-kit-without-micro-bit-board?_pos=1&_sid=b2a4954fa&_ss=r)
  1 x Cardboard
  1 x Hot melt glue gun
  1 x Scissors
