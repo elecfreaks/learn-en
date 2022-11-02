@@ -7,7 +7,7 @@
 ## Material
 ---
 
-- 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
+- 1 x [TPBot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tpbot-car-kit-without-micro-bit-board?_pos=1&_sid=f32828112&_ss=r)
 
 
 
