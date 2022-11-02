@@ -17,7 +17,7 @@ RGB LED is a kind of LED that can emit light in three different colors: red, gre
 - 3 x 100 Ohm Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-**Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .**
+**Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r) .**
 
 ![](./images/W4tseua.jpg)
 

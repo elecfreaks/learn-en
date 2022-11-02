@@ -18,7 +18,7 @@ In our previous experiment , we have learned how to use Micro:bit to control 2 L
 - 1 x Momentary Pushbutton Switch
 - n x Breadborad jumper wire 65pcs pack
 
-***Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit  [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
+***Tips: If you want to buy all components above, you may need Elecfreaks Micro:bit  [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r)  .***
 
 ![](./images/W4tseua.jpg)
 

@@ -23,7 +23,7 @@ Motor is a kind of device which can transfer electric energy into kinetic energy
 - n x Breadborad Jumper Wire 65pcs Pack
 - 2 x Alligator Clip Wires
 
-***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r)  .***
 
 ![](./images/W4tseua.jpg)
 
@@ -62,7 +62,7 @@ Connect your components according to the picture below:
 
 ![](./images/2MZA7bj.jpg)
 
-The drive current on micro:bit IO port is too feeble to connect motor directly. At this time, we have to use a triode to amplify the current of IO port. The circuit diagram of using triode to amplify current on IO port is very similar to the circuit diagram of our last chapter “micro:bit Experiment 09:Buzzer —— Elecfreaks mirco: bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  Course”. The only difference is the motor has two diodes on its both terminals. And the diode in this circuit is called Freewheel Diode.
+The drive current on micro:bit IO port is too feeble to connect motor directly. At this time, we have to use a triode to amplify the current of IO port. The circuit diagram of using triode to amplify current on IO port is very similar to the circuit diagram of our last chapter “micro:bit Experiment 09:Buzzer —— Elecfreaks mirco: bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r)  Course”. The only difference is the motor has two diodes on its both terminals. And the diode in this circuit is called Freewheel Diode.
 
 Within the motor, there has a coil. When current flow passes through the coil, it will produce induced electromotive force on the both terminals. When current disappears, the induced electromotive force will generate backward voltage to the components in the circuit. It might damage these components. Freewheel diode connects the two terminals of the coil in anti-parallel. When we cut off the power supply of the inductance coil, the induced electromotive force will not disappear immediately. And the residual force will release by diode. This is a typical design of protection.
 

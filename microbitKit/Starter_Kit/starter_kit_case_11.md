@@ -18,7 +18,7 @@
 - 1 x 8 RGB Rainbow LED Ring
 - n x Breadborad Jumper Wire 65pcs Pack
 
-***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r) .***
 
 ![](./images/W4tseua.jpg)
 

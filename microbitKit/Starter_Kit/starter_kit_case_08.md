@@ -19,7 +19,7 @@ Servo is a kind of driver for position (angle) servo. It is suitable to control 
 - 1 x TowerPro SG-90 Mini Servo(1.6kg)
 - n x Breadborad Jumper Wire 65pcs Pack
 
-***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
+***Tips: If you want all components above, you may need Elecfreaks Micro:bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r)  .***
 
 ![](./images/W4tseua.jpg)
 

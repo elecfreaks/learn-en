@@ -18,7 +18,7 @@ Photocell is a kind of special resistor based on internal photoelectric effect. 
 - 1 x 10kΩ Resistors
 - n x Breadborad jumper wire 65pcs pack
 
-***Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html) .***
+***Tips: If you want to buy all components above, then you will need Elecfreaks micro:bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r) .***
 
 ![](./images/W4tseua.jpg)
 

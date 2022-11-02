@@ -19,7 +19,7 @@ Buzzer is a kind of electronic sound receiver with integrated structure. It is w
 - 1 x 100 Ohm Resistors
 - 1 x Breadborad Jumper Wire 65pcs Pack
 
-***Tips: If you want all components above, you will need Elecfreaks micro:bit [Starter Kit](https://www.elecfreaks.com/micro-bit-starter-kit.html)  .***
+***Tips: If you want all components above, you will need Elecfreaks micro:bit [Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-starter-kit?_pos=2&_sid=fc5b895f2&_ss=r)  .***
 
 ![](./images/W4tseua.jpg)
 
