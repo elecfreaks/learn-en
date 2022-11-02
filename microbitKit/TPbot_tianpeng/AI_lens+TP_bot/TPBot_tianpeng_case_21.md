@@ -7,11 +7,11 @@
 ## Materials required
 ---
 
-- 1 x [TPBot](https://www.elecfreaks.com/tpbot.html)
+- 1 x [TPBot](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-tpbot-car-kit-without-micro-bit-board?_pos=1&_sid=f32828112&_ss=r)
 
 ![](./images/TPBot_tianpeng_case_20_01.png)
 
-- 1 x  [AI Lens](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+- 1 x  [AI Lens](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=068025047&_ss=r)
 
 ![](./images/TPBot_tianpeng_case_20_02.png)
 
