@@ -8,8 +8,8 @@ To make a forklift.
 
 ## Link 
 ---
-[micro:bit Wonder Building Kit](https://www.elecfreaks.com/micro-bit-wonder-building-kit-without-micro-bit-board.html)
-[Joystick bit](https://www.elecfreaks.com/joystick-bit-2-for-micro-bit.html)
+[micro:bit Wonder Building Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board?_pos=5&_sid=2094afd2f&_ss=r)
+[Joystick bit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-joystick-bit-v2-kit?_pos=2&_sid=ace7fad9a&_ss=r)
 
 ## Materials Required
 ---
