@@ -6,8 +6,8 @@
 
 ## Products Link
 
-[wukong manipulator kit](https://www.elecfreaks.com/wukong-manipulator-kit.html)
-[elecfreaks smart ai lens kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+[wukong manipulator kit](https://shop.elecfreaks.com/products/elecfreaks-wukong-manipulator-kit?_pos=2&_sid=5727058f5&_ss=r)
+[elecfreaks smart ai lens kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=59be21b59&_ss=r)
 
 
 ## Introduction

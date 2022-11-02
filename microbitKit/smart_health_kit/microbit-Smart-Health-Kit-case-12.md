@@ -19,7 +19,7 @@ Noise can also cause irreversible damage to the ear canal and auditory system, s
 
 ## Products Link
 ---
-- 1 x [micro:bit Smart Health Kit](https://www.elecfreaks.com/micro-bit-smart-health-kit-without-micro-bit-board.html)
+- 1 x [micro:bit Smart Health Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-health-kit-without-micro-bit-board?_pos=1&_sid=2b45d49aa&_ss=r)
 
 ## Picture
 ---

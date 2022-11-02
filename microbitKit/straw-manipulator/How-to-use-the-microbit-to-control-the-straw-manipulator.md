@@ -6,7 +6,7 @@
 
 ## Products Link
 
-[wukong manipulator kit](https://www.elecfreaks.com/wukong-manipulator-kit.html)
+[wukong manipulator kit](https://shop.elecfreaks.com/products/elecfreaks-wukong-manipulator-kit?_pos=2&_sid=5727058f5&_ss=r)
 
 
 

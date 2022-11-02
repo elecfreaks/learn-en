@@ -8,7 +8,7 @@
 ## Materials
 
 
-1 x [ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+1 x [ELECFREAKS micro:bit Smart Home Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-home-kit-without-micro-bit-board?_pos=1&_sid=ebbf2bf73&_ss=r)
  A scissors
  A bottle of glue 
  A piece of cardboard

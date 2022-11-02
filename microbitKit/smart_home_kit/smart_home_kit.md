@@ -7,7 +7,7 @@ Smart home is what makes life more practical and playing with it is what makes l
 
 ## Products Link
 
-[ELECFREAKS micro:bit Smart Home Kit](https://www.elecfreaks.com/micro-bit-smart-home-kit.html)
+[ELECFREAKS micro:bit Smart Home Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-home-kit-without-micro-bit-board?_pos=1&_sid=ebbf2bf73&_ss=r)
 
 ## Application Scene   
 
