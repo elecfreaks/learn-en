@@ -10,7 +10,7 @@
 
 ## Products Link
 
-[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://www.elecfreaks.com/ring-bit-bricks-pack.html)
+[ELECFREAKS micro:bit 6 IN 1 Ring:bit Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-6-in-1-ring-bit-kit-without-micro-bit-board?_pos=5&_sid=66ba68dec&_ss=r)
 
 
 
