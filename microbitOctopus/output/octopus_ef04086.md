@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus 1 Channel Relay 3V](https://www.elecfreaks.com/1-channel-relay-3v-relay-module-for-micro-bit.html)
+[ELECFREAKS Octopus 1 Channel Relay 3V](https://shop.elecfreaks.com/products/elecfreaks-octopus-1-channel-relay-3v?_pos=1&_sid=2b39a5e93&_ss=r)
 
 ## Characteristics
 

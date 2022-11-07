@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS IIC OLED Module](https://www.elecfreaks.com/iic-oled-module.html)
+[ELECFREAKS IIC OLED Module](https://shop.elecfreaks.com/products/elecfreaks-iic-oled-module?_pos=1&_sid=8e8a6b848&_ss=r)
 
 
 ## Characteristics

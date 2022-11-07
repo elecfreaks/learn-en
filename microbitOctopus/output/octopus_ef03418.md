@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[ELECFREAKS 8x16 Matrix Module](https://www.elecfreaks.com/8x16-matrix-module.html)
+[ELECFREAKS 8x16 Matrix Module](https://shop.elecfreaks.com/products/elecfreaks-8x16-matrix-module?_pos=1&_sid=17c65dbd7&_ss=r)
 
 ## Characteristic
 

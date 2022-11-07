@@ -8,7 +8,7 @@ Octopus 5mmLED light Brick can be used in the interaction with the light works w
 
 ## Products Link
 
-[ELECFREAKS Octopus 5mm LED Brick - Green](https://www.elecfreaks.com/octopus-5mm-led-brick-green.html)
+[ELECFREAKS Octopus 5mm LED Brick - Green](https://shop.elecfreaks.com/products/elecfreaks-octopus-5mm-led-brick-green?_pos=1&_sid=5e5625d1a&_ss=r)
 
 ## Characteristics
 

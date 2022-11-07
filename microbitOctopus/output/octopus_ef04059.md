@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Motor Brick](https://www.elecfreaks.com/octopus-motor-brick.html)
+[ELECFREAKS Octopus Motor Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-motor-brick?_pos=1&_sid=6b936aace&_ss=r)
 
 ## Characteristics
 

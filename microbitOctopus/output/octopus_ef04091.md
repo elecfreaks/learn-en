@@ -6,7 +6,7 @@ Octopus Single RGB Rainbow LED is one of the single rainbow LED electronic brick
 
 ## Products Link
 
-[ELECFREAKS Octopus Single RGB Rainbow LED](https://www.elecfreaks.com/octopus-single-rgb-rainbow-led.html)
+[ELECFREAKS Octopus Single RGB Rainbow LED](https://shop.elecfreaks.com/products/elecfreaks-octopus-single-rgb-rainbow-led?_pos=1&_sid=aad811326&_ss=r)
 
 
 ## Introduction

@@ -14,7 +14,7 @@ Notice: Please do not shine the eyes. The laser emits a red laser beam that usua
 
 ## Products Link
 
-[ELECFREAKS Octopus 3V Laser Sensor](https://www.elecfreaks.com/octopus-3v-laser-sensor.html)
+[ELECFREAKS Octopus 3V Laser Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-3v-laser-sensor?_pos=1&_sid=090415e74&_ss=r)
 
 
 ## Characteristics

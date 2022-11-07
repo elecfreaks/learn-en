@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Passive Buzzer Brick](https://www.elecfreaks.com/octopus-passive-buzzer-brick-obpb01.html)
+[ELECFREAKS Octopus Passive Buzzer Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-passive-buzzer-brick?_pos=1&_sid=a04baba3d&_ss=r)
 
 ## Characteristics
 

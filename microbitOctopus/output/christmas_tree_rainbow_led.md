@@ -1,4 +1,4 @@
-# Christmas Tree Rainbow LED for micro:bit(EF03420)
+# Christmas Tree Rainbow LED for micro:bit(EF08219)
 
 ## Introduction
 
@@ -6,7 +6,7 @@
 
 ## Products Link
 
-[ELECFREAKS micro:bit Christmas Tree Rainbow LED](https://www.elecfreaks.com/christmas-tree-rainbow-led-for-micro-bit.html)
+[ELECFREAKS micro:bit Christmas Tree Rainbow LED](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-christmas-kits-christmas-tree-rainbow-led-snowflake-buzzer?_pos=1&_sid=ca3b54a82&_ss=r)
 
 ## Features
 

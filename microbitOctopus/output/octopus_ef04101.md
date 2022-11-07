@@ -11,7 +11,7 @@ EL (electroluminescence) is a physical phenomenon in which an electric field is 
 
 ## Products Link
 
-[ELECFREAKS Octopus EL Driver Module](https://www.elecfreaks.com/octopus-el-driver-module.html)
+[ELECFREAKS Octopus EL Driver Module](https://shop.elecfreaks.com/products/elecfreaks-octopus-el-driver-module?_pos=1&_sid=ad14b8f54&_ss=r)
 
 ## Characteristics
 

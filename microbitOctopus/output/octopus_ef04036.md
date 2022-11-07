@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus 5mm LED Brick - Blue](https://www.elecfreaks.com/octopus-5mm-led-brick-obled-blue.html)
+[ELECFREAKS Octopus 5mm LED Brick - Blue](https://shop.elecfreaks.com/products/elecfreaks-octopus-5mm-led-brick-blue?_pos=1&_sid=74b9b3960&_ss=r)
 
 ## Characteristics
 

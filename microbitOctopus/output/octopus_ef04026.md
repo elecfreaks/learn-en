@@ -8,7 +8,7 @@ OCTOPUS 1Channel Relay is a single relay electronic brick.
 
 ## Products Link
 
-[ELEFREAKS Octopus 1 Channel Relay](https://www.elecfreaks.com/octopus-1channel-relay.html)
+[ELEFREAKS Octopus 1 Channel Relay](https://shop.elecfreaks.com/products/elefreaks-octopus-1-channel-relay?_pos=1&_sid=c157bbf49&_ss=r)
 
 ## Characteristics
 

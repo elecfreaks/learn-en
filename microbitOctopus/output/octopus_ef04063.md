@@ -8,7 +8,7 @@ Octopus 5mmLED light Brick can be used in the interaction with the light works w
 
 ## Products Link
 
-[ELECFREAKS Octopus 5mm LED Brick OBLED - Red](https://www.elecfreaks.com/octopus-5mm-led-brick-obled-red.html)
+[ELECFREAKS Octopus 5mm LED Brick OBLED - Red](https://shop.elecfreaks.com/products/elecfreaks-octopus-5mm-led-brick-obled-red?_pos=1&_sid=bd7e72d7d&_ss=r)
 
 ## Characteristics
 
