@@ -10,7 +10,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus ADKeypad](https://www.elecfreaks.com/octopus-adkeypad.html)
+[ELECFREAKS Octopus ADKeypad](https://shop.elecfreaks.com/products/elecfreaks-octopus-adkeypad?_pos=1&_sid=56da45604&_ss=r)
 
 ## Characteristics
 

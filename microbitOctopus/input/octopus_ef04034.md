@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Digital PushButton Brick - Blue](https://www.elecfreaks.com/octopus-digital-pushbutton-brick-obpushbutton-blue.html)
+[ELECFREAKS Octopus Digital PushButton Brick - Blue](https://shop.elecfreaks.com/products/elecfreaks-octopus-digital-pushbutton-brick-blue?_pos=1&_sid=8d0e9e30c&_ss=r)
 
 
 ## Characteristics

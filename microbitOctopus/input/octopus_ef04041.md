@@ -9,7 +9,7 @@ Octopus Analog Rotation Brick is micro:bit compatible and can be rotated up to 3
 
 ## Products Link
 
-[ELECFREAKS Octopus Analog Rotation Brick](https://www.elecfreaks.com/octopus-analog-rotation-brick-obarot.html)
+[ELECFREAKS Octopus Analog Rotation Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-analog-rotation-brick?_pos=1&_sid=ce20b2252&_ss=r)
 
 
 ## Characteristics

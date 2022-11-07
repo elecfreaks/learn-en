@@ -8,7 +8,7 @@ This is Push Lock ESwitch button brick, which detects your press action and it i
 
 ## Products Link
 
-[ELECFREAKS Octopus Push Lock E-Switch](https://www.elecfreaks.com/octopus-push-lock-e-switch-brick-obplock.html)
+[ELECFREAKS Octopus Push Lock E-Switch](https://shop.elecfreaks.com/products/elecfreaks-octopus-push-lock-e-switch?_pos=1&_sid=83cadbba8&_ss=r)
 
 ## Characteristics
 

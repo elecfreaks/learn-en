@@ -8,7 +8,7 @@ OCTOPUS Potentiometer is a simple linear sliding potentiometer electronic buildi
 
 ## Products Link
 
-[ELECFREAKS Octopus Linear Slider Potentiometer Brick](https://www.elecfreaks.com/octopus-linear-slider-potentiometer-brick.html)
+[ELECFREAKS Octopus Linear Slider Potentiometer Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-linear-slider-potentiometer-brick?_pos=1&_sid=0010c6eab&_ss=r)
 
 ## Characteristics
 

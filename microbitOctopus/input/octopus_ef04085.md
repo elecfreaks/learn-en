@@ -6,7 +6,7 @@ Octopus analog rotation brick is a 10K potentiometer module. Rotating the knob t
 
 ## Products Link
 
-[ELECFREAKS Octopus Analog Rotation Brick-Blue](https://www.elecfreaks.com/octopus-analog-rotation-brick-blue.html)
+[ELECFREAKS Octopus Analog Rotation Brick-Blue](https://shop.elecfreaks.com/products/elecfreaks-octopus-analog-rotation-brick-blue?_pos=1&_sid=d76e1f7cf&_ss=r)
 
 ## Characteristics
 
