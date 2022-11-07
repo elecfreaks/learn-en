@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Tilt Sensor](https://www.elecfreaks.com/octopus-tilt-sensor.html)
+[ELECFREAKS Octopus Tilt Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-tilt-sensor?_pos=1&_sid=dd780cd1a&_ss=r)
 
 ## Characteristics
 

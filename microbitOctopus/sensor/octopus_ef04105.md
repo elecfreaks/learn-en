@@ -7,7 +7,7 @@ RFID sensor uses the wireless radio frequency method to read and write to the re
 
 ## Products Link
 
-[ELECFREAKS Octopus RFID](https://www.elecfreaks.com/octopus-rfid.html)
+[ELECFREAKS Octopus RFID](https://shop.elecfreaks.com/products/elecfreaks-octopus-rfid?_pos=1&_sid=392a6f5da&_ss=r)
 
 
 ## Characteristics

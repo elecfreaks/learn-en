@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Real-Time Clock](https://www.elecfreaks.com/octopus-real-time-clock.html)
+[ELECFREAKS Octopus Real-Time Clock](https://shop.elecfreaks.com/products/elecfreaks-octopus-real-time-clock?_pos=1&_sid=a68bda9e8&_ss=r)
 
 
 ## Characteristics

@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Temperature And Humidity Sensor](https://www.elecfreaks.com/octopus-temperature-and-humidity-sensor.html)
+[ELECFREAKS Octopus Temperature And Humidity Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-temperature-and-humidity-sensor?_pos=1&_sid=412071640&_ss=r)
 
 ## Characteristics
 

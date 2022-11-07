@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Light Sensor](https://www.elecfreaks.com/octopus-light-sensor.html)
+[ELECFREAKS Octopus Light Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-light-sensor?_pos=1&_sid=27ca1e4aa&_ss=r)
 
 ## Characteristics
 

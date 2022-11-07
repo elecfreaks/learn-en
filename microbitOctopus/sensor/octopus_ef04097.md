@@ -10,7 +10,7 @@ Adopted the capacitive sensing principle to detect the soil moisture, it perfect
 
 ## Products Link
 
-[ELECFREAKS Octopus Moisture Sensor (Analog Capacitive Soil)](https://www.elecfreaks.com/octopus-analog-capacitive-soil-moisture-sensor.html)
+[ELECFREAKS Octopus Moisture Sensor (Analog Capacitive Soil)](https://shop.elecfreaks.com/products/elecfreaks-octopus-moisture-sensor-analog-capacitive-soil?_pos=1&_sid=cec7f3f9d&_ss=r)
 
 ## Characteristics
 

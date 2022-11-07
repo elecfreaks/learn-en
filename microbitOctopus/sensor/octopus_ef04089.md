@@ -9,7 +9,7 @@ Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V. I
 
 ## Products Link
 
-[ELECFREAKS Octopus Sonar:bit](https://www.elecfreaks.com/sonar-bit-for-micro-bit-ultrasonic-sensor-distance-measuring-3v-5v.html)
+[ELECFREAKS Octopus Sonar:bit](https://shop.elecfreaks.com/products/elecfreaks-octopus-sonar-bit?_pos=1&_sid=1da9648e9&_ss=r)
 
 
 

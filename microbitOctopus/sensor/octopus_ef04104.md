@@ -9,7 +9,7 @@ It is able to play the music.
 
 ## Products Link
 
-[ELECFREAKS Octopus MP3 Player Module](https://www.elecfreaks.com/octopus-mp3-player-module.html)
+[ELECFREAKS Octopus MP3 Player Module](https://shop.elecfreaks.com/products/elecfreaks-octopus-mp3-player-module?_pos=1&_sid=8c77314f9&_ss=r)
 
 ## Specification
 

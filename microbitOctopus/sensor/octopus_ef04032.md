@@ -8,7 +8,7 @@ Photocells are sensors that allow you to detect light. They are small, inexpensi
 
 ## Products Link
 
-[ELECFREAKS Octopus Analog Photocell Brick](https://www.elecfreaks.com/octopus-analog-photocell-brick-obphotocell.html)
+[ELECFREAKS Octopus Analog Photocell Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-analog-photocell-brick?_pos=1&_sid=0eb81c422&_ss=r)
 
 ## Characteristics
 

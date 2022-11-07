@@ -10,7 +10,7 @@ It can measure the total UV intensity of the sunlight; linear signal voltage out
 
 ## Products Link
 
-[ELECFREAKS Octopus Analog UV Sensor (GUVA-S12SD)](https://www.elecfreaks.com/octopus-analog-uv-sensor-guva-s12sd.html)
+[ELECFREAKS Octopus Analog UV Sensor (GUVA-S12SD)](https://shop.elecfreaks.com/products/elecfreaks-octopus-analog-uv-sensor-guva-s12sd?_pos=1&_sid=cae0131c1&_ss=r)
 
 ## Characteristics
 

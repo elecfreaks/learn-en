@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Smoke Sensor MQ-2 Brick](https://www.elecfreaks.com/octopus-smoke-sensor-mq-2-brick-obmq2.html)
+[ELECFREAKS Octopus Smoke Sensor MQ-2 Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-smoke-sensor-mq-2-brick?_pos=1&_sid=8ce915c8a&_ss=r)
 
 
 ## Characteristics 

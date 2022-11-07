@@ -17,7 +17,7 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
 ![](./images/04100_00.jpg)
 ## Products Link
 
-[ELECFREAKS Octopus CO2 Gas Sensor (MG811)](https://www.elecfreaks.com/octopus-mg811-co2-gas-sensor.html)
+[ELECFREAKS Octopus CO2 Gas Sensor (MG811)](https://shop.elecfreaks.com/products/elecfreaks-octopus-co2-gas-sensor-mg811?_pos=1&_sid=e0bdf8a27&_ss=r)
 
 
 ## Characteristic

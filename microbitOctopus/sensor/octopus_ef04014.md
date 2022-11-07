@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Vibration Sensor](https://www.elecfreaks.com/octopus-vibration-sensor.html)
+[ELECFREAKS Octopus Vibration Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-vibration-sensor?_pos=1&_sid=e0d3be877&_ss=r)
 
 ## Characteristics
 

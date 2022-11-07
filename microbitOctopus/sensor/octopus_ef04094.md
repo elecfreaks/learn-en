@@ -14,7 +14,7 @@ It can convert the water volume to analog signal easily and the output value can
 
 ## Products Link
 
-[ELECFREAKS Octopus Water Level Sensor](https://www.elecfreaks.com/octopus-water-level-sensor.html)
+[ELECFREAKS Octopus Water Level Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-water-level-sensor?_pos=1&_sid=e5f961b04&_ss=r)
 
 ## Characteristics 
 

@@ -6,7 +6,7 @@ Octopus Analog Noise Sound Sensor Detection Module  is particularly sensitive to
 
  ## Products Link
 
-[ELECFREAKS Octopus TMP36 Temperature Sensor](https://www.elecfreaks.com/octopus-temperature-sensor-brick-tmp36-analog-for-arduino-micro-bit.html)
+[ELECFREAKS Octopus TMP36 Temperature Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-analog-noise-sensor?_pos=1&_sid=f0d5208e1&_ss=r)
 ![](./images/hP4azP5.png)
 
 ## Products Link

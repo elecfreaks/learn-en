@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Crash Sensor](https://www.elecfreaks.com/octopus-crash-sensor-brick.html)
+[ELECFREAKS Octopus Crash Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-crash-sensor?_pos=1&_sid=60f4b6135&_ss=r)
 
 ## Characteristics
 

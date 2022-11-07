@@ -9,7 +9,7 @@ OCTOPUS Gesture Sensor is PAJ7620U2 that integrates gesture recognition function
 
 ## Products Link
 
-[ELECFREAKS Octopus Gesture Sensor Brick](https://www.elecfreaks.com/octopus-gesture-sensor-brick.html)
+[ELECFREAKS Octopus Gesture Sensor Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-gesture-sensor-brick?_pos=1&_sid=91a0bb066&_ss=r)
 
 
 

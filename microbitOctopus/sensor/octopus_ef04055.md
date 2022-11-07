@@ -8,7 +8,7 @@ OCTOPUS PIR Sensor module is a type of electronic building block based on AM412 
 
 ## Products Link
 
-[ELECFREAKS Octopus PIR Sensor Brick](https://www.elecfreaks.com/octopus-pir-sensor-brick.html)
+[ELECFREAKS Octopus PIR Sensor Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-pir-sensor-brick?_pos=1&_sid=7bab9f050&_ss=r)
 
 ## Characteristics
 

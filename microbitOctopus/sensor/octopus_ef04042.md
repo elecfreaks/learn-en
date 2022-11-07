@@ -9,7 +9,7 @@ This brick uses the DS18B20 1-Wire digital temperature sensor from Maxim IC.
 
 ## Products Link
 
-[ELECFREAKS Octopus DS18B20 Digital Temperature Brick](https://www.elecfreaks.com/octopus-ds18b20-digital-temperature-brick.html)
+[ELECFREAKS Octopus DS18B20 Digital Temperature Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-ds18b20-digital-temperature-brick?_pos=1&_sid=34036b630&_ss=r)
 
 ## Characteristics
 

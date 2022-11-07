@@ -8,7 +8,7 @@ Touch PAD Brick is a sensor module mainly through the capacitive touch TTP223-BA
 
 ## Products Link
 
-[ELECFREAKS Octopus Touch PAD Sensor](https://www.elecfreaks.com/octopus-touch-pad-sensor.html)
+[ELECFREAKS Octopus Touch PAD Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-touch-pad-sensor?_pos=1&_sid=871fae1b5&_ss=r)
 
 ## Characteristics
 

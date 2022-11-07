@@ -10,7 +10,7 @@ Octopus Dust Sensor Detector Module with Sharp GP2Y1010AU0F adopts Sharp optical
 
 ## Products Link
 
-[ELECFREAKS Octopus Dust Sensor (Sharp GP2Y1010AU0F)](https://www.elecfreaks.com/octopus-dust-sensor-detector-module-with-sharp-gp2y1010au0f.html)
+[ELECFREAKS Octopus Dust Sensor (Sharp GP2Y1010AU0F)](https://shop.elecfreaks.com/products/elecfreaks-octopus-dust-sensor-sharp-gp2y1010au0f?_pos=1&_sid=8cb8f5458&_ss=r)
 
 ## Characteristics
 

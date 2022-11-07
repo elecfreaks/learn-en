@@ -8,7 +8,7 @@ This is a Rain/steam sensor from ElecFreaks, the output voltage will increase wh
 
 ## Products Link
 
-[ELECFREAKS Octopus Rain/Steam Sensor](https://www.elecfreaks.com/octopus-rain-steam-sensor.html)
+[ELECFREAKS Octopus Rain/Steam Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-rain-steam-sensor?_pos=17&_sid=1ea9a7685&_ss=r)
 
 ## Characteristics
 

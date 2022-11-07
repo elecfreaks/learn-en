@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Flame Sensor](https://www.elecfreaks.com/octopus-flame-sensor.html)
+[ELECFREAKS Octopus Flame Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-flame-sensor?_pos=1&_sid=30d40fabe&_ss=r)
 
 
 ## Characteristics

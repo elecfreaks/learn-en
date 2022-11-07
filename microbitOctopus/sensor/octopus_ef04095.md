@@ -7,7 +7,7 @@
  ![](./images/04095_0.jpg)
 ## Products Link
 
-[ELECFREAKS Octopus Waterproof Temperature Sensor (DS18B20)](https://www.elecfreaks.com/octopus-waterproof-ds18b20-temperature-sensor.html)
+[ELECFREAKS Octopus Waterproof Temperature Sensor (DS18B20)](https://shop.elecfreaks.com/products/elecfreaks-octopus-waterproof-temperature-sensor-ds18b20?_pos=1&_sid=fe1f005ab&_ss=r)
 
 ## Characteristics
 

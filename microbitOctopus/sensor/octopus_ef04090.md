@@ -8,7 +8,7 @@ PM2.5 Electronic brick is one of the modules in OCTOPUS series to test the PM2.5
 
 ## Products Link
 
-[ELECFREAKS Octopus PM2.5 Module](https://www.elecfreaks.com/octopus-pm2-5-module.html)
+[ELECFREAKS Octopus PM2.5 Module](https://shop.elecfreaks.com/products/elecfreaks-octopus-pm2-5-module?_pos=1&_sid=b36319484&_ss=r)
 
 ## Characteristic
 

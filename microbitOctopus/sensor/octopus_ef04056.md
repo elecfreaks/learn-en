@@ -7,7 +7,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus 0.36'' Segment LED Brick](https://www.elecfreaks.com/octopus-0-36-segment-led-brick.html)
+[ELECFREAKS Octopus 0.36'' Segment LED Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-0-36-segment-led-brick?_pos=1&_sid=cbacd0765&_ss=r)
 
 ## Characteristics 
 

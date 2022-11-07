@@ -9,7 +9,7 @@ Octopus TMP36 Temperature Sensor Brick is a temperature sensor with low voltage 
 
 ## Products Link
 
-[ELECFREAKS Octopus TMP36 Temperature Sensor](https://www.elecfreaks.com/octopus-temperature-sensor-brick-tmp36-analog-for-arduino-micro-bit.html)
+[ELECFREAKS Octopus TMP36 Temperature Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-tmp36-temperature-sensor?_pos=1&_sid=1aa33f307&_ss=r)
 
 
 ## Characteristics

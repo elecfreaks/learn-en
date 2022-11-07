@@ -8,7 +8,7 @@ This is a simple infrared receiver sensor,and mainly receives infrared signal th
 
 ## Products Link
 
-[ELECFREAKS Octopus Infrared Receiver Sensor](https://www.elecfreaks.com/octopus-infrared-receiver-sensor.html)
+[ELECFREAKS Octopus Infrared Receiver Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-infrared-receiver-sensor?_pos=1&_sid=2af060c82&_ss=r)
 
 ## Characteristics 
 

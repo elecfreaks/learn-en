@@ -8,7 +8,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Soil Moisture Sensor](https://www.elecfreaks.com/octopus-soil-moisture-sensor-brick.html)
+[ELECFREAKS Octopus Soil Moisture Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-soil-moisture-sensor?_pos=1&_sid=c9bb26e20&_ss=r)
 
 ## Characteristics
 

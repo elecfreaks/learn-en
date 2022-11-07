@@ -6,7 +6,7 @@ Octopus 2 Channel Tracking Module has integrated two groups of reflective infrar
 
 ## Products Link
 
-[ELECFREAKS Octopus 2 Channel Tracking Module](https://www.elecfreaks.com/octopus-2-channel-tracking-module.html)
+[ELECFREAKS Octopus 2 Channel Tracking Module](https://shop.elecfreaks.com/products/elecfreaks-octopus-2-channel-tracking-module?_pos=1&_sid=236c0a2c7&_ss=r)
 
 
 ## Characteristics

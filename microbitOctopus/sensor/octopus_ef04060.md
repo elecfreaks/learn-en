@@ -8,7 +8,7 @@ The gas sensitive material used in the MQ-3 gas sensor is tin dioxide (SnO2), wh
 
 ## Products Link
 
-[ELECFREAKS Octopus MQ3 Gas Sensor Brick](https://www.elecfreaks.com/octopus-mq3-alcohol-sensor-brick.html)
+[ELECFREAKS Octopus MQ3 Gas Sensor Brick](https://shop.elecfreaks.com/products/elecfreaks-octopus-mq3-gas-sensor-brick?_pos=1&_sid=2303d0c3a&_ss=r)
 
 
 ## Characteristics

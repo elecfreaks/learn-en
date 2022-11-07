@@ -8,7 +8,7 @@ OCTOPUS Magnetic Switch is a simple electric brick module with magnetic control 
 
 ## Products Link
 
-[ELECFREAKS Octopus Magnetic Switch](https://www.elecfreaks.com/octopus-magnetic-switch.html)
+[ELECFREAKS Octopus Magnetic Switch](https://shop.elecfreaks.com/products/elecfreaks-octopus-magnetic-switch?_pos=1&_sid=ebd3a7625&_ss=r)
 
 ## Characteristics
 

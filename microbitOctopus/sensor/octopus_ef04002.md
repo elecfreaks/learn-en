@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS Octopus Hunt Sensor](https://www.elecfreaks.com/octopus-hunt-sensor.html)
+[ELECFREAKS Octopus Hunt Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-hunt-sensor?_pos=1&_sid=14fc25b92&_ss=r)
 
 
 ##  Characteristics

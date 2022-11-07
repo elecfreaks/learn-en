@@ -6,7 +6,7 @@ Octopus BME280 Pressure Sensor is an electric brick integrating temperature sens
 
 ## Products Link
 
-[ELECFREAKS Octopus BME280 Pressure Sensor](https://www.elecfreaks.com/octopus-bme280-pressure-sensor.html)
+[ELECFREAKS Octopus BME280 Pressure Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-bme280-pressure-sensor?_pos=1&_sid=d7c116b40&_ss=r)
 
 
 ## Characteristics

@@ -8,7 +8,7 @@ This is a wind speed sensor with waterproof design. It has a standard connector 
 
 ## Products Link
 
-[ELECFREAKS Octopus Wind Speed Sensor](https://www.elecfreaks.com/octopus-wind-speed-sensor-anemometer-three-aluminium-cups.html)
+[ELECFREAKS Octopus Wind Speed Sensor](https://shop.elecfreaks.com/products/elecfreaks-octopus-wind-speed-sensor?_pos=1&_sid=f32d1da34&_ss=r)
 
 ## Characteristics
 
