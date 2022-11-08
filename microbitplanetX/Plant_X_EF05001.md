@@ -9,7 +9,7 @@ This sensor aims to detect the light intensity in the current environment.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Light Sensor](https://www.elecfreaks.com/planetx-light.html)
+[ELECFREAKS PlanetX Light Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-light-sensor?_pos=1&_sid=ba2be019f&_ss=r)
 
 
 ## Characteristic

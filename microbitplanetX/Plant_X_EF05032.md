@@ -7,7 +7,7 @@ The MQ3 Gas sensor is tin dioxide (SnO2), which has a low conductivity in clean 
 ![](./images/05032_01.png)
 ## Products Link
 
-[ELECFREAKS PlanetX MQ3 Sensor](https://www.elecfreaks.com/planetx-mq3.html)
+[ELECFREAKS PlanetX MQ3 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-mq3-sensor?_pos=1&_sid=c15ac07d8&_ss=r)
 
 
 ## Characteristic

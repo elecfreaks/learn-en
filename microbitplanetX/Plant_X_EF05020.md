@@ -8,7 +8,7 @@ Gesture Sensor is able to recognize 9 gestures including move-up, move-down, mov
 
 ## Products Link
 
-[ELECFREAKS PlanetX Tracking Sensor](https://www.elecfreaks.com/planetx-tracking.html)
+[ELECFREAKS PlanetX Tracking Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-gesture-sensor?_pos=1&_sid=2867ce4c2&_ss=r)
 
 ## Characteristic
 

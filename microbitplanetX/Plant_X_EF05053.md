@@ -8,7 +8,7 @@ The 4-way line following sensor has integrated 4 groups photocell recevier and t
 
 ## Products Link
 
-[ELECFREAKS PlanetX 4 Channel Tracking Sensor](https://www.elecfreaks.com/planetx-4-channel-tracking.html)
+[ELECFREAKS PlanetX 4 Channel Tracking Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-4-channel-tracking-sensor?_pos=1&_sid=b7caa7ad9&_ss=r)
 
 ## Characteristics
 

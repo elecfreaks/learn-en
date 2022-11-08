@@ -8,7 +8,7 @@ It is a clock module which can achieve counting for year, month, day, hour, minu
 
 ## Products Link
 
-[ELECFREAKS PlanetX RTC Sensor](https://www.elecfreaks.com/planetx-rtc.html)
+[ELECFREAKS PlanetX RTC Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-rtc-sensor?_pos=1&_sid=71df22303&_ss=r)
 
 ## Characteristic
 

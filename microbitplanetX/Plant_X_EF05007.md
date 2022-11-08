@@ -8,7 +8,7 @@ Sonar:bit aims to measure the shortly distance.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Ultrasonic Sensor](https://www.elecfreaks.com/planetx-ultrasonic.html)
+[ELECFREAKS PlanetX Ultrasonic Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-ultrasonic-sensor?_pos=1&_sid=c1b3b6d4a&_ss=r)
 
 ## Characteristic
 

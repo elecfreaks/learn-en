@@ -9,7 +9,7 @@
 
 ## Products Link
 
-[ELECFREAKS PlanetX 8x16 Matrix Sensor](https://www.elecfreaks.com/planetx-8x16-matrix.html)
+[ELECFREAKS PlanetX 8x16 Matrix Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-8x16-matrix-sensor?_pos=1&_sid=de592d191&_ss=r)
 
 ## Characteristic
 

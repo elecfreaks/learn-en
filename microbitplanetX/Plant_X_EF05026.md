@@ -8,7 +8,7 @@ It is able to display the numbers and time and so on.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Segment Sensor](https://www.elecfreaks.com/planetx-segment.html)
+[ELECFREAKS PlanetX Segment Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-segment-sensor?_pos=1&_sid=a2dcfb8b5&_ss=r)
 
 ## Characteristic
 

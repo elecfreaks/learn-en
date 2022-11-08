@@ -7,7 +7,7 @@ The higher the CO2 concentration is, the lower the output voltage would be. The 
 ![](./images/05030_01.png)
 ## Products Link
 
-[ELECFREAKS PlanetX CO2 Sensor](https://www.elecfreaks.com/planetx-co2.html)
+[ELECFREAKS PlanetX CO2 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-co2-sensor?_pos=1&_sid=6e55d1e3f&_ss=r)
 
 ## Characteristic
 

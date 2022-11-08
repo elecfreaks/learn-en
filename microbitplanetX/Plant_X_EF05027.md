@@ -9,7 +9,7 @@ The Dust Sensor Detector Module with Sharp GP2Y1010AU0F adopts Sharp optical dus
 
 ## Products Link
 
-[ELECFREAKS PlanetX Dust Sensor](https://www.elecfreaks.com/planetx-dust.html)
+[ELECFREAKS PlanetX Dust Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-dust-sensor?_pos=1&_sid=5b094802e&_ss=r)
 
 ## Characteristic
 

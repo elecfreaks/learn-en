@@ -8,7 +8,7 @@ The two channels Tracking Module has integrated two groups of reflective infrare
 
 ## Products Link
 
-[ELECFREAKS PlanetX PIR Sensor](https://www.elecfreaks.com/planetx-pir.html)
+[ELECFREAKS PlanetX PIR Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-tracking-sensor?_pos=1&_sid=abccc8307&_ss=r)
 
 ## Characteristic
 

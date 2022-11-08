@@ -8,7 +8,7 @@ Soil Moisture Sensor aims to detect the amount of the moisture in its surroundin
 
 ## Products Link
 
-[ELECFREAKS PlanetX Soil Moisture Sensor](https://www.elecfreaks.com/planetx-soil-moisture.html)
+[ELECFREAKS PlanetX Soil Moisture Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-soil-moisture-sensor?_pos=1&_sid=891d8f410&_ss=r)
 
 ## Characteristic
 

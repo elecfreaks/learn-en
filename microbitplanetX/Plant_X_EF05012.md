@@ -8,7 +8,7 @@ Yellow LED is usually used as the indicator.
 
 ## Products Link
 
-[ELECFREAKS PlanetX LED-Yellow](https://www.elecfreaks.com/planetx-led-yellow.html)
+[ELECFREAKS PlanetX LED-Yellow](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-yellow?_pos=1&_sid=03c7379d1&_ss=r)
 
 ## Characteristic
 

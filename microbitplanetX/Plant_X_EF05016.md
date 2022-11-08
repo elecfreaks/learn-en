@@ -8,7 +8,7 @@ It is an OLED display to show the data that you want to print. (Chinese is not s
 
 ## Products Link
 
-[ELECFREAKS PlanetX OLED](https://www.elecfreaks.com/planetx-oled.html)
+[ELECFREAKS PlanetX OLED](https://shop.elecfreaks.com/products/elecfreaks-planetx-oled?_pos=1&_sid=c1b5ab563&_ss=r)
 
 ## Characteristic
 

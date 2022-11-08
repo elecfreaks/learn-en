@@ -8,7 +8,7 @@ Color sensor aims to read the HUE values of the detected objects.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Colour Sensor](https://www.elecfreaks.com/planetx-colour.html)
+[ELECFREAKS PlanetX Colour Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-colour-sensor?_pos=1&_sid=2bf57f6a4&_ss=r)
 
 ## Characteristic
 

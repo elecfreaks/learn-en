@@ -8,7 +8,7 @@ Sound Sensor is particularly sensitive to sound intensity, and it can be used to
 
 ## Products Link
 
-[ELECFREAKS PlanetX Noise Sensor](https://www.elecfreaks.com/planetx-noise.html)
+[ELECFREAKS PlanetX Noise Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-noise-sensor?_pos=1&_sid=bc68b190c&_ss=r)
 
 ## Characteristic
 

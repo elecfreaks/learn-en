@@ -8,7 +8,7 @@ Crash Sensor is a sensor module based on crash components.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Crash Sensor](https://www.elecfreaks.com/planetx-crash.html)
+[ELECFREAKS PlanetX Crash Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-crash-sensor?_pos=1&_sid=38525dd40&_ss=r)
 
 ## Characteristic
 

@@ -8,7 +8,7 @@ PM2.5 module is able to test the PM2.5 concentration in the current environment.
 
 ## Products Link
 
-[ELECFREAKS PlanetX PM2.5 Sensor](https://www.elecfreaks.com/planetx-pm2-5.html)
+[ELECFREAKS PlanetX PM2.5 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-pm2-5-sensor?_pos=1&_sid=58cf47364&_ss=r)
 
 ## Characteristic
 

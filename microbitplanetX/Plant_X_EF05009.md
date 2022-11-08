@@ -9,7 +9,7 @@ Red LED is usually used as the indicator.
 
 ## Products Link
 
-[ELECFREAKS PlanetX LED-Red](https://www.elecfreaks.com/planetx-led-red.html)
+[ELECFREAKS PlanetX LED-Red](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-red?_pos=1&_sid=2afda791a&_ss=r)
 
 ## Characteristic
 

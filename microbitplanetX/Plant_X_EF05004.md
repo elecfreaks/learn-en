@@ -8,7 +8,7 @@ Temperature and humidity sensor is a module based on DHT11 digital temperature a
 
 ## Products Link
 
-[ELECFREAKS PlanetX DHT11 Sensor](https://www.elecfreaks.com/planetx-dht11.html)
+[ELECFREAKS PlanetX DHT11 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-dht11-sensor?_pos=1&_sid=0da168236&_ss=r)
 
 ## Characteristic
 

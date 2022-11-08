@@ -8,7 +8,7 @@ MQ5 Gas sensor has a good sense to liquefied gas, natural gas and coal gas that 
 
 ## Products Link
 
-[ELECFREAKS PlanetX MQ5 Sensor](https://www.elecfreaks.com/planetx-mq5.html)
+[ELECFREAKS PlanetX MQ5 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-mq5-sensor?_pos=1&_sid=71ef73528&_ss=r)
 
 ## Characteristic
 

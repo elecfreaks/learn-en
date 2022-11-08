@@ -9,7 +9,7 @@ The Push button module is able to detect your press action.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Button Sensor](https://www.elecfreaks.com/planetx-button.html)
+[ELECFREAKS PlanetX Button Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-button-sensor?_pos=1&_sid=85e050359&_ss=r)
 
 ## Characteristic
 

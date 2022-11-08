@@ -8,7 +8,7 @@ It is able to play the music.
 
 ## Products Link
 
-[ELECFREAKS PlanetX MP3 Sensor](https://www.elecfreaks.com/planetx-mp3.html)
+[ELECFREAKS PlanetX MP3 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-mp3-sensor?_pos=1&_sid=5e0abcdff&_ss=r)
 
 ## Characteristics
 

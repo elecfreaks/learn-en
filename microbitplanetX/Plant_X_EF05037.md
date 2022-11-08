@@ -1,4 +1,4 @@
-# Case 37: ASR(Automatic Speech Recognition) Module(EF05037)
+# ASR(Automatic Speech Recognition) Module(EF05037)
 
 ## Introduction
 

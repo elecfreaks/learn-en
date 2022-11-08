@@ -1,4 +1,4 @@
-# WIFI Module(EF05043)
+# WIFI Module(EF05036)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Based on ESP8266 module, it is able to connect the micro:bit to the IoT platform
 
 ## Products Link
 
-[ELECFREAKS PlanetX WiFi Sensor](https://www.elecfreaks.com/planetx-wifi.html)
+[ELECFREAKS PlanetX WiFi Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-wifi-sensor?_pos=1&_sid=e68d660bd&_ss=r)
 
 
 ## Characteristics

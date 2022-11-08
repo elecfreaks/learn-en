@@ -8,7 +8,7 @@ The RFID sensor uses radio frequency to read and write the recording media (elec
 
 ## Products Link
 
-[ELECFREAKS PlanetX RFID Sensor](https://www.elecfreaks.com/planetx-rfid.html)
+[ELECFREAKS PlanetX RFID Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-rfid-sensor?_pos=1&_sid=80cdc51fb&_ss=r)
 
 
 ## Characteristic

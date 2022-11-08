@@ -9,11 +9,11 @@ To make the LED strip be able to adjust the color of the lights according to the
 
 ## Products Link
 
-[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
 
-[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+[ELECFREAKS Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=327dd9f18&_ss=r)
 
-[ELECFREAKS PlanetX Rainbow LED Strip (10 Pixels)](https://www.elecfreaks.com/planetx-rainbow-led-strip-10-pixels.html)
+[ELECFREAKS PlanetX Rainbow LED Strip (10 Pixels)](https://shop.elecfreaks.com/products/elecfreaks-planetx-rainbow-led-strip-10-pixels?_pos=12&_sid=d9075f8c6&_ss=r)
 
 ### Materials Required and Connection Diagram
 

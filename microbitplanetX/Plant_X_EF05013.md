@@ -8,7 +8,7 @@ It is made of a laser emission chip, condensing lens and an adjustable sleeve, w
 
 ## Products Link
 
-[ELECFREAKS PlanetX Laser](https://www.elecfreaks.com/planetx-laser.html)
+[ELECFREAKS PlanetX Laser](https://shop.elecfreaks.com/products/elecfreaks-planetx-laser?_pos=1&_sid=5e076bd88&_ss=r)
 
 ## Characteristic
 

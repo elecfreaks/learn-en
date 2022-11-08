@@ -8,7 +8,7 @@ BME280 Pressure Sensor is an electric brick integrating temperature sensor, air 
 
 ## Products Link
 
-[ELECFREAKS PlanetX BME280 Environment Sensor](https://www.elecfreaks.com/elecfreaks-planetx-bme280-environment-sensor.html)
+[ELECFREAKS PlanetX BME280 Environment Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-bme280-environment-sensor?_pos=1&_sid=6994421f6&_ss=r)
 
 
 ## Characteristic

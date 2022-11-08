@@ -9,7 +9,7 @@ Analog Rotation Potentiometer can be rotated up to 300 degrees and the analog re
 
 ## Products Link
 
-[ELECFREAKS PlanetX Trimpot Sensor](https://www.elecfreaks.com/planetx-trimpot.html)
+[ELECFREAKS PlanetX Trimpot Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-trimpot-sensor?_pos=1&_sid=9eec3cf02&_ss=r)
 
 ## Characteristic
 

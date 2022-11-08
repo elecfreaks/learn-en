@@ -8,7 +8,7 @@ It is able to detect the water level with the on-board visible parallel wires.
 
 ## Products Link
 
-[EELECFREAKS PlanetX Water Level Sensor](https://www.elecfreaks.com/planetx-water-level.html)
+[EELECFREAKS PlanetX Water Level Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-water-level-sensor?_pos=1&_sid=8047733ba&_ss=r)
 
 ## Characteristic
 

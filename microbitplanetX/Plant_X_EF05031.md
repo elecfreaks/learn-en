@@ -7,7 +7,7 @@ MQ2 Gas sensor is used in gas leakage detecting equipments in consumer and indus
 ![](./images/05031_01.png)
 ## Products Link
 
-[ELECFREAKS PlanetX MQ2 Sensor](https://www.elecfreaks.com/planetx-mq2.html)
+[ELECFREAKS PlanetX MQ2 Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-mq2-sensor?_pos=1&_sid=04dea9287&_ss=r)
 
 ## Characteristic
 

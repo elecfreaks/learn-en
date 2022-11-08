@@ -8,7 +8,7 @@ It is a simple motor-drived fan module.
 
 ## Products Link
 
-[ELECFREAKS PlanetX Motor Fan](https://www.elecfreaks.com/planetx-motor-fan.html)
+[ELECFREAKS PlanetX Motor Fan](https://shop.elecfreaks.com/products/elecfreaks-planetx-motor-fan?_pos=1&_sid=3b76e654e&_ss=r)
 
 ## Characteristic
 

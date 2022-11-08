@@ -8,7 +8,7 @@ Green LED is usually used as the indicator.
 
 ## Products Link
 
-[ELECFREAKS PlanetX LED - Green](https://www.elecfreaks.com/planetx-led-green.html)
+[ELECFREAKS PlanetX LED - Green](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-green?_pos=1&_sid=c53328751&_ss=r)
 
 ## Characteristic
 

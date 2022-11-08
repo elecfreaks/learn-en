@@ -7,7 +7,7 @@ It is able to measure the total UV intensity of the sunlight.
 ![](./images/05021_01.png)
 ## Products Link
 
-[ELECFREAKS PlanetX UV Sensor](https://www.elecfreaks.com/planetx-uv.html)
+[ELECFREAKS PlanetX UV Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-uv-sensor?_pos=1&_sid=6c1c12d81&_ss=r)
 
 ## Characteristic
 

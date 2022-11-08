@@ -7,7 +7,7 @@ Blue LED is usually used as the indicator.
 ![](./images/05011_01.png)
 ## Products Link
 
-[ELECFREAKS PlanetX LED-Blue](https://www.elecfreaks.com/planetx-led-blue.html)
+[ELECFREAKS PlanetX LED-Blue](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-blue?_pos=1&_sid=a85ba1b7c&_ss=r)
 
 ## Characteristic
 

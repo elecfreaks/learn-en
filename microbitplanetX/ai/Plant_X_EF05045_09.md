@@ -9,11 +9,11 @@ Build a car with the bricks and control it with the AI Lens via the indicators.
 
 ## Products Link
 
-[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
 
-[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+[ELECFREAKS Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=327dd9f18&_ss=r)
 
-[ELECFREAKS High-Speed Building Blocks Motor](https://www.elecfreaks.com/geekservo-motor-2kg-compatible-with-lego.html)
+[ELECFREAKS High-Speed Building Blocks Motor](https://shop.elecfreaks.com/products/elecfreaks-high-speed-building-blocks-motor?_pos=4&_sid=1012c2d84&_ss=r)
 
 
 ### Materials Required and Connection Diagram

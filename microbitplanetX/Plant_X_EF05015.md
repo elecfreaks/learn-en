@@ -8,7 +8,7 @@ Rainbow LED Ring is based on WS2812B bead that can show the RGB.
 
 ## Products Link
 
-[ELECFREAKS PlanetX LED - Rainbow](https://www.elecfreaks.com/planetx-rainbow-led.html)
+[ELECFREAKS PlanetX LED - Rainbow](https://shop.elecfreaks.com/products/elecfreaks-planetx-led-rainbow?_pos=1&_sid=959367863&_ss=r)
 
 ## Characteristic
 

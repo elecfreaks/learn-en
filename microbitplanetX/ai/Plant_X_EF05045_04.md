@@ -8,11 +8,11 @@ To make the AI Lens be able to recognize the face and track it.
 
 ## Products Link
 
-[ELECFREAKS Smart AI Lens Kit](https://www.elecfreaks.com/elecfreaks-smart-ai-lens-kit.html)
+[ELECFREAKS Smart AI Lens Kit](https://shop.elecfreaks.com/products/elecfreaks-smart-ai-lens-kit?_pos=1&_sid=d572dc26c&_ss=r)
 
-[ELECFREAKS Nezha Breakout Board](https://www.elecfreaks.com/nezha-breakout-board.html)
+[ELECFREAKS Nezha Breakout Board](https://shop.elecfreaks.com/products/elecfreaks-nezha-breakout-board?_pos=1&_sid=327dd9f18&_ss=r)
 
-[ELECFREAKS 360 Degrees Building Blocks Servo](https://www.elecfreaks.com/geekservo-2kg-360-degrees-compatible-with-lego.html)
+[ELECFREAKS 360 Degrees Building Blocks Servo](https://shop.elecfreaks.com/products/elecfreaks-360-degrees-building-blocks-servo?_pos=1&_sid=3db386e1d&_ss=r)
 
 ### Materials Required and Connection Diagram
 

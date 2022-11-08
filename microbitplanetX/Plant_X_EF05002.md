@@ -7,7 +7,7 @@ PIR Sensor is a type of electronic building block based on AM412 pyroelectric di
 ![](./images/05002_01.png)
 ## Products Link
 
-[ELECFREAKS PlanetX PIR Sensor](https://www.elecfreaks.com/planetx-pir.html)
+[ELECFREAKS PlanetX PIR Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-pir-sensor?_pos=1&_sid=a0b4ec6ae&_ss=r)
 
 
 ## Characteristic
