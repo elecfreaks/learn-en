@@ -1,14 +1,14 @@
 # Pico:ed V2
 
 ## Introduction
-[Pico:ed V2](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) is an educational development board developed by ELECFREAKS based on Raspberry Pi Pico. [Pico:ed V2](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)  is based on the acclaimed RP2040 microcontroller which is the most popular microcontroller in the world, and we have added the resets button to make it easier for users to operate. [Pico:ed V2](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)  adopts a more rounded shape design: the head is changed to an arc, and the pin edge adopts a wavy beautiful design so that users are less likely to hurt their hands when using it. It is also good to see that there are more choices to the colors of the LED screen which are able to meet the demands for personalization on [Pico:ed V2](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) .
-[Pico:ed V2 ](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) retains two programmable buttons and a firmware burn-in button, a separate power supply, USB connection ports, and an onboard 7 x 17 LED dot matrix screen for additional graphics and text display. [Pico:ed V2](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) uses CircuitPython or C++ programming method, you can learn to program it alone or you can play it with other educational products from our company, such as Ring:bit Car V2, Cutebot Car V3, Starter Kit, and so on! Start your inventive and creative thinking while playing it! 
+[Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) is an educational development board developed by ELECFREAKS based on Raspberry Pi Pico. [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r)  is based on the acclaimed RP2040 microcontroller which is the most popular microcontroller in the world, and we have added the resets button to make it easier for users to operate. [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r)  adopts a more rounded shape design: the head is changed to an arc, and the pin edge adopts a wavy beautiful design so that users are less likely to hurt their hands when using it. It is also good to see that there are more choices to the colors of the LED screen which are able to meet the demands for personalization on [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) .
+[Pico:ed V2 ](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) retains two programmable buttons and a firmware burn-in button, a separate power supply, USB connection ports, and an onboard 7 x 17 LED dot matrix screen for additional graphics and text display. [Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r) uses CircuitPython or C++ programming method, you can learn to program it alone or you can play it with other educational products from our company, such as Ring:bit Car V2, Cutebot Car V3, Starter Kit, and so on! Start your inventive and creative thinking while playing it! 
 
 ![](./images/Pico-ed-V2-01.png)
 
 ## Related Links
 
-Purchase: [ELECFREAKS Pico:ed V2](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+Purchase: [ELECFREAKS Pico:ed V2](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=2a999fcf2&_ss=r)
 
 ## Specifications
 
