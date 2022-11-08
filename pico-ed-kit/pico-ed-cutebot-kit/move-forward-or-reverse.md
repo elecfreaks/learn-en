@@ -1,8 +1,8 @@
 # Case 01: Move Forward or Reverse
 ## Introduction
-Use the A and B buttons on the Pico:ed to control the [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board.html) to complete the basic forward and backward actions.
+Use the A and B buttons on the Pico:ed to control the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) to complete the basic forward and backward actions.
 ## Programming Preparation
-Please refer to: [Preparing the Programming Environment](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+Please refer to: [Preparing the Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
 ###  Sample code :
 
 ```python

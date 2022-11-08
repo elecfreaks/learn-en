@@ -1,7 +1,7 @@
 # Expansion：Rainbow LED Ligth Bar Module
 
 ## Introduction
-[Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car V2 light-bar module is the dedicated module designed for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) Car V2. It brings you mutiple color with simple assemblling methods.
+[Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car V2 light-bar module is the dedicated module designed for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) Car V2. It brings you mutiple color with simple assemblling methods.
 
 It comes with 8 Rainbow full color LEDs. You can update it to a car with auto-headlights and rainbow lights.
 
@@ -21,10 +21,10 @@ Each led can be programmed seperately with RGB color.
 
 | Items | Parameter | Note |
 | --- | --- | --- |
-| Name | [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) Car v2 ligth bar |  |
+| Name | [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) Car v2 ligth bar |  |
 | SKU | EF03425 |  |
 | Working Voltage | DC 3-5V |  |
-| Connections | [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) Car dedicated pin ports | Fixed with scews |
+| Connections | [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) Car dedicated pin ports | Fixed with scews |
 | Output Signal   | Simulation                       |                  |
 | LEDs            | 8 units                          |                  |
 | Size            | 60.8×33.20mm                     |                  |
@@ -40,7 +40,7 @@ Each led can be programmed seperately with RGB color.
 
 ### Hardware Connections
 
-First, insert this module to the baseboard of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car V2,Fix with the screws,Completed.
+First, insert this module to the baseboard of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car V2,Fix with the screws,Completed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h08lXLCV2nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -78,7 +78,7 @@ while True:
 
 ### Details of the Program: 
 
-1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations, the `time` module contains functions for time operations, the `digitalio` module contains classes for basic digital IO access, the `neopixel_write` module contains functions for strip operations, and the `random` module contains functions that can return random numbers
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operations, the `time` module contains functions for time operations, the `digitalio` module contains classes for basic digital IO access, the `neopixel_write` module contains functions for strip operations, and the `random` module contains functions that can return random numbers
 ```python
 import board
 from ringbit import *
@@ -100,7 +100,7 @@ pin.direction = Direction.OUTPUT
 ringbit.set_speed(100, 100)
 ```
 
-4.While true, change the RGB value of each LED in the light bar to detect if the A\B button is pressed to set the speed of the left and right wheels of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car
+4.While true, change the RGB value of each LED in the light bar to detect if the A\B button is pressed to set the speed of the left and right wheels of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car
 ```python
 while True:
     rings = []
@@ -111,7 +111,7 @@ while True:
 ```
 
 ## Result
-The two lights on the bottom of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car as well as the light bar change colour randomly to give a colourful effect; press A to move the car forward at full speed, press B to stop the car.
+The two lights on the bottom of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car as well as the light bar change colour randomly to give a colourful effect; press A to move the car forward at full speed, press B to stop the car.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzSyhNCl7n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -6,7 +6,7 @@ Sonar:bit is a 3-wire ultrasonic module with the working voltage between 3-5V. I
 
 The measurement range of sonar:bit is 4cm-400cm. It can output stable and accurate measurement data with ±1cm tolerance only.
 
-It can connect to the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) with an expansion board.
+It can connect to the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) with an expansion board.
 
 ![](./images/sonar_01.png)
 
@@ -20,7 +20,7 @@ Standard 3-wire GVS connecotr, which occupies 1 IO port only.
 
 | Item | Parameter | Note |
 | --- | --- | --- |
-| Name | [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) Car v2  Sonar:bit |  |
+| Name | [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) Car v2  Sonar:bit |  |
 | SKU | EF04089 |  |
 | Working Voltage | DC 3-5V |  |
 | Connections | 3pin GVS Connection ||
@@ -46,7 +46,7 @@ Connect the Sonar:bit to the other side of the acrylic transition board with riv
 
 ![](./images/sonar_04.png)
 
-Connect the Sonar:bit to the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) breakout board with a 3-pin wire.
+Connect the Sonar:bit to the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) breakout board with a 3-pin wire.
 
 ![](./images/sonar_05.png)
 
@@ -78,7 +78,7 @@ while True:
 ```
 ### Details of the program
 
-1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operations.
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operations.
 ```python
 import board
 from ringbit import *

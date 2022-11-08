@@ -9,9 +9,9 @@ Hello, the police cars are quite cool with the dazzling light colors, sometimes 
 
 ## Hardware Connection
 
-Connect the left wheel servo to P1 of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) expansion board and the right wheel servo to P2.
+Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2.
 
-Connect the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car special expansion board to the P0.
+Connect the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car special expansion board to the P0.
 
 ![](./images/case0401.png)
 
@@ -62,7 +62,7 @@ while True:
 ```
 ### Details of program:
 
-1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation;  `picoed` module contains the operation functions to button A/B; the `time` module contains functions for operating on time, the `digitalio` module contains classes for basic digital IO access, and `neopixel_write` contains functions for operating on light strips.
+1.Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation;  `picoed` module contains the operation functions to button A/B; the `time` module contains functions for operating on time, the `digitalio` module contains classes for basic digital IO access, and `neopixel_write` contains functions for operating on light strips.
 
    ```python
    import board

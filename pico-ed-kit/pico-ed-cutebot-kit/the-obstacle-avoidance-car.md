@@ -1,14 +1,14 @@
 # Case 07: The Obstacle Avoidance Car
 
 ## Introduction
-Make [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board.html) drive forward and turn automatically when it meets an obstacle.
+Make [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) drive forward and turn automatically when it meets an obstacle.
 ## Hardware Installation
 Insert the ultrasonic sensor into the connector of **Sonar**.
 **Note: When you install the ultrasonic sensor, you cannot plug it into the IIC interface. If you plug it into the IIC interface, the Cutebot won't work and the ultrasonic sensor heats up. **
 ![](./images/pico-cutebot-case-07-01.png)
 
 ## Programming Preparation
-Please refer to: [Preparing Programming Environment](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+Please refer to: [Preparing Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
 ## Sample code
 ```python
 from cutebot import *

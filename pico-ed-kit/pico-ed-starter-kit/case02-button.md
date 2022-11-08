@@ -4,16 +4,16 @@
 
 ## Introduction
 
-Momentary pushbutton switches are ubiquitous electronic components used in daily life to connect and disconnect electrical circuits. In the previous lesson, we learned how to use [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to control 2 LED lights to blink alternately. In this lesson, we will use a momentary push button switch to control the blinking of the 2 LED lights. When we press the button, the 2 LED lights will flash alternately; when we release the button, the LED lights will stop flashing.
+Momentary pushbutton switches are ubiquitous electronic components used in daily life to connect and disconnect electrical circuits. In the previous lesson, we learned how to use [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) to control 2 LED lights to blink alternately. In this lesson, we will use a momentary push button switch to control the blinking of the 2 LED lights. When we press the button, the 2 LED lights will flash alternately; when we release the button, the LED lights will stop flashing.
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
 
 
 ## Components List:
 ### Hardware:
-1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+1 × [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)
 
 1 × USB Cable
 

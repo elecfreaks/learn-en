@@ -5,18 +5,18 @@
 
 ## Introduction
 
-The temperature sensor is a kind of sensor that can detect temperature and transfer it into output data. The temperature sensor is the core component of temperature gauges and instruments with multiple categories. In this experiment, we are going to learn the analog temperature sensor–TMP36, and display its data on [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html).
+The temperature sensor is a kind of sensor that can detect temperature and transfer it into output data. The temperature sensor is the core component of temperature gauges and instruments with multiple categories. In this experiment, we are going to learn the analog temperature sensor–TMP36, and display its data on [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r).
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
 
 
 ## Components List
 
 ### Hardware：
 
-1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+1 × [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)
 
 1 × USB Cable
 
@@ -79,7 +79,7 @@ import digitalio
 import analogio
 import picoed
 
-# Set the pins of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)'s temperature sensor
+# Set the pins of the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)'s temperature sensor
 temperature = analogio.AnalogIn(board.P0_A0)
 
 # Display the temperature value detected by the temperature sensor
@@ -99,7 +99,7 @@ import analogio
 import picoed
 ```
 
-2.Set the pins of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) temperature sensor.
+2.Set the pins of the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) temperature sensor.
 ```python
 temperature = analogio.AnalogIn(board.P0_A0)
 ```
@@ -120,7 +120,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3.Use an infinite loop to display the value detected by the temperature sensor to the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)'s LED screen.
+3.Use an infinite loop to display the value detected by the temperature sensor to the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)'s LED screen.
 ```python
 while True:
    voltage = temperature.value * (3300 / 65535)
@@ -128,13 +128,13 @@ while True:
    picoed.display.scroll(temperature_value)
 ```
 ## Results
-The current temperature value is displayed on the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) screen.
+The current temperature value is displayed on the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) screen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1Bdj64QIU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exploration
 
-If we wanted to display the temperature in Fahrenheit on the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) screen, how would we program it?
+If we wanted to display the temperature in Fahrenheit on the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) screen, how would we program it?
 
 ## Common Question
 ## For more information, please visit：

@@ -1,11 +1,11 @@
 # Assembly 
 ## Introduction
 ---
-Hello, now it's time for us to do the assembly. We're going to assemble the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car step by step in this wiki. Let's get started with your nimple hands!
+Hello, now it's time for us to do the assembly. We're going to assemble the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car step by step in this wiki. Let's get started with your nimple hands!
 
-## [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) Car V2 Components List
+## [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) Car V2 Components List
 ---
-First of all, these two pictures below are the parts diagram of [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car, you can first familiarize yourself with the parts style and name, and then check if your kit has all the parts inside.
+First of all, these two pictures below are the parts diagram of [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car, you can first familiarize yourself with the parts style and name, and then check if your kit has all the parts inside.
 
 ![](./images/assembly01.png)
 
@@ -46,7 +46,7 @@ Use the binding post to fix all installed components.
 
 ### Step-5
 
-Use the screw to fix the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) to the micro:bit board.
+Use the screw to fix the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) to the micro:bit board.
 
 ![](./images/assembly08.png)
 
@@ -60,9 +60,9 @@ Note: No matter which connection you use, make sure the yellow line connects wit
 
 ### Completed
 
-Fix the assembled [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) to the front board.
+Fix the assembled [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) to the front board.
 
 ![](./images/assembly10.png)
 
 
-Congratulations, with your great assembly skills and continued hard work, you have finally assembled the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car. In the next lesson, let's experience a new journey together by writing code to drive the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car.
+Congratulations, with your great assembly skills and continued hard work, you have finally assembled the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car. In the next lesson, let's experience a new journey together by writing code to drive the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car.

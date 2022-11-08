@@ -1,10 +1,10 @@
 # Case 04: Turn Signals Automatically
 
 ## Introduction
-Make [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board.html) follow a random route and turn on the turn signal automatically.
+Make [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) follow a random route and turn on the turn signal automatically.
 
 ## Programming Preparation
-Please refer to: [Preparing Programming Environment](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+Please refer to: [Preparing Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
 ## Sample code
 ```python
 from cutebot import *

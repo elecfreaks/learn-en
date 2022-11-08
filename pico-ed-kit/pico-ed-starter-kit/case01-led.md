@@ -5,16 +5,16 @@
 
 ## Introduction
 
-LED lights are an important part of urban construction, such as traffic lights at traffic intersections, billboards in stores, park sign lights, shopping mall corridor lights, etc., and their applications are very extensive. In this lesson, we will use [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to control 2 LED lights to achieve the alternate blinking effect.
+LED lights are an important part of urban construction, such as traffic lights at traffic intersections, billboards in stores, park sign lights, shopping mall corridor lights, etc., and their applications are very extensive. In this lesson, we will use [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) to control 2 LED lights to achieve the alternate blinking effect.
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
 
 ## Components List:
 ### Hardware:
 
-1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+1 × [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)
 
 1 × USB Cable
 
@@ -33,11 +33,11 @@ n x Breadboard jumper wire 65pcs pack
 ## Major Components Introduction
 ### Breadboard Adapter
 
-The breadboard Adapter can extend all pins of  [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) , so that we can create a simple circuit on a breadboard.
+The breadboard Adapter can extend all pins of  [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) , so that we can create a simple circuit on a breadboard.
 
 ![](./images/case0102.png)
 
-This picture shows how [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) Breadboard Adapter is plugged into the breadboard. It is suitable for all kinds of breadboards.
+This picture shows how [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) Breadboard Adapter is plugged into the breadboard. It is suitable for all kinds of breadboards.
 
 ![](./images/case0103.png)
 

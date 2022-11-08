@@ -1,9 +1,9 @@
 # Case 02: Speed Up Gradually
 
 ## Introduction
-Control the [Cutebot](https://www.elecfreaks.com/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board.html) to accelerate evenly until it reaches the maximum speed.
+Control the [Cutebot](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-smart-cutebot-kit-with-pico-ed-board?_pos=2&_sid=40bbc85e4&_ss=r) to accelerate evenly until it reaches the maximum speed.
 ##  Programming Preparation
-Please refer to: [Preparing the Programming Environment](https://www.yuque.com/elecfreaks-learn/picoed/gccnpl)
+Please refer to: [Preparing the Programming Environment](http://www.elecfreaks.com/learn-en/pico-ed-kit/pico-ed-cutebot-kit/preparation-for-the-programming.html)
 ## Sample code
 ```python
 from cutebot import *

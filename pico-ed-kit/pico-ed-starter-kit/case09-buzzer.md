@@ -6,15 +6,15 @@
 
 ## Introduction
 
-Buzzer is an integrated electronic sounder, widely used in computers, printers, copiers, alarms, electronic toys, automotive electronic equipment, telephones, timers and other electronic products as sounding devices. In this lesson, we use the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) to drive the buzzer, making it sound different syllables, like a siren.
+Buzzer is an integrated electronic sounder, widely used in computers, printers, copiers, alarms, electronic toys, automotive electronic equipment, telephones, timers and other electronic products as sounding devices. In this lesson, we use the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) to drive the buzzer, making it sound different syllables, like a siren.
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
 
 ## Components List:
 ### Hardware:
-1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+1 × [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)
 
 1 × USB Cable
 

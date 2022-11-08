@@ -4,19 +4,19 @@
 
 ## Introduction
 
-Photocell is a kind of special resistor based on semiconductor materials. Its electrical conductivity varies with light intensity. Using this feature, photodiodes of different shapes and light-receiving areas are made. The stronger the light, the lower the resistance value, and the light-controlled switch usually uses a photodiode as the core component. Photodiodes are widely used in toys, lamps, cameras, and other industries. In this lesson, we will display different information on [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) depending on the light intensity received by the photodiode.
+Photocell is a kind of special resistor based on semiconductor materials. Its electrical conductivity varies with light intensity. Using this feature, photodiodes of different shapes and light-receiving areas are made. The stronger the light, the lower the resistance value, and the light-controlled switch usually uses a photodiode as the core component. Photodiodes are widely used in toys, lamps, cameras, and other industries. In this lesson, we will display different information on [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) depending on the light intensity received by the photodiode.
 
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
 
 
 ## Components List:
 
 ### Hardware:
 
-1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+1 × [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)
 
 1 × USB Cable
 
@@ -104,7 +104,7 @@ while True:
 ```
 ## Result
 
-Turn on the light, the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) LED screen shows "Bright", and when the light is turned off, the screen shows "Dark".
+Turn on the light, the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) LED screen shows "Bright", and when the light is turned off, the screen shows "Dark".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Jx6ZFixSBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -5,11 +5,11 @@
 ## Introduction
 ---
 
-Hi, after the learn of the first lesson, I am sure you understand the programming for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car in a quite simple way, let's move on by making the car run along with a shape. 
+Hi, after the learn of the first lesson, I am sure you understand the programming for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car in a quite simple way, let's move on by making the car run along with a shape. 
 
 ## Hardware Connection
 
-Just as what we do in the first lesson, connect the left wheel servo to P1 of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) expansion board and the right wheel servo to P2.
+Just as what we do in the first lesson, connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2.
 
 ![](./images/case.png)
 
@@ -30,7 +30,7 @@ from time import *
 # Set the pins of the servos
 ringbit = Ringbit(board.P2, board.P1)
 
-# While true, set the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car run along with a square-like routine
+# While true, set the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car run along with a square-like routine
 while True:
     ringbit.set_speed(-100, -100)
     sleep(1.5)
@@ -39,7 +39,7 @@ while True:
 ```
 ### Details of program:
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation;  `picoed` module contains the operation functions to button A/B and `time` module contains the operation functions to time. 
+1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation;  `picoed` module contains the operation functions to button A/B and `time` module contains the operation functions to time. 
 
    ```python
    import board
@@ -54,7 +54,7 @@ while True:
    ringbit = Ringbit(board.P2, board.P1)
    ```
 
-3. Set the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car run along with a square-like routine.
+3. Set the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car run along with a square-like routine.
 
    ```python
    while True:
@@ -73,7 +73,7 @@ The car runs along with a square-like routine.
 
 ## Exploration
 
-If we want the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car to travel with a square pentagon routine, how can we program it?
+If we want the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to travel with a square pentagon routine, how can we program it?
 
 ## FAQ
 

@@ -5,19 +5,19 @@
 
 ## Introduction
 
-Trimpot is an adjustable electronic component. It consists of a resistive body and a rotating or sliding system. When a voltage is applied between the two fixed contacts of the resistor body, the position of the contacts on the resistor body is changed by a rotating or sliding system, and a position corresponding to the moving contact can be obtained between the moving contact and the fixed contact voltage in a certain relationship. It is mostly used as a voltage divider, where the Trimpot is a four-terminal element. In the following lessons, we are going to read the output voltage on the Trimpotr and display it on the LED screen of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) 7*17 with a wavy line.
+Trimpot is an adjustable electronic component. It consists of a resistive body and a rotating or sliding system. When a voltage is applied between the two fixed contacts of the resistor body, the position of the contacts on the resistor body is changed by a rotating or sliding system, and a position corresponding to the moving contact can be obtained between the moving contact and the fixed contact voltage in a certain relationship. It is mostly used as a voltage divider, where the Trimpot is a four-terminal element. In the following lessons, we are going to read the output voltage on the Trimpotr and display it on the LED screen of the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) 7*17 with a wavy line.
 
 
 
 ## Products Link
 
-[ELECFREAKS Pico:ed Starter Kit](https://www.elecfreaks.com/elecfreaks-pico-ed-starter-kit.html) 
+[ELECFREAKS Pico:ed Starter Kit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-starter-kit-with-pico-ed-board?_pos=3&_sid=e7433427a&_ss=r) 
 
 
 ## Components List
 
 ### Hardware:
-1 × [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html)
+1 × [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r)
 
 1 × USB Cable
 
@@ -115,7 +115,7 @@ object <module 'board'> is of type module
   ...
 ```
 
-3.Initialize the data list and store the value of the Trimpot to set the brightness of the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) screen LED according to the value from the data list.
+3.Initialize the data list and store the value of the Trimpot to set the brightness of the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) screen LED according to the value from the data list.
 ```python
 data = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 for i in range(picoed.display.width):
@@ -123,7 +123,7 @@ for i in range(picoed.display.width):
     
 ```
 
-4.The loop converts the value of the Trimpot to the Y coordinate of the LED in the 17th column of the LED screen on the [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html), and scrolls to the left in turn.
+4.The loop converts the value of the Trimpot to the Y coordinate of the LED in the 17th column of the LED screen on the [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r), and scrolls to the left in turn.
 ```python
 while True:
     data[16] = int(poten.value / 7000)
@@ -136,7 +136,7 @@ while True:
         time.sleep(0.01)
 ```
 ## Experimental results
-Turn the Trimpot, and the voltage value will be displayed on the 7*17 LED screen of [Pico:ed](https://www.elecfreaks.com/elecfreaks-pico-ed-v2.html) in the form of a wavy line.
+Turn the Trimpot, and the voltage value will be displayed on the 7*17 LED screen of [Pico:ed](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-v2?_pos=2&_sid=e7433427a&_ss=r) in the form of a wavy line.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SvQEmOVG6_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

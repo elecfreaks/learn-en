@@ -4,11 +4,11 @@
 
 ## Introduction
 
-Hello, we are going to code to drive the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car to do some interesting projects in this lesson, of course we will explain the knowledge from easy to deep, this lesson will implement the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) car to complete the basic forward and backward actions, let's start. 
+Hello, we are going to code to drive the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to do some interesting projects in this lesson, of course we will explain the knowledge from easy to deep, this lesson will implement the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) car to complete the basic forward and backward actions, let's start. 
 
 ## Hardware Connect
 
-Connect the left wheel servo to P1 of the [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) expansion board and the right wheel servo to P2. You can also exchange the connections as long as you program with the equivlent connections in MakeCode, let's move on! 
+Connect the left wheel servo to P1 of the [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) expansion board and the right wheel servo to P2. You can also exchange the connections as long as you program with the equivlent connections in MakeCode, let's move on! 
 
 ![](./images/case.png)
 
@@ -38,7 +38,7 @@ while True:
 
 ### Details of program:
 
-1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://www.elecfreaks.com/elecfreaks-micro-bit-ring-bit-v2-car-kit-without-micro-bit-board.html) smart car operation and `picoed` module contains the operation functions to button A/B. 
+1. Import the modules that we need. `board` is the common container, and you can connect the pins you'd like to use through it; `ringbit` module contains classes and functions for [Ring:bit](https://shop.elecfreaks.com/products/elecfreaks-pico-ed-ring-bit-v2-car-kit-with-pico-ed-board?_pos=2&_sid=18032a345&_ss=r) smart car operation and `picoed` module contains the operation functions to button A/B. 
 
    ```python
    import board
