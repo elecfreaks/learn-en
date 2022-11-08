@@ -1,12 +1,12 @@
 # Case 01: Rubber Bands Launcher
 ## Purpose
 ---
-Make a rubber bands launcher through  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html).
+Make a rubber bands launcher through  [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r).
 ![](./images/neza-a-case-01-01.png)
 
 ## Purchase Link
 ---
-  [NezhaA Inventor's Kit](https://www.elecfreaks.com/elecfreaks-nezha-a-inventor-s-kit-for-arduino.html)
+  [NezhaA Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-arduino-36-in-1-nezha-a-inventors-kit?_pos=2&_sid=e1dfa3343&_ss=r)
 
 ## Materials Required
 ---
