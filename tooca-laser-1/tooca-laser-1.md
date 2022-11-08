@@ -8,7 +8,7 @@ The TOOCA Laser 1 with groundbreaking technologies, is capable of carving metal 
 
 ## Purchase Link
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA laser 1](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1?_pos=1&_sid=d04f6dda2&_ss=r)
 
 ## Product parameters
 

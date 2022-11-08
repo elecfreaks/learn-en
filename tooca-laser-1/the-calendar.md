@@ -7,7 +7,7 @@ The creative combination of calendar and pen holder is not only practical but al
 
 ## Materials Required
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA laser 1](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1?_pos=1&_sid=d04f6dda2&_ss=r)
 
 3mm Plywood
 

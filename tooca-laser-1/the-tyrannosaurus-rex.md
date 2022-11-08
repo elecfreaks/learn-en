@@ -8,7 +8,7 @@ The tyrannosaurus rex, or Rex Tyrannosaurus, survived in the Maastrichtian (MAA)
 
 ## Materials Requested
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA laser 1](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1?_pos=1&_sid=d04f6dda2&_ss=r)
 
 3mm Plywood
 

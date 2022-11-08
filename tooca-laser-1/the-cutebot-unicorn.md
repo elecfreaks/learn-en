@@ -8,9 +8,9 @@ The unicorn appears in large numbers in June to August, with a tendency to light
 
 ## Materials Requested
 
-[TOOCA laser 1](https://www.elecfreaks.com/elecfreaks-tooca-laser-1.html)
+[TOOCA laser 1](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1?_pos=1&_sid=d04f6dda2&_ss=r)
 
-[Smart Cutebot Kit](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)
+[Smart Cutebot Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-smart-cutebot-kit-without-micro-bit-board?_pos=1&_sid=8389714e8&_ss=r)
 
 3mm Plywood
 
