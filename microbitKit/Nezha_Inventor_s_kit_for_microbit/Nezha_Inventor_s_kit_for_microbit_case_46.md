@@ -118,3 +118,4 @@ You may also download it directly:
 
 By detecting the distance between the ultrasonic sensor and the baffle, the buzzer is controlled to emit different tones.
 
+![](./images/46_2.gif)
