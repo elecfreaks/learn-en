@@ -13,6 +13,8 @@ The CO2 probe is made with industrial grade which is high allergic to CO2 and an
  The module belongs to electrochemistry CO2 and the probe heats itself when working, please do not touch in case of getting hurt.
  Please make a seal preservation while the sensor is not in use in case of the probe getting “poisoned” due to the long time exposure in the air or you have to heating continuously another 48 hours to activate it!
  The MG-811 probe belongs to the category of electrochemistry sensor, please make a proving operation for it before using to get an accurate value.
+ 
+ ***CO2 sensors need to be connected using an expansion board with an independent power supply interface: iot:bit with an independent USB power supply is recommended***
 
 ![](./images/04100_00.jpg)
 ## Products Link
