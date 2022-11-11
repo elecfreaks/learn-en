@@ -125,3 +125,4 @@ After powering on the device, the arm will be put on the floor. Flap your hands 
 While pressing button C on the PlanetX button module, the robot car stops moving and the robot arm starts grasping the goods and lifting them up.
 Touching the micro:bit logo to reverse the robot car and press button D to put the goods down.
 
+![](./images/45_2.gif)
