@@ -3,7 +3,7 @@
 ## Introduction
 Build a walking robot with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
 
-![](./images/neza-inventor-s-kit-case-48-01.png)
+![](./images/48_1.png)
 
 
 ## Quick to Start
@@ -126,3 +126,4 @@ You may also download it directly:
 
 After pressing button A, the robot moves forward. After pressing button B, the robot stops moving.
 
+![](./images/48_2.gif)
