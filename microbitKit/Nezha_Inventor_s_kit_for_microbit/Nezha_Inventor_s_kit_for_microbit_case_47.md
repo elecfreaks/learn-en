@@ -3,7 +3,7 @@
 ## Introduction
 Build a wiper with the [Nezha Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r).
 
-![](./images/neza-inventor-s-kit-case-47-01.png)
+![](./images/47_1.png)
 
 
 ## Quick to Start
@@ -93,3 +93,4 @@ You may also download it directly:
 
 When the microbit is powered on, it displays a heart pattern. When button A is pressed, the wiper starts to driving. When button A is pressed again, the wiper accelerates the movement. When button B is pressed, the wiper slows down.
 
+![](./images/47_2.gif)
