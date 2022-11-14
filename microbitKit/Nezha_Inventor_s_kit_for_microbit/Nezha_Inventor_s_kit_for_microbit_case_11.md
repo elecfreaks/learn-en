@@ -73,7 +73,7 @@ Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha exp
 
 ![](./images/case_step_11_21.png)
 
-![](./images/case_step_11_22.png)
+
 
 
 ## MakeCode Programming
