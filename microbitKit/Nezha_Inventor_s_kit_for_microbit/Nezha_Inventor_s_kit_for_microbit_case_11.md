@@ -26,7 +26,7 @@ RJ11 wires × 1
 Connect the line-tracking sensor to J1, the two motors to M1&M4 on the Nezha expansion board as the picture shows.
 
 
-
+![](./images/case11-04.png)
 
 
 ### Assembly Steps
