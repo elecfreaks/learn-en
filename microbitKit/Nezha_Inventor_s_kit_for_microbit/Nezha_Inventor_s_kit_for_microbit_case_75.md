@@ -14,7 +14,7 @@ micro:bit V2 × 1
 
 Servos × 1
 
-UV sensor × 1
+[UV sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-uv-sensor?_pos=1&_sid=7c7ab57bf&_ss=r) × 1
 
 Motors × 2
 
