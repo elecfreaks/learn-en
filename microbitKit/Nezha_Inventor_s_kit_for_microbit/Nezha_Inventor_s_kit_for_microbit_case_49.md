@@ -91,3 +91,5 @@ You may also download it directly:
 ### Result
 
 After powering on the NEZHA expansion board,  if the PIR sensor detects the arrival of someone, the railing will be raised automatically and it will drop after a while. 
+
+![](./images/49_2.gif)
