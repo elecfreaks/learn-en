@@ -14,7 +14,7 @@ micro:bit V2 × 1
 
 Servos × 2
 
-RFID Sensor × 1
+[RFID Sensor](https://shop.elecfreaks.com/products/elecfreaks-planetx-rfid-sensor?_pos=2&_sid=4f2781d8b&_ss=r) × 1
 
 Motors × 2
 
