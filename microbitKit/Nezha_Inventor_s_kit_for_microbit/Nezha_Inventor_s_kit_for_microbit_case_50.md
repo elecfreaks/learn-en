@@ -5,9 +5,7 @@
 Make a small trash can with [Nezha-A Inventor's Kit](https://shop.elecfreaks.com/products/elecfreaks-micro-bit-nezha-48-in-1-inventors-kit-without-micro-bit-board?_pos=2&_sid=ed1b6fbd2&_ss=r). 
 
 
-![](./images/neza-inventor-s-kit-case-50-01.png)
-
-
+![](./images/50_1.png)
 
 ## Quick to Start
 
@@ -101,3 +99,4 @@ You may download it directly below:
 
 Press button A to open the lid of the trash can; press button B to close it. 
 
+![](./images/50_2.gif)
