@@ -102,11 +102,11 @@ Write `write api key` into `set data` and snap the randow number block to the fi
 
 #### Program
 
-program link：[https://makecode.microbit.org/_0MqJdw99D2hV](https://makecode.microbit.org/_0MqJdw99D2hV)
+program link：[https://makecode.microbit.org/_Ys5AzqE1uEC0](https://makecode.microbit.org/_Ys5AzqE1uEC0)
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
-<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_0MqJdw99D2hV" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
+<div style="position:relative;height:0;paddingbottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Ys5AzqE1uEC0" frameborder="0" sandbox="allowpopups allowforms allowscripts allowsameorigin"></iframe></div>  
 
 
 #### Result
