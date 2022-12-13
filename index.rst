@@ -11,7 +11,6 @@ Welcome to ELECFREAKS WIKI
    :caption:  Go To Store
 
    Go To Store <https://shop.elecfreaks.com/>
-   Go To AMAZON Store (US)  <https://www.amazon.com/efelecfreaks>
    Go To Homepage <https://www.elecfreaks.com>
    中文资料 <https://www.elecfreaks.com/learn-cn>
    
