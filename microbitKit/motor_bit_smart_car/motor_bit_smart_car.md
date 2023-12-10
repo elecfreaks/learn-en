@@ -58,7 +58,7 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ## Documents  
 
- [Motor:bit Introduction](./motor_bit/](https://www.elecfreaks.com/learn-en/microbitKit/motor_bit_smart_car/index.html) 
+ [Motor:bit Introduction](https://www.elecfreaks.com/learn-en/microbitKit/motor_bit_smart_car/index.html) 
  [Case 01 Fixed Parking](https://www.elecfreaks.com/learn-en/microbitKit/motor_bit_smart_car/motor_bit_smart_car_case_01.html)
  [Case 02 Keep Distance](https://www.elecfreaks.com/learn-en/microbitKit/motor_bit_smart_car/motor_bit_smart_car_case_02.html)
  [Case 03 Line Tracking](https://www.elecfreaks.com/learn-en/microbitKit/motor_bit_smart_car/motor_bit_smart_car_case_03.html) 
