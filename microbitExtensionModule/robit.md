@@ -623,7 +623,7 @@ Convert the square wave input into sound signal output via the resonantor.
 
 #### Introduction
 
-- In the chapter of [Ultrasonic Obstacle Avoidance](/Robit_Case_02/), we have realized to detecting abstocles with ultrasonic module. In this chapter, we are going to use ultrasonic module and buzzer to make mBot car realize reversing alarm function. 
+- In the chapter of Ultrasonic Obstacle Avoidance, we have realized to detecting abstocles with ultrasonic module. In this chapter, we are going to use ultrasonic module and buzzer to make mBot car realize reversing alarm function. 
 
 
 ### Assembly
