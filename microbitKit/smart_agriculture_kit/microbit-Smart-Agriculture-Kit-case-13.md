@@ -14,7 +14,7 @@ To build a smart farm with the Smart Agriculture Kit and the Carton models.
 - Temperature and Humidity Detection: Detect and display the value of the temperature and humidity in the farm. 
     Reference: [Temp.&Humidity Monitoring in the Greenhouse](https://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-02.html)
 - Fish ponds detection: Monitor the water level and display the water temperature. 
-    Reference: [Water Level Monitoring in Fish Ponds](https://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-10.html) 、[Water Temperature Detection](hhttps://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-05.html)
+    Reference: [Water Level Monitoring in Fish Ponds](https://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-10.html) 、[Water Temperature Detection](https://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-05.html)
 - Farmland protection device: Protect the farmlands from people to get in, set to flash the lights when people get close for warning. 
     Reference: [Farmlands Protection Device](https://www.elecfreaks.com/learn-en/microbitKit/smart_agriculture_kit/microbit-Smart-Agriculture-Kit-case-04.html)
 
