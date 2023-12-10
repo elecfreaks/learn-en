@@ -120,7 +120,7 @@ Click once to power on.
 
 ### Software Programming
 
-[MicroSoft makecode online programming: makecode.microbit.org] (https://www.elecfreaks.com/learn-en/microbitExtensionModule/makecode.microbit.org)
+[MicroSoft makecode online programming](https://www.elecfreaks.com/learn-en/microbitExtensionModule/makecode.microbit.org)
 
 
 
