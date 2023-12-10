@@ -13,7 +13,7 @@
 
 - [Micro:bit](http://microbit.org/) is a small coding computer which was given by the BBC. It is specially designed for adolescent programming education and to male programming more easy and interesting.
 
-- [ELECFREAKS Ring:bit car 2](https://www.elecfreaks.com/) is a small DIY smart car driven by the BBC micro:bit and the ELECFREAKS Ring:bit. The Ring:bit extends the micro:bit's 3 GPIO ports and allow for different sensors and components to be easily attached to the micro:bit. A basic Ring:bit Car can be easily programmed to run autonomously, with a remote control, and even create rainbow beacons of light. Just add one of the many extensions available and your Ring:bit Car can do even more things like line and light following, obstacle avoiding, drawing and more!
+- [ELECFREAKS Ring:bit car 2](https://www.elecfreaks.com/](https://www.elecfreaks.com/ring-bit-car-v2-for-micro-bit.html) is a small DIY smart car driven by the BBC micro:bit and the ELECFREAKS Ring:bit. The Ring:bit extends the micro:bit's 3 GPIO ports and allow for different sensors and components to be easily attached to the micro:bit. A basic Ring:bit Car can be easily programmed to run autonomously, with a remote control, and even create rainbow beacons of light. Just add one of the many extensions available and your Ring:bit Car can do even more things like line and light following, obstacle avoiding, drawing and more!
 
 - Wireless Technology Wireless technology sends message by radio wave because changes of electricity will generate waves. We can use this to load the message to the wave. Variation of electromagnetic field will generate the electricity when the electromagnetic is arrving the receiver. Then, to extract the message from wave by demodulation to send the message.
 
