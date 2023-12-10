@@ -47,7 +47,7 @@
 
 ### Step 2 ###
 
-- It is difficult to calculate the control of the gyroscope, please refer more details by the link：[Accelerometry](ring_bit_car_v2_accelerometer_arithmetic.md)
+- It is difficult to calculate the control of the gyroscope, please refer more details by the link：[Accelerometry](ring_bit_car_v2_accelerometer_arithmetic.html)
 
 - If you don't want to type these code by yourself, you can directly download the whole program from the link below:
 
