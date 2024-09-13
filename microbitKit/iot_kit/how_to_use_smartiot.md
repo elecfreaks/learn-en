@@ -91,7 +91,7 @@
 
 ![](./images/smartiot_14.jpg)
 
-Connect to Kids'IoT platform, User Token(Currently miswritting as ID) is the only indentification code for the account which can not be revised. 
+Connect to Smart'IoT platform, User Token(Currently miswritting as ID) is the only indentification code for the account which can not be revised. 
 
 ![](./images/smartiot_15.jpg)
 
