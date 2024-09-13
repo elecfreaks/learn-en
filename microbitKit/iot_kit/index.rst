@@ -15,7 +15,7 @@ Smart Science IoT Kit(EF08203/EF08204)
     how_to_use_thinkspeak.md
     how_to_use_IFTTT.md
     excel_and_microbit.md
-    how_to_use_kidsiot.md
+    how_to_use_smartiot.md
     IOT_MQTT.md
     IOT_bit_case01.md
     IOT_bit_case02.md
